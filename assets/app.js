@@ -1,5 +1,5 @@
 'use strict';
-/* Tech_Epoch feed app: render, filter, search, share modal, Instagram story-card generator. */
+/* TechEpoch feed app: render, filter, search, share modal, Instagram story-card generator. */
 
 const CATEGORIES = ['All', 'AI', 'Robotics', 'Machine Learning', 'Research', 'Tech'];
 const state = { items: [], updatedAt: null, filter: 'All', query: '' };
@@ -176,13 +176,13 @@ function drawCard(it) {
   ctx.fillRect(80, H - 220, W - 160, 2);
   ctx.fillStyle = '#9aa1b8';
   ctx.font = '400 28px system-ui, -apple-system, sans-serif';
-  ctx.fillText('Shared via Tech_Epoch', 80, H - 150);
+  ctx.fillText('Shared via TechEpoch', 80, H - 150);
 
   return cv;
 }
 
 function buildCaption(it) {
-  return `${it.title}\n\nvia Tech_Epoch — Every epoch of tech, daily.\n${it.url}\n\n#AI #MachineLearning #Robotics #TechNews #Tech_Epoch`;
+  return `${it.title}\n\nvia TechEpoch — Every epoch of tech, daily.\n${it.url}\n\n#AI #MachineLearning #Robotics #TechNews #TechEpoch`;
 }
 
 function downloadCard() {
