@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How it works — Tech_Epoch</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230b1026'/><text x='50' y='68' font-size='52' text-anchor='middle' fill='%237c5cff' font-family='monospace' font-weight='bold'>E</text></svg>">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">
+      <span class="logo">E</span>
+      <div>
+        <h1>Tech_Epoch</h1>
+        <p class="tagline">Every epoch of tech, daily.</p>
+      </div>
+    </div>
+    <nav><a href="index.html">← Feed</a></nav>
+  </div>
+</header>
+
+<main class="wrap article">
+  <h2>How Tech_Epoch works</h2>
+  <p>Tech_Epoch is an automated tech news feed. Four times a day, a pipeline collects stories from public, keyless sources, ranks them, and publishes this page. No editors, no accounts, no tracking.</p>
+
+  <h3>Sources</h3>
+  <ul>
+    <li><strong>Hacker News</strong> — front page plus targeted AI/robotics searches (via the Algolia API)</li>
+    <li><strong>arXiv</strong> — newest papers in cs.AI, cs.LG, cs.CL, cs.RO, cs.CV</li>
+    <li><strong>Reddit</strong> — r/MachineLearning, r/artificial, r/technology, r/robotics</li>
+    <li><strong>RSS</strong> — Google AI Blog, MIT Technology Review, Ars Technica</li>
+  </ul>
+
+  <h3>Ranking</h3>
+  <p>Every story is classified into <em>AI</em>, <em>Robotics</em>, <em>Machine Learning</em>, <em>Research</em> or <em>Tech</em>. AI, Robotics and ML stories are deliberately boosted above general tech, then ranked by keyword relevance, community signal (e.g. HN points) and recency. Duplicates across sources are merged.</p>
+
+  <h3>Sharing</h3>
+  <p>Every story has a share button: one tap posts to <strong>LinkedIn, X, Facebook, WhatsApp or Telegram</strong>. For <strong>Instagram</strong>, the site generates a 1080×1920 story card in your browser with a pre-written caption — download it, share to your story, paste the caption. Instagram offers no web posting API, so this is the same flow every sharing tool uses.</p>
+
+  <h3>Fair use</h3>
+  <p>We publish headlines, short summaries and links only — full articles live with their publishers. If you run one of these sources and want out, open an issue on the repo.</p>
+
+  <p><a href="https://github.com/k1sh0r3/Tech_Epoch">GitHub repo</a> · Built with zero-cost tooling: GitHub Actions + Pages.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap"><p class="dim">Tech_Epoch — Every epoch of tech, daily.</p></div>
+</footer>
+</body>
+</html>
