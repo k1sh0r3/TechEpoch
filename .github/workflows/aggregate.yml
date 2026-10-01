@@ -1,0 +1,26 @@
+name: Aggregate tech news
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 4x daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/aggregate.js
+      - name: Commit feed if changed
+        run: |
+          git config user.name "tech-epoch-bot"
+          git config user.email "tech-epoch-bot@users.noreply.github.com"
+          git add data/feed.json
+          git diff --cached --quiet || git commit -m "Update feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
