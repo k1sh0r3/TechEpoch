@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 /*
- * Tech_Epoch aggregator — fetches tech news from keyless sources, classifies,
+ * TechEpoch aggregator — fetches tech news from keyless sources, classifies,
  * scores (AI/ML/Robotics prioritized), dedupes, and writes data/feed.json.
  * Zero npm dependencies. Be polite: sequential requests, delays, timeouts,
  * per-source isolation so one failure never kills the run.
@@ -13,7 +13,7 @@ const https = require('https');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_FILE = path.join(ROOT, 'data', 'feed.json');
-const UA = 'Tech_Epoch/1.0 (tech news aggregator; github.com/k1sh0r3/Tech_Epoch)';
+const UA = 'TechEpoch/1.0 (tech news aggregator; github.com/k1sh0r3/TechEpoch)';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
