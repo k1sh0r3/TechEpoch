@@ -1,8 +1,8 @@
-# Tech_Epoch
+# TechEpoch
 
 **Every epoch of tech, daily.**
 
-🌐 **Live site:** https://k1sh0r3.github.io/Tech_Epoch/
+🌐 **Live site:** https://k1sh0r3.github.io/TechEpoch/
 
 A tech news feed with ranking priority on **AI, Machine Learning and Robotics**. A scheduled pipeline collects stories from public keyless sources four times a day, classifies and ranks them, and publishes a static feed.
 
