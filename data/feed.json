@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-01T18:47:04.584Z",
+  "updatedAt": "2026-10-02T04:46:46.741Z",
   "totalItems": 120,
   "categories": {
-    "AI": 25,
-    "Robotics": 12,
+    "AI": 26,
+    "Robotics": 13,
+    "Research": 60,
     "Machine Learning": 2,
-    "Research": 30,
-    "Tech": 51
+    "Tech": 19
   },
   "items": [
     {
@@ -20,14 +20,14 @@
       "score": 55.319
     },
     {
-      "id": "gpt-synopsys-frontier-intelligence-to-revolutionize-chip-des-61hfki",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "id": "aweb-communication-for-ai-agents-7pr1gr",
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T10:21:36Z",
+      "publishedAt": "2026-10-01T22:02:31Z",
       "summary": "",
       "category": "AI",
-      "score": 51.868
+      "score": 51.444
     },
     {
       "id": "gemini-4-argon-cbqn8i",
@@ -38,6 +38,26 @@
       "summary": "",
       "category": "AI",
       "score": 51.191
+    },
+    {
+      "id": "gpt-synopsys-frontier-intelligence-to-revolutionize-chip-des-61hfki",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-01T10:21:36Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.696
+    },
+    {
+      "id": "can-good-design-stop-content-creators-from-having-sex-in-rob-p81y4z",
+      "title": "Can good design stop content creators from having sex in robotaxis?",
+      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-01T19:19:42.000Z",
+      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+      "category": "Robotics",
+      "score": 49.57
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -67,7 +87,7 @@
       "publishedAt": "2026-09-30T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s ",
       "category": "AI",
-      "score": 47.227
+      "score": 46.433
     },
     {
       "id": "we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-tcpa0w",
@@ -77,7 +97,7 @@
       "publishedAt": "2026-09-30T10:40:30.000Z",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
       "category": "AI",
-      "score": 47.098
+      "score": 46.328
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -107,7 +127,7 @@
       "publishedAt": "2026-09-28T17:03:16.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
       "category": "AI",
-      "score": 44.722
+      "score": 44.398
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -380,14 +400,314 @@
       "score": 43.301
     },
     {
-      "id": "clef-open-source-decision-models-and-new-rl-fine-tuning-plat-f8oi2g",
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "id": "moore-escher-penrose-a-conformal-golden-braid-mn5zrd",
+      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+      "url": "http://arxiv.org/abs/2610.02210v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:59.000Z",
+      "summary": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am ",
+      "category": "Research",
+      "score": 42.391
+    },
+    {
+      "id": "sphere-encoder-2-c84kth",
+      "title": "Sphere Encoder 2",
+      "url": "http://arxiv.org/abs/2610.02208v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:58.000Z",
+      "summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, r",
+      "category": "Research",
+      "score": 42.391
+    },
+    {
+      "id": "one-basis-to-animate-them-all-gaussian-blendshape-distillati-7ary61",
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "url": "http://arxiv.org/abs/2610.02207v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:58.000Z",
+      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be",
+      "category": "Research",
+      "score": 42.391
+    },
+    {
+      "id": "kalibench-a-fine-grained-benchmark-for-cybersecurity-tool-us-o362ur",
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "url": "http://arxiv.org/abs/2610.02206v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:55.000Z",
+      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agen",
+      "category": "Research",
+      "score": 42.391
+    },
+    {
+      "id": "rowbench-do-video-models-render-what-the-program-specifies-3lo6dn",
+      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+      "url": "http://arxiv.org/abs/2610.02205v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:53.000Z",
+      "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains ",
+      "category": "Research",
+      "score": 42.391
+    },
+    {
+      "id": "reconstruct-practice-go-real-guided-self-improvement-for-emb-mqm6ay",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "url": "http://arxiv.org/abs/2610.02204v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:50.000Z",
+      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "embedding-prediction-helps-image-generation-51ojmb",
+      "title": "Embedding Prediction Helps Image Generation",
+      "url": "http://arxiv.org/abs/2610.02203v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:49.000Z",
+      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embeddin",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "scholarcatalyst-a-benchmark-for-retrieving-papers-that-inspi-8dsoeu",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "url": "http://arxiv.org/abs/2610.02202v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:47.000Z",
+      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "silsa-sliding-window-slice-latents-for-topology-preserving-h-jm0cdc",
+      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "url": "http://arxiv.org/abs/2610.02201v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:46.000Z",
+      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfa",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "vista-a-visual-harness-for-reasoning-in-an-interactive-world-akpkqj",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "url": "http://arxiv.org/abs/2610.02200v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:45.000Z",
+      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness th",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "taco-ternary-absolute-max-column-wise-one-sparse-optimizer-f-mnzlar",
+      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+      "url": "http://arxiv.org/abs/2610.02199v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:42.000Z",
+      "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abando",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "ferpo-forward-entropy-regularized-policy-optimization-mgt1dk",
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "url": "http://arxiv.org/abs/2610.02198v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:41.000Z",
+      "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurat",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "hiphy-hierarchical-alignment-for-physically-plausible-multi--n5hek",
+      "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+      "url": "http://arxiv.org/abs/2610.02197v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:41.000Z",
+      "summary": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose world simulators. Despite this progress, they still fail to generate videos which adhere to laws of phy",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "interevolve-test-time-evolution-of-reward-programs-for-human-9rbejg",
+      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+      "url": "http://arxiv.org/abs/2610.02196v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:40.000Z",
+      "summary": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, withou",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "cost-augmented-schr-dinger-bridges-on-graphs-are-exactly-sol-cadady",
+      "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+      "url": "http://arxiv.org/abs/2610.02195v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:39.000Z",
+      "summary": "The generalized Schrödinger bridge on a graph moves mass between two distributions while charging a cost for the states visited. It has been approached by learning the rates of a controlled continuous-time Markov chain, ",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "hierarchical-continuous-diffusion-language-models-ad5g65",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2610.02193v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:39.000Z",
+      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when ",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "the-missing-primitive-diagnosing-and-repairing-mathematical--1t97fb",
+      "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+      "url": "http://arxiv.org/abs/2610.02191v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:32.000Z",
+      "summary": "While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. ",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "trust-the-direction-search-the-step-zero-and-first-order-met-1dthfh",
+      "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning",
+      "url": "http://arxiv.org/abs/2610.02190v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:28.000Z",
+      "summary": "Step-size selection remains a central challenge in large-scale neural network optimization; conservative steps slow convergence, while aggressive steps can destabilize it. We combine \\textbf{Z}ero-and-\\textbf{F}irst-\\tex",
+      "category": "Research",
+      "score": 42.39
+    },
+    {
+      "id": "generative-modeling-of-intrinsically-disordered-protein-regi-dqekk9",
+      "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features",
+      "url": "http://arxiv.org/abs/2610.02189v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:20.000Z",
+      "summary": "Intrinsically disordered protein regions (IDRs) play central roles in cellular processes such as transcriptional regulation, signal transduction, and subcellular localization, yet their functional design remains challeng",
+      "category": "Research",
+      "score": 42.389
+    },
+    {
+      "id": "dmad-distribution-matching-as-adversarial-distillation-for-f-8xm8oc",
+      "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+      "url": "http://arxiv.org/abs/2610.02188v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:59:01.000Z",
+      "summary": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated target and student scores, so it must keep an auxiliary diffusion model fitted to the student's evolving",
+      "category": "Research",
+      "score": 42.389
+    },
+    {
+      "id": "higher-order-molecular-grammars-for-generative-and-foundatio-lfanyg",
+      "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+      "url": "http://arxiv.org/abs/2610.02186v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:58:45.000Z",
+      "summary": "Molecular learning models are strongly shaped by their underlying representations. Yet standard sequential and graph formalisms struggle to explicitly encode higher-order topology, such as ring systems and recurring moti",
+      "category": "Research",
+      "score": 42.388
+    },
+    {
+      "id": "decoding-looped-transformers-better-for-almost-free-yvq99s",
+      "title": "Decoding Looped Transformers Better for (Almost) Free",
+      "url": "http://arxiv.org/abs/2610.02185v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:58:38.000Z",
+      "summary": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next token, yet standard decoding dis",
+      "category": "Research",
+      "score": 42.388
+    },
+    {
+      "id": "softserve-a-scalable-quasi-newton-method-for-deep-learning-7oxdrm",
+      "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+      "url": "http://arxiv.org/abs/2610.02182v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:58:24.000Z",
+      "summary": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter siz",
+      "category": "Research",
+      "score": 42.387
+    },
+    {
+      "id": "omniseek-native-tool-integration-for-multi-turn-audio-visual-68h9px",
+      "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+      "url": "http://arxiv.org/abs/2610.02181v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:58:16.000Z",
+      "summary": "We present OmniSeek, an agentic framework that transforms an Omni Large Language Model (Omni-LLM) into an active, multi-turn reasoning agent with native tool use. Rather than passively processing an entire audio-visual s",
+      "category": "Research",
+      "score": 42.387
+    },
+    {
+      "id": "generative-cinematographer-composing-camera-and-object-motio-99l5df",
+      "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
+      "url": "http://arxiv.org/abs/2610.02180v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:58:09.000Z",
+      "summary": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D moti",
+      "category": "Research",
+      "score": 42.387
+    },
+    {
+      "id": "from-gradients-to-capabilities-understanding-multi-teacher-o-fa4hki",
+      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2610.02179v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:57:44.000Z",
+      "summary": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Qwen3-1.7B with four ",
+      "category": "Research",
+      "score": 42.386
+    },
+    {
+      "id": "effective-resistance-and-graph-neural-network-reliability-in-ioi5g3",
+      "title": "Effective Resistance and Graph Neural Network Reliability in Tissue-Specific Interactomes",
+      "url": "http://arxiv.org/abs/2610.02175v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:57:10.000Z",
+      "summary": "Protein function annotation needs to know which predictions to distrust, not only what a model predicts. We ask whether tissue-specific interaction structure carries that information. Our candidate signal is effective re",
+      "category": "Research",
+      "score": 42.385
+    },
+    {
+      "id": "every-ablation-is-a-dose-counterweights-and-the-semblance-of-hko15p",
+      "title": "Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair",
+      "url": "http://arxiv.org/abs/2610.02173v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:57:04.000Z",
+      "summary": "Ablate a component of a language model, and other components often appear to adjust and compensate. This phenomenon, termed self-repair, has been observed repeatedly, but its mechanism remains unclear. The most systemati",
+      "category": "Research",
+      "score": 42.384
+    },
+    {
+      "id": "watch-infer-coordinate-inferring-robot-partner-constraints-f-q7czje",
+      "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
+      "url": "http://arxiv.org/abs/2610.02170v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:56:04.000Z",
+      "summary": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry alone. Physical limi",
+      "category": "Research",
+      "score": 42.382
+    },
+    {
+      "id": "autocompact-learning-when-to-compact-context-in-long-horizon-sakzfw",
+      "title": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
+      "url": "http://arxiv.org/abs/2610.02163v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-01T17:54:34.000Z",
+      "summary": "Coding agents solve repository-level software engineering tasks through long trajectories of code inspection, search, editing, and testing. As a task progresses, earlier exploration becomes stale, so managing context is ",
+      "category": "Research",
+      "score": 42.379
+    },
+    {
+      "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "sourceName": "Hacker News",
       "publishedAt": "2026-10-01T16:18:57Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.961
+      "score": 41.837
     },
     {
       "id": "multimodal-flow-unified-flow-modeling-of-language-and-vision-l8wmw4",
@@ -690,24 +1010,24 @@
       "score": 40.754
     },
     {
-      "id": "with-most-information-hidden-the-game-stratego-8klmzx",
-      "title": "With most information hidden, the game Stratego",
+      "id": "with-most-information-hidden-the-game-stratego-had-stumped-a-pdy16c",
+      "title": "With most information hidden, the game Stratego had stumped AI—until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "sourceName": "Ars Technica",
       "publishedAt": "2026-10-01T16:28:04.000Z",
       "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
       "category": "Machine Learning",
-      "score": 40.623
+      "score": 39.19
     },
     {
-      "id": "rip-vector-database-8sd639",
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "id": "pi-1-0-vj6f2s",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T16:01:56Z",
+      "publishedAt": "2026-10-01T19:33:05Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.721
+      "score": 19.569
     },
     {
       "id": "cops-can-bypass-iphone-s-automatic-reboot-to-get-into-locked-mdgrb0",
@@ -750,64 +1070,24 @@
       "score": 19.456
     },
     {
-      "id": "streetcomplete-on-ios-is-now-in-public-beta-kh8ifw",
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "id": "several-vulnerabilities-have-been-discovered-in-the-linux-ke-aevme7",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T10:59:57Z",
+      "publishedAt": "2026-10-01T23:10:44Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.43
+      "score": 19.407
     },
     {
-      "id": "racketcon-is-saturday-mh7gxh",
-      "title": "RacketCon Is Saturday",
-      "url": "https://con.racket-lang.org/",
+      "id": "deepseek-harness-3hgbak",
+      "title": "DeepSeek Harness",
+      "url": "https://www.deepseek.com/en/harness/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T14:58:13Z",
+      "publishedAt": "2026-10-02T03:11:20Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.333
-    },
-    {
-      "id": "how-to-speed-up-the-rust-compiler-in-september-2026-7wc7z3",
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T12:44:38Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.33
-    },
-    {
-      "id": "returning-from-vacation-the-government-can-search-your-phone-9xjtzp",
-      "title": "Returning from vacation? The government can search your phone without a warrant",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T11:13:59Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.315
-    },
-    {
-      "id": "cloudflare-k2-serverless-event-streams-7ex03n",
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T14:09:10Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.293
-    },
-    {
-      "id": "various-projects-find-hidden-sdr-capabilities-in-esp32-micro-26dtr2",
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T15:07:42Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.265
+      "score": 19.271
     },
     {
       "id": "macos-27-is-so-buggy-n3fft6",
@@ -830,6 +1110,16 @@
       "score": 19.253
     },
     {
+      "id": "how-singapore-s-government-run-dating-service-works-ii0mvn",
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-02T01:56:52Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.154
+    },
+    {
       "id": "lightweight-pdf-parser-with-layout-tables-formulas-and-bound-qbzw09",
       "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
       "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
@@ -850,24 +1140,24 @@
       "score": 19.13
     },
     {
-      "id": "show-hn-vote-on-which-of-hacker-news-challenges-for-ai-have--mnd9k3",
-      "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
+      "id": "pi-durable-fpop8",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T17:32:43Z",
+      "publishedAt": "2026-10-01T19:24:08Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.051
+      "score": 19.04
     },
     {
-      "id": "context-language-models-rgl8rl",
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
+      "id": "sveltekit-3-a9oj76",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T14:51:33Z",
+      "publishedAt": "2026-10-01T20:14:23Z",
       "summary": "",
       "category": "Tech",
-      "score": 18.963
+      "score": 18.934
     },
     {
       "id": "polyedergarten-garden-of-paper-polyhedron-models-lcld6p",
@@ -880,334 +1170,44 @@
       "score": 18.919
     },
     {
-      "id": "how-to-set-up-spf-dkim-and-dmarc-for-your-sending-domain-rwjtje",
-      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
-      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
+      "id": "automatic-transmission-a-data-privacy-study-of-connected-veh-ooadnc",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T14:33:21Z",
+      "publishedAt": "2026-10-01T20:23:27Z",
       "summary": "",
       "category": "Tech",
-      "score": 18.581
+      "score": 18.916
     },
     {
-      "id": "as-us-relations-fray-canada-gets-serious-about-its-own-launc-pc3yhw",
-      "title": "As US relations fray, Canada gets serious about its own launch industry",
-      "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-01T15:30:49.000Z",
-      "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-      "category": "Tech",
-      "score": 17.473
-    },
-    {
-      "id": "the-download-ai-mind-reading-and-creative-uses-for-small-bat-rfniti",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-01T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain ",
-      "category": "Tech",
-      "score": 16.97
-    },
-    {
-      "id": "ps5-emulation-is-suddenly-making-big-strides-on-pc-4m1pc3",
-      "title": "PS5 emulation is suddenly making big strides on PC",
-      "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-01T11:30:41.000Z",
-      "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
-      "category": "Tech",
-      "score": 16.875
-    },
-    {
-      "id": "nasa-squeezed-treasury-vibe-coded-and-broke-the-mold-in-bid--lte721",
-      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-      "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-01T11:15:15.000Z",
-      "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-      "category": "Tech",
-      "score": 16.838
-    },
-    {
-      "id": "an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--xxkpos",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-01T10:32:24.000Z",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they",
-      "category": "Tech",
-      "score": 16.737
-    },
-    {
-      "id": "how-smaller-distributed-batteries-could-help-the-grid-fnztor",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstac",
-      "category": "Tech",
-      "score": 16.662
-    },
-    {
-      "id": "truemetrics-yc-s23-is-hiring-a-gtm-founder-s-associate-yvyyup",
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "id": "frog-and-toad-and-the-increasingly-capable-machines-9cx9d",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T09:48:18Z",
+      "publishedAt": "2026-10-01T22:23:38Z",
       "summary": "",
       "category": "Tech",
-      "score": 16.635
+      "score": 18.896
     },
     {
-      "id": "opendlss-a-vulkan-reimplementation-of-nvidia-s-dlss-5-neural-8auqun",
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "id": "using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-do-rou3j7",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-09-30T08:43:21Z",
+      "publishedAt": "2026-10-01T20:48:37Z",
       "summary": "",
       "category": "Tech",
-      "score": 16.287
+      "score": 18.793
     },
     {
-      "id": "dinosaur-killing-impact-crater-might-have-been-teeming-with--k1hywl",
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T21:54:12.000Z",
-      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-      "category": "Tech",
-      "score": 15.178
-    },
-    {
-      "id": "fifth-unvaccinated-person-dies-of-measles-cdc-still-not-coun-q6tf6m",
-      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T21:37:54.000Z",
-      "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
-      "category": "Tech",
-      "score": 15.149
-    },
-    {
-      "id": "a-local-network-of-implants-uses-your-body-as-the-wiring-5izi8b",
-      "title": "A local network of implants uses your body as the wiring",
-      "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T21:06:56.000Z",
-      "summary": "It's possible to send electrical signals right through human tissues.",
-      "category": "Tech",
-      "score": 15.094
-    },
-    {
-      "id": "book-of-shapes-collection-of-minimal-generative-and-customiz-lfenkk",
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "url": "https://bookofshapes.com/",
+      "id": "css-bed-classless-css-themes-to-use-as-starting-points-in-we-hw57y7",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-09-29T14:56:22Z",
+      "publishedAt": "2026-10-01T21:21:32Z",
       "summary": "",
       "category": "Tech",
-      "score": 15.061
-    },
-    {
-      "id": "attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-1bjrb4",
-      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T20:44:48.000Z",
-      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
-      "category": "Tech",
-      "score": 15.055
-    },
-    {
-      "id": "why-the-bronze-age-collapsed-k1gc15",
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-09-29T10:10:18Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 15.037
-    },
-    {
-      "id": "reddit-is-putting-more-limits-on-old-reddit-com-1yoqxn",
-      "title": "Reddit is putting more limits on Old.Reddit.com",
-      "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T19:53:33.000Z",
-      "summary": "Reddit says it's fighting \"automated abuse.\"",
-      "category": "Tech",
-      "score": 14.966
-    },
-    {
-      "id": "rfk-jr-thinks-ai-will-free-us-from-the-tyranny-of-medical-fa-v63omg",
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T19:31:25.000Z",
-      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "category": "Tech",
-      "score": 14.928
-    },
-    {
-      "id": "the-disney-protests-were-a-wake-up-call-about-the-risks-of-s-387zd3",
-      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
-      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T19:22:19.000Z",
-      "summary": "Boycotting Disney is hard.",
-      "category": "Tech",
-      "score": 14.912
-    },
-    {
-      "id": "trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-polici-fe9d94",
-      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T18:47:01.000Z",
-      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
-      "category": "Tech",
-      "score": 14.852
-    },
-    {
-      "id": "so-what-s-happening-with-russia-s-new-long-delayed-crewed-sp-ghhl1x",
-      "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
-      "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T16:48:56.000Z",
-      "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
-      "category": "Tech",
-      "score": 14.657
-    },
-    {
-      "id": "google-s-early-attempt-to-pay-websites-for-ai-answers-is-str-ln4ht2",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T16:03:48.000Z",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "category": "Tech",
-      "score": 14.585
-    },
-    {
-      "id": "google-figures-out-how-to-watermark-ai-designed-proteins-g53smj",
-      "title": "Google figures out how to watermark AI-designed proteins",
-      "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T15:54:52.000Z",
-      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
-      "category": "Tech",
-      "score": 14.571
-    },
-    {
-      "id": "the-ps5-hacking-scene-just-took-a-big-leap-forward-jmexe7",
-      "title": "The PS5 hacking scene just took a big leap forward",
-      "url": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T15:12:46.000Z",
-      "summary": "New exploit works on all but the most recently updated consoles.",
-      "category": "Tech",
-      "score": 14.504
-    },
-    {
-      "id": "discord-gives-more-advertisers-more-tools-to-target-its-user-ldjgk9",
-      "title": "Discord gives more advertisers more tools to target its users",
-      "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-09-30T15:01:40.000Z",
-      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
-      "category": "Tech",
-      "score": 14.487
-    },
-    {
-      "id": "the-download-climate-tech-companies-to-watch-and-ai-s-discov-yu3d5l",
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet near",
-      "category": "Tech",
-      "score": 12.564
-    },
-    {
-      "id": "coming-soon-our-2026-list-of-climate-tech-companies-to-watch-jlcrbn",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-29T11:00:00.000Z",
-      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal ",
-      "category": "Tech",
-      "score": 12.502
-    },
-    {
-      "id": "making-ai-an-asset-not-an-expense-ej3wh2",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-29T10:43:45.000Z",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu",
-      "category": "Tech",
-      "score": 12.488
-    },
-    {
-      "id": "grammarly-is-offering-expert-ai-reviews-from-famous-dead-and-5kkmu3",
-      "title": "Grammarly is offering ‘expert’ AI reviews from famous dead and living writers",
-      "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-03-05T09:04:16Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 12.124
-    },
-    {
-      "id": "roundtables-the-deadly-failures-of-the-virtual-border-wall-3w5f41",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-28T22:17:07.000Z",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross",
-      "category": "Tech",
-      "score": 11.92
-    },
-    {
-      "id": "watch-the-winning-trailer-from-the-future-vision-xprize-the--ou28v5",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "category": "Tech",
-      "score": 11.793
-    },
-    {
-      "id": "show-hn-npx-tailhn-tail-hn-from-the-console-43ird2",
-      "title": "Show HN: `npx tailhn` – Tail HN from the console",
-      "url": "https://www.npmjs.com/package/tailhn",
-      "sourceName": "Hacker News",
-      "publishedAt": "2023-06-04T00:18:42Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 10.778
-    },
-    {
-      "id": "x-ai-an-artificial-intelligence-powered-personal-assistant-2lx3ek",
-      "title": "X.AI: An artificial-intelligence-powered personal assistant",
-      "url": "https://x.ai/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2015-12-10T21:47:23Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 10.477
-    },
-    {
-      "id": "sneak-peek-of-a-wordpress-ai-artificialintelligence-project-3mjzc0",
-      "title": "Sneak-Peek of a WordPress AI #ArtificialIntelligence Project",
-      "url": "https://twitter.com/MrAhmadAwais/status/984223532631711744",
-      "sourceName": "Hacker News",
-      "publishedAt": "2018-04-12T00:39:19Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 10.301
+      "score": 18.768
     }
   ]
 }
