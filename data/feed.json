@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T04:47:45.777Z",
+  "updatedAt": "2026-10-05T14:00:45.400Z",
   "totalItems": 120,
   "categories": {
-    "AI": 40,
-    "Robotics": 13,
+    "AI": 42,
+    "Robotics": 14,
     "Machine Learning": 1,
-    "Research": 66
+    "Research": 63
   },
   "items": [
     {
@@ -17,6 +17,16 @@
       "summary": "",
       "category": "AI",
       "score": 55.319
+    },
+    {
+      "id": "europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuat-pi16at",
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-05T11:13:51Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 52.81
     },
     {
       "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-an-mo90ul",
@@ -99,6 +109,16 @@
       "score": 50.121
     },
     {
+      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+      "category": "AI",
+      "score": 50.058
+    },
+    {
       "id": "gpt-synopsys-frontier-intelligence-to-revolutionize-chip-des-61hfki",
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
@@ -149,16 +169,6 @@
       "score": 48.445
     },
     {
-      "id": "the-download-a-biological-de-aging-contest-and-why-llms-don--j47we2",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-02T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
-      "category": "AI",
-      "score": 48.081
-    },
-    {
       "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web-my3j1f",
       "title": "Three AI agents, two countries, and one uneven world wide web",
       "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
@@ -179,6 +189,16 @@
       "score": 47.815
     },
     {
+      "id": "the-download-a-biological-de-aging-contest-and-why-llms-don--j47we2",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-02T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
+      "category": "AI",
+      "score": 47.718
+    },
+    {
       "id": "magic-switch-share-apple-magic-keyboard-track-pad-mouse-betw-8qdriu",
       "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
       "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
@@ -187,6 +207,16 @@
       "summary": "",
       "category": "AI",
       "score": 47.549
+    },
+    {
+      "id": "decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit-a9el02",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-02T13:47:41Z",
+      "summary": "",
+      "category": "AI",
+      "score": 46.834
     },
     {
       "id": "can-good-design-stop-content-creators-from-having-sex-in-rob-p81y4z",
@@ -209,16 +239,6 @@
       "score": 45.771
     },
     {
-      "id": "apple-changes-full-disk-access-permissions-to-curb-abuse-fro-aaevn1",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-02T23:03:16.000Z",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "category": "AI",
-      "score": 45.611
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -229,6 +249,16 @@
       "score": 45.182
     },
     {
+      "id": "apple-changes-full-disk-access-permissions-to-curb-abuse-fro-aaevn1",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-02T23:03:16.000Z",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "category": "AI",
+      "score": 45.155
+    },
+    {
       "id": "don-t-be-fooled-llms-don-t-reason-64oxzo",
       "title": "Don’t be fooled—LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
@@ -236,7 +266,7 @@
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
       "category": "AI",
-      "score": 44.908
+      "score": 44.575
     },
     {
       "id": "when-can-we-say-ai-made-a-scientific-discovery-sucfj7",
@@ -257,16 +287,6 @@
       "summary": "",
       "category": "AI",
       "score": 43.778
-    },
-    {
-      "id": "the-download-openai-s-chief-research-officer-explains-its-ha-2wbxgh",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s ",
-      "category": "AI",
-      "score": 43.766
     },
     {
       "id": "we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-tcpa0w",
@@ -317,6 +337,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
+    },
+    {
+      "id": "the-download-openai-s-chief-research-officer-explains-its-ha-2wbxgh",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-09-30T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s ",
+      "category": "AI",
+      "score": 43.632
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -856,7 +886,7 @@
       "publishedAt": "2026-10-02T17:59:14.000Z",
       "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representation",
       "category": "Research",
-      "score": 38.35
+      "score": 37.939
     },
     {
       "id": "mose3-learning-world-space-se-3-at-every-pixel-tlp9za",
@@ -866,7 +896,7 @@
       "publishedAt": "2026-10-02T17:58:52.000Z",
       "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying ",
       "category": "Research",
-      "score": 38.349
+      "score": 37.939
     },
     {
       "id": "4dcodebench-benchmarking-agents-on-inverse-graphics-of-dynam-k80j6r",
@@ -876,7 +906,7 @@
       "publishedAt": "2026-10-02T17:58:49.000Z",
       "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visu",
       "category": "Research",
-      "score": 38.349
+      "score": 37.939
     },
     {
       "id": "what-should-world-models-forget-stratified-retention-for-con-d3ycg9",
@@ -886,7 +916,7 @@
       "publishedAt": "2026-10-02T17:58:14.000Z",
       "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World mo",
       "category": "Research",
-      "score": 38.349
+      "score": 37.938
     },
     {
       "id": "rnadyn-a-benchmark-for-generating-and-understanding-rna-dyna-uiytzl",
@@ -896,7 +926,7 @@
       "publishedAt": "2026-10-02T17:58:08.000Z",
       "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically trea",
       "category": "Research",
-      "score": 38.349
+      "score": 37.938
     },
     {
       "id": "eyerobot-2-0-active-gaze-for-precise-manipulation-without-wr-ety82a",
@@ -906,7 +936,7 @@
       "publishedAt": "2026-10-02T17:57:51.000Z",
       "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by s",
       "category": "Research",
-      "score": 38.349
+      "score": 37.938
     },
     {
       "id": "from-mixing-to-tearing-graph-decomposition-in-decentralized--ltsfoc",
@@ -916,7 +946,7 @@
       "publishedAt": "2026-10-02T17:57:50.000Z",
       "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, w",
       "category": "Research",
-      "score": 38.348
+      "score": 37.938
     },
     {
       "id": "lesser-post-training-data-selection-with-output-layer-gradie-demkyr",
@@ -926,7 +956,7 @@
       "publishedAt": "2026-10-02T17:55:42.000Z",
       "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with",
       "category": "Research",
-      "score": 38.347
+      "score": 37.937
     },
     {
       "id": "decoding-the-functional-roles-of-register-and-high-norm-patc-4qqimr",
@@ -936,7 +966,7 @@
       "publishedAt": "2026-10-02T17:55:06.000Z",
       "summary": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedicated register tokens",
       "category": "Research",
-      "score": 38.346
+      "score": 37.936
     },
     {
       "id": "language-models-that-play-chess-and-explain-their-moves-79w94n",
@@ -946,7 +976,7 @@
       "publishedAt": "2026-10-02T17:54:22.000Z",
       "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their wea",
       "category": "Research",
-      "score": 38.346
+      "score": 37.936
     },
     {
       "id": "transcriptome-informed-multi-modal-ai-for-predicting-neoadju-oz5cez",
@@ -956,7 +986,7 @@
       "publishedAt": "2026-10-02T17:52:57.000Z",
       "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stag",
       "category": "Research",
-      "score": 38.345
+      "score": 37.935
     },
     {
       "id": "flowhmr-physically-plausible-motion-capture-from-video-8yrap3",
@@ -966,7 +996,7 @@
       "publishedAt": "2026-10-02T17:52:48.000Z",
       "summary": "We present FlowHMR, a framework for recovering physically plausible global 3D human motion from monocular video. Previous learning-based methods typically regress human motion directly from video and train the network wi",
       "category": "Research",
-      "score": 38.344
+      "score": 37.935
     },
     {
       "id": "siglip2-for-aerial-fire-risk-classification-wcd3fk",
@@ -976,7 +1006,7 @@
       "publishedAt": "2026-10-02T17:52:34.000Z",
       "summary": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror and an implementatio",
       "category": "Research",
-      "score": 38.344
+      "score": 37.935
     },
     {
       "id": "simulation-free-learning-of-population-dynamics-with-wassers-gy98f8",
@@ -986,7 +1016,7 @@
       "publishedAt": "2026-10-02T17:46:52.000Z",
       "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the under",
       "category": "Research",
-      "score": 38.34
+      "score": 37.931
     },
     {
       "id": "frugalevo-towards-cost-aware-llm-guided-program-evolution-r11oiy",
@@ -996,7 +1026,7 @@
       "publishedAt": "2026-10-02T17:44:05.000Z",
       "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance g",
       "category": "Research",
-      "score": 38.337
+      "score": 37.929
     },
     {
       "id": "planning-to-learn-adub9e",
@@ -1006,7 +1036,7 @@
       "publishedAt": "2026-10-02T17:38:28.000Z",
       "summary": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has n",
       "category": "Research",
-      "score": 38.333
+      "score": 37.925
     },
     {
       "id": "pivot-sd-efficient-self-distillation-for-masked-diffusion-la-hp5fuv",
@@ -1016,7 +1046,7 @@
       "publishedAt": "2026-10-02T17:37:51.000Z",
       "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during den",
       "category": "Research",
-      "score": 38.332
+      "score": 37.925
     },
     {
       "id": "proar-learning-prospective-reasoning-with-autoregressive-vid-gzmsk7",
@@ -1026,7 +1056,7 @@
       "publishedAt": "2026-10-02T17:37:47.000Z",
       "summary": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm. This limitation is particularly consequential for reasoning-or",
       "category": "Research",
-      "score": 38.332
+      "score": 37.925
     },
     {
       "id": "forecasting-from-counterfactual-simulator-rollouts-a-sim2rea-dd1pzf",
@@ -1036,7 +1066,7 @@
       "publishedAt": "2026-10-02T17:37:14.000Z",
       "summary": "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new pol",
       "category": "Research",
-      "score": 38.332
+      "score": 37.924
     },
     {
       "id": "revisiting-input-time-frequency-representations-in-multi-pit-g0rrbk",
@@ -1046,7 +1076,7 @@
       "publishedAt": "2026-10-02T17:35:06.000Z",
       "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency repr",
       "category": "Research",
-      "score": 38.33
+      "score": 37.923
     },
     {
       "id": "mrvq-one-resident-index-for-dimension-and-rate-elastic-vecto-u6qb6i",
@@ -1056,7 +1086,7 @@
       "publishedAt": "2026-10-02T17:33:13.000Z",
       "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retri",
       "category": "Research",
-      "score": 38.329
+      "score": 37.922
     },
     {
       "id": "pocofl-policy-compliant-federated-learning-n24tel",
@@ -1066,7 +1096,7 @@
       "publishedAt": "2026-10-02T17:33:01.000Z",
       "summary": "Federated Learning (FL) is a privacy-oriented learning paradigm that enables collaborative model training while keeping training data local to participating clients. However, it does not guarantee that clients submit pol",
       "category": "Research",
-      "score": 38.328
+      "score": 37.922
     },
     {
       "id": "on-board-anomaly-detection-for-efficient-marine-environmenta-vzkd76",
@@ -1076,7 +1106,7 @@
       "publishedAt": "2026-10-02T17:32:34.000Z",
       "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (",
       "category": "Research",
-      "score": 38.328
+      "score": 37.921
     },
     {
       "id": "amortized-structured-stochastic-variational-inference-for-ga-5sz8df",
@@ -1086,7 +1116,7 @@
       "publishedAt": "2026-10-02T17:32:05.000Z",
       "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of this learned manifold.",
       "category": "Research",
-      "score": 38.328
+      "score": 37.921
     },
     {
       "id": "when-may-a-bandit-leave-its-anchor-e-process-authorized-thom-l39kxm",
@@ -1096,7 +1126,7 @@
       "publishedAt": "2026-10-02T17:31:50.000Z",
       "summary": "Stationarity rewards memory, but after a change the same history can mislead. We ask when forgetting should be permitted. E-process-authorized Thompson sampling (e-ATS) gives each arm full-history and discounted Beta sta",
       "category": "Research",
-      "score": 38.327
+      "score": 37.921
     },
     {
       "id": "on-the-convergence-of-success-conditioning-for-policy-optimi-my8nu6",
@@ -1106,7 +1136,7 @@
       "publishedAt": "2026-10-02T17:29:38.000Z",
       "summary": "Success conditioning is a strategy for improving decision-making policies in stochastic environments; it updates a policy by increasing the probability of taking actions that yield successful outcomes. Success conditioni",
       "category": "Research",
-      "score": 38.326
+      "score": 37.919
     },
     {
       "id": "idrf-inverse-distilled-reward-fine-tuning-of-masked-discrete-hltjll",
@@ -1116,7 +1146,7 @@
       "publishedAt": "2026-10-02T17:29:22.000Z",
       "summary": "Masked discrete diffusion models offer a promising alternative to autoregressive generation, but iterative sampling can be costly, and intractable sequence likelihoods complicate reward fine-tuning. We introduce IDRF, a ",
       "category": "Research",
-      "score": 38.325
+      "score": 37.919
     },
     {
       "id": "broken-scale-symmetries-in-undercomplete-linear-autoencoders-ggrrbw",
@@ -1126,7 +1156,7 @@
       "publishedAt": "2026-10-02T17:29:19.000Z",
       "summary": "Neural network loss landscapes have many symmetries, which are preserved by gradient flow but broken by finite-stepsize stochastic gradient descent (SGD). A canonical example of such a symmetry is scale in homogeneous ne",
       "category": "Research",
-      "score": 38.325
+      "score": 37.919
     },
     {
       "id": "do-large-language-models-know-colombian-law-a-reliability-be-66hn8m",
@@ -1136,7 +1166,7 @@
       "publishedAt": "2026-10-02T17:27:41.000Z",
       "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce ",
       "category": "Research",
-      "score": 38.324
+      "score": 37.918
     },
     {
       "id": "logo-local-global-rewards-for-consistent-long-horizon-video--r02cda",
@@ -1146,7 +1176,7 @@
       "publishedAt": "2026-10-02T17:26:18.000Z",
       "summary": "Camera-controlled video models are rapidly advancing toward long generation horizons and complex camera control. A key failure mode is 3D inconsistency: as the camera moves, objects lose permanence and scene structures s",
       "category": "Research",
-      "score": 38.323
+      "score": 37.917
     },
     {
       "id": "moore-escher-penrose-a-conformal-golden-braid-mn5zrd",
@@ -1175,36 +1205,6 @@
       "sourceName": "arXiv",
       "publishedAt": "2026-10-01T17:59:58.000Z",
       "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "kalibench-a-fine-grained-benchmark-for-cybersecurity-tool-us-o362ur",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:55.000Z",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agen",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "rowbench-do-video-models-render-what-the-program-specifies-3lo6dn",
-      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-      "url": "http://arxiv.org/abs/2610.02205v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:53.000Z",
-      "summary": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains ",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "reconstruct-practice-go-real-guided-self-improvement-for-emb-mqm6ay",
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:50.000Z",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real",
       "category": "Research",
       "score": 37.675
     }
