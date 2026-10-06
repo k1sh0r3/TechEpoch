@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-06T05:33:47.852Z",
+  "updatedAt": "2026-10-06T13:01:17.729Z",
   "totalItems": 120,
   "categories": {
-    "AI": 43,
+    "AI": 45,
     "Robotics": 15,
-    "Research": 60,
+    "Research": 58,
     "Machine Learning": 2
   },
   "items": [
@@ -17,6 +17,16 @@
       "summary": "",
       "category": "AI",
       "score": 55.319
+    },
+    {
+      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-w-5uhuly",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T12:21:53.000Z",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "category": "AI",
+      "score": 53.891
     },
     {
       "id": "europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuat-pi16at",
@@ -139,16 +149,6 @@
       "score": 49.934
     },
     {
-      "id": "russian-drones-strike-ukraine-s-data-centers-by-exploiting-a-qz5rvu",
-      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-05T17:21:11.000Z",
-      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-      "category": "Robotics",
-      "score": 49.203
-    },
-    {
       "id": "greg-kroah-hartman-security-in-the-llm-age-video-ahbcg0",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
@@ -189,14 +189,24 @@
       "score": 48.445
     },
     {
-      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "id": "russian-drones-strike-ukraine-s-data-centers-by-exploiting-a-qz5rvu",
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-05T17:21:11.000Z",
+      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+      "category": "Robotics",
+      "score": 48.31
+    },
+    {
+      "id": "connecting-ai-agents-to-enterprise-knowledge-nlcvc2",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-05T08:00:00.000Z",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+      "publishedAt": "2026-10-05T15:47:52.000Z",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in ",
       "category": "AI",
-      "score": 48.105
+      "score": 48.141
     },
     {
       "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web-my3j1f",
@@ -229,6 +239,16 @@
       "score": 47.549
     },
     {
+      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+      "category": "AI",
+      "score": 47.37
+    },
+    {
       "id": "the-download-a-biological-de-aging-contest-and-why-llms-don--j47we2",
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
@@ -236,7 +256,7 @@
       "publishedAt": "2026-10-02T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
       "category": "AI",
-      "score": 47.242
+      "score": 47.064
     },
     {
       "id": "decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit-a9el02",
@@ -286,7 +306,7 @@
       "publishedAt": "2026-10-02T23:03:16.000Z",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "category": "AI",
-      "score": 44.559
+      "score": 44.334
     },
     {
       "id": "don-t-be-fooled-llms-don-t-reason-64oxzo",
@@ -296,7 +316,7 @@
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
       "category": "AI",
-      "score": 44.139
+      "score": 43.975
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -596,7 +616,7 @@
       "publishedAt": "2026-10-05T17:59:54.000Z",
       "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the ",
       "category": "Research",
-      "score": 42.287
+      "score": 41.382
     },
     {
       "id": "base-models-can-reason-by-taking-a-cue-from-training-data-clewoy",
@@ -606,7 +626,7 @@
       "publishedAt": "2026-10-05T17:59:52.000Z",
       "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting tok",
       "category": "Research",
-      "score": 42.287
+      "score": 41.382
     },
     {
       "id": "intermimicgen-scaling-humanoid-loco-manipulation-through-sel-8vby1o",
@@ -616,7 +636,7 @@
       "publishedAt": "2026-10-05T17:59:50.000Z",
       "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-im",
       "category": "Research",
-      "score": 42.287
+      "score": 41.382
     },
     {
       "id": "s2pd-serial-to-parallel-diffusion-for-physically-and-logical-182tcb",
@@ -626,7 +646,7 @@
       "publishedAt": "2026-10-05T17:59:35.000Z",
       "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rul",
       "category": "Research",
-      "score": 42.286
+      "score": 41.382
     },
     {
       "id": "biasflow-geometric-monitoring-and-backbone-regularization-fo-1ppp6s",
@@ -636,7 +656,7 @@
       "publishedAt": "2026-10-05T17:59:28.000Z",
       "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute ce",
       "category": "Research",
-      "score": 42.286
+      "score": 41.382
     },
     {
       "id": "learning-to-read-the-contextual-tokens-in-diffusion-transfor-3ogg3h",
@@ -646,7 +666,7 @@
       "publishedAt": "2026-10-05T17:59:17.000Z",
       "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextua",
       "category": "Research",
-      "score": 42.286
+      "score": 41.381
     },
     {
       "id": "recursive-video-in-context-learning-for-agentic-robot-vzs016",
@@ -656,7 +676,7 @@
       "publishedAt": "2026-10-05T17:59:11.000Z",
       "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fit",
       "category": "Research",
-      "score": 42.286
+      "score": 41.381
     },
     {
       "id": "anatomy-aware-fine-grained-multimodal-fusion-for-laryngophar-2p65we",
@@ -666,7 +686,7 @@
       "publishedAt": "2026-10-05T17:58:28.000Z",
       "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challeng",
       "category": "Research",
-      "score": 42.284
+      "score": 41.38
     },
     {
       "id": "direct-intermediate-initialization-for-tilted-diffusion-samp-ejq8gz",
@@ -676,7 +696,7 @@
       "publishedAt": "2026-10-05T17:58:18.000Z",
       "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with ",
       "category": "Research",
-      "score": 42.284
+      "score": 41.379
     },
     {
       "id": "towards-looped-models-done-right-part-ii-rethinking-at-fixed-79br8j",
@@ -686,7 +706,7 @@
       "publishedAt": "2026-10-05T17:58:15.000Z",
       "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables trun",
       "category": "Research",
-      "score": 42.284
+      "score": 41.379
     },
     {
       "id": "unislider-perceptually-uniform-sliders-for-continuous-image--u5qvce",
@@ -696,7 +716,7 @@
       "publishedAt": "2026-10-05T17:58:11.000Z",
       "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a promp",
       "category": "Research",
-      "score": 42.283
+      "score": 41.379
     },
     {
       "id": "mempilot-orchestrating-on-demand-multimodal-memory-curation--5qa8uz",
@@ -706,7 +726,7 @@
       "publishedAt": "2026-10-05T17:58:06.000Z",
       "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can in",
       "category": "Research",
-      "score": 42.283
+      "score": 41.379
     },
     {
       "id": "clift-conformal-self-verification-for-web-agent-training-and-lb3kw5",
@@ -716,7 +736,7 @@
       "publishedAt": "2026-10-05T17:57:51.000Z",
       "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, w",
       "category": "Research",
-      "score": 42.283
+      "score": 41.379
     },
     {
       "id": "plotground-grounding-plot-digitization-in-real-scientific-fi-xi0tek",
@@ -726,7 +746,7 @@
       "publishedAt": "2026-10-05T17:57:19.000Z",
       "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains uncle",
       "category": "Research",
-      "score": 42.281
+      "score": 41.378
     },
     {
       "id": "tasteval-measuring-the-experimental-research-taste-of-ai-sys-9hknu6",
@@ -736,7 +756,7 @@
       "publishedAt": "2026-10-05T17:57:15.000Z",
       "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experime",
       "category": "Research",
-      "score": 42.281
+      "score": 41.377
     },
     {
       "id": "deep-learning-for-sleep-heart-rate-estimation-from-accelerom-59gykc",
@@ -746,7 +766,7 @@
       "publishedAt": "2026-10-05T17:56:57.000Z",
       "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a tr",
       "category": "Research",
-      "score": 42.281
+      "score": 41.377
     },
     {
       "id": "private-online-learning-and-prediction-for-littlestone-class-eao2hk",
@@ -756,7 +776,7 @@
       "publishedAt": "2026-10-05T17:56:47.000Z",
       "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in o",
       "category": "Research",
-      "score": 42.28
+      "score": 41.377
     },
     {
       "id": "paradee-distilling-kokoro-82m-into-an-8m-parameter-single-vo-4ssd2m",
@@ -766,7 +786,7 @@
       "publishedAt": "2026-10-05T17:56:07.000Z",
       "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of it",
       "category": "Research",
-      "score": 42.279
+      "score": 41.375
     },
     {
       "id": "tapdreamer-transferable-adversarial-patches-for-world-action-c3q89f",
@@ -776,7 +796,7 @@
       "publishedAt": "2026-10-05T17:55:21.000Z",
       "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the",
       "category": "Research",
-      "score": 42.277
+      "score": 41.374
     },
     {
       "id": "less-context-better-geometry-masked-geometric-encoder-for-ro-yj3z3o",
@@ -786,7 +806,7 @@
       "publishedAt": "2026-10-05T17:55:06.000Z",
       "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads t",
       "category": "Research",
-      "score": 42.277
+      "score": 41.373
     },
     {
       "id": "finding-gaussian-structure-in-bosonic-states-xcdwyr",
@@ -796,7 +816,7 @@
       "publishedAt": "2026-10-05T17:54:36.000Z",
       "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, ",
       "category": "Research",
-      "score": 42.276
+      "score": 41.372
     },
     {
       "id": "block-disentanglement-in-crl-bridging-identifiability-and-vi-6gluy4",
@@ -806,7 +826,7 @@
       "publishedAt": "2026-10-05T17:54:25.000Z",
       "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications wh",
       "category": "Research",
-      "score": 42.275
+      "score": 41.372
     },
     {
       "id": "h-jepa-end-to-end-learning-of-hierarchical-world-models-for--hcpnk0",
@@ -816,7 +836,7 @@
       "publishedAt": "2026-10-05T17:53:34.000Z",
       "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in ",
       "category": "Research",
-      "score": 42.273
+      "score": 41.371
     },
     {
       "id": "sharpen-without-search-on-policy-distillation-of-sequence-le-87eiwp",
@@ -826,7 +846,7 @@
       "publishedAt": "2026-10-05T17:53:30.000Z",
       "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution",
       "category": "Research",
-      "score": 42.273
+      "score": 41.37
     },
     {
       "id": "mc-sparse-deconstructing-and-closing-the-dense-sparse-attent-buc4zw",
@@ -836,7 +856,7 @@
       "publishedAt": "2026-10-05T17:51:42.000Z",
       "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade gen",
       "category": "Research",
-      "score": 42.269
+      "score": 41.367
     },
     {
       "id": "a-response-theory-probe-for-learned-stochastic-ai-simulators-jty9mb",
@@ -846,7 +866,7 @@
       "publishedAt": "2026-10-05T17:51:23.000Z",
       "summary": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection",
       "category": "Research",
-      "score": 42.269
+      "score": 41.366
     },
     {
       "id": "round-trip-knn-clustering-multiscale-hierarchical-cluster-de-atpzl6",
@@ -856,7 +876,7 @@
       "publishedAt": "2026-10-05T17:50:16.000Z",
       "summary": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approaches that first make a",
       "category": "Research",
-      "score": 42.266
+      "score": 41.364
     },
     {
       "id": "back-to-the-future-rethinking-eda-infrastructure-for-agentic-hh7gxi",
@@ -866,7 +886,7 @@
       "publishedAt": "2026-10-05T17:48:14.000Z",
       "summary": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual. Although Large Lan",
       "category": "Research",
-      "score": 42.262
+      "score": 41.361
     },
     {
       "id": "how-to-scale-your-hep-ml-models-a-recipe-for-robust-architec-fexz53",
@@ -876,7 +896,7 @@
       "publishedAt": "2026-10-05T17:44:43.000Z",
       "summary": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now ",
       "category": "Research",
-      "score": 42.254
+      "score": 41.354
     },
     {
       "id": "t-search-an-open-agentic-retriever-and-playground-for-hard-m-49e2pd",
@@ -886,7 +906,7 @@
       "publishedAt": "2026-10-05T17:44:26.000Z",
       "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list of evidence chunks ",
       "category": "Research",
-      "score": 42.253
+      "score": 41.354
     },
     {
       "id": "dust-pretraining-transformers-without-backpropagation-qauofy",
@@ -896,7 +916,7 @@
       "publishedAt": "2026-10-05T21:15:07Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 41.889
+      "score": 41.122
     },
     {
       "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
@@ -1185,26 +1205,6 @@
       "sourceName": "arXiv",
       "publishedAt": "2026-09-30T17:48:21.000Z",
       "summary": "Physics-constrained generative models aim to generate physical fields that match a target distribution and satisfy prescribed constraints. However, enforcing these constraints often increases sampling costs through itera",
-      "category": "Research",
-      "score": 40.754
-    },
-    {
-      "id": "linguistic-loopholes-in-llm-unlearning-from-a-174-language-b-oporkf",
-      "title": "Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning",
-      "url": "http://arxiv.org/abs/2609.40286v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-09-30T17:48:13.000Z",
-      "summary": "Unlearning a fact in one language does not guarantee its removal in others as changing the query or even the requested answer language can reopen seemingly forgotten knowledge -- a cross-lingual loophole. The most straig",
-      "category": "Research",
-      "score": 40.754
-    },
-    {
-      "id": "pivotopd-learning-to-recover-from-pivotal-mistakes-in-multi--rxeqdy",
-      "title": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
-      "url": "http://arxiv.org/abs/2609.40285v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-09-30T17:48:11.000Z",
-      "summary": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorrect action changes th",
       "category": "Research",
       "score": 40.754
     }
