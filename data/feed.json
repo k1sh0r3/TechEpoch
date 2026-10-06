@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T13:01:17.729Z",
+  "updatedAt": "2026-10-06T22:29:56.485Z",
   "totalItems": 120,
   "categories": {
-    "AI": 45,
-    "Robotics": 15,
-    "Research": 58,
-    "Machine Learning": 2
+    "AI": 46,
+    "Robotics": 16,
+    "Machine Learning": 1,
+    "Research": 57
   },
   "items": [
     {
@@ -19,14 +19,14 @@
       "score": 55.319
     },
     {
-      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-w-5uhuly",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "id": "openai-will-watermark-chatgpt-outputs-by-default-but-only-in-q2nqi",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-06T12:21:53.000Z",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "publishedAt": "2026-10-06T20:50:32.000Z",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
       "category": "AI",
-      "score": 53.891
+      "score": 53.729
     },
     {
       "id": "europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuat-pi16at",
@@ -57,6 +57,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.505
+    },
+    {
+      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-w-5uhuly",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T12:21:53.000Z",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "category": "AI",
+      "score": 52.477
     },
     {
       "id": "gemini-ending-free-use-of-flash-and-pro-models-raxwcg",
@@ -107,6 +117,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.096
+    },
+    {
+      "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T21:31:10.000Z",
+      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "category": "Robotics",
+      "score": 50.838
     },
     {
       "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony--x7982c",
@@ -609,316 +629,6 @@
       "score": 43.301
     },
     {
-      "id": "one-figure-every-canvas-editable-flowchart-relayout-via-agen-wxgqn3",
-      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-      "url": "http://arxiv.org/abs/2610.06852v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:54.000Z",
-      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the ",
-      "category": "Research",
-      "score": 41.382
-    },
-    {
-      "id": "base-models-can-reason-by-taking-a-cue-from-training-data-clewoy",
-      "title": "Base Models Can Reason By Taking a Cue From Training Data",
-      "url": "http://arxiv.org/abs/2610.06851v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:52.000Z",
-      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting tok",
-      "category": "Research",
-      "score": 41.382
-    },
-    {
-      "id": "intermimicgen-scaling-humanoid-loco-manipulation-through-sel-8vby1o",
-      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-      "url": "http://arxiv.org/abs/2610.06850v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:50.000Z",
-      "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-im",
-      "category": "Research",
-      "score": 41.382
-    },
-    {
-      "id": "s2pd-serial-to-parallel-diffusion-for-physically-and-logical-182tcb",
-      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-      "url": "http://arxiv.org/abs/2610.06847v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:35.000Z",
-      "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rul",
-      "category": "Research",
-      "score": 41.382
-    },
-    {
-      "id": "biasflow-geometric-monitoring-and-backbone-regularization-fo-1ppp6s",
-      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-      "url": "http://arxiv.org/abs/2610.06846v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:28.000Z",
-      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute ce",
-      "category": "Research",
-      "score": 41.382
-    },
-    {
-      "id": "learning-to-read-the-contextual-tokens-in-diffusion-transfor-3ogg3h",
-      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-      "url": "http://arxiv.org/abs/2610.06844v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:17.000Z",
-      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextua",
-      "category": "Research",
-      "score": 41.381
-    },
-    {
-      "id": "recursive-video-in-context-learning-for-agentic-robot-vzs016",
-      "title": "Recursive Video In-Context Learning for Agentic Robot",
-      "url": "http://arxiv.org/abs/2610.06843v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:59:11.000Z",
-      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fit",
-      "category": "Research",
-      "score": 41.381
-    },
-    {
-      "id": "anatomy-aware-fine-grained-multimodal-fusion-for-laryngophar-2p65we",
-      "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
-      "url": "http://arxiv.org/abs/2610.06837v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:58:28.000Z",
-      "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challeng",
-      "category": "Research",
-      "score": 41.38
-    },
-    {
-      "id": "direct-intermediate-initialization-for-tilted-diffusion-samp-ejq8gz",
-      "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
-      "url": "http://arxiv.org/abs/2610.06834v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:58:18.000Z",
-      "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with ",
-      "category": "Research",
-      "score": 41.379
-    },
-    {
-      "id": "towards-looped-models-done-right-part-ii-rethinking-at-fixed-79br8j",
-      "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
-      "url": "http://arxiv.org/abs/2610.06833v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:58:15.000Z",
-      "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables trun",
-      "category": "Research",
-      "score": 41.379
-    },
-    {
-      "id": "unislider-perceptually-uniform-sliders-for-continuous-image--u5qvce",
-      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
-      "url": "http://arxiv.org/abs/2610.06831v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:58:11.000Z",
-      "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a promp",
-      "category": "Research",
-      "score": 41.379
-    },
-    {
-      "id": "mempilot-orchestrating-on-demand-multimodal-memory-curation--5qa8uz",
-      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-      "url": "http://arxiv.org/abs/2610.06830v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:58:06.000Z",
-      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can in",
-      "category": "Research",
-      "score": 41.379
-    },
-    {
-      "id": "clift-conformal-self-verification-for-web-agent-training-and-lb3kw5",
-      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
-      "url": "http://arxiv.org/abs/2610.06829v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:57:51.000Z",
-      "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, w",
-      "category": "Research",
-      "score": 41.379
-    },
-    {
-      "id": "plotground-grounding-plot-digitization-in-real-scientific-fi-xi0tek",
-      "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
-      "url": "http://arxiv.org/abs/2610.06825v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:57:19.000Z",
-      "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains uncle",
-      "category": "Research",
-      "score": 41.378
-    },
-    {
-      "id": "tasteval-measuring-the-experimental-research-taste-of-ai-sys-9hknu6",
-      "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
-      "url": "http://arxiv.org/abs/2610.06824v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:57:15.000Z",
-      "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experime",
-      "category": "Research",
-      "score": 41.377
-    },
-    {
-      "id": "deep-learning-for-sleep-heart-rate-estimation-from-accelerom-59gykc",
-      "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
-      "url": "http://arxiv.org/abs/2610.06823v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:56:57.000Z",
-      "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a tr",
-      "category": "Research",
-      "score": 41.377
-    },
-    {
-      "id": "private-online-learning-and-prediction-for-littlestone-class-eao2hk",
-      "title": "Private online learning and prediction for Littlestone classes",
-      "url": "http://arxiv.org/abs/2610.06822v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:56:47.000Z",
-      "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in o",
-      "category": "Research",
-      "score": 41.377
-    },
-    {
-      "id": "paradee-distilling-kokoro-82m-into-an-8m-parameter-single-vo-4ssd2m",
-      "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
-      "url": "http://arxiv.org/abs/2610.06817v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:56:07.000Z",
-      "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of it",
-      "category": "Research",
-      "score": 41.375
-    },
-    {
-      "id": "tapdreamer-transferable-adversarial-patches-for-world-action-c3q89f",
-      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
-      "url": "http://arxiv.org/abs/2610.06814v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:55:21.000Z",
-      "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the",
-      "category": "Research",
-      "score": 41.374
-    },
-    {
-      "id": "less-context-better-geometry-masked-geometric-encoder-for-ro-yj3z3o",
-      "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
-      "url": "http://arxiv.org/abs/2610.06813v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:55:06.000Z",
-      "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads t",
-      "category": "Research",
-      "score": 41.373
-    },
-    {
-      "id": "finding-gaussian-structure-in-bosonic-states-xcdwyr",
-      "title": "Finding Gaussian Structure in Bosonic States",
-      "url": "http://arxiv.org/abs/2610.06810v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:54:36.000Z",
-      "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, ",
-      "category": "Research",
-      "score": 41.372
-    },
-    {
-      "id": "block-disentanglement-in-crl-bridging-identifiability-and-vi-6gluy4",
-      "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
-      "url": "http://arxiv.org/abs/2610.06809v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:54:25.000Z",
-      "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications wh",
-      "category": "Research",
-      "score": 41.372
-    },
-    {
-      "id": "h-jepa-end-to-end-learning-of-hierarchical-world-models-for--hcpnk0",
-      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
-      "url": "http://arxiv.org/abs/2610.06805v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:53:34.000Z",
-      "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in ",
-      "category": "Research",
-      "score": 41.371
-    },
-    {
-      "id": "sharpen-without-search-on-policy-distillation-of-sequence-le-87eiwp",
-      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
-      "url": "http://arxiv.org/abs/2610.06804v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:53:30.000Z",
-      "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution",
-      "category": "Research",
-      "score": 41.37
-    },
-    {
-      "id": "mc-sparse-deconstructing-and-closing-the-dense-sparse-attent-buc4zw",
-      "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
-      "url": "http://arxiv.org/abs/2610.06801v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:51:42.000Z",
-      "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade gen",
-      "category": "Research",
-      "score": 41.367
-    },
-    {
-      "id": "a-response-theory-probe-for-learned-stochastic-ai-simulators-jty9mb",
-      "title": "A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63",
-      "url": "http://arxiv.org/abs/2610.06798v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:51:23.000Z",
-      "summary": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection",
-      "category": "Research",
-      "score": 41.366
-    },
-    {
-      "id": "round-trip-knn-clustering-multiscale-hierarchical-cluster-de-atpzl6",
-      "title": "Round-Trip KNN Clustering: multiscale hierarchical cluster detection on directed nearest-neighbour graphs",
-      "url": "http://arxiv.org/abs/2610.06795v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:50:16.000Z",
-      "summary": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approaches that first make a",
-      "category": "Research",
-      "score": 41.364
-    },
-    {
-      "id": "back-to-the-future-rethinking-eda-infrastructure-for-agentic-hh7gxi",
-      "title": "Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
-      "url": "http://arxiv.org/abs/2610.06790v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:48:14.000Z",
-      "summary": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual. Although Large Lan",
-      "category": "Research",
-      "score": 41.361
-    },
-    {
-      "id": "how-to-scale-your-hep-ml-models-a-recipe-for-robust-architec-fexz53",
-      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
-      "url": "http://arxiv.org/abs/2610.06784v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:44:43.000Z",
-      "summary": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now ",
-      "category": "Research",
-      "score": 41.354
-    },
-    {
-      "id": "t-search-an-open-agentic-retriever-and-playground-for-hard-m-49e2pd",
-      "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
-      "url": "http://arxiv.org/abs/2610.06782v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-05T17:44:26.000Z",
-      "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list of evidence chunks ",
-      "category": "Research",
-      "score": 41.354
-    },
-    {
-      "id": "dust-pretraining-transformers-without-backpropagation-qauofy",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-05T21:15:07Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.122
-    },
-    {
       "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
@@ -1207,6 +917,296 @@
       "summary": "Physics-constrained generative models aim to generate physical fields that match a target distribution and satisfy prescribed constraints. However, enforcing these constraints often increases sampling costs through itera",
       "category": "Research",
       "score": 40.754
+    },
+    {
+      "id": "one-figure-every-canvas-editable-flowchart-relayout-via-agen-wxgqn3",
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "url": "http://arxiv.org/abs/2610.06852v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:54.000Z",
+      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the ",
+      "category": "Research",
+      "score": 40.418
+    },
+    {
+      "id": "base-models-can-reason-by-taking-a-cue-from-training-data-clewoy",
+      "title": "Base Models Can Reason By Taking a Cue From Training Data",
+      "url": "http://arxiv.org/abs/2610.06851v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:52.000Z",
+      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting tok",
+      "category": "Research",
+      "score": 40.418
+    },
+    {
+      "id": "intermimicgen-scaling-humanoid-loco-manipulation-through-sel-8vby1o",
+      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "url": "http://arxiv.org/abs/2610.06850v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:50.000Z",
+      "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-im",
+      "category": "Research",
+      "score": 40.418
+    },
+    {
+      "id": "s2pd-serial-to-parallel-diffusion-for-physically-and-logical-182tcb",
+      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "url": "http://arxiv.org/abs/2610.06847v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:35.000Z",
+      "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rul",
+      "category": "Research",
+      "score": 40.417
+    },
+    {
+      "id": "biasflow-geometric-monitoring-and-backbone-regularization-fo-1ppp6s",
+      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "url": "http://arxiv.org/abs/2610.06846v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:28.000Z",
+      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute ce",
+      "category": "Research",
+      "score": 40.417
+    },
+    {
+      "id": "learning-to-read-the-contextual-tokens-in-diffusion-transfor-3ogg3h",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2610.06844v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:17.000Z",
+      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextua",
+      "category": "Research",
+      "score": 40.417
+    },
+    {
+      "id": "recursive-video-in-context-learning-for-agentic-robot-vzs016",
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "url": "http://arxiv.org/abs/2610.06843v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:11.000Z",
+      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fit",
+      "category": "Research",
+      "score": 40.417
+    },
+    {
+      "id": "anatomy-aware-fine-grained-multimodal-fusion-for-laryngophar-2p65we",
+      "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+      "url": "http://arxiv.org/abs/2610.06837v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:28.000Z",
+      "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challeng",
+      "category": "Research",
+      "score": 40.416
+    },
+    {
+      "id": "direct-intermediate-initialization-for-tilted-diffusion-samp-ejq8gz",
+      "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+      "url": "http://arxiv.org/abs/2610.06834v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:18.000Z",
+      "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with ",
+      "category": "Research",
+      "score": 40.416
+    },
+    {
+      "id": "towards-looped-models-done-right-part-ii-rethinking-at-fixed-79br8j",
+      "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+      "url": "http://arxiv.org/abs/2610.06833v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:15.000Z",
+      "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables trun",
+      "category": "Research",
+      "score": 40.415
+    },
+    {
+      "id": "unislider-perceptually-uniform-sliders-for-continuous-image--u5qvce",
+      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+      "url": "http://arxiv.org/abs/2610.06831v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:11.000Z",
+      "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a promp",
+      "category": "Research",
+      "score": 40.415
+    },
+    {
+      "id": "mempilot-orchestrating-on-demand-multimodal-memory-curation--5qa8uz",
+      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+      "url": "http://arxiv.org/abs/2610.06830v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:06.000Z",
+      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can in",
+      "category": "Research",
+      "score": 40.415
+    },
+    {
+      "id": "clift-conformal-self-verification-for-web-agent-training-and-lb3kw5",
+      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "url": "http://arxiv.org/abs/2610.06829v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:51.000Z",
+      "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, w",
+      "category": "Research",
+      "score": 40.415
+    },
+    {
+      "id": "plotground-grounding-plot-digitization-in-real-scientific-fi-xi0tek",
+      "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+      "url": "http://arxiv.org/abs/2610.06825v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:19.000Z",
+      "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains uncle",
+      "category": "Research",
+      "score": 40.414
+    },
+    {
+      "id": "tasteval-measuring-the-experimental-research-taste-of-ai-sys-9hknu6",
+      "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+      "url": "http://arxiv.org/abs/2610.06824v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:15.000Z",
+      "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experime",
+      "category": "Research",
+      "score": 40.414
+    },
+    {
+      "id": "deep-learning-for-sleep-heart-rate-estimation-from-accelerom-59gykc",
+      "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+      "url": "http://arxiv.org/abs/2610.06823v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:57.000Z",
+      "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a tr",
+      "category": "Research",
+      "score": 40.413
+    },
+    {
+      "id": "private-online-learning-and-prediction-for-littlestone-class-eao2hk",
+      "title": "Private online learning and prediction for Littlestone classes",
+      "url": "http://arxiv.org/abs/2610.06822v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:47.000Z",
+      "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in o",
+      "category": "Research",
+      "score": 40.413
+    },
+    {
+      "id": "paradee-distilling-kokoro-82m-into-an-8m-parameter-single-vo-4ssd2m",
+      "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+      "url": "http://arxiv.org/abs/2610.06817v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:07.000Z",
+      "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of it",
+      "category": "Research",
+      "score": 40.412
+    },
+    {
+      "id": "tapdreamer-transferable-adversarial-patches-for-world-action-c3q89f",
+      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+      "url": "http://arxiv.org/abs/2610.06814v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:55:21.000Z",
+      "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the",
+      "category": "Research",
+      "score": 40.411
+    },
+    {
+      "id": "less-context-better-geometry-masked-geometric-encoder-for-ro-yj3z3o",
+      "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+      "url": "http://arxiv.org/abs/2610.06813v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:55:06.000Z",
+      "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads t",
+      "category": "Research",
+      "score": 40.411
+    },
+    {
+      "id": "finding-gaussian-structure-in-bosonic-states-xcdwyr",
+      "title": "Finding Gaussian Structure in Bosonic States",
+      "url": "http://arxiv.org/abs/2610.06810v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:54:36.000Z",
+      "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, ",
+      "category": "Research",
+      "score": 40.41
+    },
+    {
+      "id": "block-disentanglement-in-crl-bridging-identifiability-and-vi-6gluy4",
+      "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
+      "url": "http://arxiv.org/abs/2610.06809v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:54:25.000Z",
+      "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications wh",
+      "category": "Research",
+      "score": 40.41
+    },
+    {
+      "id": "h-jepa-end-to-end-learning-of-hierarchical-world-models-for--hcpnk0",
+      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+      "url": "http://arxiv.org/abs/2610.06805v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:53:34.000Z",
+      "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in ",
+      "category": "Research",
+      "score": 40.408
+    },
+    {
+      "id": "sharpen-without-search-on-policy-distillation-of-sequence-le-87eiwp",
+      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+      "url": "http://arxiv.org/abs/2610.06804v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:53:30.000Z",
+      "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution",
+      "category": "Research",
+      "score": 40.408
+    },
+    {
+      "id": "mc-sparse-deconstructing-and-closing-the-dense-sparse-attent-buc4zw",
+      "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2610.06801v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:51:42.000Z",
+      "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade gen",
+      "category": "Research",
+      "score": 40.405
+    },
+    {
+      "id": "a-response-theory-probe-for-learned-stochastic-ai-simulators-jty9mb",
+      "title": "A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63",
+      "url": "http://arxiv.org/abs/2610.06798v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:51:23.000Z",
+      "summary": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection",
+      "category": "Research",
+      "score": 40.405
+    },
+    {
+      "id": "round-trip-knn-clustering-multiscale-hierarchical-cluster-de-atpzl6",
+      "title": "Round-Trip KNN Clustering: multiscale hierarchical cluster detection on directed nearest-neighbour graphs",
+      "url": "http://arxiv.org/abs/2610.06795v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:50:16.000Z",
+      "summary": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approaches that first make a",
+      "category": "Research",
+      "score": 40.403
+    },
+    {
+      "id": "back-to-the-future-rethinking-eda-infrastructure-for-agentic-hh7gxi",
+      "title": "Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
+      "url": "http://arxiv.org/abs/2610.06790v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:48:14.000Z",
+      "summary": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual. Although Large Lan",
+      "category": "Research",
+      "score": 40.4
+    },
+    {
+      "id": "how-to-scale-your-hep-ml-models-a-recipe-for-robust-architec-fexz53",
+      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
+      "url": "http://arxiv.org/abs/2610.06784v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:44:43.000Z",
+      "summary": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now ",
+      "category": "Research",
+      "score": 40.395
     }
   ]
 }
