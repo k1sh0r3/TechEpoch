@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T23:52:44.706Z",
+  "updatedAt": "2026-10-06T05:33:47.852Z",
   "totalItems": 120,
   "categories": {
     "AI": 43,
     "Robotics": 15,
-    "Machine Learning": 2,
-    "Research": 60
+    "Research": 60,
+    "Machine Learning": 2
   },
   "items": [
     {
@@ -46,7 +46,7 @@
       "publishedAt": "2026-10-05T22:46:45Z",
       "summary": "",
       "category": "AI",
-      "score": 52.387
+      "score": 52.505
     },
     {
       "id": "gemini-ending-free-use-of-flash-and-pro-models-raxwcg",
@@ -89,16 +89,6 @@
       "score": 51.191
     },
     {
-      "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony--x7982c",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-05T05:37:40Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.16
-    },
-    {
       "id": "religious-scholars-met-with-anthropic-yaavdw",
       "title": "Religious scholars met with Anthropic",
       "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
@@ -107,6 +97,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.096
+    },
+    {
+      "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony--x7982c",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-05T05:37:40Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.669
     },
     {
       "id": "from-the-creator-of-redis-run-llm-locally-with-ds4-lxmjl7",
@@ -129,16 +129,6 @@
       "score": 50.121
     },
     {
-      "id": "russian-drones-strike-ukraine-s-data-centers-by-exploiting-a-qz5rvu",
-      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-05T17:21:11.000Z",
-      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-      "category": "Robotics",
-      "score": 49.983
-    },
-    {
       "id": "gpt-synopsys-frontier-intelligence-to-revolutionize-chip-des-61hfki",
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
@@ -147,6 +137,16 @@
       "summary": "",
       "category": "AI",
       "score": 49.934
+    },
+    {
+      "id": "russian-drones-strike-ukraine-s-data-centers-by-exploiting-a-qz5rvu",
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-05T17:21:11.000Z",
+      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+      "category": "Robotics",
+      "score": 49.203
     },
     {
       "id": "greg-kroah-hartman-security-in-the-llm-age-video-ahbcg0",
@@ -169,16 +169,6 @@
       "score": 48.868
     },
     {
-      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-05T08:00:00.000Z",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
-      "category": "AI",
-      "score": 48.747
-    },
-    {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
@@ -197,6 +187,16 @@
       "summary": "",
       "category": "AI",
       "score": 48.445
+    },
+    {
+      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+      "category": "AI",
+      "score": 48.105
     },
     {
       "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web-my3j1f",
@@ -236,7 +236,7 @@
       "publishedAt": "2026-10-02T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —J",
       "category": "AI",
-      "score": 47.399
+      "score": 47.242
     },
     {
       "id": "decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit-a9el02",
@@ -286,7 +286,7 @@
       "publishedAt": "2026-10-02T23:03:16.000Z",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "category": "AI",
-      "score": 44.755
+      "score": 44.559
     },
     {
       "id": "don-t-be-fooled-llms-don-t-reason-64oxzo",
@@ -296,7 +296,7 @@
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
       "category": "AI",
-      "score": 44.282
+      "score": 44.139
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -589,6 +589,306 @@
       "score": 43.301
     },
     {
+      "id": "one-figure-every-canvas-editable-flowchart-relayout-via-agen-wxgqn3",
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "url": "http://arxiv.org/abs/2610.06852v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:54.000Z",
+      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the ",
+      "category": "Research",
+      "score": 42.287
+    },
+    {
+      "id": "base-models-can-reason-by-taking-a-cue-from-training-data-clewoy",
+      "title": "Base Models Can Reason By Taking a Cue From Training Data",
+      "url": "http://arxiv.org/abs/2610.06851v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:52.000Z",
+      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting tok",
+      "category": "Research",
+      "score": 42.287
+    },
+    {
+      "id": "intermimicgen-scaling-humanoid-loco-manipulation-through-sel-8vby1o",
+      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "url": "http://arxiv.org/abs/2610.06850v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:50.000Z",
+      "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-im",
+      "category": "Research",
+      "score": 42.287
+    },
+    {
+      "id": "s2pd-serial-to-parallel-diffusion-for-physically-and-logical-182tcb",
+      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "url": "http://arxiv.org/abs/2610.06847v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:35.000Z",
+      "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rul",
+      "category": "Research",
+      "score": 42.286
+    },
+    {
+      "id": "biasflow-geometric-monitoring-and-backbone-regularization-fo-1ppp6s",
+      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "url": "http://arxiv.org/abs/2610.06846v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:28.000Z",
+      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute ce",
+      "category": "Research",
+      "score": 42.286
+    },
+    {
+      "id": "learning-to-read-the-contextual-tokens-in-diffusion-transfor-3ogg3h",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2610.06844v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:17.000Z",
+      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextua",
+      "category": "Research",
+      "score": 42.286
+    },
+    {
+      "id": "recursive-video-in-context-learning-for-agentic-robot-vzs016",
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "url": "http://arxiv.org/abs/2610.06843v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:59:11.000Z",
+      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fit",
+      "category": "Research",
+      "score": 42.286
+    },
+    {
+      "id": "anatomy-aware-fine-grained-multimodal-fusion-for-laryngophar-2p65we",
+      "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+      "url": "http://arxiv.org/abs/2610.06837v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:28.000Z",
+      "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challeng",
+      "category": "Research",
+      "score": 42.284
+    },
+    {
+      "id": "direct-intermediate-initialization-for-tilted-diffusion-samp-ejq8gz",
+      "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+      "url": "http://arxiv.org/abs/2610.06834v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:18.000Z",
+      "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with ",
+      "category": "Research",
+      "score": 42.284
+    },
+    {
+      "id": "towards-looped-models-done-right-part-ii-rethinking-at-fixed-79br8j",
+      "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+      "url": "http://arxiv.org/abs/2610.06833v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:15.000Z",
+      "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables trun",
+      "category": "Research",
+      "score": 42.284
+    },
+    {
+      "id": "unislider-perceptually-uniform-sliders-for-continuous-image--u5qvce",
+      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+      "url": "http://arxiv.org/abs/2610.06831v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:11.000Z",
+      "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a promp",
+      "category": "Research",
+      "score": 42.283
+    },
+    {
+      "id": "mempilot-orchestrating-on-demand-multimodal-memory-curation--5qa8uz",
+      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+      "url": "http://arxiv.org/abs/2610.06830v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:58:06.000Z",
+      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can in",
+      "category": "Research",
+      "score": 42.283
+    },
+    {
+      "id": "clift-conformal-self-verification-for-web-agent-training-and-lb3kw5",
+      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "url": "http://arxiv.org/abs/2610.06829v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:51.000Z",
+      "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, w",
+      "category": "Research",
+      "score": 42.283
+    },
+    {
+      "id": "plotground-grounding-plot-digitization-in-real-scientific-fi-xi0tek",
+      "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+      "url": "http://arxiv.org/abs/2610.06825v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:19.000Z",
+      "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains uncle",
+      "category": "Research",
+      "score": 42.281
+    },
+    {
+      "id": "tasteval-measuring-the-experimental-research-taste-of-ai-sys-9hknu6",
+      "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+      "url": "http://arxiv.org/abs/2610.06824v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:57:15.000Z",
+      "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experime",
+      "category": "Research",
+      "score": 42.281
+    },
+    {
+      "id": "deep-learning-for-sleep-heart-rate-estimation-from-accelerom-59gykc",
+      "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+      "url": "http://arxiv.org/abs/2610.06823v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:57.000Z",
+      "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a tr",
+      "category": "Research",
+      "score": 42.281
+    },
+    {
+      "id": "private-online-learning-and-prediction-for-littlestone-class-eao2hk",
+      "title": "Private online learning and prediction for Littlestone classes",
+      "url": "http://arxiv.org/abs/2610.06822v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:47.000Z",
+      "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in o",
+      "category": "Research",
+      "score": 42.28
+    },
+    {
+      "id": "paradee-distilling-kokoro-82m-into-an-8m-parameter-single-vo-4ssd2m",
+      "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+      "url": "http://arxiv.org/abs/2610.06817v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:56:07.000Z",
+      "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of it",
+      "category": "Research",
+      "score": 42.279
+    },
+    {
+      "id": "tapdreamer-transferable-adversarial-patches-for-world-action-c3q89f",
+      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+      "url": "http://arxiv.org/abs/2610.06814v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:55:21.000Z",
+      "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the",
+      "category": "Research",
+      "score": 42.277
+    },
+    {
+      "id": "less-context-better-geometry-masked-geometric-encoder-for-ro-yj3z3o",
+      "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+      "url": "http://arxiv.org/abs/2610.06813v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:55:06.000Z",
+      "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads t",
+      "category": "Research",
+      "score": 42.277
+    },
+    {
+      "id": "finding-gaussian-structure-in-bosonic-states-xcdwyr",
+      "title": "Finding Gaussian Structure in Bosonic States",
+      "url": "http://arxiv.org/abs/2610.06810v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:54:36.000Z",
+      "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, ",
+      "category": "Research",
+      "score": 42.276
+    },
+    {
+      "id": "block-disentanglement-in-crl-bridging-identifiability-and-vi-6gluy4",
+      "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
+      "url": "http://arxiv.org/abs/2610.06809v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:54:25.000Z",
+      "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications wh",
+      "category": "Research",
+      "score": 42.275
+    },
+    {
+      "id": "h-jepa-end-to-end-learning-of-hierarchical-world-models-for--hcpnk0",
+      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+      "url": "http://arxiv.org/abs/2610.06805v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:53:34.000Z",
+      "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in ",
+      "category": "Research",
+      "score": 42.273
+    },
+    {
+      "id": "sharpen-without-search-on-policy-distillation-of-sequence-le-87eiwp",
+      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+      "url": "http://arxiv.org/abs/2610.06804v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:53:30.000Z",
+      "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution",
+      "category": "Research",
+      "score": 42.273
+    },
+    {
+      "id": "mc-sparse-deconstructing-and-closing-the-dense-sparse-attent-buc4zw",
+      "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2610.06801v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:51:42.000Z",
+      "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade gen",
+      "category": "Research",
+      "score": 42.269
+    },
+    {
+      "id": "a-response-theory-probe-for-learned-stochastic-ai-simulators-jty9mb",
+      "title": "A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63",
+      "url": "http://arxiv.org/abs/2610.06798v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:51:23.000Z",
+      "summary": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection",
+      "category": "Research",
+      "score": 42.269
+    },
+    {
+      "id": "round-trip-knn-clustering-multiscale-hierarchical-cluster-de-atpzl6",
+      "title": "Round-Trip KNN Clustering: multiscale hierarchical cluster detection on directed nearest-neighbour graphs",
+      "url": "http://arxiv.org/abs/2610.06795v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:50:16.000Z",
+      "summary": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approaches that first make a",
+      "category": "Research",
+      "score": 42.266
+    },
+    {
+      "id": "back-to-the-future-rethinking-eda-infrastructure-for-agentic-hh7gxi",
+      "title": "Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
+      "url": "http://arxiv.org/abs/2610.06790v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:48:14.000Z",
+      "summary": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual. Although Large Lan",
+      "category": "Research",
+      "score": 42.262
+    },
+    {
+      "id": "how-to-scale-your-hep-ml-models-a-recipe-for-robust-architec-fexz53",
+      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
+      "url": "http://arxiv.org/abs/2610.06784v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:44:43.000Z",
+      "summary": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now ",
+      "category": "Research",
+      "score": 42.254
+    },
+    {
+      "id": "t-search-an-open-agentic-retriever-and-playground-for-hard-m-49e2pd",
+      "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
+      "url": "http://arxiv.org/abs/2610.06782v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-05T17:44:26.000Z",
+      "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list of evidence chunks ",
+      "category": "Research",
+      "score": 42.253
+    },
+    {
       "id": "dust-pretraining-transformers-without-backpropagation-qauofy",
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
@@ -596,7 +896,7 @@
       "publishedAt": "2026-10-05T21:15:07Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.443
+      "score": 41.889
     },
     {
       "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
@@ -907,306 +1207,6 @@
       "summary": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorrect action changes th",
       "category": "Research",
       "score": 40.754
-    },
-    {
-      "id": "moore-escher-penrose-a-conformal-golden-braid-mn5zrd",
-      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-      "url": "http://arxiv.org/abs/2610.02210v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:59.000Z",
-      "summary": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am ",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "sphere-encoder-2-c84kth",
-      "title": "Sphere Encoder 2",
-      "url": "http://arxiv.org/abs/2610.02208v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:58.000Z",
-      "summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, r",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "one-basis-to-animate-them-all-gaussian-blendshape-distillati-7ary61",
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-01T17:59:58.000Z",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be",
-      "category": "Research",
-      "score": 37.675
-    },
-    {
-      "id": "less-decoder-is-more-encoder-geometric-representation-learni-n2o5bv",
-      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-      "url": "http://arxiv.org/abs/2610.03717v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:59:14.000Z",
-      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representation",
-      "category": "Research",
-      "score": 37.579
-    },
-    {
-      "id": "mose3-learning-world-space-se-3-at-every-pixel-tlp9za",
-      "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-      "url": "http://arxiv.org/abs/2610.03716v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:58:52.000Z",
-      "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotation of the underlying ",
-      "category": "Research",
-      "score": 37.579
-    },
-    {
-      "id": "4dcodebench-benchmarking-agents-on-inverse-graphics-of-dynam-k80j6r",
-      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-      "url": "http://arxiv.org/abs/2610.03715v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:58:49.000Z",
-      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visu",
-      "category": "Research",
-      "score": 37.579
-    },
-    {
-      "id": "what-should-world-models-forget-stratified-retention-for-con-d3ycg9",
-      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-      "url": "http://arxiv.org/abs/2610.03713v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:58:14.000Z",
-      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World mo",
-      "category": "Research",
-      "score": 37.578
-    },
-    {
-      "id": "rnadyn-a-benchmark-for-generating-and-understanding-rna-dyna-uiytzl",
-      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-      "url": "http://arxiv.org/abs/2610.03712v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:58:08.000Z",
-      "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically trea",
-      "category": "Research",
-      "score": 37.578
-    },
-    {
-      "id": "eyerobot-2-0-active-gaze-for-precise-manipulation-without-wr-ety82a",
-      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-      "url": "http://arxiv.org/abs/2610.03710v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:57:51.000Z",
-      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by s",
-      "category": "Research",
-      "score": 37.578
-    },
-    {
-      "id": "from-mixing-to-tearing-graph-decomposition-in-decentralized--ltsfoc",
-      "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-      "url": "http://arxiv.org/abs/2610.03709v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:57:50.000Z",
-      "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, w",
-      "category": "Research",
-      "score": 37.578
-    },
-    {
-      "id": "lesser-post-training-data-selection-with-output-layer-gradie-demkyr",
-      "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
-      "url": "http://arxiv.org/abs/2610.03702v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:55:42.000Z",
-      "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with",
-      "category": "Research",
-      "score": 37.577
-    },
-    {
-      "id": "decoding-the-functional-roles-of-register-and-high-norm-patc-4qqimr",
-      "title": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
-      "url": "http://arxiv.org/abs/2610.03698v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:55:06.000Z",
-      "summary": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedicated register tokens",
-      "category": "Research",
-      "score": 37.577
-    },
-    {
-      "id": "language-models-that-play-chess-and-explain-their-moves-79w94n",
-      "title": "Language Models that Play Chess and Explain Their Moves",
-      "url": "http://arxiv.org/abs/2610.03695v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:54:22.000Z",
-      "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their wea",
-      "category": "Research",
-      "score": 37.576
-    },
-    {
-      "id": "transcriptome-informed-multi-modal-ai-for-predicting-neoadju-oz5cez",
-      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
-      "url": "http://arxiv.org/abs/2610.03693v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:52:57.000Z",
-      "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stag",
-      "category": "Research",
-      "score": 37.575
-    },
-    {
-      "id": "flowhmr-physically-plausible-motion-capture-from-video-8yrap3",
-      "title": "FlowHMR: Physically Plausible Motion Capture from Video",
-      "url": "http://arxiv.org/abs/2610.03691v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:52:48.000Z",
-      "summary": "We present FlowHMR, a framework for recovering physically plausible global 3D human motion from monocular video. Previous learning-based methods typically regress human motion directly from video and train the network wi",
-      "category": "Research",
-      "score": 37.575
-    },
-    {
-      "id": "siglip2-for-aerial-fire-risk-classification-wcd3fk",
-      "title": "SigLIP2 for aerial fire risk classification",
-      "url": "http://arxiv.org/abs/2610.03689v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:52:34.000Z",
-      "summary": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror and an implementatio",
-      "category": "Research",
-      "score": 37.575
-    },
-    {
-      "id": "simulation-free-learning-of-population-dynamics-with-wassers-gy98f8",
-      "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
-      "url": "http://arxiv.org/abs/2610.03679v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:46:52.000Z",
-      "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the under",
-      "category": "Research",
-      "score": 37.572
-    },
-    {
-      "id": "frugalevo-towards-cost-aware-llm-guided-program-evolution-r11oiy",
-      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-      "url": "http://arxiv.org/abs/2610.03675v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:44:05.000Z",
-      "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance g",
-      "category": "Research",
-      "score": 37.571
-    },
-    {
-      "id": "planning-to-learn-adub9e",
-      "title": "Planning to Learn",
-      "url": "http://arxiv.org/abs/2610.03667v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:38:28.000Z",
-      "summary": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has n",
-      "category": "Research",
-      "score": 37.568
-    },
-    {
-      "id": "pivot-sd-efficient-self-distillation-for-masked-diffusion-la-hp5fuv",
-      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
-      "url": "http://arxiv.org/abs/2610.03665v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:37:51.000Z",
-      "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during den",
-      "category": "Research",
-      "score": 37.567
-    },
-    {
-      "id": "proar-learning-prospective-reasoning-with-autoregressive-vid-gzmsk7",
-      "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
-      "url": "http://arxiv.org/abs/2610.03664v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:37:47.000Z",
-      "summary": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm. This limitation is particularly consequential for reasoning-or",
-      "category": "Research",
-      "score": 37.567
-    },
-    {
-      "id": "forecasting-from-counterfactual-simulator-rollouts-a-sim2rea-dd1pzf",
-      "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
-      "url": "http://arxiv.org/abs/2610.03662v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:37:14.000Z",
-      "summary": "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new pol",
-      "category": "Research",
-      "score": 37.567
-    },
-    {
-      "id": "revisiting-input-time-frequency-representations-in-multi-pit-g0rrbk",
-      "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
-      "url": "http://arxiv.org/abs/2610.03656v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:35:06.000Z",
-      "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency repr",
-      "category": "Research",
-      "score": 37.566
-    },
-    {
-      "id": "mrvq-one-resident-index-for-dimension-and-rate-elastic-vecto-u6qb6i",
-      "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
-      "url": "http://arxiv.org/abs/2610.03651v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:33:13.000Z",
-      "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retri",
-      "category": "Research",
-      "score": 37.565
-    },
-    {
-      "id": "pocofl-policy-compliant-federated-learning-n24tel",
-      "title": "PoCoFL: POlicy-COmpliant Federated Learning",
-      "url": "http://arxiv.org/abs/2610.03650v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:33:01.000Z",
-      "summary": "Federated Learning (FL) is a privacy-oriented learning paradigm that enables collaborative model training while keeping training data local to participating clients. However, it does not guarantee that clients submit pol",
-      "category": "Research",
-      "score": 37.565
-    },
-    {
-      "id": "on-board-anomaly-detection-for-efficient-marine-environmenta-vzkd76",
-      "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
-      "url": "http://arxiv.org/abs/2610.03649v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:32:34.000Z",
-      "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (",
-      "category": "Research",
-      "score": 37.564
-    },
-    {
-      "id": "amortized-structured-stochastic-variational-inference-for-ga-5sz8df",
-      "title": "Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models",
-      "url": "http://arxiv.org/abs/2610.03647v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:32:05.000Z",
-      "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of this learned manifold.",
-      "category": "Research",
-      "score": 37.564
-    },
-    {
-      "id": "when-may-a-bandit-leave-its-anchor-e-process-authorized-thom-l39kxm",
-      "title": "When May a Bandit Leave Its Anchor? E-Process-Authorized Thompson Sampling under Non-stationarity",
-      "url": "http://arxiv.org/abs/2610.03646v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:31:50.000Z",
-      "summary": "Stationarity rewards memory, but after a change the same history can mislead. We ask when forgetting should be permitted. E-process-authorized Thompson sampling (e-ATS) gives each arm full-history and discounted Beta sta",
-      "category": "Research",
-      "score": 37.564
-    },
-    {
-      "id": "on-the-convergence-of-success-conditioning-for-policy-optimi-my8nu6",
-      "title": "On the Convergence of Success Conditioning for Policy Optimization",
-      "url": "http://arxiv.org/abs/2610.03642v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:29:38.000Z",
-      "summary": "Success conditioning is a strategy for improving decision-making policies in stochastic environments; it updates a policy by increasing the probability of taking actions that yield successful outcomes. Success conditioni",
-      "category": "Research",
-      "score": 37.563
-    },
-    {
-      "id": "idrf-inverse-distilled-reward-fine-tuning-of-masked-discrete-hltjll",
-      "title": "IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.03641v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-02T17:29:22.000Z",
-      "summary": "Masked discrete diffusion models offer a promising alternative to autoregressive generation, but iterative sampling can be costly, and intractable sequence likelihoods complicate reward fine-tuning. We introduce IDRF, a ",
-      "category": "Research",
-      "score": 37.563
     }
   ]
 }
