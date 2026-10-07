@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-07T05:03:41.083Z",
+  "updatedAt": "2026-10-07T12:55:26.105Z",
   "totalItems": 120,
   "categories": {
-    "AI": 48,
+    "AI": 49,
     "Robotics": 16,
-    "Research": 55,
+    "Research": 54,
     "Machine Learning": 1
   },
   "items": [
@@ -27,16 +27,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 52.81
-    },
-    {
-      "id": "openai-will-watermark-chatgpt-outputs-by-default-but-only-in-q2nqi",
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-06T20:50:32.000Z",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "category": "AI",
-      "score": 52.741
     },
     {
       "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-an-mo90ul",
@@ -69,6 +59,16 @@
       "score": 52.038
     },
     {
+      "id": "write-like-it-s-1866-llms-relearn-telegraphese-9vnj0u",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-07T12:04:36Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.939
+    },
+    {
       "id": "anthropic-tried-to-persuade-pope-that-ai-could-be-conscious--1srpcw",
       "title": "Anthropic tried to persuade Pope that AI could be conscious being",
       "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
@@ -79,14 +79,24 @@
       "score": 51.913
     },
     {
-      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-w-5uhuly",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-06T12:21:53.000Z",
-      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "id": "llms-and-data-poisoning-are-weaponized-to-manufacture-consen-4y5zby",
+      "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-07T11:23:55Z",
+      "summary": "",
       "category": "AI",
-      "score": 51.65
+      "score": 51.896
+    },
+    {
+      "id": "openai-will-watermark-chatgpt-outputs-by-default-but-only-in-q2nqi",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T20:50:32.000Z",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "category": "AI",
+      "score": 51.723
     },
     {
       "id": "aweb-communication-for-ai-agents-7pr1gr",
@@ -117,6 +127,26 @@
       "summary": "",
       "category": "AI",
       "score": 51.096
+    },
+    {
+      "id": "show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and--oru0se",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-07T03:30:44Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.067
+    },
+    {
+      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-w-5uhuly",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T12:21:53.000Z",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "category": "AI",
+      "score": 50.796
     },
     {
       "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony--x7982c",
@@ -159,16 +189,6 @@
       "score": 49.934
     },
     {
-      "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
-      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-06T21:31:10.000Z",
-      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
-      "category": "Robotics",
-      "score": 49.837
-    },
-    {
       "id": "llms-may-have-helped-my-rsi-d3wa41",
       "title": "LLMs may have helped my RSI",
       "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
@@ -177,16 +197,6 @@
       "summary": "",
       "category": "AI",
       "score": 49.47
-    },
-    {
-      "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-06T16:40:36.000Z",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from",
-      "category": "AI",
-      "score": 49.181
     },
     {
       "id": "greg-kroah-hartman-security-in-the-llm-age-video-ahbcg0",
@@ -207,6 +217,16 @@
       "summary": "",
       "category": "AI",
       "score": 48.868
+    },
+    {
+      "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-06T21:31:10.000Z",
+      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "category": "Robotics",
+      "score": 48.804
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -237,6 +257,16 @@
       "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
       "category": "Robotics",
       "score": 48.31
+    },
+    {
+      "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-06T16:40:36.000Z",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from",
+      "category": "AI",
+      "score": 48.247
     },
     {
       "id": "connecting-ai-agents-to-enterprise-knowledge-nlcvc2",
@@ -369,16 +399,6 @@
       "score": 43.778
     },
     {
-      "id": "we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-tcpa0w",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-30T10:40:30.000Z",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
-      "category": "AI",
-      "score": 43.742
-    },
-    {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
       "title": "What is AI? Your artificial intelligence questions, answered. – Vox",
       "url": "https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment",
@@ -417,16 +437,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
-    },
-    {
-      "id": "the-download-openai-s-chief-research-officer-explains-its-ha-2wbxgh",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s ",
-      "category": "AI",
-      "score": 43.632
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -656,7 +666,7 @@
       "publishedAt": "2026-10-06T17:59:56.000Z",
       "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on mo",
       "category": "Research",
-      "score": 42.353
+      "score": 41.393
     },
     {
       "id": "building-rome-from-a-single-image-mnh4hz",
@@ -666,7 +676,7 @@
       "publishedAt": "2026-10-06T17:59:50.000Z",
       "summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape prior, they are mainl",
       "category": "Research",
-      "score": 42.353
+      "score": 41.393
     },
     {
       "id": "qf3-fast-flow-rl-with-filtered-q-gradients-lgz3w",
@@ -676,7 +686,7 @@
       "publishedAt": "2026-10-06T17:59:34.000Z",
       "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch throu",
       "category": "Research",
-      "score": 42.352
+      "score": 41.393
     },
     {
       "id": "conformal-prediction-sets-quantify-information-gain-a-theore-4375se",
@@ -686,7 +696,7 @@
       "publishedAt": "2026-10-06T17:59:11.000Z",
       "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty,",
       "category": "Research",
-      "score": 42.352
+      "score": 41.392
     },
     {
       "id": "pears-physical-prior-guided-efficient-adaptation-via-failure-pvinw5",
@@ -696,7 +706,7 @@
       "publishedAt": "2026-10-06T17:59:03.000Z",
       "summary": "Pretrained robotic policies can suffer substantial performance degradation under out-of-distribution (OOD) conditions encountered during deployment, motivating post-training through real-world interaction. However, reinf",
       "category": "Research",
-      "score": 42.351
+      "score": 41.392
     },
     {
       "id": "4d-hof-hand-object-flow-matching-for-feed-forward-4d-interac-as3po5",
@@ -706,7 +716,7 @@
       "publishedAt": "2026-10-06T17:59:02.000Z",
       "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction p",
       "category": "Research",
-      "score": 42.351
+      "score": 41.392
     },
     {
       "id": "ideaanchor-teaching-llms-to-turn-literature-into-research-id-qbgsrj",
@@ -716,7 +726,7 @@
       "publishedAt": "2026-10-06T17:59:01.000Z",
       "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation re",
       "category": "Research",
-      "score": 42.351
+      "score": 41.392
     },
     {
       "id": "depthworld-3d-world-model-for-robot-manipulation-gc3blj",
@@ -726,7 +736,7 @@
       "publishedAt": "2026-10-06T17:59:00.000Z",
       "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current ",
       "category": "Research",
-      "score": 42.351
+      "score": 41.392
     },
     {
       "id": "alive-interaction-aligned-object-insertion-for-first-frame-g-rjfeon",
@@ -736,7 +746,7 @@
       "publishedAt": "2026-10-06T17:58:51.000Z",
       "summary": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects \"alive\" through coh",
       "category": "Research",
-      "score": 42.351
+      "score": 41.391
     },
     {
       "id": "sherpa-teaching-llms-to-teach-adaptively-v9i5sd",
@@ -746,7 +756,7 @@
       "publishedAt": "2026-10-06T17:58:18.000Z",
       "summary": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on demonst",
       "category": "Research",
-      "score": 42.35
+      "score": 41.39
     },
     {
       "id": "ctrlcache-accelerating-interactive-video-world-models-with-c-kxwovl",
@@ -756,7 +766,7 @@
       "publishedAt": "2026-10-06T17:57:29.000Z",
       "summary": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user controls. Many systems use chunk-wise autoregressive generation with few-step denoising, but each chunk sti",
       "category": "Research",
-      "score": 42.348
+      "score": 41.389
     },
     {
       "id": "agent-in-a-bottle-can-llm-agents-turn-their-capabilities-int-kwjoqn",
@@ -766,7 +776,7 @@
       "publishedAt": "2026-10-06T17:57:19.000Z",
       "summary": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solutions for such workl",
       "category": "Research",
-      "score": 42.348
+      "score": 41.388
     },
     {
       "id": "advsim2real-training-web-agents-against-adaptive-prompt-inje-6tl1xz",
@@ -776,7 +786,7 @@
       "publishedAt": "2026-10-06T17:56:43.000Z",
       "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply ignore the page, be",
       "category": "Research",
-      "score": 42.346
+      "score": 41.387
     },
     {
       "id": "backend-agnostic-sparse-attention-for-fast-high-resolution-v-o9p281",
@@ -786,7 +796,7 @@
       "publishedAt": "2026-10-06T17:55:24.000Z",
       "summary": "Diffusion Transformers (DiTs) have achieved strong performance in image and video generation, but the quadratic complexity of full attention makes high-resolution generation computationally expensive. Window attention of",
       "category": "Research",
-      "score": 42.343
+      "score": 41.385
     },
     {
       "id": "mission-aware-attestation-envelopes-for-time-critical-autono-gggj24",
@@ -796,7 +806,7 @@
       "publishedAt": "2026-10-06T17:55:18.000Z",
       "summary": "An autonomous system that asks for a privileged physical action is usually gated on integrity evidence: a platform proves what it is running, and the request is granted or refused on that basis. Such a gate is normally t",
       "category": "Research",
-      "score": 42.343
+      "score": 41.385
     },
     {
       "id": "data-leakage-in-patch-based-hyperspectral-image-classificati-mfx7ia",
@@ -806,7 +816,7 @@
       "publishedAt": "2026-10-06T17:55:05.000Z",
       "summary": "Patch-based learning improves hyperspectral image (HSI) classification by exploiting local spectral-spatial information, but random train-test sampling from the same image can cause spatial patch overlap, leading to data",
       "category": "Research",
-      "score": 42.343
+      "score": 41.384
     },
     {
       "id": "lba-cbf-rapidly-adaptive-safety-filters-via-parallel-dynamic-hhep3r",
@@ -816,7 +826,7 @@
       "publishedAt": "2026-10-06T17:51:12.000Z",
       "summary": "Control barrier functions (CBFs) certify commands through an assumed dynamics model, so an abrupt, unmeasured regime change can undermine the certificate exactly when safety matters most. We present Look-Back Adaptive Co",
       "category": "Research",
-      "score": 42.334
+      "score": 41.377
     },
     {
       "id": "rapid-fredholm-stabilization-of-the-kuramoto-sivashinsky-equ-z7s6aa",
@@ -826,7 +836,7 @@
       "publishedAt": "2026-10-06T17:50:54.000Z",
       "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of Coron",
       "category": "Research",
-      "score": 42.333
+      "score": 41.376
     },
     {
       "id": "verifine-scaling-verification-for-self-improvement-in-embodi-hf9uos",
@@ -836,7 +846,7 @@
       "publishedAt": "2026-10-06T17:50:29.000Z",
       "summary": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training ",
       "category": "Research",
-      "score": 42.332
+      "score": 41.376
     },
     {
       "id": "worldsonus-bringing-sound-to-worlds-2ine53",
@@ -846,7 +856,7 @@
       "publishedAt": "2026-10-06T17:50:18.000Z",
       "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time gen",
       "category": "Research",
-      "score": 42.332
+      "score": 41.375
     },
     {
       "id": "neural-petri-flows-for-chemical-reactions-mu9kmf",
@@ -856,7 +866,7 @@
       "publishedAt": "2026-10-06T17:44:56.000Z",
       "summary": "Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition f",
       "category": "Research",
-      "score": 42.32
+      "score": 41.365
     },
     {
       "id": "the-missing-minimal-pair-stereotype-evaluation-in-llms-8qy4j",
@@ -866,7 +876,7 @@
       "publishedAt": "2026-10-06T17:41:44.000Z",
       "summary": "A common approach to measuring bias in Large Language Models is to compare the log-likelihoods of two contrastive stereotype sentences. We argue that such single-pair comparisons are often unreliable: simply rewriting th",
       "category": "Research",
-      "score": 42.313
+      "score": 41.359
     },
     {
       "id": "linear-bandits-under-exact-sliding-window-constraints-kzzifq",
@@ -876,7 +886,7 @@
       "publishedAt": "2026-10-06T17:41:08.000Z",
       "summary": "We study linear bandits under exact sliding-window constraints, where every consecutive block of actions must belong to a prescribed feasible set. In the offline setting, where the reward function is known, we show that ",
       "category": "Research",
-      "score": 42.312
+      "score": 41.358
     },
     {
       "id": "reinforcement-learning-with-conformal-action-sets-an-applica-hld5mb",
@@ -886,7 +896,7 @@
       "publishedAt": "2026-10-06T17:40:52.000Z",
       "summary": "Sequential recommenders typically use a fixed slate size even though the number of useful alternatives changes within a session. We propose Reinforcement Learning with Calibrated Pruning (RLCP), which adapts the retained",
       "category": "Research",
-      "score": 42.311
+      "score": 41.358
     },
     {
       "id": "on-the-computational-tractability-of-robust-bandits-nlca0v",
@@ -896,7 +906,7 @@
       "publishedAt": "2026-10-06T17:38:34.000Z",
       "summary": "Learning when the environment does not belong to the learner's hypothesis class is typically handled using agnostic learning guarantees. However, for anything beyond supervised learning, agnostic guarantees are difficult",
       "category": "Research",
-      "score": 42.306
+      "score": 41.354
     },
     {
       "id": "phonebot-a-low-cost-open-humanoid-robot-platform-reusing-sma-kwdi35",
@@ -906,7 +916,7 @@
       "publishedAt": "2026-10-06T17:38:19.000Z",
       "summary": "The adoption of humanoid robots in education and research remains limited by high hardware costs, complex sensing systems, and substantial computational requirements. This paper presents PhoneBot, a low-cost, open-source",
       "category": "Research",
-      "score": 42.306
+      "score": 41.353
     },
     {
       "id": "denoising-hierarchical-representations-joint-continuous-diff-mp8qb",
@@ -916,7 +926,7 @@
       "publishedAt": "2026-10-06T17:38:19.000Z",
       "summary": "Diffusion Language Models (DLMs) hold the promise of order-agnostic, parallel text generation. Recently, continuous diffusion and flow matching models have seen substantial gains, driven by carefully crafted token repres",
       "category": "Research",
-      "score": 42.306
+      "score": 41.353
     },
     {
       "id": "optimal-and-efficient-online-inverse-optimization-hakzpg",
@@ -926,7 +936,7 @@
       "publishedAt": "2026-10-06T17:37:24.000Z",
       "summary": "In online inverse linear optimization, a learner recommends an action and then observes the choice of an expert who maximizes a fixed, unknown linear objective on $\\mathbb{R}^{d}$; the goal is to learn to optimize this o",
       "category": "Research",
-      "score": 42.304
+      "score": 41.351
     },
     {
       "id": "towards-an-extensible-benchmark-for-spoken-dialogue-with-soc-fmtyh0",
@@ -936,7 +946,7 @@
       "publishedAt": "2026-10-06T17:36:01.000Z",
       "summary": "Language models provide a plug-and-play interface between humans and robots, but important challenges remain when speech, dialogue, fast interaction, and collaboration are required. We propose a benchmark for the communi",
       "category": "Research",
-      "score": 42.301
+      "score": 41.349
     },
     {
       "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
@@ -1197,16 +1207,6 @@
       "summary": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, ",
       "category": "Research",
       "score": 40.758
-    },
-    {
-      "id": "disentangling-computation-in-multi-task-neural-networks-with-gg9n1u",
-      "title": "Disentangling Computation in Multi-Task Neural Networks with the Green's Operator",
-      "url": "http://arxiv.org/abs/2609.40292v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-09-30T17:49:59.000Z",
-      "summary": "How is computation organized and reused across tasks and time in a trained recurrent network? Most analyses emphasize the geometry of neural activity, dynamical motifs, or local perturbation growth. We instead study the ",
-      "category": "Research",
-      "score": 40.757
     }
   ]
 }
