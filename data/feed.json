@@ -1,23 +1,14 @@
 {
-  "updatedAt": "2026-10-08T13:03:46.554Z",
+  "updatedAt": "2026-10-08T23:05:47.163Z",
   "totalItems": 120,
   "categories": {
     "Robotics": 18,
-    "AI": 53,
+    "AI": 50,
     "Research": 48,
-    "Machine Learning": 1
+    "Machine Learning": 2,
+    "Tech": 2
   },
   "items": [
-    {
-      "id": "nvidia-s-big-bet-on-physical-ai-aims-for-safer-robotaxis-hum-dwqwbb",
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-08T11:15:33.000Z",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "category": "Robotics",
-      "score": 53.705
-    },
     {
       "id": "europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuat-pi16at",
       "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
@@ -47,6 +38,26 @@
       "summary": "",
       "category": "AI",
       "score": 52.505
+    },
+    {
+      "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
+      "category": "Robotics",
+      "score": 52.371
+    },
+    {
+      "id": "nvidia-s-big-bet-on-physical-ai-aims-for-safer-robotaxis-hum-dwqwbb",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-08T11:15:33.000Z",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "category": "Robotics",
+      "score": 52.252
     },
     {
       "id": "openai-withdraws-3-math-papers-3iliul",
@@ -119,16 +130,6 @@
       "score": 51.504
     },
     {
-      "id": "aweb-communication-for-ai-agents-7pr1gr",
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T22:02:31Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.444
-    },
-    {
       "id": "gpt-6-and-intelligent-ui-for-everyone-9ekwxg",
       "title": "GPT‑6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
@@ -199,16 +200,6 @@
       "score": 50.545
     },
     {
-      "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
-      "category": "Robotics",
-      "score": 50.351
-    },
-    {
       "id": "i-quit-openai-because-its-culture-is-broken-qhjdhv",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
@@ -249,14 +240,14 @@
       "score": 49.147
     },
     {
-      "id": "sites-in-chatgpt-3dp54k",
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T22:22:21Z",
-      "summary": "",
-      "category": "AI",
-      "score": 48.868
+      "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
+      "category": "Robotics",
+      "score": 48.964
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -267,16 +258,6 @@
       "summary": "",
       "category": "AI",
       "score": 48.446
-    },
-    {
-      "id": "loss-of-cell-identity-drives-human-aging-two-new-papers-p21f9f",
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T20:02:57Z",
-      "summary": "",
-      "category": "AI",
-      "score": 48.445
     },
     {
       "id": "russian-drones-strike-ukraine-s-data-centers-by-exploiting-a-qz5rvu",
@@ -329,16 +310,6 @@
       "score": 47.942
     },
     {
-      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-07T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
-      "category": "AI",
-      "score": 47.762
-    },
-    {
       "id": "magic-switch-share-apple-magic-keyboard-track-pad-mouse-betw-8qdriu",
       "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
       "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
@@ -369,6 +340,16 @@
       "score": 47.064
     },
     {
+      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-07T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
+      "category": "AI",
+      "score": 46.864
+    },
+    {
       "id": "decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit-a9el02",
       "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
       "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
@@ -389,26 +370,6 @@
       "score": 46.51
     },
     {
-      "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-06T16:40:36.000Z",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from",
-      "category": "AI",
-      "score": 46.173
-    },
-    {
-      "id": "can-good-design-stop-content-creators-from-having-sex-in-rob-p81y4z",
-      "title": "Can good design stop content creators from having sex in robotaxis?",
-      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-01T19:19:42.000Z",
-      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
-      "category": "Robotics",
-      "score": 45.856
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -417,6 +378,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-06T16:40:36.000Z",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from",
+      "category": "AI",
+      "score": 45.575
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -719,316 +690,6 @@
       "score": 43.301
     },
     {
-      "id": "tetris3d-3d-scene-generation-with-objects-that-fit-together-pwd9g1",
-      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-      "url": "http://arxiv.org/abs/2610.10539v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:59:48.000Z",
-      "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently",
-      "category": "Research",
-      "score": 41.378
-    },
-    {
-      "id": "never-look-back-understanding-persistence-in-3d-object-memor-9ruq7o",
-      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "url": "http://arxiv.org/abs/2610.10538v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:59:41.000Z",
-      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowin",
-      "category": "Research",
-      "score": 41.377
-    },
-    {
-      "id": "decoupling-exploration-from-optimization-in-rlvr-sg18id",
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "url": "http://arxiv.org/abs/2610.10536v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:59:26.000Z",
-      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sa",
-      "category": "Research",
-      "score": 41.377
-    },
-    {
-      "id": "roboprompt-intuitive-robot-policy-steering-with-sparse-human-7vdr9p",
-      "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
-      "url": "http://arxiv.org/abs/2610.10534v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:58:53.000Z",
-      "summary": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy methods enable human cor",
-      "category": "Research",
-      "score": 41.376
-    },
-    {
-      "id": "engramedit-decoupled-knowledge-updates-in-llms-through-condi-9rz96i",
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "url": "http://arxiv.org/abs/2610.10533v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:58:52.000Z",
-      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, ",
-      "category": "Research",
-      "score": 41.376
-    },
-    {
-      "id": "long-wam-scaling-the-context-of-world-action-models-5b78xt",
-      "title": "Long-WAM: Scaling the Context of World-Action Models",
-      "url": "http://arxiv.org/abs/2610.10528v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:58:04.000Z",
-      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world",
-      "category": "Research",
-      "score": 41.374
-    },
-    {
-      "id": "decentralized-sgd-under-heavy-tailed-noise-optimal-convergen-ilnsvc",
-      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-      "url": "http://arxiv.org/abs/2610.10527v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:57:58.000Z",
-      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less i",
-      "category": "Research",
-      "score": 41.374
-    },
-    {
-      "id": "rephrase-before-you-act-characterizing-and-mitigating-langua-5fu4la",
-      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-      "url": "http://arxiv.org/abs/2610.10526v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:57:38.000Z",
-      "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens o",
-      "category": "Research",
-      "score": 41.373
-    },
-    {
-      "id": "grace-generation-aware-latent-compression-for-efficient-vide-39yjew",
-      "title": "GRACE: Generation-aware latent compression for efficient video generation",
-      "url": "http://arxiv.org/abs/2610.10524v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:57:34.000Z",
-      "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challenging to train, sinc",
-      "category": "Research",
-      "score": 41.373
-    },
-    {
-      "id": "distilling-graph-geometry-knowledge-gap-from-gnns-to-mlps-58zapa",
-      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-      "url": "http://arxiv.org/abs/2610.10520v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:56:01.000Z",
-      "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based re",
-      "category": "Research",
-      "score": 41.37
-    },
-    {
-      "id": "why-forget-only-unlearning-needs-memorization-ealcus",
-      "title": "Why Forget-Only Unlearning Needs Memorization",
-      "url": "http://arxiv.org/abs/2610.10519v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:55:46.000Z",
-      "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives",
-      "category": "Research",
-      "score": 41.37
-    },
-    {
-      "id": "robojepa-scaling-robotic-latent-world-models-7k49wb",
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "url": "http://arxiv.org/abs/2610.10515v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:54:42.000Z",
-      "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, a",
-      "category": "Research",
-      "score": 41.368
-    },
-    {
-      "id": "sciexam-for-enso-can-ai-agents-build-climate-models-dwkyok",
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "url": "http://arxiv.org/abs/2610.10513v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:52:52.000Z",
-      "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whethe",
-      "category": "Research",
-      "score": 41.365
-    },
-    {
-      "id": "video-conditioned-generative-joint-2d-3d-hand-motion-recover-t96ajc",
-      "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
-      "url": "http://arxiv.org/abs/2610.10512v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:52:23.000Z",
-      "summary": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsistent. To address thi",
-      "category": "Research",
-      "score": 41.364
-    },
-    {
-      "id": "factorized-tactile-representation-and-control-for-sim-to-rea-c2qqpo",
-      "title": "Factorized Tactile Representation and Control for Sim-to-Real Manipulation",
-      "url": "http://arxiv.org/abs/2610.10510v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:51:52.000Z",
-      "summary": "Tactile sim-to-real learning must bridge simulated contact and device-specific sensor responses while preserving information needed for control. We propose a factorized tactile representation and control framework that m",
-      "category": "Research",
-      "score": 41.363
-    },
-    {
-      "id": "your-prompt-should-do-more-effects-of-retrieval-instructions-hnrcdk",
-      "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
-      "url": "http://arxiv.org/abs/2610.10508v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:51:46.000Z",
-      "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have",
-      "category": "Research",
-      "score": 41.363
-    },
-    {
-      "id": "recast-learning-to-compute-the-right-context-through-adaptiv-gd1hng",
-      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "url": "http://arxiv.org/abs/2610.10507v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:51:08.000Z",
-      "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic var",
-      "category": "Research",
-      "score": 41.361
-    },
-    {
-      "id": "validity-without-ground-truth-what-stated-preference-economi-ngwcsg",
-      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
-      "url": "http://arxiv.org/abs/2610.10506v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:51:07.000Z",
-      "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has fa",
-      "category": "Research",
-      "score": 41.361
-    },
-    {
-      "id": "oracle-efficient-and-parameter-free-agnostic-smoothed-online-x1rzc3",
-      "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
-      "url": "http://arxiv.org/abs/2610.10499v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:49:17.000Z",
-      "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing sign",
-      "category": "Research",
-      "score": 41.358
-    },
-    {
-      "id": "embodiedrsi-active-continual-robot-learning-through-hypothes-z2z2tw",
-      "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-      "url": "http://arxiv.org/abs/2610.10498v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:48:02.000Z",
-      "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, ",
-      "category": "Research",
-      "score": 41.356
-    },
-    {
-      "id": "quadtok-quadtree-visual-tokenizer-for-autoregressive-image-g-g69hl5",
-      "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
-      "url": "http://arxiv.org/abs/2610.10497v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:47:42.000Z",
-      "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical quadtree structure, ",
-      "category": "Research",
-      "score": 41.355
-    },
-    {
-      "id": "evolutionary-architecture-search-for-chlorophyll-a-predictio-filpee",
-      "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
-      "url": "http://arxiv.org/abs/2610.10496v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:47:17.000Z",
-      "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel",
-      "category": "Research",
-      "score": 41.354
-    },
-    {
-      "id": "insights-from-autoresearch-for-solar-panel-segmentation-xdzqmx",
-      "title": "Insights from Autoresearch for Solar Panel Segmentation",
-      "url": "http://arxiv.org/abs/2610.10491v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:45:31.000Z",
-      "summary": "This paper investigates AutoResearch, a protocol in which a coding language model edits a training program under a one-hour GPU budget and retains a change only if validation IoU improves. The protocol is applied to phot",
-      "category": "Research",
-      "score": 41.351
-    },
-    {
-      "id": "humble-human-motion-driven-behavior-learning-for-embodied-lo-jdhuy0",
-      "title": "HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion",
-      "url": "http://arxiv.org/abs/2610.10489v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:45:17.000Z",
-      "summary": "Despite recent advances in humanoid locomotion, controllers optimized for command tracking and robustness tend to produce mechanical gaits, whereas controllers tied to human motion data often fail to generalize to comman",
-      "category": "Research",
-      "score": 41.35
-    },
-    {
-      "id": "best-arm-identification-for-bandits-with-shifting-means-gik5qq",
-      "title": "Best Arm Identification for Bandits with Shifting Means",
-      "url": "http://arxiv.org/abs/2610.10488v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:44:34.000Z",
-      "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time",
-      "category": "Research",
-      "score": 41.349
-    },
-    {
-      "id": "two-level-softmax-sampling-done-right-correcting-bias-from-s-556mmv",
-      "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
-      "url": "http://arxiv.org/abs/2610.10483v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:38:35.000Z",
-      "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popul",
-      "category": "Research",
-      "score": 41.338
-    },
-    {
-      "id": "agentic-rsr-real-to-sim-to-real-through-scene-reconstruction-5evxec",
-      "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
-      "url": "http://arxiv.org/abs/2610.10479v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:37:20.000Z",
-      "summary": "A simulation of a real robot workspace must preserve task-relevant interactions, while policies developed in it must operate on observations available to the real robot. Yet scene reconstruction and policy development ar",
-      "category": "Research",
-      "score": 41.336
-    },
-    {
-      "id": "before-they-can-solve-predicting-post-training-coding-agent--ol67up",
-      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
-      "url": "http://arxiv.org/abs/2610.10478v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:37:19.000Z",
-      "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit fo",
-      "category": "Research",
-      "score": 41.336
-    },
-    {
-      "id": "label-free-cell-counting-and-viability-prediction-with-brigh-57ww4c",
-      "title": "Label-free cell counting and viability prediction with brightfield imaging and deep learning",
-      "url": "http://arxiv.org/abs/2610.10473v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:34:54.000Z",
-      "summary": "Cell viability assessment is a core requirement in cell culture systems, with critical applications in biopharmaceutical manufacturing and drug development. Conventionally, it is measured by adding membrane-impermeable d",
-      "category": "Research",
-      "score": 41.331
-    },
-    {
-      "id": "robotic-boomerang-throwing-via-model-based-release-design-10aimc",
-      "title": "Robotic Boomerang Throwing via Model-Based Release Design",
-      "url": "http://arxiv.org/abs/2610.10472v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-07T17:34:36.000Z",
-      "summary": "Throwing objects that generate aerodynamic lift can greatly extend robot throwing beyond ballistic flight. A returning boomerang is a challenging example because its flight depends strongly on the release velocity, attit",
-      "category": "Research",
-      "score": 41.331
-    },
-    {
-      "id": "clef-open-weight-decision-models-and-new-rl-fine-tuning-plat-j7how5",
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-01T16:18:57Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.024
-    },
-    {
       "id": "world-models-last-exam-in-physics-ogff6c",
       "title": "World Models' Last Exam in Physics",
       "url": "http://arxiv.org/abs/2610.08791v1",
@@ -1207,6 +868,346 @@
       "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of Coron",
       "category": "Research",
       "score": 40.368
+    },
+    {
+      "id": "tetris3d-3d-scene-generation-with-objects-that-fit-together-pwd9g1",
+      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "url": "http://arxiv.org/abs/2610.10539v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:59:48.000Z",
+      "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently",
+      "category": "Research",
+      "score": 40.363
+    },
+    {
+      "id": "never-look-back-understanding-persistence-in-3d-object-memor-9ruq7o",
+      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "url": "http://arxiv.org/abs/2610.10538v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:59:41.000Z",
+      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowin",
+      "category": "Research",
+      "score": 40.363
+    },
+    {
+      "id": "decoupling-exploration-from-optimization-in-rlvr-sg18id",
+      "title": "Decoupling Exploration from Optimization in RLVR",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:59:26.000Z",
+      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sa",
+      "category": "Research",
+      "score": 40.363
+    },
+    {
+      "id": "roboprompt-intuitive-robot-policy-steering-with-sparse-human-7vdr9p",
+      "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
+      "url": "http://arxiv.org/abs/2610.10534v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:58:53.000Z",
+      "summary": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy methods enable human cor",
+      "category": "Research",
+      "score": 40.362
+    },
+    {
+      "id": "engramedit-decoupled-knowledge-updates-in-llms-through-condi-9rz96i",
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:58:52.000Z",
+      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, ",
+      "category": "Research",
+      "score": 40.362
+    },
+    {
+      "id": "long-wam-scaling-the-context-of-world-action-models-5b78xt",
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "url": "http://arxiv.org/abs/2610.10528v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:58:04.000Z",
+      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world",
+      "category": "Research",
+      "score": 40.361
+    },
+    {
+      "id": "decentralized-sgd-under-heavy-tailed-noise-optimal-convergen-ilnsvc",
+      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+      "url": "http://arxiv.org/abs/2610.10527v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:57:58.000Z",
+      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less i",
+      "category": "Research",
+      "score": 40.36
+    },
+    {
+      "id": "rephrase-before-you-act-characterizing-and-mitigating-langua-5fu4la",
+      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "url": "http://arxiv.org/abs/2610.10526v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:57:38.000Z",
+      "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens o",
+      "category": "Research",
+      "score": 40.36
+    },
+    {
+      "id": "grace-generation-aware-latent-compression-for-efficient-vide-39yjew",
+      "title": "GRACE: Generation-aware latent compression for efficient video generation",
+      "url": "http://arxiv.org/abs/2610.10524v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:57:34.000Z",
+      "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challenging to train, sinc",
+      "category": "Research",
+      "score": 40.36
+    },
+    {
+      "id": "distilling-graph-geometry-knowledge-gap-from-gnns-to-mlps-58zapa",
+      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+      "url": "http://arxiv.org/abs/2610.10520v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:56:01.000Z",
+      "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based re",
+      "category": "Research",
+      "score": 40.357
+    },
+    {
+      "id": "why-forget-only-unlearning-needs-memorization-ealcus",
+      "title": "Why Forget-Only Unlearning Needs Memorization",
+      "url": "http://arxiv.org/abs/2610.10519v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:55:46.000Z",
+      "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives",
+      "category": "Research",
+      "score": 40.357
+    },
+    {
+      "id": "robojepa-scaling-robotic-latent-world-models-7k49wb",
+      "title": "RoboJEPA: Scaling Robotic Latent World Models",
+      "url": "http://arxiv.org/abs/2610.10515v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:54:42.000Z",
+      "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, a",
+      "category": "Research",
+      "score": 40.355
+    },
+    {
+      "id": "sciexam-for-enso-can-ai-agents-build-climate-models-dwkyok",
+      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+      "url": "http://arxiv.org/abs/2610.10513v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:52:52.000Z",
+      "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whethe",
+      "category": "Research",
+      "score": 40.353
+    },
+    {
+      "id": "video-conditioned-generative-joint-2d-3d-hand-motion-recover-t96ajc",
+      "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+      "url": "http://arxiv.org/abs/2610.10512v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:52:23.000Z",
+      "summary": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsistent. To address thi",
+      "category": "Research",
+      "score": 40.352
+    },
+    {
+      "id": "factorized-tactile-representation-and-control-for-sim-to-rea-c2qqpo",
+      "title": "Factorized Tactile Representation and Control for Sim-to-Real Manipulation",
+      "url": "http://arxiv.org/abs/2610.10510v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:51:52.000Z",
+      "summary": "Tactile sim-to-real learning must bridge simulated contact and device-specific sensor responses while preserving information needed for control. We propose a factorized tactile representation and control framework that m",
+      "category": "Research",
+      "score": 40.351
+    },
+    {
+      "id": "your-prompt-should-do-more-effects-of-retrieval-instructions-hnrcdk",
+      "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+      "url": "http://arxiv.org/abs/2610.10508v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:51:46.000Z",
+      "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have",
+      "category": "Research",
+      "score": 40.351
+    },
+    {
+      "id": "recast-learning-to-compute-the-right-context-through-adaptiv-gd1hng",
+      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+      "url": "http://arxiv.org/abs/2610.10507v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:51:08.000Z",
+      "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic var",
+      "category": "Research",
+      "score": 40.35
+    },
+    {
+      "id": "validity-without-ground-truth-what-stated-preference-economi-ngwcsg",
+      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+      "url": "http://arxiv.org/abs/2610.10506v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:51:07.000Z",
+      "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has fa",
+      "category": "Research",
+      "score": 40.35
+    },
+    {
+      "id": "oracle-efficient-and-parameter-free-agnostic-smoothed-online-x1rzc3",
+      "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+      "url": "http://arxiv.org/abs/2610.10499v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:49:17.000Z",
+      "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing sign",
+      "category": "Research",
+      "score": 40.347
+    },
+    {
+      "id": "embodiedrsi-active-continual-robot-learning-through-hypothes-z2z2tw",
+      "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+      "url": "http://arxiv.org/abs/2610.10498v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:48:02.000Z",
+      "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, ",
+      "category": "Research",
+      "score": 40.345
+    },
+    {
+      "id": "quadtok-quadtree-visual-tokenizer-for-autoregressive-image-g-g69hl5",
+      "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+      "url": "http://arxiv.org/abs/2610.10497v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:47:42.000Z",
+      "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical quadtree structure, ",
+      "category": "Research",
+      "score": 40.345
+    },
+    {
+      "id": "evolutionary-architecture-search-for-chlorophyll-a-predictio-filpee",
+      "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+      "url": "http://arxiv.org/abs/2610.10496v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:47:17.000Z",
+      "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel",
+      "category": "Research",
+      "score": 40.344
+    },
+    {
+      "id": "insights-from-autoresearch-for-solar-panel-segmentation-xdzqmx",
+      "title": "Insights from Autoresearch for Solar Panel Segmentation",
+      "url": "http://arxiv.org/abs/2610.10491v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:45:31.000Z",
+      "summary": "This paper investigates AutoResearch, a protocol in which a coding language model edits a training program under a one-hour GPU budget and retains a change only if validation IoU improves. The protocol is applied to phot",
+      "category": "Research",
+      "score": 40.342
+    },
+    {
+      "id": "humble-human-motion-driven-behavior-learning-for-embodied-lo-jdhuy0",
+      "title": "HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion",
+      "url": "http://arxiv.org/abs/2610.10489v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:45:17.000Z",
+      "summary": "Despite recent advances in humanoid locomotion, controllers optimized for command tracking and robustness tend to produce mechanical gaits, whereas controllers tied to human motion data often fail to generalize to comman",
+      "category": "Research",
+      "score": 40.341
+    },
+    {
+      "id": "best-arm-identification-for-bandits-with-shifting-means-gik5qq",
+      "title": "Best Arm Identification for Bandits with Shifting Means",
+      "url": "http://arxiv.org/abs/2610.10488v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:44:34.000Z",
+      "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time",
+      "category": "Research",
+      "score": 40.34
+    },
+    {
+      "id": "two-level-softmax-sampling-done-right-correcting-bias-from-s-556mmv",
+      "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+      "url": "http://arxiv.org/abs/2610.10483v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:38:35.000Z",
+      "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popul",
+      "category": "Research",
+      "score": 40.331
+    },
+    {
+      "id": "agentic-rsr-real-to-sim-to-real-through-scene-reconstruction-5evxec",
+      "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+      "url": "http://arxiv.org/abs/2610.10479v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:37:20.000Z",
+      "summary": "A simulation of a real robot workspace must preserve task-relevant interactions, while policies developed in it must operate on observations available to the real robot. Yet scene reconstruction and policy development ar",
+      "category": "Research",
+      "score": 40.329
+    },
+    {
+      "id": "before-they-can-solve-predicting-post-training-coding-agent--ol67up",
+      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+      "url": "http://arxiv.org/abs/2610.10478v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:37:19.000Z",
+      "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit fo",
+      "category": "Research",
+      "score": 40.329
+    },
+    {
+      "id": "label-free-cell-counting-and-viability-prediction-with-brigh-57ww4c",
+      "title": "Label-free cell counting and viability prediction with brightfield imaging and deep learning",
+      "url": "http://arxiv.org/abs/2610.10473v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:34:54.000Z",
+      "summary": "Cell viability assessment is a core requirement in cell culture systems, with critical applications in biopharmaceutical manufacturing and drug development. Conventionally, it is measured by adding membrane-impermeable d",
+      "category": "Research",
+      "score": 40.326
+    },
+    {
+      "id": "robotic-boomerang-throwing-via-model-based-release-design-10aimc",
+      "title": "Robotic Boomerang Throwing via Model-Based Release Design",
+      "url": "http://arxiv.org/abs/2610.10472v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-07T17:34:36.000Z",
+      "summary": "Throwing objects that generate aerodynamic lift can greatly extend robot throwing beyond ballistic flight. A returning boomerang is a challenging example because its flight depends strongly on the release velocity, attit",
+      "category": "Research",
+      "score": 40.325
+    },
+    {
+      "id": "building-a-safer-path-to-autonomous-industrial-ai-38gdrj",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T08:17:32.000Z",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex ",
+      "category": "Machine Learning",
+      "score": 38.877
+    },
+    {
+      "id": "show-hn-rgpu-a-pytorch-device-whose-tensors-live-on-a-remote-6j3bse",
+      "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+      "url": "https://github.com/ymcrcat/rgpu",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-07T05:15:44Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 37.744
+    },
+    {
+      "id": "trump-administration-is-suspending-microsoft-from-a-green-ca-nuk0fg",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-08T15:15:00Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.685
+    },
+    {
+      "id": "whistle-speech-to-text-in-16-9-mb-q46ja6",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-08T16:59:39Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.681
     }
   ]
 }
