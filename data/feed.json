@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-10-09T12:50:16.094Z",
+  "updatedAt": "2026-10-09T22:26:02.224Z",
   "totalItems": 120,
   "categories": {
-    "Robotics": 18,
-    "AI": 53,
+    "Robotics": 19,
+    "AI": 49,
+    "Machine Learning": 2,
     "Research": 48,
-    "Machine Learning": 1
+    "Tech": 2
   },
   "items": [
     {
@@ -17,16 +18,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 52.81
-    },
-    {
-      "id": "let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s-hbhznr",
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-09T11:03:48Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.763
     },
     {
       "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-an-mo90ul",
@@ -47,16 +38,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.505
-    },
-    {
-      "id": "openai-fires-three-safety-researchers-for-mishandling-resear-u6dibg",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-09T10:00:26Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.355
     },
     {
       "id": "openai-withdraws-3-math-papers-3iliul",
@@ -107,6 +88,26 @@
       "summary": "",
       "category": "AI",
       "score": 51.896
+    },
+    {
+      "id": "show-hn-let-your-ai-agents-paint-big-arrows-boxes-and-text-o-38bt14",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-09T11:03:48Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.865
+    },
+    {
+      "id": "openai-fires-three-safety-researchers-for-mishandling-resear-u6dibg",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-09T10:00:26Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.645
     },
     {
       "id": "ahm-statement-on-openai-s-october-6-release-of-mathematical--v3ai4a",
@@ -189,16 +190,6 @@
       "score": 50.796
     },
     {
-      "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-08T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
-      "category": "Robotics",
-      "score": 50.785
-    },
-    {
       "id": "nvidia-s-big-bet-on-physical-ai-aims-for-safer-robotaxis-hum-dwqwbb",
       "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
       "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
@@ -219,26 +210,6 @@
       "score": 50.669
     },
     {
-      "id": "from-the-creator-of-redis-run-llm-locally-with-ds4-lxmjl7",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-02T18:01:16Z",
-      "summary": "",
-      "category": "AI",
-      "score": 50.545
-    },
-    {
-      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "category": "AI",
-      "score": 50.385
-    },
-    {
       "id": "i-quit-openai-because-its-culture-is-broken-qhjdhv",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
@@ -247,6 +218,16 @@
       "summary": "",
       "category": "AI",
       "score": 50.121
+    },
+    {
+      "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
+      "category": "Robotics",
+      "score": 49.918
     },
     {
       "id": "openai-withdraws-three-mathematical-results-unqcgr",
@@ -279,14 +260,24 @@
       "score": 49.461
     },
     {
-      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
       "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T00:08:24.000Z",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "category": "Robotics",
+      "score": 49.047
+    },
+    {
+      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
       "category": "AI",
-      "score": 49.14
+      "score": 49.047
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -319,14 +310,14 @@
       "score": 48.141
     },
     {
-      "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web-my3j1f",
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-02T20:39:05Z",
-      "summary": "",
+      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T00:08:24.000Z",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
       "category": "AI",
-      "score": 48.081
+      "score": 48.028
     },
     {
       "id": "google-rolls-out-improved-synthid-ai-content-detector-now-av-xycvgw",
@@ -349,26 +340,6 @@
       "score": 47.942
     },
     {
-      "id": "magic-switch-share-apple-magic-keyboard-track-pad-mouse-betw-8qdriu",
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-02T16:01:30Z",
-      "summary": "",
-      "category": "AI",
-      "score": 47.549
-    },
-    {
-      "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
-      "category": "Robotics",
-      "score": 47.479
-    },
-    {
       "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
       "title": "People really hate AI, so why can’t they get enough?",
       "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
@@ -379,14 +350,14 @@
       "score": 47.37
     },
     {
-      "id": "decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit-a9el02",
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-02T13:47:41Z",
-      "summary": "",
-      "category": "AI",
-      "score": 46.834
+      "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
+      "category": "Robotics",
+      "score": 46.668
     },
     {
       "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
@@ -399,16 +370,6 @@
       "score": 46.51
     },
     {
-      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-07T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
-      "category": "AI",
-      "score": 45.902
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -417,6 +378,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-07T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
+      "category": "AI",
+      "score": 45.376
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -719,6 +690,16 @@
       "score": 43.301
     },
     {
+      "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new--85ze9m",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-08T17:39:26Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 40.81
+    },
+    {
       "id": "dex-one2many-learning-dexterous-manipulation-from-a-single-h-gikitu",
       "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
       "url": "http://arxiv.org/abs/2610.12470v1",
@@ -726,7 +707,7 @@
       "publishedAt": "2026-10-08T17:59:58.000Z",
       "summary": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching o",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "rubric-cepr-self-evolving-image-editing-via-reward-verified--dbs6mj",
@@ -736,7 +717,7 @@
       "publishedAt": "2026-10-08T17:59:58.000Z",
       "summary": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausibl",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "dreamtrue-action-faithful-robot-world-model-with-counterfact-p2o0vb",
@@ -746,7 +727,7 @@
       "publishedAt": "2026-10-08T17:59:51.000Z",
       "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibr",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "csf-contextual-safety-filtering-for-motion-generators-52tcma",
@@ -756,7 +737,7 @@
       "publishedAt": "2026-10-08T17:59:50.000Z",
       "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, ",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "on-the-estimation-and-validity-of-ai-time-horizons-a-statist-xxe8wr",
@@ -766,7 +747,7 @@
       "publishedAt": "2026-10-08T17:59:50.000Z",
       "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recomput",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "a-balanced-data-diet-addressing-the-exploration-bottleneck-i-jmqd1o",
@@ -776,7 +757,7 @@
       "publishedAt": "2026-10-08T17:59:50.000Z",
       "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines ",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "from-reactive-containment-to-proactive-assurance-lessons-fro-fij8kv",
@@ -786,7 +767,7 @@
       "publishedAt": "2026-10-08T17:59:49.000Z",
       "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coord",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "what-30-000-hours-of-ego-centric-video-does-not-teach-vhoig9",
@@ -796,7 +777,7 @@
       "publishedAt": "2026-10-08T17:59:49.000Z",
       "summary": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "ouroworld-bringing-any-3d-world-alive-as-diverse-endlessly-l-9b6z9v",
@@ -806,7 +787,7 @@
       "publishedAt": "2026-10-08T17:59:46.000Z",
       "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph: a dynamic scene wi",
       "category": "Research",
-      "score": 41.403
+      "score": 40.424
     },
     {
       "id": "worldguide-goal-directed-video-world-model-for-procedural-ta-82hoa7",
@@ -816,7 +797,7 @@
       "publishedAt": "2026-10-08T17:59:31.000Z",
       "summary": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model must determine the nex",
       "category": "Research",
-      "score": 41.402
+      "score": 40.423
     },
     {
       "id": "omnicapbench-a-deep-structured-evaluation-framework-for-fine-kz10bj",
@@ -826,7 +807,7 @@
       "publishedAt": "2026-10-08T17:59:21.000Z",
       "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal d",
       "category": "Research",
-      "score": 41.402
+      "score": 40.423
     },
     {
       "id": "spatialharness-test-time-spatial-scaffolding-for-fine-roboti-7j2vv2",
@@ -836,7 +817,7 @@
       "publishedAt": "2026-10-08T17:59:20.000Z",
       "summary": "Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an important source of ",
       "category": "Research",
-      "score": 41.402
+      "score": 40.423
     },
     {
       "id": "hybrid-cinematography-previsualizing-and-managing-hallucinat-3pvj7y",
@@ -846,7 +827,7 @@
       "publishedAt": "2026-10-08T17:59:11.000Z",
       "summary": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered only after leaving ",
       "category": "Research",
-      "score": 41.402
+      "score": 40.423
     },
     {
       "id": "brickbench-evaluating-agentic-brick-design-1vmzcd",
@@ -856,7 +837,7 @@
       "publishedAt": "2026-10-08T17:58:56.000Z",
       "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be ph",
       "category": "Research",
-      "score": 41.401
+      "score": 40.422
     },
     {
       "id": "versacamvla-camera-configurable-vla-policies-for-robotic-man-6mtyt5",
@@ -866,7 +847,7 @@
       "publishedAt": "2026-10-08T17:58:47.000Z",
       "summary": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in camera count or pose d",
       "category": "Research",
-      "score": 41.401
+      "score": 40.422
     },
     {
       "id": "one-block-multiple-depths-recurrent-vision-transformers-with-f08y7i",
@@ -876,7 +857,7 @@
       "publishedAt": "2026-10-08T17:58:36.000Z",
       "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores de",
       "category": "Research",
-      "score": 41.401
+      "score": 40.422
     },
     {
       "id": "bi-fork-generative-modeling-of-high-dimensional-bifurcating--4oe30e",
@@ -886,7 +867,7 @@
       "publishedAt": "2026-10-08T17:58:36.000Z",
       "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits mult",
       "category": "Research",
-      "score": 41.401
+      "score": 40.422
     },
     {
       "id": "caught-in-the-act-probes-effectively-detect-sabotage-and-cat-fhqnkm",
@@ -896,7 +877,7 @@
       "publishedAt": "2026-10-08T17:58:13.000Z",
       "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings b",
       "category": "Research",
-      "score": 41.4
+      "score": 40.421
     },
     {
       "id": "rounding-in-preconditioner-space-redesigning-4-bit-adamw-opt-wbk6bf",
@@ -906,7 +887,7 @@
       "publishedAt": "2026-10-08T17:58:09.000Z",
       "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for",
       "category": "Research",
-      "score": 41.4
+      "score": 40.421
     },
     {
       "id": "lego-a-lifting-free-approach-for-exocentric-to-egocentric-vi-knmdlq",
@@ -916,7 +897,7 @@
       "publishedAt": "2026-10-08T17:58:03.000Z",
       "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Current state-of-the-art",
       "category": "Research",
-      "score": 41.4
+      "score": 40.421
     },
     {
       "id": "generative-neural-retargeting-for-human-to-robot-dexterous-m-ozgveo",
@@ -926,7 +907,7 @@
       "publishedAt": "2026-10-08T17:57:58.000Z",
       "summary": "Human demonstrations are a scalable data source for learning dexterous manipulation, but the embodiment gap prevents human motion from being executed directly on robots. Inverse kinematics (IK) retargets human motion to ",
       "category": "Research",
-      "score": 41.399
+      "score": 40.421
     },
     {
       "id": "density-ratio-estimation-with-stein-displacement-fields-dfumzd",
@@ -936,7 +917,7 @@
       "publishedAt": "2026-10-08T17:57:33.000Z",
       "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offe",
       "category": "Research",
-      "score": 41.399
+      "score": 40.42
     },
     {
       "id": "ecology-of-ai-agents-collaboration-creates-a-population-thre-6a79z",
@@ -946,7 +927,7 @@
       "publishedAt": "2026-10-08T17:57:32.000Z",
       "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explo",
       "category": "Research",
-      "score": 41.399
+      "score": 40.42
     },
     {
       "id": "viola-learning-generalist-humanoid-control-policies-from-hum-eljq4q",
@@ -956,7 +937,7 @@
       "publishedAt": "2026-10-08T17:57:27.000Z",
       "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which m",
       "category": "Research",
-      "score": 41.398
+      "score": 40.42
     },
     {
       "id": "faith-feasibility-aware-safety-filtered-rl-for-high-dimensio-8ag64d",
@@ -966,7 +947,7 @@
       "publishedAt": "2026-10-08T17:57:06.000Z",
       "summary": "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but classical designs re",
       "category": "Research",
-      "score": 41.398
+      "score": 40.42
     },
     {
       "id": "control-ready-uncertainty-for-trajectory-diffusion-zdxdxa",
@@ -976,7 +957,7 @@
       "publishedAt": "2026-10-08T17:57:01.000Z",
       "summary": "Diffusion models can represent complex, multimodal trajectory distributions, but extracting uncertainty from them typically requires costly Monte Carlo sampling. This limits their use in real-time control, where robots m",
       "category": "Research",
-      "score": 41.398
+      "score": 40.42
     },
     {
       "id": "toward-joint-optimization-of-circuit-depth-and-training-data-9fx221",
@@ -986,7 +967,7 @@
       "publishedAt": "2026-10-08T17:55:57.000Z",
       "summary": "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to generalize well. Q-",
       "category": "Research",
-      "score": 41.396
+      "score": 40.418
     },
     {
       "id": "fastbench-can-streaming-vlms-perceive-high-dynamic-real-worl-9fyieg",
@@ -996,7 +977,7 @@
       "publishedAt": "2026-10-08T17:55:20.000Z",
       "summary": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal history, spatial res",
       "category": "Research",
-      "score": 41.394
+      "score": 40.417
     },
     {
       "id": "roborsi-stable-efficient-and-reusable-robot-self-evolution-i-t29o6g",
@@ -1006,7 +987,7 @@
       "publishedAt": "2026-10-08T17:55:12.000Z",
       "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can a",
       "category": "Research",
-      "score": 41.394
+      "score": 40.417
     },
     {
       "id": "pumpire-unified-benchmark-for-metric-distance-estimation-mhhlvs",
@@ -1016,17 +997,7 @@
       "publishedAt": "2026-10-08T17:55:11.000Z",
       "summary": "We present Pumpire, a unified benchmark for evaluating metric point-pair distance estimation capability of both image- and video-level 3D foundation models, with or without depth priors. In contrast to previous approache",
       "category": "Research",
-      "score": 41.394
-    },
-    {
-      "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new--85ze9m",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-08T17:39:26Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 40.81
+      "score": 40.417
     },
     {
       "id": "world-models-last-exam-in-physics-ogff6c",
@@ -1207,6 +1178,36 @@
       "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of Coron",
       "category": "Research",
       "score": 40.368
+    },
+    {
+      "id": "building-a-safer-path-to-autonomous-industrial-ai-38gdrj",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T08:17:32.000Z",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex ",
+      "category": "Machine Learning",
+      "score": 36.614
+    },
+    {
+      "id": "youtuber-says-cops-visited-him-after-he-built-a-flock-style--yu0mrp",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-09T21:06:59Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 20.091
+    },
+    {
+      "id": "no-man-is-an-island-kvdzg7",
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-09T20:04:00Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.918
     }
   ]
 }
