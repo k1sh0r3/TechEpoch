@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T21:39:35.476Z",
+  "updatedAt": "2026-10-12T05:05:27.665Z",
   "totalItems": 120,
   "categories": {
     "Robotics": 22,
-    "AI": 50,
+    "AI": 51,
     "Machine Learning": 1,
-    "Research": 47
+    "Research": 46
   },
   "items": [
     {
@@ -37,6 +37,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.36
+    },
+    {
+      "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-11T20:20:52Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.206
     },
     {
       "id": "openai-withdraws-3-math-papers-3iliul",
@@ -339,16 +349,6 @@
       "score": 47.928
     },
     {
-      "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-08T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
-      "category": "Robotics",
-      "score": 47.465
-    },
-    {
       "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
       "title": "People really hate AI, so why can’t they get enough?",
       "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
@@ -357,6 +357,16 @@
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
       "category": "AI",
       "score": 47.37
+    },
+    {
+      "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-08T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
+      "category": "Robotics",
+      "score": 47.255
     },
     {
       "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
@@ -369,16 +379,6 @@
       "score": 46.51
     },
     {
-      "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-09T22:04:07.000Z",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "category": "Robotics",
-      "score": 45.968
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -389,24 +389,14 @@
       "score": 45.771
     },
     {
-      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-09T22:04:07.000Z",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
       "category": "Robotics",
-      "score": 45.261
-    },
-    {
-      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "category": "AI",
-      "score": 45.261
+      "score": 45.542
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -417,6 +407,26 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "category": "Robotics",
+      "score": 44.936
+    },
+    {
+      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
+      "category": "AI",
+      "score": 44.936
     },
     {
       "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
@@ -436,7 +446,7 @@
       "publishedAt": "2026-10-09T00:08:24.000Z",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
       "category": "AI",
-      "score": 44.88
+      "score": 44.61
     },
     {
       "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
@@ -446,17 +456,7 @@
       "publishedAt": "2026-10-08T09:00:00.000Z",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
       "category": "Robotics",
-      "score": 44.371
-    },
-    {
-      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-07T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
-      "category": "AI",
-      "score": 43.888
+      "score": 44.175
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -467,6 +467,16 @@
       "summary": "",
       "category": "AI",
       "score": 43.778
+    },
+    {
+      "id": "the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-iz1q9a",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-07T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
+      "category": "AI",
+      "score": 43.761
     },
     {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
@@ -919,294 +929,284 @@
       "score": 40.368
     },
     {
-      "id": "dex-one2many-learning-dexterous-manipulation-from-a-single-h-gikitu",
-      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-      "url": "http://arxiv.org/abs/2610.12470v1",
+      "id": "can-language-models-play-the-wikipedia-game-pclb5z",
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "url": "http://arxiv.org/abs/2610.13948v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:58.000Z",
-      "summary": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching o",
+      "publishedAt": "2026-10-09T17:59:56.000Z",
+      "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wiki",
       "category": "Research",
-      "score": 37.654
+      "score": 38.336
     },
     {
-      "id": "rubric-cepr-self-evolving-image-editing-via-reward-verified--dbs6mj",
-      "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-      "url": "http://arxiv.org/abs/2610.12469v1",
+      "id": "towards-physically-grounded-articulated-3d-assets-a-multi-ag-mogtcw",
+      "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+      "url": "http://arxiv.org/abs/2610.13947v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:58.000Z",
-      "summary": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausibl",
+      "publishedAt": "2026-10-09T17:59:41.000Z",
+      "summary": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agenti",
       "category": "Research",
-      "score": 37.654
+      "score": 38.336
     },
     {
-      "id": "dreamtrue-action-faithful-robot-world-model-with-counterfact-p2o0vb",
-      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-      "url": "http://arxiv.org/abs/2610.12468v1",
+      "id": "splat2act-from-captured-scenes-to-personalized-vla-manipulat-3p064i",
+      "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+      "url": "http://arxiv.org/abs/2610.13945v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:51.000Z",
-      "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibr",
+      "publishedAt": "2026-10-09T17:59:06.000Z",
+      "summary": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup succ",
       "category": "Research",
-      "score": 37.654
+      "score": 38.335
     },
     {
-      "id": "csf-contextual-safety-filtering-for-motion-generators-52tcma",
-      "title": "CSF: Contextual Safety Filtering for Motion Generators",
-      "url": "http://arxiv.org/abs/2610.12467v1",
+      "id": "instantfusion-a-shared-latent-interface-for-heterogeneous-im-pgcxeh",
+      "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+      "url": "http://arxiv.org/abs/2610.13944v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:50.000Z",
-      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, ",
+      "publishedAt": "2026-10-09T17:59:04.000Z",
+      "summary": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their rem",
       "category": "Research",
-      "score": 37.654
+      "score": 38.335
     },
     {
-      "id": "on-the-estimation-and-validity-of-ai-time-horizons-a-statist-xxe8wr",
-      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "url": "http://arxiv.org/abs/2610.12466v1",
+      "id": "noise-space-learning-for-vla-adaptation-dxg3mn",
+      "title": "Noise Space Learning for VLA Adaptation",
+      "url": "http://arxiv.org/abs/2610.13943v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:50.000Z",
-      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recomput",
+      "publishedAt": "2026-10-09T17:58:50.000Z",
+      "summary": "Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety constraints. Noise sp",
       "category": "Research",
-      "score": 37.654
+      "score": 38.335
     },
     {
-      "id": "a-balanced-data-diet-addressing-the-exploration-bottleneck-i-jmqd1o",
-      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-      "url": "http://arxiv.org/abs/2610.12465v1",
+      "id": "images-talk-back-guiding-mmdits-by-suppressing-image-to-text-kf1ua0",
+      "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+      "url": "http://arxiv.org/abs/2610.13941v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:50.000Z",
-      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines ",
+      "publishedAt": "2026-10-09T17:58:15.000Z",
+      "summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does thi",
       "category": "Research",
-      "score": 37.654
+      "score": 38.334
     },
     {
-      "id": "from-reactive-containment-to-proactive-assurance-lessons-fro-fij8kv",
-      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "url": "http://arxiv.org/abs/2610.12463v1",
+      "id": "hide-and-seek-hide-concepts-to-seek-explanations-for-black-b-qibvwi",
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "url": "http://arxiv.org/abs/2610.13935v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:49.000Z",
-      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coord",
+      "publishedAt": "2026-10-09T17:56:59.000Z",
+      "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-b",
       "category": "Research",
-      "score": 37.654
+      "score": 38.333
     },
     {
-      "id": "what-30-000-hours-of-ego-centric-video-does-not-teach-vhoig9",
-      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-      "url": "http://arxiv.org/abs/2610.12464v1",
+      "id": "constructive-bounds-for-the-topological-expressivity-of-neur-eal17b",
+      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+      "url": "http://arxiv.org/abs/2610.13931v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:49.000Z",
-      "summary": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1",
+      "publishedAt": "2026-10-09T17:55:33.000Z",
+      "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classificati",
       "category": "Research",
-      "score": 37.654
+      "score": 38.332
     },
     {
-      "id": "ouroworld-bringing-any-3d-world-alive-as-diverse-endlessly-l-9b6z9v",
-      "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-      "url": "http://arxiv.org/abs/2610.12461v1",
+      "id": "chronos-policy-learning-robot-policies-on-physical-time-1idg8l",
+      "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+      "url": "http://arxiv.org/abs/2610.13929v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:46.000Z",
-      "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph: a dynamic scene wi",
+      "publishedAt": "2026-10-09T17:55:20.000Z",
+      "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when in",
       "category": "Research",
-      "score": 37.654
+      "score": 38.332
     },
     {
-      "id": "worldguide-goal-directed-video-world-model-for-procedural-ta-82hoa7",
-      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
-      "url": "http://arxiv.org/abs/2610.12459v1",
+      "id": "ai-models-can-provably-hide-arbitrary-capabilities-inubyf",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "http://arxiv.org/abs/2610.13928v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:31.000Z",
-      "summary": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model must determine the nex",
+      "publishedAt": "2026-10-09T17:55:06.000Z",
+      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adv",
       "category": "Research",
-      "score": 37.654
+      "score": 38.332
     },
     {
-      "id": "omnicapbench-a-deep-structured-evaluation-framework-for-fine-kz10bj",
-      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-      "url": "http://arxiv.org/abs/2610.12458v1",
+      "id": "can-machines-reason-non-verbally-6l9ck0",
+      "title": "Can machines reason non-verbally?",
+      "url": "http://arxiv.org/abs/2610.13925v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:21.000Z",
-      "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal d",
+      "publishedAt": "2026-10-09T17:54:36.000Z",
+      "summary": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems that require visual non-verbal reasoning. This is evident even in advanced systems such as DeepSeek, Ch",
       "category": "Research",
-      "score": 37.654
+      "score": 38.331
     },
     {
-      "id": "spatialharness-test-time-spatial-scaffolding-for-fine-roboti-7j2vv2",
-      "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
-      "url": "http://arxiv.org/abs/2610.12457v1",
+      "id": "kl-before-and-after-mixing-a-round-complexity-separation-in--e2paae",
+      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+      "url": "http://arxiv.org/abs/2610.13924v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:20.000Z",
-      "summary": "Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an important source of ",
+      "publishedAt": "2026-10-09T17:54:16.000Z",
+      "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\math",
       "category": "Research",
-      "score": 37.654
+      "score": 38.331
     },
     {
-      "id": "hybrid-cinematography-previsualizing-and-managing-hallucinat-3pvj7y",
-      "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
-      "url": "http://arxiv.org/abs/2610.12455v1",
+      "id": "goal-oriented-bundle-management-and-flow-control-for-deep-sp-y16nav",
+      "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2610.13923v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:59:11.000Z",
-      "summary": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered only after leaving ",
+      "publishedAt": "2026-10-09T17:53:46.000Z",
+      "summary": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay ",
       "category": "Research",
-      "score": 37.654
+      "score": 38.331
     },
     {
-      "id": "brickbench-evaluating-agentic-brick-design-1vmzcd",
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "url": "http://arxiv.org/abs/2610.12452v1",
+      "id": "dyssomniann-multi-scale-spiking-neural-modeling-of-human-sle-7g78h8",
+      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+      "url": "http://arxiv.org/abs/2610.13918v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:56.000Z",
-      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be ph",
+      "publishedAt": "2026-10-09T17:52:23.000Z",
+      "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary ",
       "category": "Research",
-      "score": 37.653
+      "score": 38.33
     },
     {
-      "id": "versacamvla-camera-configurable-vla-policies-for-robotic-man-6mtyt5",
-      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
-      "url": "http://arxiv.org/abs/2610.12451v1",
+      "id": "designing-protein-structures-from-natural-language-qtu8ci",
+      "title": "Designing Protein Structures from Natural Language",
+      "url": "http://arxiv.org/abs/2610.13917v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:47.000Z",
-      "summary": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in camera count or pose d",
+      "publishedAt": "2026-10-09T17:51:55.000Z",
+      "summary": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limitin",
       "category": "Research",
-      "score": 37.653
+      "score": 38.329
     },
     {
-      "id": "one-block-multiple-depths-recurrent-vision-transformers-with-f08y7i",
-      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-      "url": "http://arxiv.org/abs/2610.12448v1",
+      "id": "where-to-look-matters-rethinking-sub-volume-sampling-in-3d-m-uc64ie",
+      "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
+      "url": "http://arxiv.org/abs/2610.13915v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:36.000Z",
-      "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores de",
+      "publishedAt": "2026-10-09T17:51:47.000Z",
+      "summary": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However, random cropping implicitly treats all spatial regions as equally worth observing, despite anatomica",
       "category": "Research",
-      "score": 37.653
+      "score": 38.329
     },
     {
-      "id": "bi-fork-generative-modeling-of-high-dimensional-bifurcating--4oe30e",
-      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-      "url": "http://arxiv.org/abs/2610.12449v1",
+      "id": "rsi-anything-unlocking-recursive-self-improvement-with-world-s91yt8",
+      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "url": "http://arxiv.org/abs/2610.13912v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:36.000Z",
-      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits mult",
+      "publishedAt": "2026-10-09T17:50:30.000Z",
+      "summary": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce R",
       "category": "Research",
-      "score": 37.653
+      "score": 38.328
     },
     {
-      "id": "caught-in-the-act-probes-effectively-detect-sabotage-and-cat-fhqnkm",
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-      "url": "http://arxiv.org/abs/2610.12445v1",
+      "id": "when-vlms-destroy-what-they-know-spatial-representations-fal-62upv2",
+      "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+      "url": "http://arxiv.org/abs/2610.13910v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:13.000Z",
-      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings b",
+      "publishedAt": "2026-10-09T17:50:03.000Z",
+      "summary": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning. We introdu",
       "category": "Research",
-      "score": 37.653
+      "score": 38.328
     },
     {
-      "id": "rounding-in-preconditioner-space-redesigning-4-bit-adamw-opt-wbk6bf",
-      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
-      "url": "http://arxiv.org/abs/2610.12444v1",
+      "id": "revisiting-tabular-deep-regression-objectives-and-the-limits-bvkryn",
+      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+      "url": "http://arxiv.org/abs/2610.13909v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:09.000Z",
-      "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for",
+      "publishedAt": "2026-10-09T17:49:32.000Z",
+      "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of resear",
       "category": "Research",
-      "score": 37.653
+      "score": 38.327
     },
     {
-      "id": "lego-a-lifting-free-approach-for-exocentric-to-egocentric-vi-knmdlq",
-      "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
-      "url": "http://arxiv.org/abs/2610.12442v1",
+      "id": "hitting-time-bounds-for-asynchronous-q-learning-j3agaf",
+      "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+      "url": "http://arxiv.org/abs/2610.13901v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:58:03.000Z",
-      "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Current state-of-the-art",
+      "publishedAt": "2026-10-09T17:44:10.000Z",
+      "summary": "We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may ",
       "category": "Research",
-      "score": 37.653
+      "score": 38.323
     },
     {
-      "id": "generative-neural-retargeting-for-human-to-robot-dexterous-m-ozgveo",
-      "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
-      "url": "http://arxiv.org/abs/2610.12440v1",
+      "id": "structural-automata-for-neural-semantic-parsing-jhp8q5",
+      "title": "Structural Automata for Neural Semantic Parsing",
+      "url": "http://arxiv.org/abs/2610.13896v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:58.000Z",
-      "summary": "Human demonstrations are a scalable data source for learning dexterous manipulation, but the embodiment gap prevents human motion from being executed directly on robots. Inverse kinematics (IK) retargets human motion to ",
+      "publishedAt": "2026-10-09T17:42:14.000Z",
+      "summary": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding prevents locally invalid ",
       "category": "Research",
-      "score": 37.653
+      "score": 38.321
     },
     {
-      "id": "density-ratio-estimation-with-stein-displacement-fields-dfumzd",
-      "title": "Density Ratio Estimation with Stein Displacement Fields",
-      "url": "http://arxiv.org/abs/2610.12437v1",
+      "id": "task-context-shapes-component-roles-in-language-models-9ur3un",
+      "title": "Task Context Shapes Component Roles in Language Models",
+      "url": "http://arxiv.org/abs/2610.13895v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:33.000Z",
-      "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offe",
+      "publishedAt": "2026-10-09T17:40:53.000Z",
+      "summary": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-dependent interactions",
       "category": "Research",
-      "score": 37.653
+      "score": 38.32
     },
     {
-      "id": "ecology-of-ai-agents-collaboration-creates-a-population-thre-6a79z",
-      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-      "url": "http://arxiv.org/abs/2610.12436v1",
+      "id": "beyond-the-snowflakes-disentangling-weather-effects-from-con-t49zbb",
+      "title": "Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection",
+      "url": "http://arxiv.org/abs/2610.13891v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:32.000Z",
-      "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explo",
+      "publishedAt": "2026-10-09T17:38:30.000Z",
+      "summary": "Light Detection and Ranging (LiDAR) is critical for autonomous perception, yet its performance is known to degrade in adverse weather. While existing literature models snow as atmospheric noise that degrades performance,",
       "category": "Research",
-      "score": 37.653
+      "score": 38.318
     },
     {
-      "id": "viola-learning-generalist-humanoid-control-policies-from-hum-eljq4q",
-      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
-      "url": "http://arxiv.org/abs/2610.12435v1",
+      "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-executio-la9c8e",
+      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+      "url": "http://arxiv.org/abs/2610.13889v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:27.000Z",
-      "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which m",
+      "publishedAt": "2026-10-09T17:38:11.000Z",
+      "summary": "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execution. To address this",
       "category": "Research",
-      "score": 37.653
+      "score": 38.318
     },
     {
-      "id": "faith-feasibility-aware-safety-filtered-rl-for-high-dimensio-8ag64d",
-      "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
-      "url": "http://arxiv.org/abs/2610.12432v1",
+      "id": "x-agentred-red-teaming-personal-agents-in-evolving-multi-ser-bidiy5",
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "url": "http://arxiv.org/abs/2610.13886v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:06.000Z",
-      "summary": "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but classical designs re",
+      "publishedAt": "2026-10-09T17:34:44.000Z",
+      "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agen",
       "category": "Research",
-      "score": 37.652
+      "score": 38.315
     },
     {
-      "id": "control-ready-uncertainty-for-trajectory-diffusion-zdxdxa",
-      "title": "Control-Ready Uncertainty for Trajectory Diffusion",
-      "url": "http://arxiv.org/abs/2610.12431v1",
+      "id": "prediction-is-not-a-sufficient-memory-state-jfbf6l",
+      "title": "Prediction Is Not a Sufficient Memory State",
+      "url": "http://arxiv.org/abs/2610.13881v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:57:01.000Z",
-      "summary": "Diffusion models can represent complex, multimodal trajectory distributions, but extracting uncertainty from them typically requires costly Monte Carlo sampling. This limits their use in real-time control, where robots m",
+      "publishedAt": "2026-10-09T17:27:06.000Z",
+      "summary": "A memory that reproduces every current prediction may still have forgotten how to learn from the next observation. We characterize this distinction for exact cumulative learning and attention. For smooth convex residual ",
       "category": "Research",
-      "score": 37.652
+      "score": 38.309
     },
     {
-      "id": "toward-joint-optimization-of-circuit-depth-and-training-data-9fx221",
-      "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
-      "url": "http://arxiv.org/abs/2610.12428v1",
+      "id": "tracking-the-invisible-self-supervised-wheel-track-detection-1cs1us",
+      "title": "Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion",
+      "url": "http://arxiv.org/abs/2610.13872v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:55:57.000Z",
-      "summary": "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to generalize well. Q-",
+      "publishedAt": "2026-10-09T17:21:28.000Z",
+      "summary": "Accurate detection of drivable area is essential for autonomous driving and advanced driver assistance systems. While state-of-the-art methods focus on general traversability estimation, they prove inadequate for snow-co",
       "category": "Research",
-      "score": 37.652
+      "score": 38.305
     },
     {
-      "id": "fastbench-can-streaming-vlms-perceive-high-dynamic-real-worl-9fyieg",
-      "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
-      "url": "http://arxiv.org/abs/2610.12427v1",
+      "id": "partially-informed-stochastic-optimization-via-zeroth-order--681vdv",
+      "title": "Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking",
+      "url": "http://arxiv.org/abs/2610.13871v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:55:20.000Z",
-      "summary": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal history, spatial res",
+      "publishedAt": "2026-10-09T17:20:41.000Z",
+      "summary": "Many optimization problems provide direct access to only part of the gradient, while the remaining component must be inferred from function evaluations. This structure arises in performative prediction, performative rein",
       "category": "Research",
-      "score": 37.651
-    },
-    {
-      "id": "roborsi-stable-efficient-and-reusable-robot-self-evolution-i-t29o6g",
-      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
-      "url": "http://arxiv.org/abs/2610.12424v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-08T17:55:12.000Z",
-      "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can a",
-      "category": "Research",
-      "score": 37.651
+      "score": 38.304
     }
   ]
 }
