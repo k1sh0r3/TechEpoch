@@ -1,23 +1,13 @@
 {
-  "updatedAt": "2026-10-12T05:05:27.665Z",
+  "updatedAt": "2026-10-12T14:50:04.709Z",
   "totalItems": 120,
   "categories": {
-    "Robotics": 22,
-    "AI": 51,
+    "AI": 50,
+    "Robotics": 23,
     "Machine Learning": 1,
     "Research": 46
   },
   "items": [
-    {
-      "id": "europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuat-pi16at",
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-05T11:13:51Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 52.81
-    },
     {
       "id": "chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo-ie0pj2",
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
@@ -37,16 +27,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.36
-    },
-    {
-      "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-11T20:20:52Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.206
     },
     {
       "id": "openai-withdraws-3-math-papers-3iliul",
@@ -107,6 +87,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.865
+    },
+    {
+      "id": "research-firm-calls-anthropic-s-ipo-unprecedented-test-of-in-uox3nk",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-12T05:03:47Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.863
     },
     {
       "id": "anthropic-agents-tried-to-fill-out-visa-forms-on-state-dept--bdyt5m",
@@ -179,6 +169,16 @@
       "score": 51.211
     },
     {
+      "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-11T20:20:52Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.192
+    },
+    {
       "id": "port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l-qz2ktb",
       "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
       "url": "https://github.com/pingdotgg/ts-rust",
@@ -219,14 +219,14 @@
       "score": 50.695
     },
     {
-      "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony--x7982c",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-05T05:37:40Z",
-      "summary": "",
-      "category": "AI",
-      "score": 50.669
+      "id": "inside-amazon-s-robotic-arms-race-and-what-it-means-for-the--c8l7xm",
+      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-12T12:43:10.000Z",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "category": "Robotics",
+      "score": 50.655
     },
     {
       "id": "scam-american-companies-are-using-to-manipulate-ingredient-l-l0l3ww",
@@ -237,6 +237,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 50.57
+    },
+    {
+      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-12T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
+      "category": "Robotics",
+      "score": 50.567
     },
     {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-2t1h7j",
@@ -349,16 +359,6 @@
       "score": 47.928
     },
     {
-      "id": "people-really-hate-ai-so-why-can-t-they-get-enough-ike5w0",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-05T08:00:00.000Z",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
-      "category": "AI",
-      "score": 47.37
-    },
-    {
       "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
@@ -366,7 +366,7 @@
       "publishedAt": "2026-10-08T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
       "category": "Robotics",
-      "score": 47.255
+      "score": 47.024
     },
     {
       "id": "drones-sink-ships-near-nato-countries-in-unacceptable-attack-n1u84x",
@@ -389,16 +389,6 @@
       "score": 45.771
     },
     {
-      "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-09T22:04:07.000Z",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "category": "Robotics",
-      "score": 45.542
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -409,24 +399,14 @@
       "score": 45.182
     },
     {
-      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-09T22:04:07.000Z",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
       "category": "Robotics",
-      "score": 44.936
-    },
-    {
-      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "category": "AI",
-      "score": 44.936
+      "score": 45.075
     },
     {
       "id": "weight-loss-drugs-show-signs-of-slowing-biological-aging-say-gm22j",
@@ -439,6 +419,26 @@
       "score": 44.934
     },
     {
+      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "category": "Robotics",
+      "score": 44.581
+    },
+    {
+      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
+      "category": "AI",
+      "score": 44.581
+    },
+    {
       "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -446,7 +446,7 @@
       "publishedAt": "2026-10-09T00:08:24.000Z",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
       "category": "AI",
-      "score": 44.61
+      "score": 44.314
     },
     {
       "id": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-cplnq5",
@@ -936,7 +936,7 @@
       "publishedAt": "2026-10-09T17:59:56.000Z",
       "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wiki",
       "category": "Research",
-      "score": 38.336
+      "score": 37.907
     },
     {
       "id": "towards-physically-grounded-articulated-3d-assets-a-multi-ag-mogtcw",
@@ -946,7 +946,7 @@
       "publishedAt": "2026-10-09T17:59:41.000Z",
       "summary": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agenti",
       "category": "Research",
-      "score": 38.336
+      "score": 37.907
     },
     {
       "id": "splat2act-from-captured-scenes-to-personalized-vla-manipulat-3p064i",
@@ -956,7 +956,7 @@
       "publishedAt": "2026-10-09T17:59:06.000Z",
       "summary": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ achieves 0% pickup succ",
       "category": "Research",
-      "score": 38.335
+      "score": 37.906
     },
     {
       "id": "instantfusion-a-shared-latent-interface-for-heterogeneous-im-pgcxeh",
@@ -966,7 +966,7 @@
       "publishedAt": "2026-10-09T17:59:04.000Z",
       "summary": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their rem",
       "category": "Research",
-      "score": 38.335
+      "score": 37.906
     },
     {
       "id": "noise-space-learning-for-vla-adaptation-dxg3mn",
@@ -976,7 +976,7 @@
       "publishedAt": "2026-10-09T17:58:50.000Z",
       "summary": "Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety constraints. Noise sp",
       "category": "Research",
-      "score": 38.335
+      "score": 37.906
     },
     {
       "id": "images-talk-back-guiding-mmdits-by-suppressing-image-to-text-kf1ua0",
@@ -986,7 +986,7 @@
       "publishedAt": "2026-10-09T17:58:15.000Z",
       "summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does thi",
       "category": "Research",
-      "score": 38.334
+      "score": 37.906
     },
     {
       "id": "hide-and-seek-hide-concepts-to-seek-explanations-for-black-b-qibvwi",
@@ -996,7 +996,7 @@
       "publishedAt": "2026-10-09T17:56:59.000Z",
       "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-b",
       "category": "Research",
-      "score": 38.333
+      "score": 37.905
     },
     {
       "id": "constructive-bounds-for-the-topological-expressivity-of-neur-eal17b",
@@ -1006,7 +1006,7 @@
       "publishedAt": "2026-10-09T17:55:33.000Z",
       "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classificati",
       "category": "Research",
-      "score": 38.332
+      "score": 37.904
     },
     {
       "id": "chronos-policy-learning-robot-policies-on-physical-time-1idg8l",
@@ -1016,7 +1016,7 @@
       "publishedAt": "2026-10-09T17:55:20.000Z",
       "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when in",
       "category": "Research",
-      "score": 38.332
+      "score": 37.904
     },
     {
       "id": "ai-models-can-provably-hide-arbitrary-capabilities-inubyf",
@@ -1026,7 +1026,7 @@
       "publishedAt": "2026-10-09T17:55:06.000Z",
       "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adv",
       "category": "Research",
-      "score": 38.332
+      "score": 37.903
     },
     {
       "id": "can-machines-reason-non-verbally-6l9ck0",
@@ -1036,7 +1036,7 @@
       "publishedAt": "2026-10-09T17:54:36.000Z",
       "summary": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems that require visual non-verbal reasoning. This is evident even in advanced systems such as DeepSeek, Ch",
       "category": "Research",
-      "score": 38.331
+      "score": 37.903
     },
     {
       "id": "kl-before-and-after-mixing-a-round-complexity-separation-in--e2paae",
@@ -1046,7 +1046,7 @@
       "publishedAt": "2026-10-09T17:54:16.000Z",
       "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\math",
       "category": "Research",
-      "score": 38.331
+      "score": 37.903
     },
     {
       "id": "goal-oriented-bundle-management-and-flow-control-for-deep-sp-y16nav",
@@ -1056,7 +1056,7 @@
       "publishedAt": "2026-10-09T17:53:46.000Z",
       "summary": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay ",
       "category": "Research",
-      "score": 38.331
+      "score": 37.903
     },
     {
       "id": "dyssomniann-multi-scale-spiking-neural-modeling-of-human-sle-7g78h8",
@@ -1066,7 +1066,7 @@
       "publishedAt": "2026-10-09T17:52:23.000Z",
       "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary ",
       "category": "Research",
-      "score": 38.33
+      "score": 37.902
     },
     {
       "id": "designing-protein-structures-from-natural-language-qtu8ci",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2026-10-09T17:51:55.000Z",
       "summary": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limitin",
       "category": "Research",
-      "score": 38.329
+      "score": 37.901
     },
     {
       "id": "where-to-look-matters-rethinking-sub-volume-sampling-in-3d-m-uc64ie",
@@ -1086,7 +1086,7 @@
       "publishedAt": "2026-10-09T17:51:47.000Z",
       "summary": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However, random cropping implicitly treats all spatial regions as equally worth observing, despite anatomica",
       "category": "Research",
-      "score": 38.329
+      "score": 37.901
     },
     {
       "id": "rsi-anything-unlocking-recursive-self-improvement-with-world-s91yt8",
@@ -1096,7 +1096,7 @@
       "publishedAt": "2026-10-09T17:50:30.000Z",
       "summary": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce R",
       "category": "Research",
-      "score": 38.328
+      "score": 37.9
     },
     {
       "id": "when-vlms-destroy-what-they-know-spatial-representations-fal-62upv2",
@@ -1106,7 +1106,7 @@
       "publishedAt": "2026-10-09T17:50:03.000Z",
       "summary": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning. We introdu",
       "category": "Research",
-      "score": 38.328
+      "score": 37.9
     },
     {
       "id": "revisiting-tabular-deep-regression-objectives-and-the-limits-bvkryn",
@@ -1116,7 +1116,7 @@
       "publishedAt": "2026-10-09T17:49:32.000Z",
       "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of resear",
       "category": "Research",
-      "score": 38.327
+      "score": 37.9
     },
     {
       "id": "hitting-time-bounds-for-asynchronous-q-learning-j3agaf",
@@ -1126,7 +1126,7 @@
       "publishedAt": "2026-10-09T17:44:10.000Z",
       "summary": "We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may ",
       "category": "Research",
-      "score": 38.323
+      "score": 37.896
     },
     {
       "id": "structural-automata-for-neural-semantic-parsing-jhp8q5",
@@ -1136,7 +1136,7 @@
       "publishedAt": "2026-10-09T17:42:14.000Z",
       "summary": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding prevents locally invalid ",
       "category": "Research",
-      "score": 38.321
+      "score": 37.895
     },
     {
       "id": "task-context-shapes-component-roles-in-language-models-9ur3un",
@@ -1146,7 +1146,7 @@
       "publishedAt": "2026-10-09T17:40:53.000Z",
       "summary": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-dependent interactions",
       "category": "Research",
-      "score": 38.32
+      "score": 37.894
     },
     {
       "id": "beyond-the-snowflakes-disentangling-weather-effects-from-con-t49zbb",
@@ -1156,7 +1156,7 @@
       "publishedAt": "2026-10-09T17:38:30.000Z",
       "summary": "Light Detection and Ranging (LiDAR) is critical for autonomous perception, yet its performance is known to degrade in adverse weather. While existing literature models snow as atmospheric noise that degrades performance,",
       "category": "Research",
-      "score": 38.318
+      "score": 37.893
     },
     {
       "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-executio-la9c8e",
@@ -1166,7 +1166,7 @@
       "publishedAt": "2026-10-09T17:38:11.000Z",
       "summary": "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execution. To address this",
       "category": "Research",
-      "score": 38.318
+      "score": 37.892
     },
     {
       "id": "x-agentred-red-teaming-personal-agents-in-evolving-multi-ser-bidiy5",
@@ -1176,7 +1176,7 @@
       "publishedAt": "2026-10-09T17:34:44.000Z",
       "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agen",
       "category": "Research",
-      "score": 38.315
+      "score": 37.89
     },
     {
       "id": "prediction-is-not-a-sufficient-memory-state-jfbf6l",
@@ -1186,7 +1186,7 @@
       "publishedAt": "2026-10-09T17:27:06.000Z",
       "summary": "A memory that reproduces every current prediction may still have forgotten how to learn from the next observation. We characterize this distinction for exact cumulative learning and attention. For smooth convex residual ",
       "category": "Research",
-      "score": 38.309
+      "score": 37.885
     },
     {
       "id": "tracking-the-invisible-self-supervised-wheel-track-detection-1cs1us",
@@ -1196,7 +1196,7 @@
       "publishedAt": "2026-10-09T17:21:28.000Z",
       "summary": "Accurate detection of drivable area is essential for autonomous driving and advanced driver assistance systems. While state-of-the-art methods focus on general traversability estimation, they prove inadequate for snow-co",
       "category": "Research",
-      "score": 38.305
+      "score": 37.881
     },
     {
       "id": "partially-informed-stochastic-optimization-via-zeroth-order--681vdv",
@@ -1206,7 +1206,7 @@
       "publishedAt": "2026-10-09T17:20:41.000Z",
       "summary": "Many optimization problems provide direct access to only part of the gradient, while the remaining component must be inferred from function evaluations. This structure arises in performative prediction, performative rein",
       "category": "Research",
-      "score": 38.304
+      "score": 37.881
     }
   ]
 }
