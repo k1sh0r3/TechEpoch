@@ -1,24 +1,14 @@
 {
-  "updatedAt": "2026-10-13T22:25:49.563Z",
+  "updatedAt": "2026-10-14T04:08:20.170Z",
   "totalItems": 120,
   "categories": {
-    "AI": 57,
-    "Robotics": 21,
+    "AI": 56,
+    "Robotics": 22,
     "Machine Learning": 2,
     "Research": 30,
     "Tech": 10
   },
   "items": [
-    {
-      "id": "gemini-4-argon-cbqn8i",
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T16:03:16Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.93
-    },
     {
       "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -27,17 +17,7 @@
       "publishedAt": "2026-10-13T20:23:55Z",
       "summary": "",
       "category": "AI",
-      "score": 52.847
-    },
-    {
-      "id": "redesigning-source-control-at-anthropic-1s7pko",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T15:49:56Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.604
+      "score": 52.479
     },
     {
       "id": "500b-tokens-later-letting-ai-agents-decompile-a-first-person-mo9xvf",
@@ -58,6 +38,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.337
+    },
+    {
+      "id": "gemini-4-argon-cbqn8i",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T16:03:16Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.264
     },
     {
       "id": "gpt-6-astra-helped-me-jailbreak-my-kindle-a7zp7h",
@@ -88,6 +78,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 52.008
+    },
+    {
+      "id": "redesigning-source-control-at-anthropic-1s7pko",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T15:49:56Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.975
     },
     {
       "id": "anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd-b5vrh8",
@@ -148,6 +148,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.861
+    },
+    {
+      "id": "physical-intelligence-api-beta-frontier-models-for-every-rob-3fhwtz",
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T21:55:25Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 51.691
     },
     {
       "id": "show-hn-gsd-task-manager-an-mcp-server-that-gives-your-ai-ag-lbp6n9",
@@ -250,16 +260,6 @@
       "score": 51.111
     },
     {
-      "id": "show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and--oru0se",
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-07T03:30:44Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.067
-    },
-    {
       "id": "janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd-nabfs2",
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
@@ -288,16 +288,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 50.57
-    },
-    {
-      "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-13T18:23:33.000Z",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "category": "AI",
-      "score": 50.355
     },
     {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-2t1h7j",
@@ -330,6 +320,16 @@
       "score": 49.83
     },
     {
+      "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-13T18:23:33.000Z",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "category": "AI",
+      "score": 49.53
+    },
+    {
       "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
@@ -337,7 +337,7 @@
       "publishedAt": "2026-10-13T12:00:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
       "category": "AI",
-      "score": 49.438
+      "score": 48.716
     },
     {
       "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
@@ -347,7 +347,7 @@
       "publishedAt": "2026-10-13T10:00:00.000Z",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
       "category": "AI",
-      "score": 49.175
+      "score": 48.482
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -407,27 +407,7 @@
       "publishedAt": "2026-10-12T18:21:36.000Z",
       "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
       "category": "AI",
-      "score": 47.458
-    },
-    {
-      "id": "long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed--8srrp7",
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-12T16:01:08.000Z",
-      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-      "category": "AI",
-      "score": 47.246
-    },
-    {
-      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-12T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
-      "category": "Robotics",
-      "score": 46.918
+      "score": 46.958
     },
     {
       "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
@@ -438,6 +418,26 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
       "category": "Robotics",
       "score": 46.84
+    },
+    {
+      "id": "long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed--8srrp7",
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-12T16:01:08.000Z",
+      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+      "category": "AI",
+      "score": 46.769
+    },
+    {
+      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-12T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
+      "category": "Robotics",
+      "score": 46.479
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -490,26 +490,6 @@
       "score": 44.078
     },
     {
-      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
-      "category": "Robotics",
-      "score": 43.818
-    },
-    {
-      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "category": "AI",
-      "score": 43.818
-    },
-    {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
       "title": "If You Are Still Calling AI Artificial Intelligence, You Are Wrong",
       "url": "https://medium.com/@preslavrachev/if-you-are-still-calling-ai-artificial-intelligence-you-are-wrong-89c2e1edb8ca",
@@ -528,6 +508,26 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w",
       "category": "AI",
       "score": 43.761
+    },
+    {
+      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
+      "category": "Robotics",
+      "score": 43.727
+    },
+    {
+      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
+      "category": "AI",
+      "score": 43.727
     },
     {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
@@ -1110,46 +1110,6 @@
       "score": 36.97
     },
     {
-      "id": "show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboar-bxv19g",
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T19:11:48Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.672
-    },
-    {
-      "id": "apple-homeview-lunp92",
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T13:02:12Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.36
-    },
-    {
-      "id": "thunderbird-for-ios-6ww1ar",
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T15:07:37Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.324
-    },
-    {
-      "id": "i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-t-6khwaw",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T15:25:50Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.239
-    },
-    {
       "id": "firefox-enterprise-phzyyg",
       "title": "Firefox Enterprise",
       "url": "https://www.firefox.com/en-US/enterprise/",
@@ -1160,14 +1120,54 @@
       "score": 19.202
     },
     {
-      "id": "the-united-kingdom-generates-less-electricity-per-person-tha-o1h2sw",
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "id": "show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboar-bxv19g",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T15:12:57Z",
+      "publishedAt": "2026-10-13T19:11:48Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.057
+      "score": 19.17
+    },
+    {
+      "id": "show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run--qcu9mr",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T23:13:23Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.124
+    },
+    {
+      "id": "recreational-programming-lbbi0m",
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T22:33:33Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.113
+    },
+    {
+      "id": "high-speed-video-reveals-how-honey-bee-stingers-pump-venom-ac1h92",
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T01:05:23Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.076
+    },
+    {
+      "id": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-vi-usiak8",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T01:09:13Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.036
     },
     {
       "id": "11-year-old-unsoundness-bugs-found-in-rust-borrow-checker-2wei7v",
@@ -1180,16 +1180,6 @@
       "score": 19.036
     },
     {
-      "id": "new-apple-tv-4k-eh7v2p",
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T13:21:35Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.029
-    },
-    {
       "id": "we-turned-embeddinggemma-2-into-a-speech-to-text-model-xc7ewc",
       "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "url": "https://eg2.haku.sh/",
@@ -1200,14 +1190,24 @@
       "score": 18.935
     },
     {
-      "id": "show-hn-how-random-are-you-86omq2",
-      "title": "Show HN: How Random Are You?",
-      "url": "https://lab.specr.net/rigged-draw/",
+      "id": "alphanist-nbjgyi",
+      "title": "AlphaNIST",
+      "url": "https://alpha-nist.github.io/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T16:57:57Z",
+      "publishedAt": "2026-10-13T21:57:29Z",
       "summary": "",
       "category": "Tech",
-      "score": 18.924
+      "score": 18.797
+    },
+    {
+      "id": "is-attention-the-essence-of-intelligence-3uv3ks",
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T03:10:25Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 18.795
     }
   ]
 }
