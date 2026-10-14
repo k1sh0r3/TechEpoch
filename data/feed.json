@@ -1,14 +1,33 @@
 {
-  "updatedAt": "2026-10-14T16:49:12.297Z",
+  "updatedAt": "2026-10-14T21:23:35.379Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
-    "Robotics": 22,
+    "AI": 57,
+    "Robotics": 23,
     "Machine Learning": 2,
-    "Research": 40,
-    "Tech": 1
+    "Research": 38
   },
   "items": [
+    {
+      "id": "ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu-jebsv0",
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T17:45:23Z",
+      "summary": "",
+      "category": "AI",
+      "score": 53.298
+    },
+    {
+      "id": "anthropic-s-scion-is-heavily-inspired-by-mononoke-azu9t9",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T20:30:54Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.833
+    },
     {
       "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -38,6 +57,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.337
+    },
+    {
+      "id": "tesla-s-robotaxis-blow-through-school-zones-nhtsa-petition-a-kyb5o3",
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T16:45:19Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 52.335
     },
     {
       "id": "gpt-6-astra-helped-me-jailbreak-my-kindle-a7zp7h",
@@ -190,16 +219,6 @@
       "score": 51.541
     },
     {
-      "id": "show-hn-agent-reviews-where-ai-agents-read-and-write-reviews-e6yaae",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-07T16:59:11Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.504
-    },
-    {
       "id": "a-shared-verifiable-fix-database-that-ai-agents-read-and-wri-vf3huk",
       "title": "A shared, verifiable fix database that AI agents read and write themselves",
       "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
@@ -215,16 +234,6 @@
       "url": "https://karagila.org/2026/openai-pp/",
       "sourceName": "Hacker News",
       "publishedAt": "2026-10-08T23:29:43Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.211
-    },
-    {
-      "id": "gpt-6-and-intelligent-ui-for-everyone-9ekwxg",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-07T18:00:58Z",
       "summary": "",
       "category": "AI",
       "score": 51.211
@@ -280,6 +289,16 @@
       "score": 50.695
     },
     {
+      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T19:10:58.000Z",
+      "summary": "\"Have you ever seen a world born?\"",
+      "category": "AI",
+      "score": 50.64
+    },
+    {
       "id": "scam-american-companies-are-using-to-manipulate-ingredient-l-l0l3ww",
       "title": "Scam American companies are using to manipulate ingredient lists",
       "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
@@ -290,14 +309,14 @@
       "score": 50.57
     },
     {
-      "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T12:55:06.000Z",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "publishedAt": "2026-10-14T16:41:49.000Z",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
       "category": "AI",
-      "score": 50.375
+      "score": 50.254
     },
     {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-2t1h7j",
@@ -320,16 +339,6 @@
       "score": 50.165
     },
     {
-      "id": "openai-google-pushing-new-ai-models-easily-tricked-into-maki-2pz4o4",
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T11:00:30.000Z",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "category": "AI",
-      "score": 50.088
-    },
-    {
       "id": "openai-withdraws-three-mathematical-results-unqcgr",
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
@@ -340,6 +349,26 @@
       "score": 49.83
     },
     {
+      "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T12:55:06.000Z",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "category": "AI",
+      "score": 49.705
+    },
+    {
+      "id": "openai-google-pushing-new-ai-models-easily-tricked-into-maki-2pz4o4",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T11:00:30.000Z",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "category": "AI",
+      "score": 49.444
+    },
+    {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
@@ -348,16 +377,6 @@
       "summary": "",
       "category": "AI",
       "score": 48.446
-    },
-    {
-      "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-13T18:23:33.000Z",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "category": "AI",
-      "score": 48.014
     },
     {
       "id": "tiny-audio-nanogpt-for-speech-to-text-aoj77z",
@@ -380,6 +399,16 @@
       "score": 47.741
     },
     {
+      "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-13T18:23:33.000Z",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "category": "AI",
+      "score": 47.558
+    },
+    {
       "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
@@ -387,17 +416,7 @@
       "publishedAt": "2026-10-13T12:00:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
       "category": "AI",
-      "score": 47.389
-    },
-    {
-      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T10:00:00.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-      "category": "AI",
-      "score": 47.21
+      "score": 46.99
     },
     {
       "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
@@ -408,6 +427,16 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around ",
       "category": "Robotics",
       "score": 46.84
+    },
+    {
+      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+      "category": "AI",
+      "score": 46.827
     },
     {
       "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
@@ -447,7 +476,7 @@
       "publishedAt": "2026-10-12T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
       "category": "Robotics",
-      "score": 45.671
+      "score": 45.428
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -790,6 +819,16 @@
       "score": 41.881
     },
     {
+      "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new--85ze9m",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-08T17:39:26Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 40.81
+    },
+    {
       "id": "chunkact-action-chunking-for-agentic-robotics-90etv7",
       "title": "ChunkAct: Action Chunking for Agentic Robotics",
       "url": "http://arxiv.org/abs/2610.18874v1",
@@ -797,7 +836,7 @@
       "publishedAt": "2026-10-13T17:59:57.000Z",
       "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "loopwam-closed-loop-generalist-policy-improvement-from-deplo-7cc7b5",
@@ -807,7 +846,7 @@
       "publishedAt": "2026-10-13T17:59:56.000Z",
       "summary": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can rein",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "egoexplorer-a-vision-motion-touch-observatory-for-human-loco-5qo5ll",
@@ -817,7 +856,7 @@
       "publishedAt": "2026-10-13T17:59:55.000Z",
       "summary": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, f",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "dog-breed-text-to-image-flow-matching-from-pretraining-to-fi-kp3jmb",
@@ -827,7 +866,7 @@
       "publishedAt": "2026-10-13T17:59:53.000Z",
       "summary": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when ge",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "cepheid-decoupling-scale-from-structure-for-cross-family-mot-ssa1hh",
@@ -837,7 +876,7 @@
       "publishedAt": "2026-10-13T17:59:53.000Z",
       "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "what-matters-in-quality-aware-vla-pretraining-a-benchmark-an-evk35z",
@@ -847,7 +886,7 @@
       "publishedAt": "2026-10-13T17:59:52.000Z",
       "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions a",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "tev-scaling-long-horizon-agentic-environments-with-dense-pro-kssgyn",
@@ -857,7 +896,7 @@
       "publishedAt": "2026-10-13T17:59:51.000Z",
       "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvemen",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "embodiedevo-self-improving-coding-agents-for-physical-intell-gomc5o",
@@ -867,7 +906,7 @@
       "publishedAt": "2026-10-13T17:59:51.000Z",
       "summary": "Bringing general-purpose agents into the physical world calls for an executable representation of physical intelligence. Compared with vision-language-action (VLA) models, which map observations and language instructions",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "playground-progressive-layout-generation-with-render-grounde-vtx2s2",
@@ -877,7 +916,7 @@
       "publishedAt": "2026-10-13T17:59:50.000Z",
       "summary": "Generating editable graphic designs requires arranging visual and textual elements into a coherent composition while preserving their content and editability. Although recent MLLM-based approaches employ iterative genera",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "autoagent0-an-agentic-runtime-for-safe-closed-loop-driving-5uyowk",
@@ -887,7 +926,7 @@
       "publishedAt": "2026-10-13T17:59:50.000Z",
       "summary": "Safe autonomous driving requires more than accurate planning at a single frame: it demands reliable closed-loop execution in dynamic environments. Although end-to-end driving policies have advanced rapidly, the accumulat",
       "category": "Research",
-      "score": 40.973
+      "score": 40.521
     },
     {
       "id": "data-free-training-of-diffusion-models-for-lattice-field-the-sark2k",
@@ -897,7 +936,7 @@
       "publishedAt": "2026-10-13T17:59:33.000Z",
       "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations. Diffusion models ",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "doubtless-training-free-contrastive-decoding-for-efficient-r-wzwawp",
@@ -907,7 +946,7 @@
       "publishedAt": "2026-10-13T17:59:32.000Z",
       "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model, a",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "aescode-aesthetic-code-generation-with-decoupled-cross-modal-2gvjzc",
@@ -917,7 +956,7 @@
       "publishedAt": "2026-10-13T17:59:31.000Z",
       "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layo",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "hybrid-reasoning-agents-b3ya6s",
@@ -927,7 +966,7 @@
       "publishedAt": "2026-10-13T17:59:31.000Z",
       "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient int",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "visual-tokens-on-demand-visual-budgeting-for-scalable-and-ef-9k2wuh",
@@ -937,7 +976,7 @@
       "publishedAt": "2026-10-13T17:59:24.000Z",
       "summary": "Multimodal large language models have advanced rapidly, but most remain optimized for single-image inputs. Multi-image reasoning is costly because each image adds many visual tokens, increasing encoding and attention dem",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "pixelmoe-scaling-pixel-space-diffusion-with-llm-style-mixtur-qy8kn3",
@@ -947,7 +986,7 @@
       "publishedAt": "2026-10-13T17:59:21.000Z",
       "summary": "Pixel-space diffusion models provide an appealing alternative to latent-space diffusion models by directly modeling raw images without relying on a learned tokenizer. However, scaling pixel-space models has predominantly",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "exact-topological-compliance-generating-persistence-equivale-y5nyoi",
@@ -957,7 +996,7 @@
       "publishedAt": "2026-10-13T17:59:19.000Z",
       "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware gener",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "interaction-latents-as-actions-for-contact-rich-manipulation-qs7tf1",
@@ -967,7 +1006,7 @@
       "publishedAt": "2026-10-13T17:59:16.000Z",
       "summary": "Contact-rich manipulation requires robots to coordinate not only where to move, but also how contact and force should evolve throughout an interaction. Yet most robot policies represent actions primarily as motion trajec",
       "category": "Research",
-      "score": 40.972
+      "score": 40.52
     },
     {
       "id": "two-clocks-why-larger-rollout-batches-learn-slower-but-fail--9123ph",
@@ -977,7 +1016,7 @@
       "publishedAt": "2026-10-13T17:58:57.000Z",
       "summary": "Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately preserve progress per s",
       "category": "Research",
-      "score": 40.971
+      "score": 40.519
     },
     {
       "id": "forcewam-decoupling-future-and-response-learning-from-demo-a-p1u0e6",
@@ -987,7 +1026,7 @@
       "publishedAt": "2026-10-13T17:58:44.000Z",
       "summary": "Expert demonstrations show how to complete contact-rich tasks, but provide limited coverage of how interaction forces respond to different actions. Task-agnostic play provides broader experience of contact dynamics witho",
       "category": "Research",
-      "score": 40.971
+      "score": 40.519
     },
     {
       "id": "mfg-multi-turn-feedback-guided-molecular-optimization-ohj74l",
@@ -997,7 +1036,7 @@
       "publishedAt": "2026-10-13T17:58:41.000Z",
       "summary": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure. This proces",
       "category": "Research",
-      "score": 40.971
+      "score": 40.519
     },
     {
       "id": "contact-trajectory-prompting-in-context-transfer-of-contact--r86yh4",
@@ -1007,7 +1046,7 @@
       "publishedAt": "2026-10-13T17:58:08.000Z",
       "summary": "In-context robot learning enables robots to acquire new behaviors from demonstrations without test-time parameter updates. However, visual and kinematic specifications alone may not distinguish contact-rich behaviors tha",
       "category": "Research",
-      "score": 40.97
+      "score": 40.518
     },
     {
       "id": "worldrecon-generative-multi-view-mesh-reconstruction-for-lar-olwwsd",
@@ -1017,7 +1056,7 @@
       "publishedAt": "2026-10-13T17:57:58.000Z",
       "summary": "Reconstructing complete, high-quality meshes of large-scale scenes from unposed multi-view images requires faithful geometric grounding while plausibly completing surfaces that are unobserved or only sparsely captured. W",
       "category": "Research",
-      "score": 40.969
+      "score": 40.518
     },
     {
       "id": "the-last-remote-sensing-model-built-by-humans-casting-any-ea-4eh7t8",
@@ -1027,7 +1066,7 @@
       "publishedAt": "2026-10-13T17:57:51.000Z",
       "summary": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifiable task can be cas",
       "category": "Research",
-      "score": 40.969
+      "score": 40.518
     },
     {
       "id": "repprobe-can-video-language-models-count-repeated-actions-a--d0cpiw",
@@ -1037,7 +1076,7 @@
       "publishedAt": "2026-10-13T17:57:43.000Z",
       "summary": "Repetition counting requires identifying and enumerating action cycles over time. While state-of-the-art video language models describe actions fluently, they fail to reliably count how many times an action repeats. To i",
       "category": "Research",
-      "score": 40.969
+      "score": 40.517
     },
     {
       "id": "libero-rig-a-hardware-setup-robustness-benchmark-for-vision--xxzlu3",
@@ -1047,7 +1086,7 @@
       "publishedAt": "2026-10-13T17:57:18.000Z",
       "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different rates, and end-effect",
       "category": "Research",
-      "score": 40.968
+      "score": 40.517
     },
     {
       "id": "who-improves-the-robot-toward-physical-recursive-self-improv-3fkmd8",
@@ -1057,7 +1096,7 @@
       "publishedAt": "2026-10-13T17:57:04.000Z",
       "summary": "Robots are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical experience guides la",
       "category": "Research",
-      "score": 40.968
+      "score": 40.516
     },
     {
       "id": "fast-rates-for-offline-q-learning-with-kl-regularization-1rhjta",
@@ -1067,7 +1106,7 @@
       "publishedAt": "2026-10-13T17:56:27.000Z",
       "summary": "This paper investigates offline Q-learning for finite-horizon Markov decision processes with Kullback-Leibler (KL) regularization. Recent studies have shown that KL regularization can yield fast rates in offline decision",
       "category": "Research",
-      "score": 40.967
+      "score": 40.516
     },
     {
       "id": "scaling-online-optimal-transport-minibatches-for-flow-matchi-r366zk",
@@ -1077,17 +1116,7 @@
       "publishedAt": "2026-10-13T17:56:26.000Z",
       "summary": "A central challenge in scaling flow models is maintaining stability in training and integration. In flow matching, this stability depends critically on how source samples are paired with data. Independent random pairing ",
       "category": "Research",
-      "score": 40.967
-    },
-    {
-      "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new--85ze9m",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-08T17:39:26Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 40.81
+      "score": 40.515
     },
     {
       "id": "can-language-models-play-the-wikipedia-game-pclb5z",
@@ -1178,36 +1207,6 @@
       "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when in",
       "category": "Research",
       "score": 36.986
-    },
-    {
-      "id": "ai-models-can-provably-hide-arbitrary-capabilities-inubyf",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "http://arxiv.org/abs/2610.13928v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-09T17:55:06.000Z",
-      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adv",
-      "category": "Research",
-      "score": 36.986
-    },
-    {
-      "id": "can-machines-reason-non-verbally-6l9ck0",
-      "title": "Can machines reason non-verbally?",
-      "url": "http://arxiv.org/abs/2610.13925v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-09T17:54:36.000Z",
-      "summary": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems that require visual non-verbal reasoning. This is evident even in advanced systems such as DeepSeek, Ch",
-      "category": "Research",
-      "score": 36.985
-    },
-    {
-      "id": "passkeys-are-not-a-trap-nxc268",
-      "title": "Passkeys Are Not a Trap",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-14T15:15:45Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.099
     }
   ]
 }
