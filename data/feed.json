@@ -1,33 +1,14 @@
 {
-  "updatedAt": "2026-10-14T21:23:35.379Z",
+  "updatedAt": "2026-10-15T03:51:15.985Z",
   "totalItems": 120,
   "categories": {
-    "AI": 57,
-    "Robotics": 23,
+    "AI": 55,
+    "Robotics": 24,
     "Machine Learning": 2,
-    "Research": 38
+    "Research": 38,
+    "Tech": 1
   },
   "items": [
-    {
-      "id": "ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu-jebsv0",
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-14T17:45:23Z",
-      "summary": "",
-      "category": "AI",
-      "score": 53.298
-    },
-    {
-      "id": "anthropic-s-scion-is-heavily-inspired-by-mononoke-azu9t9",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-14T20:30:54Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.833
-    },
     {
       "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -67,6 +48,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 52.335
+    },
+    {
+      "id": "anthropic-s-scion-is-heavily-inspired-by-mononoke-azu9t9",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T20:30:54Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.327
     },
     {
       "id": "gpt-6-astra-helped-me-jailbreak-my-kindle-a7zp7h",
@@ -249,16 +240,6 @@
       "score": 51.192
     },
     {
-      "id": "port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l-qz2ktb",
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-08T00:46:00Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.111
-    },
-    {
       "id": "janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd-nabfs2",
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
@@ -289,16 +270,6 @@
       "score": 50.695
     },
     {
-      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
-      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T19:10:58.000Z",
-      "summary": "\"Have you ever seen a world born?\"",
-      "category": "AI",
-      "score": 50.64
-    },
-    {
       "id": "scam-american-companies-are-using-to-manipulate-ingredient-l-l0l3ww",
       "title": "Scam American companies are using to manipulate ingredient lists",
       "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
@@ -307,16 +278,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 50.57
-    },
-    {
-      "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T16:41:49.000Z",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "category": "AI",
-      "score": 50.254
     },
     {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-2t1h7j",
@@ -339,6 +300,16 @@
       "score": 50.165
     },
     {
+      "id": "nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-b-kyx7ou",
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T21:03:11.000Z",
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "category": "Robotics",
+      "score": 49.943
+    },
+    {
       "id": "openai-withdraws-three-mathematical-results-unqcgr",
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
@@ -349,6 +320,26 @@
       "score": 49.83
     },
     {
+      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T19:10:58.000Z",
+      "summary": "\"Have you ever seen a world born?\"",
+      "category": "AI",
+      "score": 49.678
+    },
+    {
+      "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T16:41:49.000Z",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "category": "AI",
+      "score": 49.341
+    },
+    {
       "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
@@ -356,7 +347,7 @@
       "publishedAt": "2026-10-14T12:55:06.000Z",
       "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
       "category": "AI",
-      "score": 49.705
+      "score": 48.861
     },
     {
       "id": "openai-google-pushing-new-ai-models-easily-tricked-into-maki-2pz4o4",
@@ -366,7 +357,7 @@
       "publishedAt": "2026-10-14T11:00:30.000Z",
       "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
       "category": "AI",
-      "score": 49.444
+      "score": 48.632
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -406,17 +397,7 @@
       "publishedAt": "2026-10-13T18:23:33.000Z",
       "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
       "category": "AI",
-      "score": 47.558
-    },
-    {
-      "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
-      "category": "AI",
-      "score": 46.99
+      "score": 46.984
     },
     {
       "id": "the-download-ai-roadblocks-for-humanoids-and-portable-rubber-cwv4ll",
@@ -429,14 +410,14 @@
       "score": 46.84
     },
     {
-      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
       "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T10:00:00.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
       "category": "AI",
-      "score": 46.827
+      "score": 46.487
     },
     {
       "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
@@ -447,6 +428,16 @@
       "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
       "category": "AI",
       "score": 46.398
+    },
+    {
+      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+      "category": "AI",
+      "score": 46.345
     },
     {
       "id": "long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed--8srrp7",
@@ -469,16 +460,6 @@
       "score": 45.771
     },
     {
-      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-12T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
-      "category": "Robotics",
-      "score": 45.428
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -487,6 +468,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-12T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
+      "category": "Robotics",
+      "score": 45.123
     },
     {
       "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
@@ -1207,6 +1198,16 @@
       "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or delays vary, or when in",
       "category": "Research",
       "score": 36.986
+    },
+    {
+      "id": "things-to-know-when-you-get-cancer-yti9vq",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T19:26:30Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.689
     }
   ]
 }
