@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-10-15T16:34:44.767Z",
+  "updatedAt": "2026-10-15T21:05:23.991Z",
   "totalItems": 120,
   "categories": {
-    "AI": 52,
-    "Robotics": 21,
-    "Machine Learning": 3,
-    "Research": 43,
-    "Tech": 1
+    "AI": 54,
+    "Robotics": 22,
+    "Machine Learning": 2,
+    "Research": 42
   },
   "items": [
+    {
+      "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T15:43:24.000Z",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "category": "AI",
+      "score": 53.154
+    },
     {
       "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -240,6 +249,26 @@
       "score": 50.923
     },
     {
+      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
+      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T18:48:11.000Z",
+      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+      "category": "Robotics",
+      "score": 50.628
+    },
+    {
+      "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
+      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T18:39:17.000Z",
+      "summary": "Its effect on people remains an ongoing question.",
+      "category": "AI",
+      "score": 50.604
+    },
+    {
       "id": "scam-american-companies-are-using-to-manipulate-ingredient-l-l0l3ww",
       "title": "Scam American companies are using to manipulate ingredient lists",
       "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
@@ -290,16 +319,6 @@
       "score": 48.326
     },
     {
-      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
-      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T19:10:58.000Z",
-      "summary": "\"Have you ever seen a world born?\"",
-      "category": "AI",
-      "score": 48.123
-    },
-    {
       "id": "tiny-audio-nanogpt-for-speech-to-text-aoj77z",
       "title": "tiny-audio, nanoGPT for speech-to-text",
       "url": "https://github.com/alexkroman/tiny-audio",
@@ -308,16 +327,6 @@
       "summary": "",
       "category": "AI",
       "score": 47.928
-    },
-    {
-      "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T16:41:49.000Z",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "category": "AI",
-      "score": 47.864
     },
     {
       "id": "amazon-has-over-1-million-robot-workers-what-s-next-for-huma-jwmyb7",
@@ -330,14 +339,24 @@
       "score": 47.741
     },
     {
-      "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T12:55:06.000Z",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "publishedAt": "2026-10-14T19:10:58.000Z",
+      "summary": "\"Have you ever seen a world born?\"",
       "category": "AI",
-      "score": 47.496
+      "score": 47.663
+    },
+    {
+      "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T16:41:49.000Z",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "category": "AI",
+      "score": 47.428
     },
     {
       "id": "openai-google-pushing-new-ai-models-easily-tricked-into-maki-2pz4o4",
@@ -348,6 +367,16 @@
       "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
       "category": "AI",
       "score": 47.321
+    },
+    {
+      "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T12:55:06.000Z",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "category": "AI",
+      "score": 47.093
     },
     {
       "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
@@ -397,7 +426,7 @@
       "publishedAt": "2026-10-13T12:00:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
       "category": "AI",
-      "score": 45.675
+      "score": 45.435
     },
     {
       "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
@@ -407,7 +436,7 @@
       "publishedAt": "2026-10-13T10:00:00.000Z",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
       "category": "AI",
-      "score": 45.566
+      "score": 45.336
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -427,7 +456,7 @@
       "publishedAt": "2026-10-12T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
       "category": "Robotics",
-      "score": 44.628
+      "score": 44.482
     },
     {
       "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
@@ -740,14 +769,14 @@
       "score": 43.301
     },
     {
-      "id": "neural-networks-are-already-clean-wiqi9x",
-      "title": "Neural Networks Are Already Clean",
+      "id": "neural-networks-are-clean-m5iigz",
+      "title": "Neural networks are clean",
       "url": "https://already-clean.goodfire.com/",
       "sourceName": "Hacker News",
       "publishedAt": "2026-10-15T16:04:01Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 41.956
+      "score": 42.755
     },
     {
       "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
@@ -767,7 +796,7 @@
       "publishedAt": "2026-10-14T17:59:58.000Z",
       "summary": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high",
       "category": "Research",
-      "score": 40.998
+      "score": 40.55
     },
     {
       "id": "safedrivevla-navigation-conditioned-world-model-dreaming-for-ko0hl",
@@ -777,7 +806,7 @@
       "publishedAt": "2026-10-14T17:59:56.000Z",
       "summary": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed command set to free-form",
       "category": "Research",
-      "score": 40.998
+      "score": 40.55
     },
     {
       "id": "modeling-and-understanding-neural-weights-of-humanoid-polici-kdo8bd",
@@ -787,7 +816,7 @@
       "publishedAt": "2026-10-14T17:59:52.000Z",
       "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional tr",
       "category": "Research",
-      "score": 40.998
+      "score": 40.55
     },
     {
       "id": "representation-conditioning-for-generation-g0mlx1",
@@ -797,7 +826,7 @@
       "publishedAt": "2026-10-14T17:59:52.000Z",
       "summary": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is d",
       "category": "Research",
-      "score": 40.998
+      "score": 40.55
     },
     {
       "id": "hierarchical-residual-policy-learning-for-real-world-mobile--an62u4",
@@ -807,7 +836,7 @@
       "publishedAt": "2026-10-14T17:59:52.000Z",
       "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous ",
       "category": "Research",
-      "score": 40.998
+      "score": 40.55
     },
     {
       "id": "vital-from-visual-motion-to-precise-action-y359gu",
@@ -817,7 +846,7 @@
       "publishedAt": "2026-10-14T17:59:49.000Z",
       "summary": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action target",
       "category": "Research",
-      "score": 40.998
+      "score": 40.549
     },
     {
       "id": "commercegen-studio-an-end-to-end-framework-for-commercial-gr-esmh0c",
@@ -827,7 +856,7 @@
       "publishedAt": "2026-10-14T17:59:48.000Z",
       "summary": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of information extract",
       "category": "Research",
-      "score": 40.998
+      "score": 40.549
     },
     {
       "id": "dynthinker-unifying-static-3d-and-dynamic-4d-spatial-reasoni-9ha28i",
@@ -837,7 +866,7 @@
       "publishedAt": "2026-10-14T17:59:31.000Z",
       "summary": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken dynamic understanding",
       "category": "Research",
-      "score": 40.997
+      "score": 40.549
     },
     {
       "id": "co-evolving-acting-and-forecasting-for-language-agents-49gdqq",
@@ -847,7 +876,7 @@
       "publishedAt": "2026-10-14T17:59:28.000Z",
       "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate step",
       "category": "Research",
-      "score": 40.997
+      "score": 40.549
     },
     {
       "id": "cowear-towards-collaborative-wearable-inertial-localization--ow8ky8",
@@ -857,7 +886,7 @@
       "publishedAt": "2026-10-14T17:59:19.000Z",
       "summary": "Consumer smart devices observe the same human motion from different body locations, yet existing inertial-localization benchmarks rarely provide synchronized heterogeneous wearables with device-specific motion ground tru",
       "category": "Research",
-      "score": 40.997
+      "score": 40.549
     },
     {
       "id": "geothinker-f-endogenous-predictive-world-representations-for-nxvug5",
@@ -867,7 +896,7 @@
       "publishedAt": "2026-10-14T17:59:03.000Z",
       "summary": "Existing geometry-aware Multimodal Large Language Models (MLLMs) increasingly rely on external 3D encoders to provide structural priors, but executing these additional encoder paths at inference introduces substantial la",
       "category": "Research",
-      "score": 40.996
+      "score": 40.548
     },
     {
       "id": "feed-forward-multi-view-feature-coding-for-3d-gaussian-splat-ho0h7w",
@@ -877,7 +906,7 @@
       "publishedAt": "2026-10-14T17:58:28.000Z",
       "summary": "Feed-forward 3D Gaussian Splatting (3DGS) methods enable efficient reconstruction of 3D scenes from sparse multi-view images in a single forward pass, without scene-specific optimization. However, existing feed-forward s",
       "category": "Research",
-      "score": 40.995
+      "score": 40.547
     },
     {
       "id": "your-transformer-is-secretly-elastic-or95sk",
@@ -887,7 +916,7 @@
       "publishedAt": "2026-10-14T17:58:08.000Z",
       "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to co",
       "category": "Research",
-      "score": 40.995
+      "score": 40.547
     },
     {
       "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets-slxt56",
@@ -897,7 +926,7 @@
       "publishedAt": "2026-10-14T17:57:57.000Z",
       "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its respons",
       "category": "Research",
-      "score": 40.994
+      "score": 40.546
     },
     {
       "id": "continuum-attention-mz1hyk",
@@ -907,7 +936,7 @@
       "publishedAt": "2026-10-14T17:57:40.000Z",
       "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponent",
       "category": "Research",
-      "score": 40.994
+      "score": 40.546
     },
     {
       "id": "learnable-hodge-laplacian-driven-mixture-of-experts-for-stea-gxej4a",
@@ -917,7 +946,7 @@
       "publishedAt": "2026-10-14T17:57:24.000Z",
       "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution",
       "category": "Research",
-      "score": 40.994
+      "score": 40.546
     },
     {
       "id": "player-1-learning-to-play-from-synthetic-experience-g7ba6b",
@@ -927,7 +956,7 @@
       "publishedAt": "2026-10-14T17:57:12.000Z",
       "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and of",
       "category": "Research",
-      "score": 40.993
+      "score": 40.545
     },
     {
       "id": "latent-compaction-with-test-time-training-bfy9t1",
@@ -937,7 +966,7 @@
       "publishedAt": "2026-10-14T17:57:01.000Z",
       "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, whic",
       "category": "Research",
-      "score": 40.993
+      "score": 40.545
     },
     {
       "id": "pingpongduo-agile-humanoid-table-tennis-doubles-with-safe-te-v3f7zb",
@@ -947,7 +976,7 @@
       "publishedAt": "2026-10-14T17:56:27.000Z",
       "summary": "Unlike singles, humanoid table tennis doubles requires teammates to strike in strict alternation while sharing a confined workspace. Rapid repositioning can compromise striking accuracy, while uncoordinated teammate move",
       "category": "Research",
-      "score": 40.992
+      "score": 40.544
     },
     {
       "id": "one-task-many-interfaces-simple-cross-interface-consistency--rhj4j3",
@@ -957,7 +986,7 @@
       "publishedAt": "2026-10-14T17:56:06.000Z",
       "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task ",
       "category": "Research",
-      "score": 40.991
+      "score": 40.544
     },
     {
       "id": "beyond-llm-judge-mechanical-verification-for-agentic-autofor-8lyk3l",
@@ -967,7 +996,7 @@
       "publishedAt": "2026-10-14T17:54:48.000Z",
       "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic revie",
       "category": "Research",
-      "score": 40.989
+      "score": 40.542
     },
     {
       "id": "recovering-reliable-supervision-via-critique-guided-on-polic-qa9rke",
@@ -977,7 +1006,7 @@
       "publishedAt": "2026-10-14T17:54:34.000Z",
       "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this p",
       "category": "Research",
-      "score": 40.989
+      "score": 40.541
     },
     {
       "id": "any-time-any-space-a-world-state-centric-framework-for-agent-443dec",
@@ -987,7 +1016,7 @@
       "publishedAt": "2026-10-14T17:54:18.000Z",
       "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does not provide a share",
       "category": "Research",
-      "score": 40.988
+      "score": 40.541
     },
     {
       "id": "manac-1b-instruct-2-reproducible-safety-alignment-for-a-nati-50kt10",
@@ -997,7 +1026,7 @@
       "publishedAt": "2026-10-14T17:53:46.000Z",
       "summary": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-I",
       "category": "Research",
-      "score": 40.987
+      "score": 40.54
     },
     {
       "id": "scaling-discovery-requires-forgetting-wip9q4",
@@ -1007,7 +1036,7 @@
       "publishedAt": "2026-10-14T17:49:37.000Z",
       "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale aut",
       "category": "Research",
-      "score": 40.98
+      "score": 40.533
     },
     {
       "id": "a-3-precore-robust-rigid-registration-for-native-flair-space-9cjh9u",
@@ -1017,7 +1046,7 @@
       "publishedAt": "2026-10-14T17:48:44.000Z",
       "summary": "Reliable brain-mask transfer into native fluid-attenuated inversion recovery (FLAIR) space can fail when T1-to-FLAIR rigid registration is unstable. We developed A$^3$PreCore, a six-degree-of-freedom rigid-registration s",
       "category": "Research",
-      "score": 40.979
+      "score": 40.532
     },
     {
       "id": "physga-a-physics-space-grounded-agentic-framework-for-genera-dnvgha",
@@ -1027,7 +1056,7 @@
       "publishedAt": "2026-10-14T17:47:24.000Z",
       "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language ",
       "category": "Research",
-      "score": 40.976
+      "score": 40.53
     },
     {
       "id": "speculative-sampling-in-interactive-video-generation-9e6fbq",
@@ -1037,7 +1066,7 @@
       "publishedAt": "2026-10-14T17:45:27.000Z",
       "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize GPU parallelism, all",
       "category": "Research",
-      "score": 40.973
+      "score": 40.527
     },
     {
       "id": "kinogen-customizable-humanoid-loco-manipulation-references-v-8d5had",
@@ -1047,27 +1076,7 @@
       "publishedAt": "2026-10-14T17:43:32.000Z",
       "summary": "We present KinoGen, a framework that synthesizes customizable humanoid loco-manipulation references through kinematically grounded video generation. KinoGen conditions a pretrained video generator on calibrated renders o",
       "category": "Research",
-      "score": 40.97
-    },
-    {
-      "id": "perso-investigating-facets-of-llms-social-intelligence-in-re-9nwz8v",
-      "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
-      "url": "http://arxiv.org/abs/2610.20548v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:39:35.000Z",
-      "summary": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence comprises two aspects: cog",
-      "category": "Research",
-      "score": 40.963
-    },
-    {
-      "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new--85ze9m",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-08T17:39:26Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 40.81
+      "score": 40.524
     },
     {
       "id": "chunkact-action-chunking-for-agentic-robotics-90etv7",
@@ -1198,16 +1207,6 @@
       "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layo",
       "category": "Research",
       "score": 40.52
-    },
-    {
-      "id": "wayland-desktop-for-linux-with-skeuomorphic-design-ktw12u",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-15T13:23:44Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.788
     }
   ]
 }
