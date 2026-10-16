@@ -1,23 +1,13 @@
 {
-  "updatedAt": "2026-10-15T21:05:23.991Z",
+  "updatedAt": "2026-10-16T03:46:39.650Z",
   "totalItems": 120,
   "categories": {
-    "AI": 54,
+    "AI": 52,
     "Robotics": 22,
-    "Machine Learning": 2,
-    "Research": 42
+    "Research": 44,
+    "Machine Learning": 2
   },
   "items": [
-    {
-      "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T15:43:24.000Z",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "category": "AI",
-      "score": 53.154
-    },
     {
       "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -77,6 +67,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.264
+    },
+    {
+      "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T15:43:24.000Z",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "category": "AI",
+      "score": 52.223
     },
     {
       "id": "robot-is-a-social-construct-why-your-dishwasher-is-not-a-rob-vvic2u",
@@ -209,16 +209,6 @@
       "score": 51.443
     },
     {
-      "id": "openai-the-partition-principle-and-mathematics-tq07ew",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-08T23:29:43Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.211
-    },
-    {
       "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
@@ -249,26 +239,6 @@
       "score": 50.923
     },
     {
-      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
-      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T18:48:11.000Z",
-      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
-      "category": "Robotics",
-      "score": 50.628
-    },
-    {
-      "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
-      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T18:39:17.000Z",
-      "summary": "Its effect on people remains an ongoing question.",
-      "category": "AI",
-      "score": 50.604
-    },
-    {
       "id": "scam-american-companies-are-using-to-manipulate-ingredient-l-l0l3ww",
       "title": "Scam American companies are using to manipulate ingredient lists",
       "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
@@ -297,6 +267,26 @@
       "summary": "",
       "category": "AI",
       "score": 50.165
+    },
+    {
+      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
+      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T18:48:11.000Z",
+      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+      "category": "Robotics",
+      "score": 49.636
+    },
+    {
+      "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
+      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T18:39:17.000Z",
+      "summary": "Its effect on people remains an ongoing question.",
+      "category": "AI",
+      "score": 49.615
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -339,16 +329,6 @@
       "score": 47.741
     },
     {
-      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
-      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-14T19:10:58.000Z",
-      "summary": "\"Have you ever seen a world born?\"",
-      "category": "AI",
-      "score": 47.663
-    },
-    {
       "id": "recording-device-hidden-in-toilet-paper-found-in-top-secret--3ocub0",
       "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
       "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
@@ -377,6 +357,16 @@
       "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
       "category": "AI",
       "score": 47.093
+    },
+    {
+      "id": "greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-ne-e0t01g",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-14T19:10:58.000Z",
+      "summary": "\"Have you ever seen a world born?\"",
+      "category": "AI",
+      "score": 47.057
     },
     {
       "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
@@ -419,26 +409,6 @@
       "score": 45.771
     },
     {
-      "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
-      "category": "AI",
-      "score": 45.435
-    },
-    {
-      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T10:00:00.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-      "category": "AI",
-      "score": 45.336
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -449,6 +419,26 @@
       "score": 45.182
     },
     {
+      "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel",
+      "category": "AI",
+      "score": 45.119
+    },
+    {
+      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+      "category": "AI",
+      "score": 45.032
+    },
+    {
       "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
       "title": "The Download: moon city problems and drone traffic controllers",
       "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
@@ -456,7 +446,7 @@
       "publishedAt": "2026-10-12T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
       "category": "Robotics",
-      "score": 44.482
+      "score": 44.289
     },
     {
       "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
@@ -467,16 +457,6 @@
       "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
       "category": "Robotics",
       "score": 44.285
-    },
-    {
-      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T00:08:24.000Z",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
-      "category": "AI",
-      "score": 44.078
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -769,6 +749,306 @@
       "score": 43.301
     },
     {
+      "id": "libero-perm-benchmarking-personalized-robotic-manipulation-rn3ocs",
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:59.000Z",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manip",
+      "category": "Research",
+      "score": 42.526
+    },
+    {
+      "id": "gen4p-video-generators-are-4d-perceivers-b5vsqd",
+      "title": "Gen4P: Video Generators are 4D Perceivers",
+      "url": "http://arxiv.org/abs/2610.22371v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:48.000Z",
+      "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising",
+      "category": "Research",
+      "score": 42.525
+    },
+    {
+      "id": "which-tokens-to-merge-diffusion-dynamics-for-efficient-image-s9covn",
+      "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+      "url": "http://arxiv.org/abs/2610.22370v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:35.000Z",
+      "summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tok",
+      "category": "Research",
+      "score": 42.525
+    },
+    {
+      "id": "softcache-adaptive-step-size-caching-for-diffusion-transform-pqiclg",
+      "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2610.22369v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:34.000Z",
+      "summary": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from rece",
+      "category": "Research",
+      "score": 42.525
+    },
+    {
+      "id": "value-as-memory-online-value-guided-post-training-for-genera-cg38bh",
+      "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+      "url": "http://arxiv.org/abs/2610.22368v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:31.000Z",
+      "summary": "Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We presen",
+      "category": "Research",
+      "score": 42.525
+    },
+    {
+      "id": "discovering-state-of-the-art-quantum-circuits-with-large-lan-22eag",
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:20.000Z",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorith",
+      "category": "Research",
+      "score": 42.524
+    },
+    {
+      "id": "t2-z-test-time-optimization-of-environment-latents-for-robot-pvrxe8",
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:11.000Z",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties su",
+      "category": "Research",
+      "score": 42.524
+    },
+    {
+      "id": "perceive-predict-and-plan-a-unified-world-action-model-for-e-8rf3b6",
+      "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+      "url": "http://arxiv.org/abs/2610.22363v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:07.000Z",
+      "summary": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceiv",
+      "category": "Research",
+      "score": 42.524
+    },
+    {
+      "id": "coda-co-evolution-of-data-engines-and-action-policies-3pjy3i",
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:02.000Z",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and",
+      "category": "Research",
+      "score": 42.523
+    },
+    {
+      "id": "grounding-generative-verification-in-3d-content-1z826l",
+      "title": "Grounding Generative Verification in 3D Content",
+      "url": "http://arxiv.org/abs/2610.22360v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:59:01.000Z",
+      "summary": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a maj",
+      "category": "Research",
+      "score": 42.523
+    },
+    {
+      "id": "pathfm-fast-generative-forecasting-of-multivariate-trajector-4jmtx8",
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:58:45.000Z",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecifie",
+      "category": "Research",
+      "score": 42.523
+    },
+    {
+      "id": "dk-vlm-geometry-as-position-for-spatial-reasoning-in-vision--u19lqr",
+      "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+      "url": "http://arxiv.org/abs/2610.22356v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:58:15.000Z",
+      "summary": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but alignin",
+      "category": "Research",
+      "score": 42.522
+    },
+    {
+      "id": "omniverifier-c1-decomposed-graded-verifier-for-rule-governed-694tjt",
+      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+      "url": "http://arxiv.org/abs/2610.22355v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:58:04.000Z",
+      "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond con",
+      "category": "Research",
+      "score": 42.521
+    },
+    {
+      "id": "rethinking-routing-exploration-in-modern-mixture-of-experts-yu6jbq",
+      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:58:02.000Z",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The f",
+      "category": "Research",
+      "score": 42.521
+    },
+    {
+      "id": "supra-tex-3d-generation-with-super-aligned-texture-q1xww9",
+      "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+      "url": "http://arxiv.org/abs/2610.22352v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:58:02.000Z",
+      "summary": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts when fusing inconsisten",
+      "category": "Research",
+      "score": 42.521
+    },
+    {
+      "id": "fde-gym-the-last-mile-of-ai-delivery-o9vsdu",
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:57:23.000Z",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must cla",
+      "category": "Research",
+      "score": 42.52
+    },
+    {
+      "id": "speculative-forcing-for-efficient-autoregressive-video-gener-80s5xe",
+      "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+      "url": "http://arxiv.org/abs/2610.22347v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:57:01.000Z",
+      "summary": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform computation is often unnec",
+      "category": "Research",
+      "score": 42.519
+    },
+    {
+      "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-m-nw4t5r",
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "url": "http://arxiv.org/abs/2610.22344v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:56:32.000Z",
+      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvemen",
+      "category": "Research",
+      "score": 42.518
+    },
+    {
+      "id": "geostate-learning-view-decoupled-geometry-states-for-3d-worl-pky116",
+      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "url": "http://arxiv.org/abs/2610.22343v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:56:18.000Z",
+      "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles sc",
+      "category": "Research",
+      "score": 42.517
+    },
+    {
+      "id": "spark-0-scaling-spatially-aligned-tactile-pretraining-for-ro-xek3ww",
+      "title": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+      "url": "http://arxiv.org/abs/2610.22342v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:56:17.000Z",
+      "summary": "Generalist robot policies benefit from large-scale visual pretraining but often struggle with contact-rich dexterous manipulation, where force, compliance, and incipient slip are hard to observe from images. We present S",
+      "category": "Research",
+      "score": 42.517
+    },
+    {
+      "id": "3dcodeverse-exploring-3d-worlds-as-code-lje0bm",
+      "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+      "url": "http://arxiv.org/abs/2610.22341v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:56:07.000Z",
+      "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding ha",
+      "category": "Research",
+      "score": 42.517
+    },
+    {
+      "id": "dexterity-from-supervised-play-rin5me",
+      "title": "Dexterity from Supervised Play",
+      "url": "http://arxiv.org/abs/2610.22340v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:55:50.000Z",
+      "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of hu",
+      "category": "Research",
+      "score": 42.516
+    },
+    {
+      "id": "lean-graph-search-for-formal-theorem-proving-1317ix",
+      "title": "Lean Graph Search for Formal Theorem Proving",
+      "url": "http://arxiv.org/abs/2610.22339v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:55:21.000Z",
+      "summary": "Retrieving relevant lemmas is crucial for formal theorem proving, enabling provers to build machine-checkable proofs from established mathematical results. Recent retrieval systems match library declarations to a target ",
+      "category": "Research",
+      "score": 42.515
+    },
+    {
+      "id": "sim-to-real-reinforcement-learning-for-path-safe-target-reac-dlqa9r",
+      "title": "Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce",
+      "url": "http://arxiv.org/abs/2610.22337v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:54:16.000Z",
+      "summary": "Robotic harvesting requires precise manipulation to ensure accurate positioning of the end-effector, especially in a constraint workspace. This study introduces the Path-Safe Approach Proximal Policy Optimization (PSA-PP",
+      "category": "Research",
+      "score": 42.513
+    },
+    {
+      "id": "robust-reinforcement-learning-for-dynamic-treatment-regimes--65t998",
+      "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
+      "url": "http://arxiv.org/abs/2610.22336v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:54:13.000Z",
+      "summary": "We develop a robust reinforcement learning (RL) framework for learning adaptive treatment policies that generalize across patients and remain reliable under errors in the measured biomarker and shifts in the disease dyna",
+      "category": "Research",
+      "score": 42.513
+    },
+    {
+      "id": "illumination-aware-active-perception-for-spacecraft-inspecti-733dj6",
+      "title": "Illumination-Aware Active Perception for Spacecraft Inspection",
+      "url": "http://arxiv.org/abs/2610.22335v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:54:03.000Z",
+      "summary": "Harsh and rapidly varying orbital illumination introduces failure modes during spacecraft inspection. Existing planners rely on line-of-sight inspection metrics which perform occlusion checks against a known target and c",
+      "category": "Research",
+      "score": 42.512
+    },
+    {
+      "id": "evaluation-awareness-beyond-english-do-llms-act-differently--vfcdvo",
+      "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+      "url": "http://arxiv.org/abs/2610.22333v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:53:33.000Z",
+      "summary": "Large language models (LLMs) can often tell when they are being tested. This ability, known as evaluation awareness, can lead models to act more cautiously during safety evaluations than in real use. Existing work has st",
+      "category": "Research",
+      "score": 42.511
+    },
+    {
+      "id": "knowgpo-knowledge-grouped-policy-optimization-for-search-age-7cvbbs",
+      "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+      "url": "http://arxiv.org/abs/2610.22331v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:52:33.000Z",
+      "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning pro",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "designing-transformers-for-continuous-diffusion-language-mod-1m8ra1",
+      "title": "Designing Transformers for Continuous Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2610.22330v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:52:31.000Z",
+      "summary": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal large language models (",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "acedit-stable-multi-turn-image-editing-via-asymmetric-condit-mtefai",
+      "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+      "url": "http://arxiv.org/abs/2610.22328v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-15T17:52:24.000Z",
+      "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successi",
+      "category": "Research",
+      "score": 42.508
+    },
+    {
       "id": "neural-networks-are-clean-m5iigz",
       "title": "Neural networks are clean",
       "url": "https://already-clean.goodfire.com/",
@@ -776,7 +1056,7 @@
       "publishedAt": "2026-10-15T16:04:01Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.755
+      "score": 42.01
     },
     {
       "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
@@ -927,286 +1207,6 @@
       "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its respons",
       "category": "Research",
       "score": 40.546
-    },
-    {
-      "id": "continuum-attention-mz1hyk",
-      "title": "Continuum Attention",
-      "url": "http://arxiv.org/abs/2610.20586v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:57:40.000Z",
-      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponent",
-      "category": "Research",
-      "score": 40.546
-    },
-    {
-      "id": "learnable-hodge-laplacian-driven-mixture-of-experts-for-stea-gxej4a",
-      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
-      "url": "http://arxiv.org/abs/2610.20585v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:57:24.000Z",
-      "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution",
-      "category": "Research",
-      "score": 40.546
-    },
-    {
-      "id": "player-1-learning-to-play-from-synthetic-experience-g7ba6b",
-      "title": "Player-1: Learning to Play from Synthetic Experience",
-      "url": "http://arxiv.org/abs/2610.20584v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:57:12.000Z",
-      "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and of",
-      "category": "Research",
-      "score": 40.545
-    },
-    {
-      "id": "latent-compaction-with-test-time-training-bfy9t1",
-      "title": "Latent Compaction with Test-Time Training",
-      "url": "http://arxiv.org/abs/2610.20582v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:57:01.000Z",
-      "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, whic",
-      "category": "Research",
-      "score": 40.545
-    },
-    {
-      "id": "pingpongduo-agile-humanoid-table-tennis-doubles-with-safe-te-v3f7zb",
-      "title": "PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination",
-      "url": "http://arxiv.org/abs/2610.20579v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:56:27.000Z",
-      "summary": "Unlike singles, humanoid table tennis doubles requires teammates to strike in strict alternation while sharing a confined workspace. Rapid repositioning can compromise striking accuracy, while uncoordinated teammate move",
-      "category": "Research",
-      "score": 40.544
-    },
-    {
-      "id": "one-task-many-interfaces-simple-cross-interface-consistency--rhj4j3",
-      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-      "url": "http://arxiv.org/abs/2610.20576v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:56:06.000Z",
-      "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task ",
-      "category": "Research",
-      "score": 40.544
-    },
-    {
-      "id": "beyond-llm-judge-mechanical-verification-for-agentic-autofor-8lyk3l",
-      "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
-      "url": "http://arxiv.org/abs/2610.20573v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:54:48.000Z",
-      "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic revie",
-      "category": "Research",
-      "score": 40.542
-    },
-    {
-      "id": "recovering-reliable-supervision-via-critique-guided-on-polic-qa9rke",
-      "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
-      "url": "http://arxiv.org/abs/2610.20572v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:54:34.000Z",
-      "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this p",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "any-time-any-space-a-world-state-centric-framework-for-agent-443dec",
-      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-      "url": "http://arxiv.org/abs/2610.20571v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:54:18.000Z",
-      "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does not provide a share",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "manac-1b-instruct-2-reproducible-safety-alignment-for-a-nati-50kt10",
-      "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
-      "url": "http://arxiv.org/abs/2610.20570v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:53:46.000Z",
-      "summary": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-I",
-      "category": "Research",
-      "score": 40.54
-    },
-    {
-      "id": "scaling-discovery-requires-forgetting-wip9q4",
-      "title": "Scaling Discovery Requires Forgetting",
-      "url": "http://arxiv.org/abs/2610.20563v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:49:37.000Z",
-      "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale aut",
-      "category": "Research",
-      "score": 40.533
-    },
-    {
-      "id": "a-3-precore-robust-rigid-registration-for-native-flair-space-9cjh9u",
-      "title": "A$^3$PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer",
-      "url": "http://arxiv.org/abs/2610.20561v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:48:44.000Z",
-      "summary": "Reliable brain-mask transfer into native fluid-attenuated inversion recovery (FLAIR) space can fail when T1-to-FLAIR rigid registration is unstable. We developed A$^3$PreCore, a six-degree-of-freedom rigid-registration s",
-      "category": "Research",
-      "score": 40.532
-    },
-    {
-      "id": "physga-a-physics-space-grounded-agentic-framework-for-genera-dnvgha",
-      "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
-      "url": "http://arxiv.org/abs/2610.20560v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:47:24.000Z",
-      "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language ",
-      "category": "Research",
-      "score": 40.53
-    },
-    {
-      "id": "speculative-sampling-in-interactive-video-generation-9e6fbq",
-      "title": "Speculative Sampling in Interactive Video Generation",
-      "url": "http://arxiv.org/abs/2610.20556v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:45:27.000Z",
-      "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize GPU parallelism, all",
-      "category": "Research",
-      "score": 40.527
-    },
-    {
-      "id": "kinogen-customizable-humanoid-loco-manipulation-references-v-8d5had",
-      "title": "KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation",
-      "url": "http://arxiv.org/abs/2610.20552v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:43:32.000Z",
-      "summary": "We present KinoGen, a framework that synthesizes customizable humanoid loco-manipulation references through kinematically grounded video generation. KinoGen conditions a pretrained video generator on calibrated renders o",
-      "category": "Research",
-      "score": 40.524
-    },
-    {
-      "id": "chunkact-action-chunking-for-agentic-robotics-90etv7",
-      "title": "ChunkAct: Action Chunking for Agentic Robotics",
-      "url": "http://arxiv.org/abs/2610.18874v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:57.000Z",
-      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "loopwam-closed-loop-generalist-policy-improvement-from-deplo-7cc7b5",
-      "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
-      "url": "http://arxiv.org/abs/2610.18873v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:56.000Z",
-      "summary": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can rein",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "egoexplorer-a-vision-motion-touch-observatory-for-human-loco-5qo5ll",
-      "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
-      "url": "http://arxiv.org/abs/2610.18872v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:55.000Z",
-      "summary": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, f",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "dog-breed-text-to-image-flow-matching-from-pretraining-to-fi-kp3jmb",
-      "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
-      "url": "http://arxiv.org/abs/2610.18870v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:53.000Z",
-      "summary": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when ge",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "cepheid-decoupling-scale-from-structure-for-cross-family-mot-ssa1hh",
-      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-      "url": "http://arxiv.org/abs/2610.18871v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:53.000Z",
-      "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "what-matters-in-quality-aware-vla-pretraining-a-benchmark-an-evk35z",
-      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-      "url": "http://arxiv.org/abs/2610.18869v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:52.000Z",
-      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions a",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "tev-scaling-long-horizon-agentic-environments-with-dense-pro-kssgyn",
-      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "url": "http://arxiv.org/abs/2610.18868v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:51.000Z",
-      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvemen",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "embodiedevo-self-improving-coding-agents-for-physical-intell-gomc5o",
-      "title": "EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence",
-      "url": "http://arxiv.org/abs/2610.18867v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:51.000Z",
-      "summary": "Bringing general-purpose agents into the physical world calls for an executable representation of physical intelligence. Compared with vision-language-action (VLA) models, which map observations and language instructions",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "playground-progressive-layout-generation-with-render-grounde-vtx2s2",
-      "title": "PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning",
-      "url": "http://arxiv.org/abs/2610.18865v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:50.000Z",
-      "summary": "Generating editable graphic designs requires arranging visual and textual elements into a coherent composition while preserving their content and editability. Although recent MLLM-based approaches employ iterative genera",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "autoagent0-an-agentic-runtime-for-safe-closed-loop-driving-5uyowk",
-      "title": "AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving",
-      "url": "http://arxiv.org/abs/2610.18866v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:50.000Z",
-      "summary": "Safe autonomous driving requires more than accurate planning at a single frame: it demands reliable closed-loop execution in dynamic environments. Although end-to-end driving policies have advanced rapidly, the accumulat",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "data-free-training-of-diffusion-models-for-lattice-field-the-sark2k",
-      "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-      "url": "http://arxiv.org/abs/2610.18863v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:33.000Z",
-      "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations. Diffusion models ",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "doubtless-training-free-contrastive-decoding-for-efficient-r-wzwawp",
-      "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-      "url": "http://arxiv.org/abs/2610.18862v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:32.000Z",
-      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model, a",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "aescode-aesthetic-code-generation-with-decoupled-cross-modal-2gvjzc",
-      "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-      "url": "http://arxiv.org/abs/2610.18860v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-13T17:59:31.000Z",
-      "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layo",
-      "category": "Research",
-      "score": 40.52
     }
   ]
 }
