@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-10-16T03:46:39.650Z",
+  "updatedAt": "2026-10-16T10:59:34.738Z",
   "totalItems": 120,
   "categories": {
-    "AI": 52,
-    "Robotics": 22,
+    "AI": 50,
+    "Robotics": 21,
+    "Machine Learning": 2,
     "Research": 44,
-    "Machine Learning": 2
+    "Tech": 3
   },
   "items": [
     {
@@ -67,16 +68,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.264
-    },
-    {
-      "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T15:43:24.000Z",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "category": "AI",
-      "score": 52.223
     },
     {
       "id": "robot-is-a-social-construct-why-your-dishwasher-is-not-a-rob-vvic2u",
@@ -179,16 +170,6 @@
       "score": 51.659
     },
     {
-      "id": "openai-fires-three-safety-researchers-for-mishandling-resear-u6dibg",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-09T10:00:26Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.645
-    },
-    {
       "id": "a-look-at-the-math-that-openai-claims-computes-faster-fourie-gw76zk",
       "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
       "url": "https://www.argmin.net/p/faster-fourier-transforms",
@@ -207,6 +188,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.443
+    },
+    {
+      "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T15:43:24.000Z",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "category": "AI",
+      "score": 51.355
     },
     {
       "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
@@ -276,7 +267,7 @@
       "publishedAt": "2026-10-15T18:48:11.000Z",
       "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
       "category": "Robotics",
-      "score": 49.636
+      "score": 48.71
     },
     {
       "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
@@ -286,7 +277,7 @@
       "publishedAt": "2026-10-15T18:39:17.000Z",
       "summary": "Its effect on people remains an ongoing question.",
       "category": "AI",
-      "score": 49.615
+      "score": 48.692
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -469,16 +460,6 @@
       "score": 43.778
     },
     {
-      "id": "we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-k7anwy",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "category": "AI",
-      "score": 43.727
-    },
-    {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
       "title": "What is AI? Your artificial intelligence questions, answered. – Vox",
       "url": "https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment",
@@ -517,16 +498,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
-    },
-    {
-      "id": "job-titles-of-the-future-delivery-drone-air-traffic-controll-p3b0pi",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
-      "category": "Robotics",
-      "score": 43.624
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -749,6 +720,16 @@
       "score": 43.301
     },
     {
+      "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-13T19:50:31Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 41.881
+    },
+    {
       "id": "libero-perm-benchmarking-personalized-robotic-manipulation-rn3ocs",
       "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
       "url": "http://arxiv.org/abs/2610.22372v1",
@@ -756,7 +737,7 @@
       "publishedAt": "2026-10-15T17:59:59.000Z",
       "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manip",
       "category": "Research",
-      "score": 42.526
+      "score": 41.615
     },
     {
       "id": "gen4p-video-generators-are-4d-perceivers-b5vsqd",
@@ -766,7 +747,7 @@
       "publishedAt": "2026-10-15T17:59:48.000Z",
       "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising",
       "category": "Research",
-      "score": 42.525
+      "score": 41.614
     },
     {
       "id": "which-tokens-to-merge-diffusion-dynamics-for-efficient-image-s9covn",
@@ -776,7 +757,7 @@
       "publishedAt": "2026-10-15T17:59:35.000Z",
       "summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tok",
       "category": "Research",
-      "score": 42.525
+      "score": 41.614
     },
     {
       "id": "softcache-adaptive-step-size-caching-for-diffusion-transform-pqiclg",
@@ -786,7 +767,7 @@
       "publishedAt": "2026-10-15T17:59:34.000Z",
       "summary": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from rece",
       "category": "Research",
-      "score": 42.525
+      "score": 41.614
     },
     {
       "id": "value-as-memory-online-value-guided-post-training-for-genera-cg38bh",
@@ -796,7 +777,7 @@
       "publishedAt": "2026-10-15T17:59:31.000Z",
       "summary": "Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We presen",
       "category": "Research",
-      "score": 42.525
+      "score": 41.614
     },
     {
       "id": "discovering-state-of-the-art-quantum-circuits-with-large-lan-22eag",
@@ -806,7 +787,7 @@
       "publishedAt": "2026-10-15T17:59:20.000Z",
       "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorith",
       "category": "Research",
-      "score": 42.524
+      "score": 41.614
     },
     {
       "id": "t2-z-test-time-optimization-of-environment-latents-for-robot-pvrxe8",
@@ -816,7 +797,7 @@
       "publishedAt": "2026-10-15T17:59:11.000Z",
       "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties su",
       "category": "Research",
-      "score": 42.524
+      "score": 41.613
     },
     {
       "id": "perceive-predict-and-plan-a-unified-world-action-model-for-e-8rf3b6",
@@ -826,7 +807,7 @@
       "publishedAt": "2026-10-15T17:59:07.000Z",
       "summary": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceiv",
       "category": "Research",
-      "score": 42.524
+      "score": 41.613
     },
     {
       "id": "coda-co-evolution-of-data-engines-and-action-policies-3pjy3i",
@@ -836,7 +817,7 @@
       "publishedAt": "2026-10-15T17:59:02.000Z",
       "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and",
       "category": "Research",
-      "score": 42.523
+      "score": 41.613
     },
     {
       "id": "grounding-generative-verification-in-3d-content-1z826l",
@@ -846,7 +827,7 @@
       "publishedAt": "2026-10-15T17:59:01.000Z",
       "summary": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a maj",
       "category": "Research",
-      "score": 42.523
+      "score": 41.613
     },
     {
       "id": "pathfm-fast-generative-forecasting-of-multivariate-trajector-4jmtx8",
@@ -856,7 +837,7 @@
       "publishedAt": "2026-10-15T17:58:45.000Z",
       "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecifie",
       "category": "Research",
-      "score": 42.523
+      "score": 41.612
     },
     {
       "id": "dk-vlm-geometry-as-position-for-spatial-reasoning-in-vision--u19lqr",
@@ -866,7 +847,7 @@
       "publishedAt": "2026-10-15T17:58:15.000Z",
       "summary": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but alignin",
       "category": "Research",
-      "score": 42.522
+      "score": 41.611
     },
     {
       "id": "omniverifier-c1-decomposed-graded-verifier-for-rule-governed-694tjt",
@@ -876,7 +857,7 @@
       "publishedAt": "2026-10-15T17:58:04.000Z",
       "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond con",
       "category": "Research",
-      "score": 42.521
+      "score": 41.611
     },
     {
       "id": "rethinking-routing-exploration-in-modern-mixture-of-experts-yu6jbq",
@@ -886,7 +867,7 @@
       "publishedAt": "2026-10-15T17:58:02.000Z",
       "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The f",
       "category": "Research",
-      "score": 42.521
+      "score": 41.611
     },
     {
       "id": "supra-tex-3d-generation-with-super-aligned-texture-q1xww9",
@@ -896,7 +877,7 @@
       "publishedAt": "2026-10-15T17:58:02.000Z",
       "summary": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts when fusing inconsisten",
       "category": "Research",
-      "score": 42.521
+      "score": 41.611
     },
     {
       "id": "fde-gym-the-last-mile-of-ai-delivery-o9vsdu",
@@ -906,7 +887,7 @@
       "publishedAt": "2026-10-15T17:57:23.000Z",
       "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must cla",
       "category": "Research",
-      "score": 42.52
+      "score": 41.61
     },
     {
       "id": "speculative-forcing-for-efficient-autoregressive-video-gener-80s5xe",
@@ -916,7 +897,7 @@
       "publishedAt": "2026-10-15T17:57:01.000Z",
       "summary": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform computation is often unnec",
       "category": "Research",
-      "score": 42.519
+      "score": 41.609
     },
     {
       "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-m-nw4t5r",
@@ -926,7 +907,7 @@
       "publishedAt": "2026-10-15T17:56:32.000Z",
       "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvemen",
       "category": "Research",
-      "score": 42.518
+      "score": 41.608
     },
     {
       "id": "geostate-learning-view-decoupled-geometry-states-for-3d-worl-pky116",
@@ -936,7 +917,7 @@
       "publishedAt": "2026-10-15T17:56:18.000Z",
       "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles sc",
       "category": "Research",
-      "score": 42.517
+      "score": 41.608
     },
     {
       "id": "spark-0-scaling-spatially-aligned-tactile-pretraining-for-ro-xek3ww",
@@ -946,7 +927,7 @@
       "publishedAt": "2026-10-15T17:56:17.000Z",
       "summary": "Generalist robot policies benefit from large-scale visual pretraining but often struggle with contact-rich dexterous manipulation, where force, compliance, and incipient slip are hard to observe from images. We present S",
       "category": "Research",
-      "score": 42.517
+      "score": 41.608
     },
     {
       "id": "3dcodeverse-exploring-3d-worlds-as-code-lje0bm",
@@ -956,7 +937,7 @@
       "publishedAt": "2026-10-15T17:56:07.000Z",
       "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding ha",
       "category": "Research",
-      "score": 42.517
+      "score": 41.607
     },
     {
       "id": "dexterity-from-supervised-play-rin5me",
@@ -966,7 +947,7 @@
       "publishedAt": "2026-10-15T17:55:50.000Z",
       "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of hu",
       "category": "Research",
-      "score": 42.516
+      "score": 41.607
     },
     {
       "id": "lean-graph-search-for-formal-theorem-proving-1317ix",
@@ -976,7 +957,7 @@
       "publishedAt": "2026-10-15T17:55:21.000Z",
       "summary": "Retrieving relevant lemmas is crucial for formal theorem proving, enabling provers to build machine-checkable proofs from established mathematical results. Recent retrieval systems match library declarations to a target ",
       "category": "Research",
-      "score": 42.515
+      "score": 41.606
     },
     {
       "id": "sim-to-real-reinforcement-learning-for-path-safe-target-reac-dlqa9r",
@@ -986,7 +967,7 @@
       "publishedAt": "2026-10-15T17:54:16.000Z",
       "summary": "Robotic harvesting requires precise manipulation to ensure accurate positioning of the end-effector, especially in a constraint workspace. This study introduces the Path-Safe Approach Proximal Policy Optimization (PSA-PP",
       "category": "Research",
-      "score": 42.513
+      "score": 41.604
     },
     {
       "id": "robust-reinforcement-learning-for-dynamic-treatment-regimes--65t998",
@@ -996,7 +977,7 @@
       "publishedAt": "2026-10-15T17:54:13.000Z",
       "summary": "We develop a robust reinforcement learning (RL) framework for learning adaptive treatment policies that generalize across patients and remain reliable under errors in the measured biomarker and shifts in the disease dyna",
       "category": "Research",
-      "score": 42.513
+      "score": 41.604
     },
     {
       "id": "illumination-aware-active-perception-for-spacecraft-inspecti-733dj6",
@@ -1006,7 +987,7 @@
       "publishedAt": "2026-10-15T17:54:03.000Z",
       "summary": "Harsh and rapidly varying orbital illumination introduces failure modes during spacecraft inspection. Existing planners rely on line-of-sight inspection metrics which perform occlusion checks against a known target and c",
       "category": "Research",
-      "score": 42.512
+      "score": 41.603
     },
     {
       "id": "evaluation-awareness-beyond-english-do-llms-act-differently--vfcdvo",
@@ -1016,7 +997,7 @@
       "publishedAt": "2026-10-15T17:53:33.000Z",
       "summary": "Large language models (LLMs) can often tell when they are being tested. This ability, known as evaluation awareness, can lead models to act more cautiously during safety evaluations than in real use. Existing work has st",
       "category": "Research",
-      "score": 42.511
+      "score": 41.602
     },
     {
       "id": "knowgpo-knowledge-grouped-policy-optimization-for-search-age-7cvbbs",
@@ -1026,7 +1007,7 @@
       "publishedAt": "2026-10-15T17:52:33.000Z",
       "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning pro",
       "category": "Research",
-      "score": 42.509
+      "score": 41.6
     },
     {
       "id": "designing-transformers-for-continuous-diffusion-language-mod-1m8ra1",
@@ -1036,7 +1017,7 @@
       "publishedAt": "2026-10-15T17:52:31.000Z",
       "summary": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal large language models (",
       "category": "Research",
-      "score": 42.509
+      "score": 41.6
     },
     {
       "id": "acedit-stable-multi-turn-image-editing-via-asymmetric-condit-mtefai",
@@ -1046,7 +1027,7 @@
       "publishedAt": "2026-10-15T17:52:24.000Z",
       "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successi",
       "category": "Research",
-      "score": 42.508
+      "score": 41.6
     },
     {
       "id": "neural-networks-are-clean-m5iigz",
@@ -1056,17 +1037,7 @@
       "publishedAt": "2026-10-15T16:04:01Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.01
-    },
-    {
-      "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T19:50:31Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.881
+      "score": 41.24
     },
     {
       "id": "can-learning-to-answer-spatial-questions-improve-novel-view--fg66al",
@@ -1207,6 +1178,36 @@
       "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its respons",
       "category": "Research",
       "score": 40.546
+    },
+    {
+      "id": "the-insider-trading-you-re-allowed-to-do-32ij5h",
+      "title": "The insider trading you're allowed to do",
+      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-16T07:12:09Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.092
+    },
+    {
+      "id": "the-folders-programming-language-npp247",
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-16T05:11:28Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.008
+    },
+    {
+      "id": "meta-s-new-commercial-terms-will-allow-the-scraping-of-news--h75jp8",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-15T23:37:42Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 18.817
     }
   ]
 }
