@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:41:48.158Z",
+  "updatedAt": "2026-10-17T03:37:02.872Z",
   "totalItems": 120,
   "categories": {
     "AI": 52,
@@ -79,16 +79,6 @@
       "score": 52.264
     },
     {
-      "id": "show-hn-gemini-4-argon-plays-starcraft-g8zjlm",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-16T14:18:44Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.197
-    },
-    {
       "id": "robot-is-a-social-construct-why-your-dishwasher-is-not-a-rob-vvic2u",
       "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
       "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
@@ -127,16 +117,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.975
-    },
-    {
-      "id": "anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd-b5vrh8",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-09T22:00:35Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.968
     },
     {
       "id": "research-firm-calls-anthropic-s-ipo-unprecedented-test-of-in-uox3nk",
@@ -219,6 +199,16 @@
       "score": 51.443
     },
     {
+      "id": "show-hn-gemini-4-argon-plays-starcraft-g8zjlm",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-16T14:18:44Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.356
+    },
+    {
       "id": "the-gap-in-shared-understanding-of-llm-capability-is-widenin-alqnac",
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
@@ -249,16 +239,6 @@
       "score": 50.792
     },
     {
-      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-16T18:00:00.000Z",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
-      "category": "AI",
-      "score": 50.563
-    },
-    {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-2t1h7j",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
@@ -267,6 +247,26 @@
       "summary": "",
       "category": "AI",
       "score": 50.183
+    },
+    {
+      "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-16T20:59:01.000Z",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "category": "AI",
+      "score": 49.967
+    },
+    {
+      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
+      "category": "AI",
+      "score": 49.547
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -297,16 +297,6 @@
       "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
       "category": "Robotics",
       "score": 47.741
-    },
-    {
-      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
-      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T18:48:11.000Z",
-      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
-      "category": "Robotics",
-      "score": 47.665
     },
     {
       "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
@@ -357,6 +347,26 @@
       "summary": "\"Have you ever seen a world born?\"",
       "category": "AI",
       "score": 47.057
+    },
+    {
+      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
+      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-15T18:48:11.000Z",
+      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+      "category": "Robotics",
+      "score": 47.038
+    },
+    {
+      "id": "wireless-magnetic-millirobots-that-deliver-medicine-inside-t-9ug9o5",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-14T07:21:12Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 46.827
     },
     {
       "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
@@ -436,7 +446,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 44.619
+      "score": 44.401
     },
     {
       "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
@@ -447,16 +457,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
       "category": "Robotics",
       "score": 44.289
-    },
-    {
-      "id": "ukraine-s-drones-knock-out-ai-data-center-belonging-to-russi-jels37",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-09T22:04:07.000Z",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "category": "Robotics",
-      "score": 44.285
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -736,7 +736,7 @@
       "publishedAt": "2026-10-16T17:08:38Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.878
+      "score": 42.066
     },
     {
       "id": "you-could-have-invented-transformers-from-memory-i1qb8g",
@@ -746,7 +746,7 @@
       "publishedAt": "2026-10-16T19:01:17Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 41.956
+      "score": 41.936
     },
     {
       "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
