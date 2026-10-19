@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T03:53:01.673Z",
+  "updatedAt": "2026-10-19T12:34:50.522Z",
   "totalItems": 120,
   "categories": {
-    "AI": 54,
+    "AI": 56,
     "Robotics": 20,
-    "Machine Learning": 4,
-    "Research": 42
+    "Machine Learning": 5,
+    "Research": 39
   },
   "items": [
     {
@@ -69,16 +69,6 @@
       "score": 52.327
     },
     {
-      "id": "hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac-i6he6j",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-18T20:48:14Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.325
-    },
-    {
       "id": "websites-are-closing-their-doors-to-ai-agents-k64ikh",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -97,6 +87,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.264
+    },
+    {
+      "id": "harness-engineering-101-the-llm-is-the-brain-the-harness-is--ti3e86",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T12:07:41Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.129
     },
     {
       "id": "tv4-postpones-show-after-ai-agent-erases-edited-material-4jx2w",
@@ -127,26 +127,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.975
-    },
-    {
-      "id": "research-firm-calls-anthropic-s-ipo-unprecedented-test-of-in-uox3nk",
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-12T05:03:47Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.863
-    },
-    {
-      "id": "if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go-w587hl",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-18T21:09:12Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.817
     },
     {
       "id": "show-hn-rstation-a-shared-research-lab-for-your-ai-agents-4gldzs",
@@ -199,6 +179,16 @@
       "score": 51.443
     },
     {
+      "id": "hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac-i6he6j",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-18T20:48:14Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.399
+    },
+    {
       "id": "show-hn-gemini-4-argon-plays-starcraft-g8zjlm",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
@@ -209,6 +199,16 @@
       "score": 51.356
     },
     {
+      "id": "if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go-w587hl",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-18T21:09:12Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.123
+    },
+    {
       "id": "janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd-nabfs2",
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
@@ -217,6 +217,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.028
+    },
+    {
+      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
+      "category": "AI",
+      "score": 50.931
     },
     {
       "id": "open-micromanipulator-a-sub-micrometer-3d-motion-control-pla-7n8oaf",
@@ -239,6 +249,16 @@
       "score": 50.792
     },
     {
+      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T09:08:05.000Z",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
+      "category": "AI",
+      "score": 50.446
+    },
+    {
       "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b-l04ksg",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
@@ -256,17 +276,7 @@
       "publishedAt": "2026-10-17T22:26:47Z",
       "summary": "",
       "category": "AI",
-      "score": 49.366
-    },
-    {
-      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-18T16:25:19.000Z",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "category": "AI",
-      "score": 49.301
+      "score": 48.955
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -287,6 +297,16 @@
       "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
       "category": "Robotics",
       "score": 48.326
+    },
+    {
+      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "category": "AI",
+      "score": 48.257
     },
     {
       "id": "amazon-has-over-1-million-robot-workers-what-s-next-for-huma-jwmyb7",
@@ -399,6 +419,16 @@
       "score": 46.056
     },
     {
+      "id": "how-to-train-your-robot-oqw0i2",
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-15T15:13:21Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 45.989
+    },
+    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -409,26 +439,6 @@
       "score": 45.771
     },
     {
-      "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-16T20:59:01.000Z",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "category": "AI",
-      "score": 45.549
-    },
-    {
-      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-16T18:00:00.000Z",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
-      "category": "AI",
-      "score": 45.395
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -437,6 +447,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-16T20:59:01.000Z",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "category": "AI",
+      "score": 45.127
     },
     {
       "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
@@ -459,14 +479,14 @@
       "score": 45.032
     },
     {
-      "id": "the-download-moon-city-problems-and-drone-traffic-controller-8efvu",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-12T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing",
-      "category": "Robotics",
-      "score": 44.289
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
+      "category": "AI",
+      "score": 44.998
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -549,16 +569,6 @@
       "score": 43.602
     },
     {
-      "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "category": "AI",
-      "score": 43.513
-    },
-    {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
       "title": "Which jobs will AI (Artificial Intelligence) kill?",
       "url": "http://www.datasciencecentral.com/profiles/blogs/which-jobs-will-ai-artificial-intelligence-kill?xg_source=activity",
@@ -627,6 +637,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.477
+    },
+    {
+      "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "category": "AI",
+      "score": 43.428
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -747,6 +767,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.301
+    },
+    {
+      "id": "timestral-mistral-release-time-series-foundation-models-usu2ow",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T09:59:32Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 42.584
     },
     {
       "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
@@ -936,7 +966,7 @@
       "publishedAt": "2026-10-16T17:59:55.000Z",
       "summary": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like transitions. We argue t",
       "category": "Research",
-      "score": 38.395
+      "score": 37.998
     },
     {
       "id": "rethinking-the-design-space-of-vanilla-pixel-diffusion-trans-5ogr77",
@@ -946,7 +976,7 @@
       "publishedAt": "2026-10-16T17:59:30.000Z",
       "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transform",
       "category": "Research",
-      "score": 38.395
+      "score": 37.998
     },
     {
       "id": "blind-precise-assembly-proprioceptive-sim-to-real-peg-in-hol-fywot5",
@@ -956,7 +986,7 @@
       "publishedAt": "2026-10-16T17:58:48.000Z",
       "summary": "Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts are large and forcef",
       "category": "Research",
-      "score": 38.394
+      "score": 37.998
     },
     {
       "id": "behavioral-couplings-from-formation-to-behavioral-emergence--7eth0k",
@@ -966,7 +996,7 @@
       "publishedAt": "2026-10-16T17:58:08.000Z",
       "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code ca",
       "category": "Research",
-      "score": 38.394
+      "score": 37.997
     },
     {
       "id": "ai-driven-reproducibility-and-analytical-robustness-in-scien-tmk2vy",
@@ -976,7 +1006,7 @@
       "publishedAt": "2026-10-16T17:57:55.000Z",
       "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate re",
       "category": "Research",
-      "score": 38.394
+      "score": 37.997
     },
     {
       "id": "stopwatch-goal-grounding-for-object-goal-navigation-iagyk7",
@@ -986,7 +1016,7 @@
       "publishedAt": "2026-10-16T17:57:05.000Z",
       "summary": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rates remain low, and it",
       "category": "Research",
-      "score": 38.393
+      "score": 37.996
     },
     {
       "id": "discoveryrsi-recursively-learning-to-discover-valuable-hypot-pmmyjh",
@@ -996,7 +1026,7 @@
       "publishedAt": "2026-10-16T17:56:35.000Z",
       "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and t",
       "category": "Research",
-      "score": 38.393
+      "score": 37.996
     },
     {
       "id": "sparsemax-dstl-sound-robustness-with-horizon-independent-gra-nqa1ua",
@@ -1006,7 +1036,7 @@
       "publishedAt": "2026-10-16T17:54:38.000Z",
       "summary": "A gradient-based solver that enforces a Signal Temporal Logic (STL) specification uses a smooth approximation of its quantitative semantics, the robustness. In safety-critical trajectory optimization, this approximation ",
       "category": "Research",
-      "score": 38.391
+      "score": 37.995
     },
     {
       "id": "task-aligned-spectral-inductive-biases-in-parameterized-quan-qc2csh",
@@ -1016,7 +1046,7 @@
       "publishedAt": "2026-10-16T17:53:19.000Z",
       "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circui",
       "category": "Research",
-      "score": 38.39
+      "score": 37.994
     },
     {
       "id": "beyond-the-answer-student-conditioned-trace-construction-for-9ti5ab",
@@ -1026,7 +1056,7 @@
       "publishedAt": "2026-10-16T17:52:58.000Z",
       "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both",
       "category": "Research",
-      "score": 38.39
+      "score": 37.994
     },
     {
       "id": "waiting-buys-exactly-two-moments-endogenous-identification-i-z27pl1",
@@ -1036,7 +1066,7 @@
       "publishedAt": "2026-10-16T17:52:57.000Z",
       "summary": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under ",
       "category": "Research",
-      "score": 38.389
+      "score": 37.994
     },
     {
       "id": "quality-of-transmission-estimation-in-quantum-networks-compu-3g8gwx",
@@ -1046,7 +1076,7 @@
       "publishedAt": "2026-10-16T17:49:43.000Z",
       "summary": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the qua",
       "category": "Research",
-      "score": 38.387
+      "score": 37.991
     },
     {
       "id": "self-building-labs-lu3n4h",
@@ -1056,7 +1086,7 @@
       "publishedAt": "2026-10-16T17:48:29.000Z",
       "summary": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures th",
       "category": "Research",
-      "score": 38.386
+      "score": 37.99
     },
     {
       "id": "enfr-evidence-networks-with-flow-matched-references-for-amor-1mjr23",
@@ -1066,7 +1096,7 @@
       "publishedAt": "2026-10-16T17:48:26.000Z",
       "summary": "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessme",
       "category": "Research",
-      "score": 38.386
+      "score": 37.99
     },
     {
       "id": "learning-without-relearning-physical-symmetry-an-so-3-equiva-1jr9vr",
@@ -1076,7 +1106,7 @@
       "publishedAt": "2026-10-16T17:45:43.000Z",
       "summary": "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far high",
       "category": "Research",
-      "score": 38.383
+      "score": 37.989
     },
     {
       "id": "cocorna-collective-rna-design-with-cooperative-multi-agent-r-s9i6nx",
@@ -1086,7 +1116,7 @@
       "publishedAt": "2026-10-16T17:43:25.000Z",
       "summary": "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative m",
       "category": "Research",
-      "score": 38.382
+      "score": 37.987
     },
     {
       "id": "acceptance-is-not-speed-length-inflation-in-training-free-lo-dbo801",
@@ -1096,7 +1126,7 @@
       "publishedAt": "2026-10-16T17:41:19.000Z",
       "summary": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making thi",
       "category": "Research",
-      "score": 38.38
+      "score": 37.985
     },
     {
       "id": "moss-multimodal-origami-swamp-robot-system-qi5swj",
@@ -1106,7 +1136,7 @@
       "publishedAt": "2026-10-16T17:35:24.000Z",
       "summary": "Robotic systems for environmental monitoring and ecological surveying in wetlands and swamps must operate across diverse terrestrial and aquatic conditions. Conventional fixed-geometry wheels cannot adapt their contact g",
       "category": "Research",
-      "score": 38.375
+      "score": 37.981
     },
     {
       "id": "learning-personalized-memory-gating-from-delayed-one-sided-f-ay4jo4",
@@ -1116,7 +1146,7 @@
       "publishedAt": "2026-10-16T17:34:45.000Z",
       "summary": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and ther",
       "category": "Research",
-      "score": 38.374
+      "score": 37.981
     },
     {
       "id": "explainable-machine-learning-analysis-of-temperature-effects-q4d86j",
@@ -1126,7 +1156,7 @@
       "publishedAt": "2026-10-16T17:34:24.000Z",
       "summary": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curi",
       "category": "Research",
-      "score": 38.374
+      "score": 37.981
     },
     {
       "id": "steering-beyond-language-improving-multilingual-training-fre-7dixj3",
@@ -1136,7 +1166,7 @@
       "publishedAt": "2026-10-16T17:30:43.000Z",
       "summary": "While deriving text embeddings directly from frozen LLMs has emerged as a promising direction, existing methods focus almost exclusively on English, leaving multilingual settings largely unexplored. In this work, we pres",
       "category": "Research",
-      "score": 38.371
+      "score": 37.978
     },
     {
       "id": "beyond-saes-consistent-concept-discovery-with-sparse-coding-9kp9cd",
@@ -1146,7 +1176,7 @@
       "publishedAt": "2026-10-16T17:25:11.000Z",
       "summary": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiti",
       "category": "Research",
-      "score": 38.367
+      "score": 37.974
     },
     {
       "id": "task-aware-kernel-stein-certificates-for-r-nyi-differential--8k4ihl",
@@ -1156,7 +1186,7 @@
       "publishedAt": "2026-10-16T17:24:09.000Z",
       "summary": "Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. However, outside the Gaussian setting, Rènyi divergence can be difficult to compute. In particular, Rènyi diffe",
       "category": "Research",
-      "score": 38.366
+      "score": 37.974
     },
     {
       "id": "futransformer-fp8-prefill-and-int4-decode-for-llama-style-in-c1m8hg",
@@ -1166,7 +1196,7 @@
       "publishedAt": "2026-10-16T17:22:01.000Z",
       "summary": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUT",
       "category": "Research",
-      "score": 38.364
+      "score": 37.972
     },
     {
       "id": "persistent-planar-memory-for-video-world-models-78eopi",
@@ -1176,37 +1206,7 @@
       "publishedAt": "2026-10-16T17:21:54.000Z",
       "summary": "Video world models that generate and explore environments at scale need a persistent 3D memory of what they have produced. Plane primitives offer a natural candidate: a compact set of oriented planes captures the dominan",
       "category": "Research",
-      "score": 38.364
-    },
-    {
-      "id": "drugharness-an-evolvable-agent-harness-for-computational-dru-kur9zv",
-      "title": "DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery",
-      "url": "http://arxiv.org/abs/2610.23791v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-16T17:20:19.000Z",
-      "summary": "Computational drug discovery requires agents to compose scientific operations and adapt to changing evidence and constraints. Here we introduce DrugHarness, an evolvable agent harness coupling composable scientific execu",
-      "category": "Research",
-      "score": 38.363
-    },
-    {
-      "id": "the-collection-of-a-real-world-large-scale-dataset-for-autom-bmwa5v",
-      "title": "The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change",
-      "url": "http://arxiv.org/abs/2610.23789v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-16T17:19:09.000Z",
-      "summary": "Central line-associated bloodstream infections (CLABSIs) remain a major source of preventable morbidity and mortality in healthcare settings. Proper execution of the central line dressing change (CLDC) procedure is essen",
-      "category": "Research",
-      "score": 38.362
-    },
-    {
-      "id": "parametric-resonance-in-primal-dual-learning-for-slowly-non--l4g9o6",
-      "title": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
-      "url": "http://arxiv.org/abs/2610.23788v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-16T17:19:08.000Z",
-      "summary": "Primal-dual methods for constrained Markov decision processes are analyzed under a two-timescale assumption, with non-stationarity entering through two channels. In the additive channel, where the constraint level oscill",
-      "category": "Research",
-      "score": 38.362
+      "score": 37.972
     }
   ]
 }
