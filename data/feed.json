@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T12:34:50.522Z",
+  "updatedAt": "2026-10-19T22:08:16.711Z",
   "totalItems": 120,
   "categories": {
-    "AI": 56,
+    "AI": 57,
     "Robotics": 20,
-    "Machine Learning": 5,
-    "Research": 39
+    "Machine Learning": 6,
+    "Research": 37
   },
   "items": [
     {
@@ -17,6 +17,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.662
+    },
+    {
+      "id": "mercury-3-diffusion-at-scale-1ou6uc",
+      "title": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T17:27:11Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.555
     },
     {
       "id": "anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat-q7gh3d",
@@ -169,6 +179,26 @@
       "score": 51.633
     },
     {
+      "id": "the-obscure-trust-looming-over-anthropic-s-ipo-cwfq4b",
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T12:06:03Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.573
+    },
+    {
+      "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T09:05:07Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 51.484
+    },
+    {
       "id": "a-shared-verifiable-fix-database-that-ai-agents-read-and-wri-vf3huk",
       "title": "A shared, verifiable fix database that AI agents read and write themselves",
       "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
@@ -209,26 +239,6 @@
       "score": 51.123
     },
     {
-      "id": "janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd-nabfs2",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-12T22:05:43Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.028
-    },
-    {
-      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
-      "category": "AI",
-      "score": 50.931
-    },
-    {
       "id": "open-micromanipulator-a-sub-micrometer-3d-motion-control-pla-7n8oaf",
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -249,14 +259,24 @@
       "score": 50.792
     },
     {
-      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T09:08:05.000Z",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
+      "id": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says-dh2rib",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-19T20:21:53.000Z",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "category": "AI",
-      "score": 50.446
+      "score": 50.71
+    },
+    {
+      "id": "making-the-internet-better-for-ai-agents-might-make-it-worse-bxrh0v",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T18:22:47.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
+      "category": "AI",
+      "score": 50.398
     },
     {
       "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b-l04ksg",
@@ -267,6 +287,26 @@
       "summary": "",
       "category": "AI",
       "score": 49.755
+    },
+    {
+      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
+      "category": "AI",
+      "score": 49.499
+    },
+    {
+      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T09:08:05.000Z",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
+      "category": "AI",
+      "score": 49.102
     },
     {
       "id": "i-built-a-programming-language-that-llms-can-t-use-mqdwqu",
@@ -299,26 +339,6 @@
       "score": 48.326
     },
     {
-      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-18T16:25:19.000Z",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "category": "AI",
-      "score": 48.257
-    },
-    {
-      "id": "amazon-has-over-1-million-robot-workers-what-s-next-for-huma-jwmyb7",
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-12T12:43:10.000Z",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "category": "Robotics",
-      "score": 47.741
-    },
-    {
       "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
       "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
       "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
@@ -347,6 +367,16 @@
       "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
       "category": "AI",
       "score": 47.321
+    },
+    {
+      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "category": "AI",
+      "score": 47.308
     },
     {
       "id": "anthropic-warns-small-ai-models-could-self-replicate-through-ycdsbv",
@@ -389,26 +419,6 @@
       "score": 46.509
     },
     {
-      "id": "anthropic-s-claude-ai-submitted-false-murder-tip-to-philadel-5dyqw2",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-12T18:21:36.000Z",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "category": "AI",
-      "score": 46.398
-    },
-    {
-      "id": "long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed--8srrp7",
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-12T16:01:08.000Z",
-      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-      "category": "AI",
-      "score": 46.236
-    },
-    {
       "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
       "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
@@ -449,16 +459,6 @@
       "score": 45.182
     },
     {
-      "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-16T20:59:01.000Z",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "category": "AI",
-      "score": 45.127
-    },
-    {
       "id": "the-download-open-model-trade-offs-and-geothermal-power-s-pr-8s4ln8",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
@@ -479,6 +479,16 @@
       "score": 45.032
     },
     {
+      "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-16T20:59:01.000Z",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "category": "AI",
+      "score": 44.743
+    },
+    {
       "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -486,7 +496,7 @@
       "publishedAt": "2026-10-16T18:00:00.000Z",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
       "category": "AI",
-      "score": 44.998
+      "score": 44.638
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -646,7 +656,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.428
+      "score": 43.35
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -769,14 +779,14 @@
       "score": 43.301
     },
     {
-      "id": "timestral-mistral-release-time-series-foundation-models-usu2ow",
-      "title": "Timestral: Mistral release time-series foundation models",
+      "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
+      "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
       "sourceName": "Hacker News",
       "publishedAt": "2026-10-19T09:59:32Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 42.584
+      "score": 41.917
     },
     {
       "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
@@ -949,6 +959,16 @@
       "score": 40.546
     },
     {
+      "id": "we-were-looking-at-it-wrong-the-explosive-claim-that-s-upend-lbrlx3",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T17:45:55.000Z",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor",
+      "category": "Machine Learning",
+      "score": 40.303
+    },
+    {
       "id": "you-could-have-invented-transformers-from-memory-i1qb8g",
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
@@ -966,7 +986,7 @@
       "publishedAt": "2026-10-16T17:59:55.000Z",
       "summary": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like transitions. We argue t",
       "category": "Research",
-      "score": 37.998
+      "score": 37.638
     },
     {
       "id": "rethinking-the-design-space-of-vanilla-pixel-diffusion-trans-5ogr77",
@@ -976,7 +996,7 @@
       "publishedAt": "2026-10-16T17:59:30.000Z",
       "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transform",
       "category": "Research",
-      "score": 37.998
+      "score": 37.637
     },
     {
       "id": "blind-precise-assembly-proprioceptive-sim-to-real-peg-in-hol-fywot5",
@@ -986,7 +1006,7 @@
       "publishedAt": "2026-10-16T17:58:48.000Z",
       "summary": "Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts are large and forcef",
       "category": "Research",
-      "score": 37.998
+      "score": 37.637
     },
     {
       "id": "behavioral-couplings-from-formation-to-behavioral-emergence--7eth0k",
@@ -996,7 +1016,7 @@
       "publishedAt": "2026-10-16T17:58:08.000Z",
       "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code ca",
       "category": "Research",
-      "score": 37.997
+      "score": 37.637
     },
     {
       "id": "ai-driven-reproducibility-and-analytical-robustness-in-scien-tmk2vy",
@@ -1006,7 +1026,7 @@
       "publishedAt": "2026-10-16T17:57:55.000Z",
       "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate re",
       "category": "Research",
-      "score": 37.997
+      "score": 37.636
     },
     {
       "id": "stopwatch-goal-grounding-for-object-goal-navigation-iagyk7",
@@ -1016,7 +1036,7 @@
       "publishedAt": "2026-10-16T17:57:05.000Z",
       "summary": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rates remain low, and it",
       "category": "Research",
-      "score": 37.996
+      "score": 37.636
     },
     {
       "id": "discoveryrsi-recursively-learning-to-discover-valuable-hypot-pmmyjh",
@@ -1026,7 +1046,7 @@
       "publishedAt": "2026-10-16T17:56:35.000Z",
       "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and t",
       "category": "Research",
-      "score": 37.996
+      "score": 37.636
     },
     {
       "id": "sparsemax-dstl-sound-robustness-with-horizon-independent-gra-nqa1ua",
@@ -1036,7 +1056,7 @@
       "publishedAt": "2026-10-16T17:54:38.000Z",
       "summary": "A gradient-based solver that enforces a Signal Temporal Logic (STL) specification uses a smooth approximation of its quantitative semantics, the robustness. In safety-critical trajectory optimization, this approximation ",
       "category": "Research",
-      "score": 37.995
+      "score": 37.635
     },
     {
       "id": "task-aligned-spectral-inductive-biases-in-parameterized-quan-qc2csh",
@@ -1046,7 +1066,7 @@
       "publishedAt": "2026-10-16T17:53:19.000Z",
       "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circui",
       "category": "Research",
-      "score": 37.994
+      "score": 37.634
     },
     {
       "id": "beyond-the-answer-student-conditioned-trace-construction-for-9ti5ab",
@@ -1056,7 +1076,7 @@
       "publishedAt": "2026-10-16T17:52:58.000Z",
       "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both",
       "category": "Research",
-      "score": 37.994
+      "score": 37.634
     },
     {
       "id": "waiting-buys-exactly-two-moments-endogenous-identification-i-z27pl1",
@@ -1066,7 +1086,7 @@
       "publishedAt": "2026-10-16T17:52:57.000Z",
       "summary": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under ",
       "category": "Research",
-      "score": 37.994
+      "score": 37.634
     },
     {
       "id": "quality-of-transmission-estimation-in-quantum-networks-compu-3g8gwx",
@@ -1076,7 +1096,7 @@
       "publishedAt": "2026-10-16T17:49:43.000Z",
       "summary": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the qua",
       "category": "Research",
-      "score": 37.991
+      "score": 37.632
     },
     {
       "id": "self-building-labs-lu3n4h",
@@ -1086,7 +1106,7 @@
       "publishedAt": "2026-10-16T17:48:29.000Z",
       "summary": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures th",
       "category": "Research",
-      "score": 37.99
+      "score": 37.631
     },
     {
       "id": "enfr-evidence-networks-with-flow-matched-references-for-amor-1mjr23",
@@ -1096,7 +1116,7 @@
       "publishedAt": "2026-10-16T17:48:26.000Z",
       "summary": "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessme",
       "category": "Research",
-      "score": 37.99
+      "score": 37.631
     },
     {
       "id": "learning-without-relearning-physical-symmetry-an-so-3-equiva-1jr9vr",
@@ -1106,7 +1126,7 @@
       "publishedAt": "2026-10-16T17:45:43.000Z",
       "summary": "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far high",
       "category": "Research",
-      "score": 37.989
+      "score": 37.63
     },
     {
       "id": "cocorna-collective-rna-design-with-cooperative-multi-agent-r-s9i6nx",
@@ -1116,7 +1136,7 @@
       "publishedAt": "2026-10-16T17:43:25.000Z",
       "summary": "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative m",
       "category": "Research",
-      "score": 37.987
+      "score": 37.628
     },
     {
       "id": "acceptance-is-not-speed-length-inflation-in-training-free-lo-dbo801",
@@ -1126,7 +1146,7 @@
       "publishedAt": "2026-10-16T17:41:19.000Z",
       "summary": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making thi",
       "category": "Research",
-      "score": 37.985
+      "score": 37.627
     },
     {
       "id": "moss-multimodal-origami-swamp-robot-system-qi5swj",
@@ -1136,7 +1156,7 @@
       "publishedAt": "2026-10-16T17:35:24.000Z",
       "summary": "Robotic systems for environmental monitoring and ecological surveying in wetlands and swamps must operate across diverse terrestrial and aquatic conditions. Conventional fixed-geometry wheels cannot adapt their contact g",
       "category": "Research",
-      "score": 37.981
+      "score": 37.624
     },
     {
       "id": "learning-personalized-memory-gating-from-delayed-one-sided-f-ay4jo4",
@@ -1146,7 +1166,7 @@
       "publishedAt": "2026-10-16T17:34:45.000Z",
       "summary": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and ther",
       "category": "Research",
-      "score": 37.981
+      "score": 37.623
     },
     {
       "id": "explainable-machine-learning-analysis-of-temperature-effects-q4d86j",
@@ -1156,7 +1176,7 @@
       "publishedAt": "2026-10-16T17:34:24.000Z",
       "summary": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curi",
       "category": "Research",
-      "score": 37.981
+      "score": 37.623
     },
     {
       "id": "steering-beyond-language-improving-multilingual-training-fre-7dixj3",
@@ -1166,7 +1186,7 @@
       "publishedAt": "2026-10-16T17:30:43.000Z",
       "summary": "While deriving text embeddings directly from frozen LLMs has emerged as a promising direction, existing methods focus almost exclusively on English, leaving multilingual settings largely unexplored. In this work, we pres",
       "category": "Research",
-      "score": 37.978
+      "score": 37.621
     },
     {
       "id": "beyond-saes-consistent-concept-discovery-with-sparse-coding-9kp9cd",
@@ -1176,7 +1196,7 @@
       "publishedAt": "2026-10-16T17:25:11.000Z",
       "summary": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiti",
       "category": "Research",
-      "score": 37.974
+      "score": 37.618
     },
     {
       "id": "task-aware-kernel-stein-certificates-for-r-nyi-differential--8k4ihl",
@@ -1186,27 +1206,7 @@
       "publishedAt": "2026-10-16T17:24:09.000Z",
       "summary": "Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. However, outside the Gaussian setting, Rènyi divergence can be difficult to compute. In particular, Rènyi diffe",
       "category": "Research",
-      "score": 37.974
-    },
-    {
-      "id": "futransformer-fp8-prefill-and-int4-decode-for-llama-style-in-c1m8hg",
-      "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
-      "url": "http://arxiv.org/abs/2610.23796v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-16T17:22:01.000Z",
-      "summary": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUT",
-      "category": "Research",
-      "score": 37.972
-    },
-    {
-      "id": "persistent-planar-memory-for-video-world-models-78eopi",
-      "title": "Persistent Planar Memory for Video World Models",
-      "url": "http://arxiv.org/abs/2610.23795v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-16T17:21:54.000Z",
-      "summary": "Video world models that generate and explore environments at scale need a persistent 3D memory of what they have produced. Plane primitives offer a natural candidate: a compact set of oriented planes captures the dominan",
-      "category": "Research",
-      "score": 37.972
+      "score": 37.617
     }
   ]
 }
