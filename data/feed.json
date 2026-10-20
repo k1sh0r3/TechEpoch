@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T16:34:14.959Z",
+  "updatedAt": "2026-10-20T21:23:49.713Z",
   "totalItems": 120,
   "categories": {
-    "AI": 57,
-    "Robotics": 21,
+    "AI": 56,
+    "Robotics": 24,
     "Machine Learning": 5,
-    "Research": 37
+    "Research": 35
   },
   "items": [
     {
@@ -17,16 +17,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.662
-    },
-    {
-      "id": "publish-fake-stats-get-cited-in-llms-c9exuz",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T13:06:22Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.65
     },
     {
       "id": "mercury-3-diffusion-at-scale-1ou6uc",
@@ -47,16 +37,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.503
-    },
-    {
-      "id": "openai-engineer-arrested-in-bugging-of-executive-conference--h1rg8h",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T20:23:55Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.479
     },
     {
       "id": "tesla-s-robotaxis-blow-through-school-zones-nhtsa-petition-a-kyb5o3",
@@ -97,6 +77,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.312
+    },
+    {
+      "id": "publish-fake-stats-get-cited-in-llms-c9exuz",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T13:06:22Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.201
     },
     {
       "id": "harness-engineering-101-the-llm-is-the-brain-the-harness-is--ti3e86",
@@ -209,6 +199,16 @@
       "score": 51.123
     },
     {
+      "id": "robotic-therapy-for-stroke-patients-wfbwvg",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining",
+      "category": "Robotics",
+      "score": 50.934
+    },
+    {
       "id": "open-micromanipulator-a-sub-micrometer-3d-motion-control-pla-7n8oaf",
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -239,6 +239,16 @@
       "score": 50.794
     },
     {
+      "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T20:07:58.000Z",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "category": "Robotics",
+      "score": 50.792
+    },
+    {
       "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
@@ -247,6 +257,26 @@
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "category": "AI",
       "score": 50.792
+    },
+    {
+      "id": "gemini-s-personal-intelligence-is-coming-to-cars-cb6fj9",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T20:00:33.000Z",
+      "summary": "It's probably time to audit your Gemini settings.",
+      "category": "AI",
+      "score": 50.772
+    },
+    {
+      "id": "ukraine-s-drone-rescue-of-wounded-soldier-puts-much-touted-i-h11sx3",
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T18:22:54.000Z",
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "category": "Robotics",
+      "score": 50.513
     },
     {
       "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
@@ -319,16 +349,6 @@
       "score": 48.326
     },
     {
-      "id": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says-dh2rib",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-19T20:21:53.000Z",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "category": "AI",
-      "score": 48.251
-    },
-    {
       "id": "making-the-internet-better-for-ai-agents-might-make-it-worse-bxrh0v",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -337,6 +357,16 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
       "category": "AI",
       "score": 48.039
+    },
+    {
+      "id": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says-dh2rib",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-19T20:21:53.000Z",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "category": "AI",
+      "score": 47.749
     },
     {
       "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
@@ -437,16 +467,6 @@
       "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
       "category": "Robotics",
       "score": 46.509
-    },
-    {
-      "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-13T18:23:33.000Z",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "category": "AI",
-      "score": 46.056
     },
     {
       "id": "how-to-train-your-robot-oqw0i2",
@@ -786,17 +806,27 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.239
+      "score": 43.216
     },
     {
-      "id": "deepseek-just-open-sourced-its-inference-engine-f7s4wt",
-      "title": "DeepSeek just open-sourced its inference engine",
+      "id": "google-open-sources-torchtpu-a-native-pytorch-back-end-for-t-kidr83",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T16:40:24Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 42.547
+    },
+    {
+      "id": "deepinfer-high-performance-inference-framework-for-deepseek--ug2037",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "sourceName": "Hacker News",
       "publishedAt": "2026-10-20T09:08:54Z",
       "summary": "",
       "category": "Machine Learning",
-      "score": 43.075
+      "score": 42.504
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -809,16 +839,6 @@
       "score": 41.917
     },
     {
-      "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-9vcaak",
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T19:50:31Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.881
-    },
-    {
       "id": "neural-networks-are-clean-m5iigz",
       "title": "Neural networks are clean",
       "url": "https://already-clean.goodfire.com/",
@@ -827,306 +847,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 41.24
-    },
-    {
-      "id": "text-to-image-generative-modeling-without-language-pretraini-pkbegj",
-      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-      "url": "http://arxiv.org/abs/2610.26863v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:59.000Z",
-      "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "openvlharness-real-world-visual-agentic-tool-use-with-multim-5xf27a",
-      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "url": "http://arxiv.org/abs/2610.26860v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:58.000Z",
-      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks s",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "can-it-actually-work-synthesizing-functional-cad-mechanisms-k35m2",
-      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-      "url": "http://arxiv.org/abs/2610.26861v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:58.000Z",
-      "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requ",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "reinforcement-learning-with-visually-attributable-on-policy--3fxnya",
-      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
-      "url": "http://arxiv.org/abs/2610.26856v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:56.000Z",
-      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complem",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "videomama-temporally-consistent-video-matting-via-preserve-a-v3xpam",
-      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
-      "url": "http://arxiv.org/abs/2610.26857v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:56.000Z",
-      "summary": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However,",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "ropedia-w0-scaling-loco-manipulation-world-models-across-emb-rvdj6i",
-      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-      "url": "http://arxiv.org/abs/2610.26855v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:55.000Z",
-      "summary": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multim",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "physical-words-a-vocabulary-for-structuring-latent-reasoning-wjiqpg",
-      "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
-      "url": "http://arxiv.org/abs/2610.26854v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:54.000Z",
-      "summary": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physi",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "infinidream-open-ended-photorealistic-3d-worlds-through-proc-paqdmv",
-      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
-      "url": "http://arxiv.org/abs/2610.26853v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:51.000Z",
-      "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation of",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty--4sqtzw",
-      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-      "url": "http://arxiv.org/abs/2610.26852v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:49.000Z",
-      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fail",
-      "category": "Research",
-      "score": 40.999
-    },
-    {
-      "id": "manga2animate-an-agentic-framework-for-faithful-manga-animat-x0m1y9",
-      "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning",
-      "url": "http://arxiv.org/abs/2610.26851v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:46.000Z",
-      "summary": "Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its characters and art style, or ",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "genolympiad-benchmarking-frontier-image-models-at-their-capa-ftsf9p",
-      "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
-      "url": "http://arxiv.org/abs/2610.26850v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:41.000Z",
-      "summary": "Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We introduce GenOlympiad, ",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "where-is-physical-rsi-capability-from-an-observational-scali-exg0fs",
-      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
-      "url": "http://arxiv.org/abs/2610.26848v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:30.000Z",
-      "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: Fir",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "weact-dynamic-weight-switching-as-agent-actions-ati04j",
-      "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-      "url": "http://arxiv.org/abs/2610.26847v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:19.000Z",
-      "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "gpt-6-astra-is-a-native-visuo-tactile-policy-for-contact-ric-uw6wkz",
-      "title": "GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation",
-      "url": "http://arxiv.org/abs/2610.26846v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:17.000Z",
-      "summary": "Recent advances in multimodal models have enabled GPT-6 Astra to perform robotic manipulation through in-context learning. Yet contact-rich control and tactile perception are often regarded as strengths of specialist pol",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "train-an-imaginative-agent-xm01hc",
-      "title": "Train An Imaginative Agent",
-      "url": "http://arxiv.org/abs/2610.26845v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:12.000Z",
-      "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environme",
-      "category": "Research",
-      "score": 40.998
-    },
-    {
-      "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts-31a7qi",
-      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-      "url": "http://arxiv.org/abs/2610.26844v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:05.000Z",
-      "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliab",
-      "category": "Research",
-      "score": 40.997
-    },
-    {
-      "id": "latcomm-reusable-context-compression-for-latent-communicatio-ti3js3",
-      "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
-      "url": "http://arxiv.org/abs/2610.26840v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:41.000Z",
-      "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every quest",
-      "category": "Research",
-      "score": 40.997
-    },
-    {
-      "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-l-6qplfx",
-      "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-      "url": "http://arxiv.org/abs/2610.26839v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:34.000Z",
-      "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergr",
-      "category": "Research",
-      "score": 40.996
-    },
-    {
-      "id": "speckcast-spectral-kalman-forecasting-for-diffusion-accelera-7ml5j4",
-      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
-      "url": "http://arxiv.org/abs/2610.26837v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:04.000Z",
-      "summary": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Feature caching reduce",
-      "category": "Research",
-      "score": 40.996
-    },
-    {
-      "id": "same-simulation-different-evidence-where-retrieved-tool-outp-uxylcz",
-      "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
-      "url": "http://arxiv.org/abs/2610.26836v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:57:41.000Z",
-      "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask wh",
-      "category": "Research",
-      "score": 40.995
-    },
-    {
-      "id": "kronecker-delta-rule-for-long-context-linear-attention-zeenjj",
-      "title": "Kronecker Delta Rule for Long Context Linear Attention",
-      "url": "http://arxiv.org/abs/2610.26834v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:56:52.000Z",
-      "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that correct",
-      "category": "Research",
-      "score": 40.993
-    },
-    {
-      "id": "supervised-learning-with-quantum-hamiltonian-embeddings-ejnoo5",
-      "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
-      "url": "http://arxiv.org/abs/2610.26833v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:56:44.000Z",
-      "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, t",
-      "category": "Research",
-      "score": 40.993
-    },
-    {
-      "id": "competing-learning-in-hybrid-architectures-nejmj3",
-      "title": "Competing Learning in Hybrid Architectures",
-      "url": "http://arxiv.org/abs/2610.26830v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:55.000Z",
-      "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high ",
-      "category": "Research",
-      "score": 40.992
-    },
-    {
-      "id": "proteingeobench-frontier-structural-biology-agents-are-fluen-w12yk7",
-      "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
-      "url": "http://arxiv.org/abs/2610.26829v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:38.000Z",
-      "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the ",
-      "category": "Research",
-      "score": 40.991
-    },
-    {
-      "id": "agent-world-model-in-the-wild-computer-use-agent-environment-tgx0ed",
-      "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-      "url": "http://arxiv.org/abs/2610.26828v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:35.000Z",
-      "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substan",
-      "category": "Research",
-      "score": 40.991
-    },
-    {
-      "id": "keep-bench-evaluating-evidence-preservation-in-context-compr-tw2i7l",
-      "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
-      "url": "http://arxiv.org/abs/2610.26827v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:18.000Z",
-      "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer correctly from an unfai",
-      "category": "Research",
-      "score": 40.991
-    },
-    {
-      "id": "refcraft-benchmarking-visual-reference-conditioned-agentic-g-ofb2rq",
-      "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
-      "url": "http://arxiv.org/abs/2610.26826v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:06.000Z",
-      "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability ",
-      "category": "Research",
-      "score": 40.99
-    },
-    {
-      "id": "memt-1-0-towards-memory-native-evolution-in1j4f",
-      "title": "MemT-1.0: Towards Memory-Native Evolution",
-      "url": "http://arxiv.org/abs/2610.26825v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:54:35.000Z",
-      "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of mem",
-      "category": "Research",
-      "score": 40.99
-    },
-    {
-      "id": "specmrl-redesign-matryoshka-representation-learning-within-p-ep968b",
-      "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
-      "url": "http://arxiv.org/abs/2610.26824v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:54:20.000Z",
-      "summary": "Matryoshka Representation Learning (MRL) is designed to support flexible representation sizes by jointly optimizing nested prefixes. While effective, this design lacks an explicit constraint to ensure that the leading po",
-      "category": "Research",
-      "score": 40.989
-    },
-    {
-      "id": "afribed-a-speech-recognition-bias-evaluation-dataset-for-low-ni16bi",
-      "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
-      "url": "http://arxiv.org/abs/2610.26821v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:53:32.000Z",
-      "summary": "Despite advancements in automatic speech recognition systems (ASR), current systems exhibit speaker-attribute bias, i.e., their speech recognition performance is biased against certain speakers based on their demographic",
-      "category": "Research",
-      "score": 40.988
     },
     {
       "id": "90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b-38fca",
@@ -1207,6 +927,286 @@
       "summary": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of information extract",
       "category": "Research",
       "score": 40.549
+    },
+    {
+      "id": "text-to-image-generative-modeling-without-language-pretraini-pkbegj",
+      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+      "url": "http://arxiv.org/abs/2610.26863v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:59.000Z",
+      "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "openvlharness-real-world-visual-agentic-tool-use-with-multim-5xf27a",
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "url": "http://arxiv.org/abs/2610.26860v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:58.000Z",
+      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks s",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "can-it-actually-work-synthesizing-functional-cad-mechanisms-k35m2",
+      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+      "url": "http://arxiv.org/abs/2610.26861v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:58.000Z",
+      "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requ",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "reinforcement-learning-with-visually-attributable-on-policy--3fxnya",
+      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2610.26856v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:56.000Z",
+      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complem",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "videomama-temporally-consistent-video-matting-via-preserve-a-v3xpam",
+      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+      "url": "http://arxiv.org/abs/2610.26857v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:56.000Z",
+      "summary": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However,",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "ropedia-w0-scaling-loco-manipulation-world-models-across-emb-rvdj6i",
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "url": "http://arxiv.org/abs/2610.26855v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:55.000Z",
+      "summary": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multim",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "physical-words-a-vocabulary-for-structuring-latent-reasoning-wjiqpg",
+      "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
+      "url": "http://arxiv.org/abs/2610.26854v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:54.000Z",
+      "summary": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physi",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "infinidream-open-ended-photorealistic-3d-worlds-through-proc-paqdmv",
+      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+      "url": "http://arxiv.org/abs/2610.26853v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:51.000Z",
+      "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation of",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty--4sqtzw",
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+      "url": "http://arxiv.org/abs/2610.26852v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:49.000Z",
+      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fail",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "manga2animate-an-agentic-framework-for-faithful-manga-animat-x0m1y9",
+      "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning",
+      "url": "http://arxiv.org/abs/2610.26851v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:46.000Z",
+      "summary": "Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its characters and art style, or ",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "genolympiad-benchmarking-frontier-image-models-at-their-capa-ftsf9p",
+      "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
+      "url": "http://arxiv.org/abs/2610.26850v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:41.000Z",
+      "summary": "Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We introduce GenOlympiad, ",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "where-is-physical-rsi-capability-from-an-observational-scali-exg0fs",
+      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+      "url": "http://arxiv.org/abs/2610.26848v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:30.000Z",
+      "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: Fir",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "weact-dynamic-weight-switching-as-agent-actions-ati04j",
+      "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+      "url": "http://arxiv.org/abs/2610.26847v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:19.000Z",
+      "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "gpt-6-astra-is-a-native-visuo-tactile-policy-for-contact-ric-uw6wkz",
+      "title": "GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation",
+      "url": "http://arxiv.org/abs/2610.26846v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:17.000Z",
+      "summary": "Recent advances in multimodal models have enabled GPT-6 Astra to perform robotic manipulation through in-context learning. Yet contact-rich control and tactile perception are often regarded as strengths of specialist pol",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "train-an-imaginative-agent-xm01hc",
+      "title": "Train An Imaginative Agent",
+      "url": "http://arxiv.org/abs/2610.26845v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:12.000Z",
+      "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environme",
+      "category": "Research",
+      "score": 40.519
+    },
+    {
+      "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts-31a7qi",
+      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+      "url": "http://arxiv.org/abs/2610.26844v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:59:05.000Z",
+      "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliab",
+      "category": "Research",
+      "score": 40.519
+    },
+    {
+      "id": "latcomm-reusable-context-compression-for-latent-communicatio-ti3js3",
+      "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+      "url": "http://arxiv.org/abs/2610.26840v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:58:41.000Z",
+      "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every quest",
+      "category": "Research",
+      "score": 40.519
+    },
+    {
+      "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-l-6qplfx",
+      "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+      "url": "http://arxiv.org/abs/2610.26839v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:58:34.000Z",
+      "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergr",
+      "category": "Research",
+      "score": 40.518
+    },
+    {
+      "id": "speckcast-spectral-kalman-forecasting-for-diffusion-accelera-7ml5j4",
+      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+      "url": "http://arxiv.org/abs/2610.26837v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:58:04.000Z",
+      "summary": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Feature caching reduce",
+      "category": "Research",
+      "score": 40.518
+    },
+    {
+      "id": "same-simulation-different-evidence-where-retrieved-tool-outp-uxylcz",
+      "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+      "url": "http://arxiv.org/abs/2610.26836v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:57:41.000Z",
+      "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask wh",
+      "category": "Research",
+      "score": 40.517
+    },
+    {
+      "id": "kronecker-delta-rule-for-long-context-linear-attention-zeenjj",
+      "title": "Kronecker Delta Rule for Long Context Linear Attention",
+      "url": "http://arxiv.org/abs/2610.26834v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:56:52.000Z",
+      "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that correct",
+      "category": "Research",
+      "score": 40.516
+    },
+    {
+      "id": "supervised-learning-with-quantum-hamiltonian-embeddings-ejnoo5",
+      "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+      "url": "http://arxiv.org/abs/2610.26833v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:56:44.000Z",
+      "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, t",
+      "category": "Research",
+      "score": 40.516
+    },
+    {
+      "id": "competing-learning-in-hybrid-architectures-nejmj3",
+      "title": "Competing Learning in Hybrid Architectures",
+      "url": "http://arxiv.org/abs/2610.26830v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:55:55.000Z",
+      "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high ",
+      "category": "Research",
+      "score": 40.514
+    },
+    {
+      "id": "proteingeobench-frontier-structural-biology-agents-are-fluen-w12yk7",
+      "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+      "url": "http://arxiv.org/abs/2610.26829v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:55:38.000Z",
+      "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the ",
+      "category": "Research",
+      "score": 40.514
+    },
+    {
+      "id": "agent-world-model-in-the-wild-computer-use-agent-environment-tgx0ed",
+      "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+      "url": "http://arxiv.org/abs/2610.26828v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:55:35.000Z",
+      "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substan",
+      "category": "Research",
+      "score": 40.514
+    },
+    {
+      "id": "keep-bench-evaluating-evidence-preservation-in-context-compr-tw2i7l",
+      "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
+      "url": "http://arxiv.org/abs/2610.26827v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:55:18.000Z",
+      "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer correctly from an unfai",
+      "category": "Research",
+      "score": 40.513
+    },
+    {
+      "id": "refcraft-benchmarking-visual-reference-conditioned-agentic-g-ofb2rq",
+      "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+      "url": "http://arxiv.org/abs/2610.26826v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:55:06.000Z",
+      "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability ",
+      "category": "Research",
+      "score": 40.513
+    },
+    {
+      "id": "memt-1-0-towards-memory-native-evolution-in1j4f",
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "url": "http://arxiv.org/abs/2610.26825v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-19T17:54:35.000Z",
+      "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of mem",
+      "category": "Research",
+      "score": 40.512
     }
   ]
 }
