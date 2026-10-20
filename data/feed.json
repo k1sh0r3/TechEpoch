@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T04:04:50.888Z",
+  "updatedAt": "2026-10-20T11:08:49.442Z",
   "totalItems": 120,
   "categories": {
     "AI": 56,
     "Robotics": 21,
-    "Research": 39,
-    "Machine Learning": 4
+    "Machine Learning": 5,
+    "Research": 38
   },
   "items": [
     {
@@ -49,16 +49,6 @@
       "score": 52.479
     },
     {
-      "id": "show-hn-use-your-openai-subscription-to-create-audiobooks-fbnuib",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T10:08:34Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.337
-    },
-    {
       "id": "tesla-s-robotaxis-blow-through-school-zones-nhtsa-petition-a-kyb5o3",
       "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
       "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
@@ -99,16 +89,6 @@
       "score": 52.312
     },
     {
-      "id": "whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a--y89w77",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T23:22:18Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.23
-    },
-    {
       "id": "harness-engineering-101-the-llm-is-the-brain-the-harness-is--ti3e86",
       "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
       "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
@@ -147,6 +127,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.975
+    },
+    {
+      "id": "whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a--y89w77",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T23:22:18Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.93
     },
     {
       "id": "show-hn-rstation-a-shared-research-lab-for-your-ai-agents-4gldzs",
@@ -199,16 +189,6 @@
       "score": 51.399
     },
     {
-      "id": "ukraine-claims-first-drone-evacuation-of-wounded-soldier-pi88gs",
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T15:31:34Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 51.368
-    },
-    {
       "id": "show-hn-gemini-4-argon-plays-starcraft-g8zjlm",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
@@ -229,16 +209,6 @@
       "score": 51.123
     },
     {
-      "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T09:05:07Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 51.033
-    },
-    {
       "id": "open-micromanipulator-a-sub-micrometer-3d-motion-control-pla-7n8oaf",
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -247,6 +217,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 50.917
+    },
+    {
+      "id": "ukraine-claims-first-drone-evacuation-of-wounded-soldier-pi88gs",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T15:31:34Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 50.794
     },
     {
       "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
@@ -259,14 +239,24 @@
       "score": 50.792
     },
     {
-      "id": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says-dh2rib",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-19T20:21:53.000Z",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "id": "a-visit-to-samsung-s-massive-new-semiconductor-hub-1y4n11",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor",
       "category": "AI",
-      "score": 49.812
+      "score": 50.65
+    },
+    {
+      "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T09:05:07Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 50.396
     },
     {
       "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b-l04ksg",
@@ -279,16 +269,6 @@
       "score": 49.755
     },
     {
-      "id": "making-the-internet-better-for-ai-agents-might-make-it-worse-bxrh0v",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T18:22:47.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
-      "category": "AI",
-      "score": 49.536
-    },
-    {
       "id": "i-built-a-programming-language-that-llms-can-t-use-mqdwqu",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang/",
@@ -299,14 +279,24 @@
       "score": 48.955
     },
     {
-      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
+      "id": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says-dh2rib",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-19T20:21:53.000Z",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "category": "AI",
-      "score": 48.743
+      "score": 48.88
+    },
+    {
+      "id": "making-the-internet-better-for-ai-agents-might-make-it-worse-bxrh0v",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T18:22:47.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and",
+      "category": "AI",
+      "score": 48.641
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -319,16 +309,6 @@
       "score": 48.446
     },
     {
-      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T09:08:05.000Z",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
-      "category": "AI",
-      "score": 48.391
-    },
-    {
       "id": "nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-b-kyx7ou",
       "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
       "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
@@ -337,6 +317,26 @@
       "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
       "category": "Robotics",
       "score": 48.326
+    },
+    {
+      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
+      "category": "AI",
+      "score": 47.956
+    },
+    {
+      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-19T09:08:05.000Z",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
+      "category": "AI",
+      "score": 47.653
     },
     {
       "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
@@ -389,16 +389,6 @@
       "score": 47.057
     },
     {
-      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-18T16:25:19.000Z",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "category": "AI",
-      "score": 46.806
-    },
-    {
       "id": "wireless-magnetic-millirobots-that-deliver-medicine-inside-t-9ug9o5",
       "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
       "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
@@ -409,6 +399,16 @@
       "score": 46.668
     },
     {
+      "id": "making-a-88x31-button-book-using-imagemagick-azuygm",
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-17T15:55:43Z",
+      "summary": "",
+      "category": "AI",
+      "score": 46.563
+    },
+    {
       "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
       "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
       "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
@@ -417,6 +417,16 @@
       "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
       "category": "Robotics",
       "score": 46.509
+    },
+    {
+      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "category": "AI",
+      "score": 46.285
     },
     {
       "id": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-y9jkrq",
@@ -469,16 +479,6 @@
       "score": 45.119
     },
     {
-      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-bcsb4x",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-13T10:00:00.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-      "category": "AI",
-      "score": 45.032
-    },
-    {
       "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websi-ufg4px",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -486,7 +486,7 @@
       "publishedAt": "2026-10-16T20:59:01.000Z",
       "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
       "category": "AI",
-      "score": 44.54
+      "score": 44.329
     },
     {
       "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-v-dfdfcs",
@@ -496,7 +496,7 @@
       "publishedAt": "2026-10-16T18:00:00.000Z",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
       "category": "AI",
-      "score": 44.447
+      "score": 44.249
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -649,16 +649,6 @@
       "score": 43.477
     },
     {
-      "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "category": "AI",
-      "score": 43.31
-    },
-    {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
       "title": "The AI Daily Brief(Formerly the AI Breakdown): Artificial Intelligence News",
       "url": "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614",
@@ -777,6 +767,26 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.301
+    },
+    {
+      "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "category": "AI",
+      "score": 43.267
+    },
+    {
+      "id": "deepseek-just-open-sourced-its-inference-engine-f7s4wt",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T09:08:54Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 43.206
     },
     {
       "id": "text-to-image-generative-modeling-without-language-pretraini-pkbegj",
@@ -1195,16 +1205,6 @@
       "sourceName": "arXiv",
       "publishedAt": "2026-10-14T17:59:31.000Z",
       "summary": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken dynamic understanding",
-      "category": "Research",
-      "score": 40.549
-    },
-    {
-      "id": "co-evolving-acting-and-forecasting-for-language-agents-49gdqq",
-      "title": "Co-Evolving Acting and Forecasting for Language Agents",
-      "url": "http://arxiv.org/abs/2610.20597v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:59:28.000Z",
-      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate step",
       "category": "Research",
       "score": 40.549
     }
