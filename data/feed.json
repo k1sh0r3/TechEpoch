@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T21:23:49.713Z",
+  "updatedAt": "2026-10-21T03:53:46.064Z",
   "totalItems": 120,
   "categories": {
-    "AI": 56,
-    "Robotics": 24,
-    "Machine Learning": 5,
-    "Research": 35
+    "AI": 57,
+    "Robotics": 23,
+    "Research": 35,
+    "Machine Learning": 5
   },
   "items": [
     {
@@ -139,16 +139,6 @@
       "score": 51.746
     },
     {
-      "id": "physical-intelligence-api-beta-frontier-models-for-every-rob-3fhwtz",
-      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-      "url": "https://www.pi.website/blog/api-beta",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-13T21:55:25Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 51.691
-    },
-    {
       "id": "the-obscure-trust-looming-over-anthropic-s-ipo-cwfq4b",
       "title": "The obscure trust looming over Anthropic's IPO",
       "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
@@ -199,14 +189,14 @@
       "score": 51.123
     },
     {
-      "id": "robotic-therapy-for-stroke-patients-wfbwvg",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining",
-      "category": "Robotics",
-      "score": 50.934
+      "id": "benchmarking-bot-detection-systems-against-modern-ai-agents--sz23w4",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T17:10:31Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.943
     },
     {
       "id": "open-micromanipulator-a-sub-micrometer-3d-motion-control-pla-7n8oaf",
@@ -239,16 +229,6 @@
       "score": 50.794
     },
     {
-      "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-20T20:07:58.000Z",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "category": "Robotics",
-      "score": 50.792
-    },
-    {
       "id": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai--54kav7",
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
@@ -257,26 +237,6 @@
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "category": "AI",
       "score": 50.792
-    },
-    {
-      "id": "gemini-s-personal-intelligence-is-coming-to-cars-cb6fj9",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-20T20:00:33.000Z",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "category": "AI",
-      "score": 50.772
-    },
-    {
-      "id": "ukraine-s-drone-rescue-of-wounded-soldier-puts-much-touted-i-h11sx3",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-20T18:22:54.000Z",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "category": "Robotics",
-      "score": 50.513
     },
     {
       "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
@@ -299,6 +259,16 @@
       "score": 50.273
     },
     {
+      "id": "robotic-therapy-for-stroke-patients-wfbwvg",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining",
+      "category": "Robotics",
+      "score": 49.929
+    },
+    {
       "id": "a-visit-to-samsung-s-massive-new-semiconductor-hub-1y4n11",
       "title": "A visit to Samsung’s massive new semiconductor hub",
       "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
@@ -309,6 +279,26 @@
       "score": 49.833
     },
     {
+      "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T20:07:58.000Z",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "category": "Robotics",
+      "score": 49.805
+    },
+    {
+      "id": "gemini-s-personal-intelligence-is-coming-to-cars-cb6fj9",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T20:00:33.000Z",
+      "summary": "It's probably time to audit your Gemini settings.",
+      "category": "AI",
+      "score": 49.788
+    },
+    {
       "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b-l04ksg",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
@@ -317,6 +307,16 @@
       "summary": "",
       "category": "AI",
       "score": 49.755
+    },
+    {
+      "id": "ukraine-s-drone-rescue-of-wounded-soldier-puts-much-touted-i-h11sx3",
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T18:22:54.000Z",
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "category": "Robotics",
+      "score": 49.562
     },
     {
       "id": "i-built-a-programming-language-that-llms-can-t-use-mqdwqu",
@@ -806,27 +806,307 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.216
+      "score": 43.189
     },
     {
-      "id": "google-open-sources-torchtpu-a-native-pytorch-back-end-for-t-kidr83",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T16:40:24Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 42.547
+      "id": "joints-camera-action-co-generating-3d-motion-and-video-for-a-6mffc9",
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "url": "http://arxiv.org/abs/2610.28632v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:56.000Z",
+      "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video m",
+      "category": "Research",
+      "score": 42.509
     },
     {
-      "id": "deepinfer-high-performance-inference-framework-for-deepseek--ug2037",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T09:08:54Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 42.504
+      "id": "aeon-unifying-video-and-3d-world-models-rctly9",
+      "title": "AEON: Unifying Video and 3D World Models",
+      "url": "http://arxiv.org/abs/2610.28631v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:51.000Z",
+      "summary": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D ge",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "solarrenderer-few-step-generative-reference-rendering-lrelck",
+      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+      "url": "http://arxiv.org/abs/2610.28630v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:48.000Z",
+      "summary": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it ",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary--d36uir",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "url": "http://arxiv.org/abs/2610.28629v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:40.000Z",
+      "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challengin",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "learning-adaptable-dexterous-skills-via-hybrid-dexterous-mim-f1pzwu",
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+      "url": "http://arxiv.org/abs/2610.28628v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:32.000Z",
+      "summary": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-of",
+      "category": "Research",
+      "score": 42.509
+    },
+    {
+      "id": "uniwalm-unified-world-action-language-model-for-embodied-rob-4hd3yv",
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "url": "http://arxiv.org/abs/2610.28626v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:04.000Z",
+      "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared repre",
+      "category": "Research",
+      "score": 42.507
+    },
+    {
+      "id": "psychemme-a-psychology-informed-benchmark-for-social-underst-kkh1x7",
+      "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
+      "url": "http://arxiv.org/abs/2610.28625v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:59:00.000Z",
+      "summary": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilities spanning groundi",
+      "category": "Research",
+      "score": 42.507
+    },
+    {
+      "id": "industrial-remembr-scaling-spatiotemporal-memory-to-robot-fl-5caby9",
+      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+      "url": "http://arxiv.org/abs/2610.28624v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:58:32.000Z",
+      "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining ",
+      "category": "Research",
+      "score": 42.506
+    },
+    {
+      "id": "planning-under-noise-with-neural-operators-o3smt3",
+      "title": "Planning under Noise with Neural Operators",
+      "url": "http://arxiv.org/abs/2610.28623v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:58:30.000Z",
+      "summary": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware value fields for planni",
+      "category": "Research",
+      "score": 42.506
+    },
+    {
+      "id": "mindview-benchmarking-generative-multi-view-spatial-intellig-z6il7c",
+      "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+      "url": "http://arxiv.org/abs/2610.28622v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:58:25.000Z",
+      "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains",
+      "category": "Research",
+      "score": 42.506
+    },
+    {
+      "id": "adaptive-multi-token-prediction-how-far-should-we-go-xm05un",
+      "title": "Adaptive Multi-Token Prediction: How far should we go?",
+      "url": "http://arxiv.org/abs/2610.28619v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:56:32.000Z",
+      "summary": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with context: longer drafts o",
+      "category": "Research",
+      "score": 42.502
+    },
+    {
+      "id": "efficient-edge-aware-attention-network-for-graph-generation-gzsenc",
+      "title": "Efficient Edge-aware Attention Network for Graph Generation",
+      "url": "http://arxiv.org/abs/2610.28618v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:56:05.000Z",
+      "summary": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware attention implementa",
+      "category": "Research",
+      "score": 42.501
+    },
+    {
+      "id": "narraspace-multimodal-scene-grounded-evidence-for-picture-de-a8jqef",
+      "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+      "url": "http://arxiv.org/abs/2610.28616v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:55:44.000Z",
+      "summary": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and speech times to named",
+      "category": "Research",
+      "score": 42.5
+    },
+    {
+      "id": "koalags-complexity-aware-continuous-level-of-detail-for-gaus-26ojlk",
+      "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
+      "url": "http://arxiv.org/abs/2610.28615v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:55:06.000Z",
+      "summary": "Deploying a trained 3D Gaussian Splatting scene under shrinking compute budgets requires one primitive set to remain effective when rendered at smaller prefixes. In this continuous level of detail (LoD) setting, the chal",
+      "category": "Research",
+      "score": 42.498
+    },
+    {
+      "id": "physical-canvas-a-vision-tactile-world-model-for-robot-polic-2mo9q5",
+      "title": "Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning",
+      "url": "http://arxiv.org/abs/2610.28613v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:54:03.000Z",
+      "summary": "Evaluating and post-training robot policies through physical interaction is costly and difficult to scale, motivating action-conditioned world models as interactive simulators. However, visually plausible predictions can",
+      "category": "Research",
+      "score": 42.496
+    },
+    {
+      "id": "semantic-observability-for-autonomous-systems-diagnostics-2vv3sg",
+      "title": "Semantic Observability for Autonomous Systems Diagnostics",
+      "url": "http://arxiv.org/abs/2610.28611v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:53:32.000Z",
+      "summary": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading fa",
+      "category": "Research",
+      "score": 42.495
+    },
+    {
+      "id": "benchmarking-arabic-dialects-for-math-problems-t1t4it",
+      "title": "Benchmarking Arabic Dialects for Math Problems",
+      "url": "http://arxiv.org/abs/2610.28607v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:50:13.000Z",
+      "summary": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first ma",
+      "category": "Research",
+      "score": 42.487
+    },
+    {
+      "id": "value-rich-differently-organized-measuring-value-expression--odj8l2",
+      "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+      "url": "http://arxiv.org/abs/2610.28604v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:48:56.000Z",
+      "summary": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values a",
+      "category": "Research",
+      "score": 42.485
+    },
+    {
+      "id": "turning-ts2vec-into-a-foundation-model-for-time-series-class-9rprc4",
+      "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+      "url": "http://arxiv.org/abs/2610.28602v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:47:51.000Z",
+      "summary": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Sinc",
+      "category": "Research",
+      "score": 42.482
+    },
+    {
+      "id": "evolving-agent-interfaces-jtfftn",
+      "title": "Evolving Agent Interfaces",
+      "url": "http://arxiv.org/abs/2610.28601v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:47:37.000Z",
+      "summary": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one ",
+      "category": "Research",
+      "score": 42.482
+    },
+    {
+      "id": "neural-implicit-energy-optimization-for-lidar-mapping-mhkfxi",
+      "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+      "url": "http://arxiv.org/abs/2610.28598v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:47:07.000Z",
+      "summary": "Neural implicit representations provide memory-efficient signed distance field (SDF) parameterizations for large-scale LiDAR scenes, but the geometry recovered from sparse and often noisy inputs carries jitter and artifa",
+      "category": "Research",
+      "score": 42.481
+    },
+    {
+      "id": "what-do-rtl-repair-benchmarks-actually-measure-5d07og",
+      "title": "What Do RTL Repair Benchmarks Actually Measure?",
+      "url": "http://arxiv.org/abs/2610.28595v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:45:57.000Z",
+      "summary": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out ",
+      "category": "Research",
+      "score": 42.478
+    },
+    {
+      "id": "learning-the-4d-world-through-point-trajectory-forecasting-44jkxy",
+      "title": "Learning the 4D World through Point Trajectory Forecasting",
+      "url": "http://arxiv.org/abs/2610.28594v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:45:45.000Z",
+      "summary": "Reliable multi-view forecasting requires videos from different cameras to describe the same evolving 3D scene. To this end, we introduce Video-Point Model (VPM), a world model that conditions on multi-view video historie",
+      "category": "Research",
+      "score": 42.477
+    },
+    {
+      "id": "papi-parallel-picard-duhamel-integration-for-fast-neuro-spec-ooumqi",
+      "title": "PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures",
+      "url": "http://arxiv.org/abs/2610.28591v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:42:52.000Z",
+      "summary": "Neuro-spectral architectures (NeuSA) are a class of physics-informed neural networks (PINNs) that have proven effective for solving time-dependent PDEs in the frequency domain. However, training and inference often rely ",
+      "category": "Research",
+      "score": 42.471
+    },
+    {
+      "id": "wildmae-structure-aware-masked-autoencoding-for-wildlife-ima-rj10my",
+      "title": "WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction",
+      "url": "http://arxiv.org/abs/2610.28590v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:41:31.000Z",
+      "summary": "Camera-trap imagery presents substantial variation in animal appearance, illumination, background clutter, and visual degradation. Masked autoencoders (MAEs) offer a label-free framework for modeling such data through re",
+      "category": "Research",
+      "score": 42.468
+    },
+    {
+      "id": "agenticroborl-bringing-coding-agent-post-training-to-agentic-5z9qsb",
+      "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+      "url": "http://arxiv.org/abs/2610.28589v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:41:09.000Z",
+      "summary": "Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on powerful closed-source ",
+      "category": "Research",
+      "score": 42.467
+    },
+    {
+      "id": "two-operatorname-relu-layers-is-all-you-need-1cil6d",
+      "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+      "url": "http://arxiv.org/abs/2610.28587v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:40:21.000Z",
+      "summary": "We prove that every $\\operatorname{ReLU}$ network can be exactly simulated by a $\\operatorname{ReLU}$ network with two hidden layers. We present two proofs: one that is based on fillings in homological algebra and a dire",
+      "category": "Research",
+      "score": 42.465
+    },
+    {
+      "id": "capable-teacher-myopic-scorer-reward-free-teacher-repair-for-7y9kpg",
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2610.28586v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:40:08.000Z",
+      "summary": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its ",
+      "category": "Research",
+      "score": 42.465
+    },
+    {
+      "id": "scenerig-an-agentic-system-for-simulation-ready-3d-scene-rec-fcgzp4",
+      "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+      "url": "http://arxiv.org/abs/2610.28585v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:39:42.000Z",
+      "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is in",
+      "category": "Research",
+      "score": 42.464
+    },
+    {
+      "id": "beyond-the-sequentiality-bottleneck-a-hybrid-diffusion-autor-tofiiv",
+      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+      "url": "http://arxiv.org/abs/2610.28584v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:39:41.000Z",
+      "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative R",
+      "category": "Research",
+      "score": 42.464
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -837,6 +1117,26 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 41.917
+    },
+    {
+      "id": "google-open-sources-torchtpu-a-native-pytorch-back-end-for-t-kidr83",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T16:40:24Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 41.792
+    },
+    {
+      "id": "deepinfer-high-performance-inference-framework-for-deepseek--ug2037",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T09:08:54Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 41.75
     },
     {
       "id": "neural-networks-are-clean-m5iigz",
@@ -907,306 +1207,6 @@
       "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous ",
       "category": "Research",
       "score": 40.55
-    },
-    {
-      "id": "vital-from-visual-motion-to-precise-action-y359gu",
-      "title": "VITAL: From Visual Motion to Precise Action",
-      "url": "http://arxiv.org/abs/2610.20604v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:59:49.000Z",
-      "summary": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action target",
-      "category": "Research",
-      "score": 40.549
-    },
-    {
-      "id": "commercegen-studio-an-end-to-end-framework-for-commercial-gr-esmh0c",
-      "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
-      "url": "http://arxiv.org/abs/2610.20603v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-14T17:59:48.000Z",
-      "summary": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of information extract",
-      "category": "Research",
-      "score": 40.549
-    },
-    {
-      "id": "text-to-image-generative-modeling-without-language-pretraini-pkbegj",
-      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-      "url": "http://arxiv.org/abs/2610.26863v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:59.000Z",
-      "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "openvlharness-real-world-visual-agentic-tool-use-with-multim-5xf27a",
-      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "url": "http://arxiv.org/abs/2610.26860v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:58.000Z",
-      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks s",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "can-it-actually-work-synthesizing-functional-cad-mechanisms-k35m2",
-      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-      "url": "http://arxiv.org/abs/2610.26861v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:58.000Z",
-      "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requ",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "reinforcement-learning-with-visually-attributable-on-policy--3fxnya",
-      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
-      "url": "http://arxiv.org/abs/2610.26856v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:56.000Z",
-      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complem",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "videomama-temporally-consistent-video-matting-via-preserve-a-v3xpam",
-      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
-      "url": "http://arxiv.org/abs/2610.26857v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:56.000Z",
-      "summary": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However,",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "ropedia-w0-scaling-loco-manipulation-world-models-across-emb-rvdj6i",
-      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-      "url": "http://arxiv.org/abs/2610.26855v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:55.000Z",
-      "summary": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multim",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "physical-words-a-vocabulary-for-structuring-latent-reasoning-wjiqpg",
-      "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
-      "url": "http://arxiv.org/abs/2610.26854v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:54.000Z",
-      "summary": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physi",
-      "category": "Research",
-      "score": 40.521
-    },
-    {
-      "id": "infinidream-open-ended-photorealistic-3d-worlds-through-proc-paqdmv",
-      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
-      "url": "http://arxiv.org/abs/2610.26853v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:51.000Z",
-      "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation of",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty--4sqtzw",
-      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-      "url": "http://arxiv.org/abs/2610.26852v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:49.000Z",
-      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fail",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "manga2animate-an-agentic-framework-for-faithful-manga-animat-x0m1y9",
-      "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning",
-      "url": "http://arxiv.org/abs/2610.26851v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:46.000Z",
-      "summary": "Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its characters and art style, or ",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "genolympiad-benchmarking-frontier-image-models-at-their-capa-ftsf9p",
-      "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
-      "url": "http://arxiv.org/abs/2610.26850v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:41.000Z",
-      "summary": "Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We introduce GenOlympiad, ",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "where-is-physical-rsi-capability-from-an-observational-scali-exg0fs",
-      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
-      "url": "http://arxiv.org/abs/2610.26848v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:30.000Z",
-      "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: Fir",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "weact-dynamic-weight-switching-as-agent-actions-ati04j",
-      "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-      "url": "http://arxiv.org/abs/2610.26847v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:19.000Z",
-      "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "gpt-6-astra-is-a-native-visuo-tactile-policy-for-contact-ric-uw6wkz",
-      "title": "GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation",
-      "url": "http://arxiv.org/abs/2610.26846v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:17.000Z",
-      "summary": "Recent advances in multimodal models have enabled GPT-6 Astra to perform robotic manipulation through in-context learning. Yet contact-rich control and tactile perception are often regarded as strengths of specialist pol",
-      "category": "Research",
-      "score": 40.52
-    },
-    {
-      "id": "train-an-imaginative-agent-xm01hc",
-      "title": "Train An Imaginative Agent",
-      "url": "http://arxiv.org/abs/2610.26845v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:12.000Z",
-      "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environme",
-      "category": "Research",
-      "score": 40.519
-    },
-    {
-      "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts-31a7qi",
-      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-      "url": "http://arxiv.org/abs/2610.26844v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:59:05.000Z",
-      "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliab",
-      "category": "Research",
-      "score": 40.519
-    },
-    {
-      "id": "latcomm-reusable-context-compression-for-latent-communicatio-ti3js3",
-      "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
-      "url": "http://arxiv.org/abs/2610.26840v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:41.000Z",
-      "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every quest",
-      "category": "Research",
-      "score": 40.519
-    },
-    {
-      "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-l-6qplfx",
-      "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-      "url": "http://arxiv.org/abs/2610.26839v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:34.000Z",
-      "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergr",
-      "category": "Research",
-      "score": 40.518
-    },
-    {
-      "id": "speckcast-spectral-kalman-forecasting-for-diffusion-accelera-7ml5j4",
-      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
-      "url": "http://arxiv.org/abs/2610.26837v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:58:04.000Z",
-      "summary": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Feature caching reduce",
-      "category": "Research",
-      "score": 40.518
-    },
-    {
-      "id": "same-simulation-different-evidence-where-retrieved-tool-outp-uxylcz",
-      "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
-      "url": "http://arxiv.org/abs/2610.26836v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:57:41.000Z",
-      "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask wh",
-      "category": "Research",
-      "score": 40.517
-    },
-    {
-      "id": "kronecker-delta-rule-for-long-context-linear-attention-zeenjj",
-      "title": "Kronecker Delta Rule for Long Context Linear Attention",
-      "url": "http://arxiv.org/abs/2610.26834v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:56:52.000Z",
-      "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that correct",
-      "category": "Research",
-      "score": 40.516
-    },
-    {
-      "id": "supervised-learning-with-quantum-hamiltonian-embeddings-ejnoo5",
-      "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
-      "url": "http://arxiv.org/abs/2610.26833v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:56:44.000Z",
-      "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, t",
-      "category": "Research",
-      "score": 40.516
-    },
-    {
-      "id": "competing-learning-in-hybrid-architectures-nejmj3",
-      "title": "Competing Learning in Hybrid Architectures",
-      "url": "http://arxiv.org/abs/2610.26830v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:55.000Z",
-      "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high ",
-      "category": "Research",
-      "score": 40.514
-    },
-    {
-      "id": "proteingeobench-frontier-structural-biology-agents-are-fluen-w12yk7",
-      "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
-      "url": "http://arxiv.org/abs/2610.26829v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:38.000Z",
-      "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the ",
-      "category": "Research",
-      "score": 40.514
-    },
-    {
-      "id": "agent-world-model-in-the-wild-computer-use-agent-environment-tgx0ed",
-      "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-      "url": "http://arxiv.org/abs/2610.26828v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:35.000Z",
-      "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substan",
-      "category": "Research",
-      "score": 40.514
-    },
-    {
-      "id": "keep-bench-evaluating-evidence-preservation-in-context-compr-tw2i7l",
-      "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
-      "url": "http://arxiv.org/abs/2610.26827v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:18.000Z",
-      "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer correctly from an unfai",
-      "category": "Research",
-      "score": 40.513
-    },
-    {
-      "id": "refcraft-benchmarking-visual-reference-conditioned-agentic-g-ofb2rq",
-      "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
-      "url": "http://arxiv.org/abs/2610.26826v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:55:06.000Z",
-      "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability ",
-      "category": "Research",
-      "score": 40.513
-    },
-    {
-      "id": "memt-1-0-towards-memory-native-evolution-in1j4f",
-      "title": "MemT-1.0: Towards Memory-Native Evolution",
-      "url": "http://arxiv.org/abs/2610.26825v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-19T17:54:35.000Z",
-      "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of mem",
-      "category": "Research",
-      "score": 40.512
     }
   ]
 }
