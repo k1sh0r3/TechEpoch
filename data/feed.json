@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-21T21:25:16.921Z",
+  "updatedAt": "2026-10-22T03:54:15.991Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
+    "AI": 57,
     "Robotics": 20,
     "Machine Learning": 5,
     "Research": 30,
-    "Tech": 10
+    "Tech": 8
   },
   "items": [
     {
@@ -50,16 +50,6 @@
       "score": 52.503
     },
     {
-      "id": "compromised-litellm-1-107-0-on-pypi-installs-a-credential-st-hv4cp1",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T14:00:26Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.394
-    },
-    {
       "id": "novo-nordisk-eli-lilly-report-glp-1-signals-of-slowed-biolog-x2si86",
       "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
       "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
@@ -100,6 +90,16 @@
       "score": 52.129
     },
     {
+      "id": "llm-agents-play-pokemon-showdown-8dx67b",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-22T02:13:48Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.902
+    },
+    {
       "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi-jc0h4y",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
@@ -138,6 +138,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.746
+    },
+    {
+      "id": "compromised-litellm-1-107-0-on-pypi-installs-a-credential-st-hv4cp1",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-21T14:00:26Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.65
     },
     {
       "id": "the-obscure-trust-looming-over-anthropic-s-ipo-cwfq4b",
@@ -290,14 +300,14 @@
       "score": 49.755
     },
     {
-      "id": "review-carrie-is-a-triumphant-remix-with-one-major-flaw-arfrxj",
-      "title": "Review: Carrie is a triumphant remix with one major flaw",
-      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-21T11:19:12.000Z",
-      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "id": "using-llm-for-confidence-scoring-is-a-bad-idea-kelz22",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-21T04:27:51Z",
+      "summary": "",
       "category": "AI",
-      "score": 49.482
+      "score": 49.252
     },
     {
       "id": "i-built-a-programming-language-that-llms-can-t-use-mqdwqu",
@@ -308,6 +318,16 @@
       "summary": "",
       "category": "AI",
       "score": 48.955
+    },
+    {
+      "id": "review-carrie-is-a-triumphant-remix-with-one-major-flaw-arfrxj",
+      "title": "Review: Carrie is a triumphant remix with one major flaw",
+      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-21T11:19:12.000Z",
+      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "category": "AI",
+      "score": 48.663
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -350,16 +370,6 @@
       "score": 47.749
     },
     {
-      "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-20T20:07:58.000Z",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "category": "Robotics",
-      "score": 47.724
-    },
-    {
       "id": "gemini-s-personal-intelligence-is-coming-to-cars-cb6fj9",
       "title": "Gemini's Personal Intelligence is coming to cars",
       "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
@@ -398,6 +408,16 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
       "category": "AI",
       "score": 47.427
+    },
+    {
+      "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-20T20:07:58.000Z",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "category": "Robotics",
+      "score": 47.127
     },
     {
       "id": "making-a-88x31-button-book-using-imagemagick-azuygm",
@@ -757,7 +777,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.131
+      "score": 43.114
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -1080,6 +1100,16 @@
       "score": 40.488
     },
     {
+      "id": "beyond-the-sequentiality-bottleneck-a-hybrid-diffusion-autor-tofiiv",
+      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+      "url": "http://arxiv.org/abs/2610.28584v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-20T17:39:41.000Z",
+      "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative R",
+      "category": "Research",
+      "score": 40.487
+    },
+    {
       "id": "capable-teacher-myopic-scorer-reward-free-teacher-repair-for-7y9kpg",
       "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
       "url": "http://arxiv.org/abs/2610.28586v1",
@@ -1096,16 +1126,6 @@
       "sourceName": "arXiv",
       "publishedAt": "2026-10-20T17:39:42.000Z",
       "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is in",
-      "category": "Research",
-      "score": 40.487
-    },
-    {
-      "id": "beyond-the-sequentiality-bottleneck-a-hybrid-diffusion-autor-tofiiv",
-      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
-      "url": "http://arxiv.org/abs/2610.28584v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-20T17:39:41.000Z",
-      "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative R",
       "category": "Research",
       "score": 40.487
     },
@@ -1140,16 +1160,6 @@
       "score": 20.069
     },
     {
-      "id": "ea-is-shutting-down-bioware-mpttub",
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T17:29:33Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.953
-    },
-    {
       "id": "claude-duet-1wg75u",
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
@@ -1170,44 +1180,34 @@
       "score": 19.878
     },
     {
-      "id": "today-s-php-security-release-and-how-we-re-strengthening-sec-hf87ij",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "id": "mitmproxy-adds-emudhra-option-us46kc",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T15:48:56Z",
+      "publishedAt": "2026-10-21T23:51:37Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.819
+      "score": 19.845
     },
     {
-      "id": "meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-anal-1zfgsf",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "id": "there-isn-t-an-easy-exploit-for-this-php-vulnerability-mhcuyc",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T17:45:13Z",
+      "publishedAt": "2026-10-21T23:13:27Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.669
+      "score": 19.667
     },
     {
-      "id": "gitlab-remote-code-execution-integer-overflow-issue-kj44tm",
-      "title": "GitLab Remote Code Execution - Integer Overflow issue",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "id": "security-disclosure-4r4pu5",
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T19:01:12Z",
+      "publishedAt": "2026-10-21T21:58:03Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.639
-    },
-    {
-      "id": "google-s-rust-style-guide-uszwfg",
-      "title": "Google's Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-21T19:11:57Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.62
+      "score": 19.624
     }
   ]
 }
