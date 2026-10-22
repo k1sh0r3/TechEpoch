@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-10-22T16:51:50.692Z",
+  "updatedAt": "2026-10-22T21:20:11.463Z",
   "totalItems": 120,
   "categories": {
-    "AI": 58,
-    "Robotics": 20,
+    "AI": 59,
+    "Robotics": 19,
     "Machine Learning": 5,
     "Research": 34,
     "Tech": 3
   },
   "items": [
+    {
+      "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-ui6s7t",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-22T17:44:06Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.698
+    },
     {
       "id": "anthropic-assigned-highest-junk-credit-rating-in-june-f2tz4t",
       "title": "Anthropic assigned highest junk credit rating in June",
@@ -280,6 +290,16 @@
       "score": 50.273
     },
     {
+      "id": "this-emulator-reimagines-nintendo-s-virtual-boy-with-a-full--1gumhm",
+      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-22T15:59:40.000Z",
+      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
+      "category": "AI",
+      "score": 50.157
+    },
+    {
       "id": "robotic-therapy-for-stroke-patients-wfbwvg",
       "title": "Robotic therapy for stroke patients",
       "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
@@ -390,16 +410,6 @@
       "score": 47.653
     },
     {
-      "id": "microplastics-in-water-aren-t-inert-and-make-damaging-chemic-lxmmyf",
-      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T18:39:17.000Z",
-      "summary": "Its effect on people remains an ongoing question.",
-      "category": "AI",
-      "score": 47.65
-    },
-    {
       "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
       "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
@@ -438,16 +448,6 @@
       "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "category": "Robotics",
       "score": 46.529
-    },
-    {
-      "id": "black-sea-drone-attacks-enter-nato-country-s-territorial-wat-1s6pv8",
-      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-15T18:48:11.000Z",
-      "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
-      "category": "Robotics",
-      "score": 46.509
     },
     {
       "id": "the-robot-i-didn-t-expect-to-build-b0g3jc",
@@ -787,7 +787,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.087
+      "score": 43.08
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -800,16 +800,6 @@
       "score": 41.917
     },
     {
-      "id": "orbitol-crystal-generation-on-wyckoff-orbits-svb984",
-      "title": "Orbitol: Crystal Generation on Wyckoff Orbits",
-      "url": "http://arxiv.org/abs/2610.30086v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:33:59.000Z",
-      "summary": "Generative models propose crystalline materials by learning composition and geometry, but unconditional sampling gives no direct control over the space group, which constrains whether responses such as piezoelectricity a",
-      "category": "Research",
-      "score": 41.516
-    },
-    {
       "id": "deepinfer-high-performance-inference-framework-for-deepseek--ug2037",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
@@ -818,146 +808,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 40.983
-    },
-    {
-      "id": "agentic-world-action-models-bvwn7p",
-      "title": "Agentic World Action Models",
-      "url": "http://arxiv.org/abs/2610.30136v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:59:56.000Z",
-      "summary": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based planning and reasoning wi",
-      "category": "Research",
-      "score": 40.968
-    },
-    {
-      "id": "longzero-enhancing-long-context-reasoning-in-llms-from-zero--tkd8pc",
-      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-      "url": "http://arxiv.org/abs/2610.30132v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:59:14.000Z",
-      "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation o",
-      "category": "Research",
-      "score": 40.967
-    },
-    {
-      "id": "rethinking-video-autoencoders-for-interactive-world-models-rbt6xn",
-      "title": "Rethinking Video Autoencoders for Interactive World Models",
-      "url": "http://arxiv.org/abs/2610.30129v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:58:11.000Z",
-      "summary": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space o",
-      "category": "Research",
-      "score": 40.965
-    },
-    {
-      "id": "think-harder-where-it-matters-item-level-adaptive-recursion--a36dxh",
-      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-      "url": "http://arxiv.org/abs/2610.30128v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:58:06.000Z",
-      "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto desi",
-      "category": "Research",
-      "score": 40.965
-    },
-    {
-      "id": "voxprog-3d-spatial-reasoning-through-voxel-programming-68qk8m",
-      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
-      "url": "http://arxiv.org/abs/2610.30127v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:58:05.000Z",
-      "summary": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references th",
-      "category": "Research",
-      "score": 40.965
-    },
-    {
-      "id": "physicalworld-in-context-physics-calibration-for-world-model-sjeg2e",
-      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-      "url": "http://arxiv.org/abs/2610.30125v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:57:59.000Z",
-      "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an o",
-      "category": "Research",
-      "score": 40.965
-    },
-    {
-      "id": "a-quasipolynomial-algorithm-for-ell-infty-contractions-gjk1jp",
-      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
-      "url": "http://arxiv.org/abs/2610.30122v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:57:19.000Z",
-      "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boostin",
-      "category": "Research",
-      "score": 40.964
-    },
-    {
-      "id": "alps-visual-state-encoders-for-world-models-32ouxv",
-      "title": "ALPS: Visual State Encoders for World Models",
-      "url": "http://arxiv.org/abs/2610.30120v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:57:11.000Z",
-      "summary": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruction, so that a singl",
-      "category": "Research",
-      "score": 40.964
-    },
-    {
-      "id": "self-normalized-bernstein-inequalities-for-regenerative-proc-50blh5",
-      "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
-      "url": "http://arxiv.org/abs/2610.30119v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:56:37.000Z",
-      "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and ret",
-      "category": "Research",
-      "score": 40.963
-    },
-    {
-      "id": "the-role-of-locality-and-weight-sharing-in-convolutional-neu-pykmf6",
-      "title": "The role of locality and weight sharing in convolutional neural networks",
-      "url": "http://arxiv.org/abs/2610.30118v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:56:22.000Z",
-      "summary": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of na",
-      "category": "Research",
-      "score": 40.962
-    },
-    {
-      "id": "cw-wam-a-structured-contact-wrench-world-action-model-for-fo-qng1sn",
-      "title": "CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation",
-      "url": "http://arxiv.org/abs/2610.30117v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:55:53.000Z",
-      "summary": "Force-sensitive manipulation requires contact and load information that is not provided explicitly by visual observations. We present CW-WAM, a world action model that jointly predicts video, motion, and contact wrench. ",
-      "category": "Research",
-      "score": 40.961
-    },
-    {
-      "id": "environment-duels-a-microcosm-of-llm-co-evolution-4xosr1",
-      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
-      "url": "http://arxiv.org/abs/2610.30116v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:55:31.000Z",
-      "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role i",
-      "category": "Research",
-      "score": 40.961
-    },
-    {
-      "id": "the-end-of-consensus-research-48oame",
-      "title": "The End of Consensus Research?",
-      "url": "http://arxiv.org/abs/2610.30114v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:55:19.000Z",
-      "summary": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to the problem is stil",
-      "category": "Research",
-      "score": 40.96
-    },
-    {
-      "id": "quant-arena-benchmarking-llm-agents-for-quantitative-trading-pb2mbf",
-      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
-      "url": "http://arxiv.org/abs/2610.30113v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:54:01.000Z",
-      "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, cod",
-      "category": "Research",
-      "score": 40.958
     },
     {
       "id": "google-open-sources-torchtpu-a-native-pytorch-back-end-for-t-kidr83",
@@ -970,156 +820,6 @@
       "score": 40.958
     },
     {
-      "id": "minimax-optimality-of-the-npmle-for-gaussian-mixtures-in-hel-czkgh0",
-      "title": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance",
-      "url": "http://arxiv.org/abs/2610.30109v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:53:10.000Z",
-      "summary": "We analyze the problem of estimating univariate Gaussian mixture densities using the nonparametric maximum likelihood estimator (NPMLE) based on $n$ independent and identically distributed samples. We show that the uncon",
-      "category": "Research",
-      "score": 40.957
-    },
-    {
-      "id": "multimodal-embodied-agents-a-unified-capability-centric-pers-4qenoz",
-      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
-      "url": "http://arxiv.org/abs/2610.30108v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:52:48.000Z",
-      "summary": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physical dynamics. We defin",
-      "category": "Research",
-      "score": 40.956
-    },
-    {
-      "id": "velocity-ambiguity-profiles-time-resolved-bayes-risk-diagnos-yle4ii",
-      "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
-      "url": "http://arxiv.org/abs/2610.30107v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:52:40.000Z",
-      "summary": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We i",
-      "category": "Research",
-      "score": 40.956
-    },
-    {
-      "id": "asymmetric-on-policy-distillation-learns-in-context-explorat-neuk1j",
-      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
-      "url": "http://arxiv.org/abs/2610.30105v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:50:31.000Z",
-      "summary": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gathering behaviors tabula r",
-      "category": "Research",
-      "score": 40.952
-    },
-    {
-      "id": "batchbench-benchmarking-ai-robustness-to-batch-effects-and-d-tqa5d0",
-      "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
-      "url": "http://arxiv.org/abs/2610.30104v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:50:22.000Z",
-      "summary": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental conditions. Althoug",
-      "category": "Research",
-      "score": 40.952
-    },
-    {
-      "id": "did-the-problem-actually-get-harder-testing-llms-on-paired-p-u3fycw",
-      "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
-      "url": "http://arxiv.org/abs/2610.30103v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:50:19.000Z",
-      "summary": "Many NP-complete (NPC) problems have a polynomial-time (P) twin that differs in a single structural detail, such as 3- versus 2-colouring a graph. A model that reasons rather than recalls should notice which side of this",
-      "category": "Research",
-      "score": 40.952
-    },
-    {
-      "id": "implementation-of-dynamic-microsegmentation-for-a-multi-robo-vosq5k",
-      "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-      "url": "http://arxiv.org/abs/2610.30102v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:50:18.000Z",
-      "summary": "This report describes a laboratory instantiation of a dynamic microsegmentation function for an Internet-of-Things network, specifically a multi-robot network, using a commercial software-defined microsegmentation tool. ",
-      "category": "Research",
-      "score": 40.952
-    },
-    {
-      "id": "differentially-private-sparse-reward-estimation-with-prefere-9mvk3j",
-      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
-      "url": "http://arxiv.org/abs/2610.30099v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:45:42.000Z",
-      "summary": "Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with human values. However, the reliance on sensitive preference data necessitates rigorous differential ",
-      "category": "Research",
-      "score": 40.944
-    },
-    {
-      "id": "atomicrl-atomic-reinforcement-learning-for-long-horizon-robo-u4j6tt",
-      "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
-      "url": "http://arxiv.org/abs/2610.30097v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:45:24.000Z",
-      "summary": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) offers an effective ave",
-      "category": "Research",
-      "score": 40.943
-    },
-    {
-      "id": "vx-one-typed-calibrated-decision-heads-for-real-time-perimet-l78r8s",
-      "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
-      "url": "http://arxiv.org/abs/2610.30090v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:39:12.000Z",
-      "summary": "Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a c",
-      "category": "Research",
-      "score": 40.933
-    },
-    {
-      "id": "proactegomem-benchmarking-proactive-memory-in-streaming-egoc-cwtum9",
-      "title": "ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video",
-      "url": "http://arxiv.org/abs/2610.30089v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:37:58.000Z",
-      "summary": "Today's multimodal assistants are typically prompted to interpret the visual evidence presented to them. To offload the cognitive burden of remembering across long horizons, wearable assistants should instead proactively",
-      "category": "Research",
-      "score": 40.931
-    },
-    {
-      "id": "do-earth-trained-humanoid-controllers-walk-on-the-moon-gravi-xgd8fu",
-      "title": "Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer",
-      "url": "http://arxiv.org/abs/2610.30080v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:28:57.000Z",
-      "summary": "The Moon changes gravity, terrain, and soil at once. Learned locomotion has studied reduced gravity on rigid ground and granular terrain mostly at Earth gravity, but not humanoids under both, generalist-controller transf",
-      "category": "Research",
-      "score": 40.915
-    },
-    {
-      "id": "circuits-of-llm-classifiers-q4hpw",
-      "title": "Circuits of LLM Classifiers",
-      "url": "http://arxiv.org/abs/2610.30076v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:27:46.000Z",
-      "summary": "Language models make it easy to build classifiers by simply prompting a model with the sample to classify. However, their predictions are neither deterministic nor uniformly reliable across samples. How can we combine pr",
-      "category": "Research",
-      "score": 40.913
-    },
-    {
-      "id": "from-classifier-heads-to-encoder-prototypes-personalized-fed-w9121q",
-      "title": "From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering",
-      "url": "http://arxiv.org/abs/2610.30075v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:27:46.000Z",
-      "summary": "Personalized federated learning must decide which clients should share representations. We introduce HDC-FL (Head-Derived Clustering for Personalized Federated Learning), which reads that decision off a signal shared-enc",
-      "category": "Research",
-      "score": 40.913
-    },
-    {
-      "id": "parallel-ai-agent-collaboration-as-graph-structured-distribu-lql0z0",
-      "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
-      "url": "http://arxiv.org/abs/2610.30074v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-21T17:27:17.000Z",
-      "summary": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a k",
-      "category": "Research",
-      "score": 40.912
-    },
-    {
       "id": "90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b-38fca",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
@@ -1128,6 +828,136 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 40.794
+    },
+    {
+      "id": "agentic-world-action-models-bvwn7p",
+      "title": "Agentic World Action Models",
+      "url": "http://arxiv.org/abs/2610.30136v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:59:56.000Z",
+      "summary": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based planning and reasoning wi",
+      "category": "Research",
+      "score": 40.526
+    },
+    {
+      "id": "longzero-enhancing-long-context-reasoning-in-llms-from-zero--tkd8pc",
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "url": "http://arxiv.org/abs/2610.30132v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:59:14.000Z",
+      "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation o",
+      "category": "Research",
+      "score": 40.525
+    },
+    {
+      "id": "rethinking-video-autoencoders-for-interactive-world-models-rbt6xn",
+      "title": "Rethinking Video Autoencoders for Interactive World Models",
+      "url": "http://arxiv.org/abs/2610.30129v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:58:11.000Z",
+      "summary": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space o",
+      "category": "Research",
+      "score": 40.524
+    },
+    {
+      "id": "think-harder-where-it-matters-item-level-adaptive-recursion--a36dxh",
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "url": "http://arxiv.org/abs/2610.30128v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:58:06.000Z",
+      "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto desi",
+      "category": "Research",
+      "score": 40.523
+    },
+    {
+      "id": "voxprog-3d-spatial-reasoning-through-voxel-programming-68qk8m",
+      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+      "url": "http://arxiv.org/abs/2610.30127v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:58:05.000Z",
+      "summary": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references th",
+      "category": "Research",
+      "score": 40.523
+    },
+    {
+      "id": "physicalworld-in-context-physics-calibration-for-world-model-sjeg2e",
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "url": "http://arxiv.org/abs/2610.30125v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:57:59.000Z",
+      "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an o",
+      "category": "Research",
+      "score": 40.523
+    },
+    {
+      "id": "a-quasipolynomial-algorithm-for-ell-infty-contractions-gjk1jp",
+      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+      "url": "http://arxiv.org/abs/2610.30122v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:57:19.000Z",
+      "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boostin",
+      "category": "Research",
+      "score": 40.522
+    },
+    {
+      "id": "alps-visual-state-encoders-for-world-models-32ouxv",
+      "title": "ALPS: Visual State Encoders for World Models",
+      "url": "http://arxiv.org/abs/2610.30120v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:57:11.000Z",
+      "summary": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruction, so that a singl",
+      "category": "Research",
+      "score": 40.522
+    },
+    {
+      "id": "self-normalized-bernstein-inequalities-for-regenerative-proc-50blh5",
+      "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+      "url": "http://arxiv.org/abs/2610.30119v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:56:37.000Z",
+      "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and ret",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "the-role-of-locality-and-weight-sharing-in-convolutional-neu-pykmf6",
+      "title": "The role of locality and weight sharing in convolutional neural networks",
+      "url": "http://arxiv.org/abs/2610.30118v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:56:22.000Z",
+      "summary": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of na",
+      "category": "Research",
+      "score": 40.521
+    },
+    {
+      "id": "cw-wam-a-structured-contact-wrench-world-action-model-for-fo-qng1sn",
+      "title": "CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation",
+      "url": "http://arxiv.org/abs/2610.30117v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:55:53.000Z",
+      "summary": "Force-sensitive manipulation requires contact and load information that is not provided explicitly by visual observations. We present CW-WAM, a world action model that jointly predicts video, motion, and contact wrench. ",
+      "category": "Research",
+      "score": 40.52
+    },
+    {
+      "id": "environment-duels-a-microcosm-of-llm-co-evolution-4xosr1",
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "url": "http://arxiv.org/abs/2610.30116v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:55:31.000Z",
+      "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role i",
+      "category": "Research",
+      "score": 40.519
+    },
+    {
+      "id": "the-end-of-consensus-research-48oame",
+      "title": "The End of Consensus Research?",
+      "url": "http://arxiv.org/abs/2610.30114v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:55:19.000Z",
+      "summary": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to the problem is stil",
+      "category": "Research",
+      "score": 40.519
     },
     {
       "id": "joints-camera-action-co-generating-3d-motion-and-video-for-a-6mffc9",
@@ -1170,6 +1000,176 @@
       "score": 40.518
     },
     {
+      "id": "quant-arena-benchmarking-llm-agents-for-quantitative-trading-pb2mbf",
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "url": "http://arxiv.org/abs/2610.30113v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:54:01.000Z",
+      "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, cod",
+      "category": "Research",
+      "score": 40.517
+    },
+    {
+      "id": "minimax-optimality-of-the-npmle-for-gaussian-mixtures-in-hel-czkgh0",
+      "title": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance",
+      "url": "http://arxiv.org/abs/2610.30109v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:53:10.000Z",
+      "summary": "We analyze the problem of estimating univariate Gaussian mixture densities using the nonparametric maximum likelihood estimator (NPMLE) based on $n$ independent and identically distributed samples. We show that the uncon",
+      "category": "Research",
+      "score": 40.516
+    },
+    {
+      "id": "multimodal-embodied-agents-a-unified-capability-centric-pers-4qenoz",
+      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+      "url": "http://arxiv.org/abs/2610.30108v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:52:48.000Z",
+      "summary": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physical dynamics. We defin",
+      "category": "Research",
+      "score": 40.515
+    },
+    {
+      "id": "velocity-ambiguity-profiles-time-resolved-bayes-risk-diagnos-yle4ii",
+      "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+      "url": "http://arxiv.org/abs/2610.30107v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:52:40.000Z",
+      "summary": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We i",
+      "category": "Research",
+      "score": 40.515
+    },
+    {
+      "id": "asymmetric-on-policy-distillation-learns-in-context-explorat-neuk1j",
+      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+      "url": "http://arxiv.org/abs/2610.30105v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:50:31.000Z",
+      "summary": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gathering behaviors tabula r",
+      "category": "Research",
+      "score": 40.512
+    },
+    {
+      "id": "batchbench-benchmarking-ai-robustness-to-batch-effects-and-d-tqa5d0",
+      "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+      "url": "http://arxiv.org/abs/2610.30104v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:50:22.000Z",
+      "summary": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental conditions. Althoug",
+      "category": "Research",
+      "score": 40.511
+    },
+    {
+      "id": "did-the-problem-actually-get-harder-testing-llms-on-paired-p-u3fycw",
+      "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
+      "url": "http://arxiv.org/abs/2610.30103v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:50:19.000Z",
+      "summary": "Many NP-complete (NPC) problems have a polynomial-time (P) twin that differs in a single structural detail, such as 3- versus 2-colouring a graph. A model that reasons rather than recalls should notice which side of this",
+      "category": "Research",
+      "score": 40.511
+    },
+    {
+      "id": "implementation-of-dynamic-microsegmentation-for-a-multi-robo-vosq5k",
+      "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+      "url": "http://arxiv.org/abs/2610.30102v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:50:18.000Z",
+      "summary": "This report describes a laboratory instantiation of a dynamic microsegmentation function for an Internet-of-Things network, specifically a multi-robot network, using a commercial software-defined microsegmentation tool. ",
+      "category": "Research",
+      "score": 40.511
+    },
+    {
+      "id": "differentially-private-sparse-reward-estimation-with-prefere-9mvk3j",
+      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+      "url": "http://arxiv.org/abs/2610.30099v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:45:42.000Z",
+      "summary": "Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with human values. However, the reliance on sensitive preference data necessitates rigorous differential ",
+      "category": "Research",
+      "score": 40.504
+    },
+    {
+      "id": "atomicrl-atomic-reinforcement-learning-for-long-horizon-robo-u4j6tt",
+      "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.30097v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:45:24.000Z",
+      "summary": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) offers an effective ave",
+      "category": "Research",
+      "score": 40.504
+    },
+    {
+      "id": "vx-one-typed-calibrated-decision-heads-for-real-time-perimet-l78r8s",
+      "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+      "url": "http://arxiv.org/abs/2610.30090v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:39:12.000Z",
+      "summary": "Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a c",
+      "category": "Research",
+      "score": 40.494
+    },
+    {
+      "id": "proactegomem-benchmarking-proactive-memory-in-streaming-egoc-cwtum9",
+      "title": "ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video",
+      "url": "http://arxiv.org/abs/2610.30089v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:37:58.000Z",
+      "summary": "Today's multimodal assistants are typically prompted to interpret the visual evidence presented to them. To offload the cognitive burden of remembering across long horizons, wearable assistants should instead proactively",
+      "category": "Research",
+      "score": 40.492
+    },
+    {
+      "id": "orbitol-crystal-generation-on-wyckoff-orbits-svb984",
+      "title": "Orbitol: Crystal Generation on Wyckoff Orbits",
+      "url": "http://arxiv.org/abs/2610.30086v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:33:59.000Z",
+      "summary": "Generative models propose crystalline materials by learning composition and geometry, but unconditional sampling gives no direct control over the space group, which constrains whether responses such as piezoelectricity a",
+      "category": "Research",
+      "score": 40.486
+    },
+    {
+      "id": "do-earth-trained-humanoid-controllers-walk-on-the-moon-gravi-xgd8fu",
+      "title": "Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer",
+      "url": "http://arxiv.org/abs/2610.30080v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:28:57.000Z",
+      "summary": "The Moon changes gravity, terrain, and soil at once. Learned locomotion has studied reduced gravity on rigid ground and granular terrain mostly at Earth gravity, but not humanoids under both, generalist-controller transf",
+      "category": "Research",
+      "score": 40.478
+    },
+    {
+      "id": "circuits-of-llm-classifiers-q4hpw",
+      "title": "Circuits of LLM Classifiers",
+      "url": "http://arxiv.org/abs/2610.30076v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:27:46.000Z",
+      "summary": "Language models make it easy to build classifiers by simply prompting a model with the sample to classify. However, their predictions are neither deterministic nor uniformly reliable across samples. How can we combine pr",
+      "category": "Research",
+      "score": 40.476
+    },
+    {
+      "id": "from-classifier-heads-to-encoder-prototypes-personalized-fed-w9121q",
+      "title": "From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering",
+      "url": "http://arxiv.org/abs/2610.30075v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:27:46.000Z",
+      "summary": "Personalized federated learning must decide which clients should share representations. We introduce HDC-FL (Head-Derived Clustering for Personalized Federated Learning), which reads that decision off a signal shared-enc",
+      "category": "Research",
+      "score": 40.476
+    },
+    {
+      "id": "parallel-ai-agent-collaboration-as-graph-structured-distribu-lql0z0",
+      "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+      "url": "http://arxiv.org/abs/2610.30074v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-21T17:27:17.000Z",
+      "summary": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a k",
+      "category": "Research",
+      "score": 40.475
+    },
+    {
       "id": "ai-s-hidden-storage-bill-what-inference-leaves-behind-teu71h",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
@@ -1177,17 +1177,7 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
       "category": "Machine Learning",
-      "score": 39.747
-    },
-    {
-      "id": "emudhra-to-exit-global-ssl-tls-certificate-business-gi5mcx",
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-22T13:33:39Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.165
+      "score": 39.147
     },
     {
       "id": "quad9-dns-resolver-to-exit-france-lnrfx6",
@@ -1197,7 +1187,7 @@
       "publishedAt": "2026-10-22T14:32:38Z",
       "summary": "",
       "category": "Tech",
-      "score": 20.034
+      "score": 19.817
     },
     {
       "id": "google-cleared-300-hectares-of-finnish-forest-ty2l40",
@@ -1208,6 +1198,16 @@
       "summary": "",
       "category": "Tech",
       "score": 19.775
+    },
+    {
+      "id": "emudhra-to-exit-global-ssl-tls-certificate-business-gi5mcx",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-22T13:33:39Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.726
     }
   ]
 }
