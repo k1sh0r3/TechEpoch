@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-24T03:52:37.465Z",
+  "updatedAt": "2026-10-24T10:33:30.701Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
+    "AI": 56,
     "Robotics": 21,
     "Machine Learning": 4,
     "Research": 36,
-    "Tech": 4
+    "Tech": 3
   },
   "items": [
     {
@@ -28,6 +28,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.503
+    },
+    {
+      "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-opena-yv50ha",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-24T05:49:57Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.437
     },
     {
       "id": "novo-nordisk-eli-lilly-report-glp-1-signals-of-slowed-biolog-x2si86",
@@ -280,26 +290,6 @@
       "score": 49.833
     },
     {
-      "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b-l04ksg",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-17T04:36:53Z",
-      "summary": "",
-      "category": "AI",
-      "score": 49.755
-    },
-    {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 49.419
-    },
-    {
       "id": "using-llm-for-confidence-scoring-is-a-bad-idea-kelz22",
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
@@ -320,14 +310,14 @@
       "score": 48.955
     },
     {
-      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T11:30:22.000Z",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
       "category": "Robotics",
-      "score": 48.688
+      "score": 48.585
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -358,6 +348,16 @@
       "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
       "category": "Robotics",
       "score": 48.008
+    },
+    {
+      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-23T11:30:22.000Z",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "category": "Robotics",
+      "score": 47.949
     },
     {
       "id": "this-emulator-reimagines-nintendo-s-virtual-boy-with-a-full--1gumhm",
@@ -420,16 +420,6 @@
       "score": 47.323
     },
     {
-      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-22T21:07:09.000Z",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "category": "AI",
-      "score": 47.215
-    },
-    {
       "id": "making-a-88x31-button-book-using-imagemagick-azuygm",
       "title": "Making a 88x31 button book using ImageMagick",
       "url": "https://k.sosnierz.me/08-11-24/",
@@ -440,6 +430,16 @@
       "score": 46.851
     },
     {
+      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-22T21:07:09.000Z",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "category": "AI",
+      "score": 46.667
+    },
+    {
       "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
       "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
@@ -448,6 +448,16 @@
       "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "category": "Robotics",
       "score": 46.529
+    },
+    {
+      "id": "a-practical-guide-to-ai-image-generation-from-diffusion-to-a-uqvu6s",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-20T19:22:39Z",
+      "summary": "",
+      "category": "AI",
+      "score": 46.297
     },
     {
       "id": "the-robot-i-didn-t-expect-to-build-b0g3jc",
@@ -767,7 +777,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.042
+      "score": 43.037
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -798,236 +808,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 40.958
-    },
-    {
-      "id": "a-unified-framework-for-image-to-3d-part-generation-via-vari-45oies",
-      "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
-      "url": "http://arxiv.org/abs/2610.31671v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:53.000Z",
-      "summary": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce Flex",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "sensorimotor-alignment-a-platonic-proxy-for-embodied-policy--m6o993",
-      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-      "url": "http://arxiv.org/abs/2610.31670v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:51.000Z",
-      "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representat",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "reading-writing-sharing-and-interacting-with-the-world-throu-w71una",
-      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-      "url": "http://arxiv.org/abs/2610.31668v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:50.000Z",
-      "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objective",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "direct-pass-k-optimization-for-thought-pruning-balancing-qua-4rrheu",
-      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-      "url": "http://arxiv.org/abs/2610.31667v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:48.000Z",
-      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate so",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "phase-transition-from-random-features-to-fully-trainable-net-gkwxyg",
-      "title": "Phase Transition from Random Features to Fully Trainable Networks",
-      "url": "http://arxiv.org/abs/2610.31663v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:29.000Z",
-      "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations.",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "reliable-ai-assisted-decisions-via-selective-auditing-uxq1ov",
-      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-      "url": "http://arxiv.org/abs/2610.31662v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:22.000Z",
-      "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. ",
-      "category": "Research",
-      "score": 40.541
-    },
-    {
-      "id": "opentac-an-open-ecosystem-for-customizable-scalable-and-tran-v67dl9",
-      "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-      "url": "http://arxiv.org/abs/2610.31661v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:06.000Z",
-      "summary": "We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is",
-      "category": "Research",
-      "score": 40.54
-    },
-    {
-      "id": "spectralcanary-embarrassingly-simple-low-frequency-traces-fo-c2mgoh",
-      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-      "url": "http://arxiv.org/abs/2610.31659v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:59:03.000Z",
-      "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset",
-      "category": "Research",
-      "score": 40.54
-    },
-    {
-      "id": "cost-aware-abstention-for-llm-based-it-ticket-classification-jz5zy0",
-      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-      "url": "http://arxiv.org/abs/2610.31657v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:58:52.000Z",
-      "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under e",
-      "category": "Research",
-      "score": 40.54
-    },
-    {
-      "id": "metta-memory-enhanced-test-time-adaptation-for-meta-reinforc-7wgx2u",
-      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2610.31656v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:58:27.000Z",
-      "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compr",
-      "category": "Research",
-      "score": 40.539
-    },
-    {
-      "id": "brickwright-agentic-creation-of-physically-feasible-brick-bu-mzauuy",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-      "url": "http://arxiv.org/abs/2610.31651v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:57:20.000Z",
-      "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, c",
-      "category": "Research",
-      "score": 40.537
-    },
-    {
-      "id": "episem-bench-evaluating-safety-and-evidence-recovery-in-llm--emgor2",
-      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-      "url": "http://arxiv.org/abs/2610.31650v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:57:04.000Z",
-      "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user re",
-      "category": "Research",
-      "score": 40.537
-    },
-    {
-      "id": "gate3dgen-a-pre-processing-model-that-selectively-purifies-r-m2d40x",
-      "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
-      "url": "http://arxiv.org/abs/2610.31649v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:57:02.000Z",
-      "summary": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to inter",
-      "category": "Research",
-      "score": 40.537
-    },
-    {
-      "id": "low-bit-n-gram-embeddings-for-language-models-td8fh1",
-      "title": "Low-Bit N-Gram Embeddings for Language Models",
-      "url": "http://arxiv.org/abs/2610.31646v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:56:13.000Z",
-      "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the m",
-      "category": "Research",
-      "score": 40.536
-    },
-    {
-      "id": "omniray-camera-agnostic-monocular-3d-reconstruction-with-com-9n2fzk",
-      "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
-      "url": "http://arxiv.org/abs/2610.31645v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:55:30.000Z",
-      "summary": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce distorted geometry on the wide-angle imagery produced by fisheye and panoramic lenses. Camera-aware model",
-      "category": "Research",
-      "score": 40.535
-    },
-    {
-      "id": "gigabench-benchmarking-learnable-representations-for-gigapix-whhcc0",
-      "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
-      "url": "http://arxiv.org/abs/2610.31644v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:55:10.000Z",
-      "summary": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due to their compactness,",
-      "category": "Research",
-      "score": 40.534
-    },
-    {
-      "id": "a-fix-for-softmax-and-cross-entropy-a18xbo",
-      "title": "A Fix for Softmax and Cross-Entropy",
-      "url": "http://arxiv.org/abs/2610.31642v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:54:56.000Z",
-      "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, r",
-      "category": "Research",
-      "score": 40.534
-    },
-    {
-      "id": "univoe-a-removal-driven-framework-for-interaction-aware-univ-izzadb",
-      "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-      "url": "http://arxiv.org/abs/2610.31641v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:54:03.000Z",
-      "summary": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effectively bootstrapped fr",
-      "category": "Research",
-      "score": 40.532
-    },
-    {
-      "id": "worldforge-v2-eliciting-camera-trajectory-alignment-in-video-7kl1mo",
-      "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.31640v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:53:03.000Z",
-      "summary": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, spatial and temporal i",
-      "category": "Research",
-      "score": 40.531
-    },
-    {
-      "id": "causal-chain-of-thought-mitigating-attention-leakage-via-con-evlcr8",
-      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
-      "url": "http://arxiv.org/abs/2610.31639v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:52:56.000Z",
-      "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, den",
-      "category": "Research",
-      "score": 40.531
-    },
-    {
-      "id": "can-an-agent-debug-a-web-corpus-agentic-auditing-of-slovak-f-4m4ece",
-      "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-      "url": "http://arxiv.org/abs/2610.31636v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:52:22.000Z",
-      "summary": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a ",
-      "category": "Research",
-      "score": 40.53
-    },
-    {
-      "id": "hip3r-hierarchical-pose-graphs-for-long-horizon-3d-reconstru-qeneyl",
-      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
-      "url": "http://arxiv.org/abs/2610.31635v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:51:10.000Z",
-      "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of frames. Long videos mu",
-      "category": "Research",
-      "score": 40.528
-    },
-    {
-      "id": "benice-closing-looping-s-inference-memory-gap-via-kv-sharing-a4061t",
-      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
-      "url": "http://arxiv.org/abs/2610.31633v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-22T17:49:44.000Z",
-      "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory",
-      "category": "Research",
-      "score": 40.526
     },
     {
       "id": "agentic-world-action-models-bvwn7p",
@@ -1090,6 +870,236 @@
       "score": 40.523
     },
     {
+      "id": "a-unified-framework-for-image-to-3d-part-generation-via-vari-45oies",
+      "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+      "url": "http://arxiv.org/abs/2610.31671v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:53.000Z",
+      "summary": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce Flex",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "sensorimotor-alignment-a-platonic-proxy-for-embodied-policy--m6o993",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "url": "http://arxiv.org/abs/2610.31670v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:51.000Z",
+      "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representat",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "reading-writing-sharing-and-interacting-with-the-world-throu-w71una",
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "url": "http://arxiv.org/abs/2610.31668v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:50.000Z",
+      "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objective",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "direct-pass-k-optimization-for-thought-pruning-balancing-qua-4rrheu",
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:48.000Z",
+      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate so",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "phase-transition-from-random-features-to-fully-trainable-net-gkwxyg",
+      "title": "Phase Transition from Random Features to Fully Trainable Networks",
+      "url": "http://arxiv.org/abs/2610.31663v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:29.000Z",
+      "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations.",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "reliable-ai-assisted-decisions-via-selective-auditing-uxq1ov",
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+      "url": "http://arxiv.org/abs/2610.31662v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:22.000Z",
+      "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. ",
+      "category": "Research",
+      "score": 39.436
+    },
+    {
+      "id": "opentac-an-open-ecosystem-for-customizable-scalable-and-tran-v67dl9",
+      "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+      "url": "http://arxiv.org/abs/2610.31661v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:06.000Z",
+      "summary": "We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is",
+      "category": "Research",
+      "score": 39.435
+    },
+    {
+      "id": "spectralcanary-embarrassingly-simple-low-frequency-traces-fo-c2mgoh",
+      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+      "url": "http://arxiv.org/abs/2610.31659v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:59:03.000Z",
+      "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset",
+      "category": "Research",
+      "score": 39.435
+    },
+    {
+      "id": "cost-aware-abstention-for-llm-based-it-ticket-classification-jz5zy0",
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "url": "http://arxiv.org/abs/2610.31657v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:58:52.000Z",
+      "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under e",
+      "category": "Research",
+      "score": 39.435
+    },
+    {
+      "id": "metta-memory-enhanced-test-time-adaptation-for-meta-reinforc-7wgx2u",
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2610.31656v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:58:27.000Z",
+      "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compr",
+      "category": "Research",
+      "score": 39.435
+    },
+    {
+      "id": "brickwright-agentic-creation-of-physically-feasible-brick-bu-mzauuy",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+      "url": "http://arxiv.org/abs/2610.31651v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:57:20.000Z",
+      "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, c",
+      "category": "Research",
+      "score": 39.433
+    },
+    {
+      "id": "episem-bench-evaluating-safety-and-evidence-recovery-in-llm--emgor2",
+      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+      "url": "http://arxiv.org/abs/2610.31650v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:57:04.000Z",
+      "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user re",
+      "category": "Research",
+      "score": 39.433
+    },
+    {
+      "id": "gate3dgen-a-pre-processing-model-that-selectively-purifies-r-m2d40x",
+      "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+      "url": "http://arxiv.org/abs/2610.31649v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:57:02.000Z",
+      "summary": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to inter",
+      "category": "Research",
+      "score": 39.433
+    },
+    {
+      "id": "low-bit-n-gram-embeddings-for-language-models-td8fh1",
+      "title": "Low-Bit N-Gram Embeddings for Language Models",
+      "url": "http://arxiv.org/abs/2610.31646v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:56:13.000Z",
+      "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the m",
+      "category": "Research",
+      "score": 39.432
+    },
+    {
+      "id": "omniray-camera-agnostic-monocular-3d-reconstruction-with-com-9n2fzk",
+      "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
+      "url": "http://arxiv.org/abs/2610.31645v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:55:30.000Z",
+      "summary": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce distorted geometry on the wide-angle imagery produced by fisheye and panoramic lenses. Camera-aware model",
+      "category": "Research",
+      "score": 39.431
+    },
+    {
+      "id": "gigabench-benchmarking-learnable-representations-for-gigapix-whhcc0",
+      "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+      "url": "http://arxiv.org/abs/2610.31644v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:55:10.000Z",
+      "summary": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due to their compactness,",
+      "category": "Research",
+      "score": 39.431
+    },
+    {
+      "id": "a-fix-for-softmax-and-cross-entropy-a18xbo",
+      "title": "A Fix for Softmax and Cross-Entropy",
+      "url": "http://arxiv.org/abs/2610.31642v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:54:56.000Z",
+      "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, r",
+      "category": "Research",
+      "score": 39.431
+    },
+    {
+      "id": "univoe-a-removal-driven-framework-for-interaction-aware-univ-izzadb",
+      "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+      "url": "http://arxiv.org/abs/2610.31641v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:54:03.000Z",
+      "summary": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effectively bootstrapped fr",
+      "category": "Research",
+      "score": 39.429
+    },
+    {
+      "id": "worldforge-v2-eliciting-camera-trajectory-alignment-in-video-7kl1mo",
+      "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2610.31640v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:53:03.000Z",
+      "summary": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, spatial and temporal i",
+      "category": "Research",
+      "score": 39.428
+    },
+    {
+      "id": "causal-chain-of-thought-mitigating-attention-leakage-via-con-evlcr8",
+      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+      "url": "http://arxiv.org/abs/2610.31639v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:52:56.000Z",
+      "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, den",
+      "category": "Research",
+      "score": 39.428
+    },
+    {
+      "id": "can-an-agent-debug-a-web-corpus-agentic-auditing-of-slovak-f-4m4ece",
+      "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+      "url": "http://arxiv.org/abs/2610.31636v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:52:22.000Z",
+      "summary": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a ",
+      "category": "Research",
+      "score": 39.427
+    },
+    {
+      "id": "hip3r-hierarchical-pose-graphs-for-long-horizon-3d-reconstru-qeneyl",
+      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+      "url": "http://arxiv.org/abs/2610.31635v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:51:10.000Z",
+      "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of frames. Long videos mu",
+      "category": "Research",
+      "score": 39.426
+    },
+    {
+      "id": "benice-closing-looping-s-inference-memory-gap-via-kv-sharing-a4061t",
+      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+      "url": "http://arxiv.org/abs/2610.31633v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-22T17:49:44.000Z",
+      "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory",
+      "category": "Research",
+      "score": 39.424
+    },
+    {
       "id": "extending-harmonic-function-methods-via-root-locus-for-coord-l5j4ol",
       "title": "Extending Harmonic Function Methods via Root Locus for Coordinated Path Generation",
       "url": "http://arxiv.org/abs/2610.31625v1",
@@ -1097,7 +1107,7 @@
       "publishedAt": "2026-10-22T17:45:31.000Z",
       "summary": "We consider the offline generation of coordinated paths for N interchangeable robots and N goals in planar environments with polygonal obstacles. After a conformal map to a circular domain, starts and goals become the po",
       "category": "Research",
-      "score": 40.519
+      "score": 39.419
     },
     {
       "id": "questioning-instrumental-convergence-in-rlvr-checkpoint-evid-hsglsc",
@@ -1107,7 +1117,7 @@
       "publishedAt": "2026-10-22T17:44:41.000Z",
       "summary": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which po",
       "category": "Research",
-      "score": 40.518
+      "score": 39.418
     },
     {
       "id": "f2g-pose-geometry-aware-foundation-feature-lifting-for-direc-jwspcc",
@@ -1117,7 +1127,7 @@
       "publishedAt": "2026-10-22T17:43:34.000Z",
       "summary": "This paper studies category-level RGB-D object pose estimation, which recovers an object's 3D rotation and translation without instance-specific CAD models or reference views. This task is highly ambiguous due to intra-c",
       "category": "Research",
-      "score": 40.516
+      "score": 39.417
     },
     {
       "id": "bilingual-language-models-capture-cross-linguistic-influence-t9g57a",
@@ -1127,7 +1137,7 @@
       "publishedAt": "2026-10-22T17:42:06.000Z",
       "summary": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first language (L1). In this w",
       "category": "Research",
-      "score": 40.514
+      "score": 39.415
     },
     {
       "id": "diffdreamer-coupling-world-models-with-differentiable-simula-f92l8u",
@@ -1137,7 +1147,7 @@
       "publishedAt": "2026-10-22T17:41:13.000Z",
       "summary": "Tasks such as quadrotor dynamic-gate racing require agents to anticipate external motion while maintaining precise high-frequency control. World-model-based reinforcement learning provides a natural solution by learning ",
       "category": "Research",
-      "score": 40.512
+      "score": 39.414
     },
     {
       "id": "op-print-tracing-membership-imprints-in-on-policy-self-disti-f75vsn",
@@ -1147,7 +1157,7 @@
       "publishedAt": "2026-10-22T17:41:04.000Z",
       "summary": "On-policy distillation has been widely adopted for alleviating the distribution mismatch of off-policy distillation. Self-distillation further removes the need for an external teacher by using the student's own outputs, ",
       "category": "Research",
-      "score": 40.512
+      "score": 39.414
     },
     {
       "id": "progress-probes-p-2-lightweight-runtime-monitoring-for-visio-om9bzj",
@@ -1157,7 +1167,7 @@
       "publishedAt": "2026-10-22T17:40:19.000Z",
       "summary": "Vision-Language-Action (VLA) models can perform diverse manipulation tasks directly from visual observations and natural language instructions, but they remain prone to mistakes and unpredictable failures. Deploying thes",
       "category": "Research",
-      "score": 40.511
+      "score": 39.413
     },
     {
       "id": "ai-s-hidden-storage-bill-what-inference-leaves-behind-teu71h",
@@ -1167,7 +1177,7 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
       "category": "Machine Learning",
-      "score": 36.253
+      "score": 35.831
     },
     {
       "id": "investor-owned-utilities-charge-23-more-for-electricity-than-at7z8l",
@@ -1180,6 +1190,16 @@
       "score": 20.156
     },
     {
+      "id": "i-don-t-understand-quantum-physics-bx4wvt",
+      "title": "I Don't Understand Quantum Physics",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-24T09:53:26Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.395
+    },
+    {
       "id": "evolving-threat-http2shell-is-an-rce-in-node-python-and-more-oz138i",
       "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
       "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
@@ -1188,26 +1208,6 @@
       "summary": "",
       "category": "Tech",
       "score": 19.39
-    },
-    {
-      "id": "kimi-k3-1-pro-and-k3-1-pro-highspeed-s00mqw",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-23T16:59:08Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.265
-    },
-    {
-      "id": "alzheimer-s-breakthrough-2-hrs-of-sleep-restored-without-cle-g56x6i",
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-24T01:53:10Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.255
     }
   ]
 }
