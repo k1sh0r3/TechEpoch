@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:10:30.009Z",
+  "updatedAt": "2026-10-24T03:52:37.465Z",
   "totalItems": 120,
   "categories": {
     "AI": 55,
@@ -240,16 +240,6 @@
       "score": 50.396
     },
     {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 50.381
-    },
-    {
       "id": "compromised-litellm-1-107-0-on-pypi-installs-a-credential-st-hv4cp1",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
@@ -300,14 +290,14 @@
       "score": 49.755
     },
     {
-      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T11:30:22.000Z",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
       "category": "Robotics",
-      "score": 49.54
+      "score": 49.419
     },
     {
       "id": "using-llm-for-confidence-scoring-is-a-bad-idea-kelz22",
@@ -328,6 +318,16 @@
       "summary": "",
       "category": "AI",
       "score": 48.955
+    },
+    {
+      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-23T11:30:22.000Z",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "category": "Robotics",
+      "score": 48.688
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -358,16 +358,6 @@
       "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
       "category": "Robotics",
       "score": 48.008
-    },
-    {
-      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-22T21:07:09.000Z",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "category": "AI",
-      "score": 47.847
     },
     {
       "id": "this-emulator-reimagines-nintendo-s-virtual-boy-with-a-full--1gumhm",
@@ -428,6 +418,16 @@
       "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
       "category": "AI",
       "score": 47.323
+    },
+    {
+      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-22T21:07:09.000Z",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "category": "AI",
+      "score": 47.215
     },
     {
       "id": "making-a-88x31-button-book-using-imagemagick-azuygm",
@@ -767,7 +767,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.048
+      "score": 43.042
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -1167,7 +1167,7 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
       "category": "Machine Learning",
-      "score": 36.741
+      "score": 36.253
     },
     {
       "id": "investor-owned-utilities-charge-23-more-for-electricity-than-at7z8l",
@@ -1180,6 +1180,16 @@
       "score": 20.156
     },
     {
+      "id": "evolving-threat-http2shell-is-an-rce-in-node-python-and-more-oz138i",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-23T23:30:17Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.39
+    },
+    {
       "id": "kimi-k3-1-pro-and-k3-1-pro-highspeed-s00mqw",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
@@ -1187,27 +1197,17 @@
       "publishedAt": "2026-10-23T16:59:08Z",
       "summary": "",
       "category": "Tech",
-      "score": 20.038
+      "score": 19.265
     },
     {
-      "id": "today-we-hacked-what-we-d-set-out-to-hack-the-iphone-du0e7o",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
+      "id": "alzheimer-s-breakthrough-2-hrs-of-sleep-restored-without-cle-g56x6i",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-23T16:21:50Z",
+      "publishedAt": "2026-10-24T01:53:10Z",
       "summary": "",
       "category": "Tech",
-      "score": 20.001
-    },
-    {
-      "id": "dessa-the-most-authentic-full-duplex-speech-model-ever-built-ye0zcs",
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-23T19:09:54Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.42
+      "score": 19.255
     }
   ]
 }
