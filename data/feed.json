@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-24T20:27:34.838Z",
+  "updatedAt": "2026-10-25T03:51:14.279Z",
   "totalItems": 120,
   "categories": {
-    "AI": 56,
+    "AI": 55,
     "Robotics": 21,
     "Machine Learning": 5,
     "Research": 36,
-    "Tech": 2
+    "Tech": 3
   },
   "items": [
     {
@@ -150,16 +150,6 @@
       "score": 51.573
     },
     {
-      "id": "oai-math-revised-a-community-hub-for-revising-openai-s-math--hdq48s",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-24T15:35:17Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.529
-    },
-    {
       "id": "whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a--y89w77",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -240,6 +230,16 @@
       "score": 50.794
     },
     {
+      "id": "oai-math-revised-a-community-hub-for-revising-openai-s-math--hdq48s",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-24T15:35:17Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.787
+    },
+    {
       "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-ui6s7t",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
@@ -308,16 +308,6 @@
       "summary": "",
       "category": "AI",
       "score": 48.993
-    },
-    {
-      "id": "i-built-a-programming-language-that-llms-can-t-use-mqdwqu",
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-17T22:26:47Z",
-      "summary": "",
-      "category": "AI",
-      "score": 48.955
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -390,16 +380,6 @@
       "score": 47.653
     },
     {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 47.544
-    },
-    {
       "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
       "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
@@ -420,14 +400,14 @@
       "score": 47.323
     },
     {
-      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T11:30:22.000Z",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
       "category": "Robotics",
-      "score": 47.027
+      "score": 46.895
     },
     {
       "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
@@ -438,6 +418,16 @@
       "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "category": "Robotics",
       "score": 46.529
+    },
+    {
+      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-23T11:30:22.000Z",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "category": "Robotics",
+      "score": 46.452
     },
     {
       "id": "a-practical-guide-to-ai-image-generation-from-diffusion-to-a-uqvu6s",
@@ -460,16 +450,6 @@
       "score": 46.25
     },
     {
-      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-22T21:07:09.000Z",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "category": "AI",
-      "score": 45.984
-    },
-    {
       "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
@@ -488,6 +468,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-22T21:07:09.000Z",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "category": "AI",
+      "score": 45.558
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -777,7 +767,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.03
+      "score": 43.026
     },
     {
       "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
@@ -1187,7 +1177,7 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
       "category": "Machine Learning",
-      "score": 35.303
+      "score": 34.974
     },
     {
       "id": "investor-owned-utilities-charge-23-more-for-electricity-than-at7z8l",
@@ -1208,6 +1198,16 @@
       "summary": "",
       "category": "Tech",
       "score": 19.94
+    },
+    {
+      "id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-dgwrzl",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-24T23:11:54Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.613
     }
   ]
 }
