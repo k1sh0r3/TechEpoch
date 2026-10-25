@@ -1,14 +1,34 @@
 {
-  "updatedAt": "2026-10-25T15:47:27.295Z",
+  "updatedAt": "2026-10-25T20:34:42.124Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
+    "AI": 56,
     "Robotics": 20,
     "Machine Learning": 6,
     "Research": 36,
-    "Tech": 3
+    "Tech": 2
   },
   "items": [
+    {
+      "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer--2k2jrz",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-25T17:15:38Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.889
+    },
+    {
+      "id": "dolly-parton-s-imagination-library-3ifbox",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-25T18:23:54Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.88
+    },
     {
       "id": "mercury-3-diffusion-at-scale-1ou6uc",
       "title": "Mercury 3: Diffusion at scale",
@@ -18,16 +38,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.555
-    },
-    {
-      "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-e-wpnidm",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T11:09:12Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.32
     },
     {
       "id": "novo-nordisk-eli-lilly-report-glp-1-signals-of-slowed-biolog-x2si86",
@@ -118,6 +128,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.853
+    },
+    {
+      "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-e-wpnidm",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-25T11:09:12Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.841
     },
     {
       "id": "ai-agent-fixed-the-bug-but-what-else-did-it-change-9d78sh",
@@ -420,26 +440,6 @@
       "score": 46.25
     },
     {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 46.038
-    },
-    {
-      "id": "anthropic-gives-outside-ai-watchdog-employee-like-access-pxojrd",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-18T16:25:19.000Z",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "category": "AI",
-      "score": 45.934
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -450,6 +450,16 @@
       "score": 45.771
     },
     {
+      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "category": "Robotics",
+      "score": 45.749
+    },
+    {
       "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
       "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
       "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
@@ -457,7 +467,7 @@
       "publishedAt": "2026-10-23T11:30:22.000Z",
       "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
       "category": "Robotics",
-      "score": 45.692
+      "score": 45.436
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -477,7 +487,7 @@
       "publishedAt": "2026-10-22T21:07:09.000Z",
       "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
       "category": "AI",
-      "score": 44.995
+      "score": 44.805
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -757,7 +767,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.02
+      "score": 43.018
     },
     {
       "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
@@ -867,7 +877,7 @@
       "publishedAt": "2026-10-22T17:59:53.000Z",
       "summary": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce Flex",
       "category": "Research",
-      "score": 37.869
+      "score": 37.692
     },
     {
       "id": "sensorimotor-alignment-a-platonic-proxy-for-embodied-policy--m6o993",
@@ -877,7 +887,7 @@
       "publishedAt": "2026-10-22T17:59:51.000Z",
       "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representat",
       "category": "Research",
-      "score": 37.869
+      "score": 37.692
     },
     {
       "id": "reading-writing-sharing-and-interacting-with-the-world-throu-w71una",
@@ -887,7 +897,7 @@
       "publishedAt": "2026-10-22T17:59:50.000Z",
       "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objective",
       "category": "Research",
-      "score": 37.869
+      "score": 37.692
     },
     {
       "id": "direct-pass-k-optimization-for-thought-pruning-balancing-qua-4rrheu",
@@ -897,7 +907,7 @@
       "publishedAt": "2026-10-22T17:59:48.000Z",
       "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate so",
       "category": "Research",
-      "score": 37.869
+      "score": 37.692
     },
     {
       "id": "phase-transition-from-random-features-to-fully-trainable-net-gkwxyg",
@@ -907,7 +917,7 @@
       "publishedAt": "2026-10-22T17:59:29.000Z",
       "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations.",
       "category": "Research",
-      "score": 37.869
+      "score": 37.691
     },
     {
       "id": "reliable-ai-assisted-decisions-via-selective-auditing-uxq1ov",
@@ -917,7 +927,7 @@
       "publishedAt": "2026-10-22T17:59:22.000Z",
       "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. ",
       "category": "Research",
-      "score": 37.869
+      "score": 37.691
     },
     {
       "id": "opentac-an-open-ecosystem-for-customizable-scalable-and-tran-v67dl9",
@@ -927,7 +937,7 @@
       "publishedAt": "2026-10-22T17:59:06.000Z",
       "summary": "We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is",
       "category": "Research",
-      "score": 37.869
+      "score": 37.691
     },
     {
       "id": "spectralcanary-embarrassingly-simple-low-frequency-traces-fo-c2mgoh",
@@ -937,7 +947,7 @@
       "publishedAt": "2026-10-22T17:59:03.000Z",
       "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset",
       "category": "Research",
-      "score": 37.868
+      "score": 37.691
     },
     {
       "id": "cost-aware-abstention-for-llm-based-it-ticket-classification-jz5zy0",
@@ -947,7 +957,7 @@
       "publishedAt": "2026-10-22T17:58:52.000Z",
       "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under e",
       "category": "Research",
-      "score": 37.868
+      "score": 37.691
     },
     {
       "id": "metta-memory-enhanced-test-time-adaptation-for-meta-reinforc-7wgx2u",
@@ -957,7 +967,7 @@
       "publishedAt": "2026-10-22T17:58:27.000Z",
       "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compr",
       "category": "Research",
-      "score": 37.868
+      "score": 37.691
     },
     {
       "id": "brickwright-agentic-creation-of-physically-feasible-brick-bu-mzauuy",
@@ -967,7 +977,7 @@
       "publishedAt": "2026-10-22T17:57:20.000Z",
       "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, c",
       "category": "Research",
-      "score": 37.867
+      "score": 37.69
     },
     {
       "id": "episem-bench-evaluating-safety-and-evidence-recovery-in-llm--emgor2",
@@ -977,7 +987,7 @@
       "publishedAt": "2026-10-22T17:57:04.000Z",
       "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user re",
       "category": "Research",
-      "score": 37.867
+      "score": 37.69
     },
     {
       "id": "gate3dgen-a-pre-processing-model-that-selectively-purifies-r-m2d40x",
@@ -987,7 +997,7 @@
       "publishedAt": "2026-10-22T17:57:02.000Z",
       "summary": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to inter",
       "category": "Research",
-      "score": 37.867
+      "score": 37.69
     },
     {
       "id": "low-bit-n-gram-embeddings-for-language-models-td8fh1",
@@ -997,7 +1007,7 @@
       "publishedAt": "2026-10-22T17:56:13.000Z",
       "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the m",
       "category": "Research",
-      "score": 37.867
+      "score": 37.689
     },
     {
       "id": "omniray-camera-agnostic-monocular-3d-reconstruction-with-com-9n2fzk",
@@ -1007,7 +1017,7 @@
       "publishedAt": "2026-10-22T17:55:30.000Z",
       "summary": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce distorted geometry on the wide-angle imagery produced by fisheye and panoramic lenses. Camera-aware model",
       "category": "Research",
-      "score": 37.866
+      "score": 37.689
     },
     {
       "id": "gigabench-benchmarking-learnable-representations-for-gigapix-whhcc0",
@@ -1017,7 +1027,7 @@
       "publishedAt": "2026-10-22T17:55:10.000Z",
       "summary": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due to their compactness,",
       "category": "Research",
-      "score": 37.866
+      "score": 37.689
     },
     {
       "id": "a-fix-for-softmax-and-cross-entropy-a18xbo",
@@ -1027,7 +1037,7 @@
       "publishedAt": "2026-10-22T17:54:56.000Z",
       "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, r",
       "category": "Research",
-      "score": 37.866
+      "score": 37.689
     },
     {
       "id": "univoe-a-removal-driven-framework-for-interaction-aware-univ-izzadb",
@@ -1037,7 +1047,7 @@
       "publishedAt": "2026-10-22T17:54:03.000Z",
       "summary": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effectively bootstrapped fr",
       "category": "Research",
-      "score": 37.865
+      "score": 37.688
     },
     {
       "id": "worldforge-v2-eliciting-camera-trajectory-alignment-in-video-7kl1mo",
@@ -1047,7 +1057,7 @@
       "publishedAt": "2026-10-22T17:53:03.000Z",
       "summary": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, spatial and temporal i",
       "category": "Research",
-      "score": 37.865
+      "score": 37.688
     },
     {
       "id": "causal-chain-of-thought-mitigating-attention-leakage-via-con-evlcr8",
@@ -1057,7 +1067,7 @@
       "publishedAt": "2026-10-22T17:52:56.000Z",
       "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, den",
       "category": "Research",
-      "score": 37.865
+      "score": 37.688
     },
     {
       "id": "can-an-agent-debug-a-web-corpus-agentic-auditing-of-slovak-f-4m4ece",
@@ -1067,7 +1077,7 @@
       "publishedAt": "2026-10-22T17:52:22.000Z",
       "summary": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a ",
       "category": "Research",
-      "score": 37.864
+      "score": 37.687
     },
     {
       "id": "hip3r-hierarchical-pose-graphs-for-long-horizon-3d-reconstru-qeneyl",
@@ -1077,7 +1087,7 @@
       "publishedAt": "2026-10-22T17:51:10.000Z",
       "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of frames. Long videos mu",
       "category": "Research",
-      "score": 37.863
+      "score": 37.687
     },
     {
       "id": "benice-closing-looping-s-inference-memory-gap-via-kv-sharing-a4061t",
@@ -1087,7 +1097,7 @@
       "publishedAt": "2026-10-22T17:49:44.000Z",
       "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory",
       "category": "Research",
-      "score": 37.862
+      "score": 37.686
     },
     {
       "id": "extending-harmonic-function-methods-via-root-locus-for-coord-l5j4ol",
@@ -1097,7 +1107,7 @@
       "publishedAt": "2026-10-22T17:45:31.000Z",
       "summary": "We consider the offline generation of coordinated paths for N interchangeable robots and N goals in planar environments with polygonal obstacles. After a conformal map to a circular domain, starts and goals become the po",
       "category": "Research",
-      "score": 37.86
+      "score": 37.683
     },
     {
       "id": "questioning-instrumental-convergence-in-rlvr-checkpoint-evid-hsglsc",
@@ -1107,7 +1117,7 @@
       "publishedAt": "2026-10-22T17:44:41.000Z",
       "summary": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which po",
       "category": "Research",
-      "score": 37.859
+      "score": 37.683
     },
     {
       "id": "f2g-pose-geometry-aware-foundation-feature-lifting-for-direc-jwspcc",
@@ -1117,7 +1127,7 @@
       "publishedAt": "2026-10-22T17:43:34.000Z",
       "summary": "This paper studies category-level RGB-D object pose estimation, which recovers an object's 3D rotation and translation without instance-specific CAD models or reference views. This task is highly ambiguous due to intra-c",
       "category": "Research",
-      "score": 37.858
+      "score": 37.682
     },
     {
       "id": "bilingual-language-models-capture-cross-linguistic-influence-t9g57a",
@@ -1127,7 +1137,7 @@
       "publishedAt": "2026-10-22T17:42:06.000Z",
       "summary": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first language (L1). In this w",
       "category": "Research",
-      "score": 37.858
+      "score": 37.681
     },
     {
       "id": "diffdreamer-coupling-world-models-with-differentiable-simula-f92l8u",
@@ -1137,7 +1147,7 @@
       "publishedAt": "2026-10-22T17:41:13.000Z",
       "summary": "Tasks such as quadrotor dynamic-gate racing require agents to anticipate external motion while maintaining precise high-frequency control. World-model-based reinforcement learning provides a natural solution by learning ",
       "category": "Research",
-      "score": 37.857
+      "score": 37.681
     },
     {
       "id": "op-print-tracing-membership-imprints-in-on-policy-self-disti-f75vsn",
@@ -1147,7 +1157,7 @@
       "publishedAt": "2026-10-22T17:41:04.000Z",
       "summary": "On-policy distillation has been widely adopted for alleviating the distribution mismatch of off-policy distillation. Self-distillation further removes the need for an external teacher by using the student's own outputs, ",
       "category": "Research",
-      "score": 37.857
+      "score": 37.681
     },
     {
       "id": "progress-probes-p-2-lightweight-runtime-monitoring-for-visio-om9bzj",
@@ -1157,7 +1167,7 @@
       "publishedAt": "2026-10-22T17:40:19.000Z",
       "summary": "Vision-Language-Action (VLA) models can perform diverse manipulation tasks directly from visual observations and natural language instructions, but they remain prone to mistakes and unpredictable failures. Deploying thes",
       "category": "Research",
-      "score": 37.856
+      "score": 37.68
     },
     {
       "id": "i-built-a-neural-network-using-doom-games-qfdhr3",
@@ -1177,7 +1187,7 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
       "category": "Machine Learning",
-      "score": 34.54
+      "score": 34.393
     },
     {
       "id": "investor-owned-utilities-charge-23-more-for-electricity-than-at7z8l",
@@ -1198,16 +1208,6 @@
       "summary": "",
       "category": "Tech",
       "score": 19.94
-    },
-    {
-      "id": "meta-ignores-brazilian-court-order-to-end-bolsonaro-favoriti-cwfr8i",
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T09:00:40Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.897
     }
   ]
 }
