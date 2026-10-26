@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-10-26T03:55:04.232Z",
+  "updatedAt": "2026-10-26T12:30:48.195Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
-    "Robotics": 20,
+    "AI": 51,
+    "Robotics": 19,
     "Machine Learning": 4,
-    "Research": 41
+    "Research": 41,
+    "Tech": 5
   },
   "items": [
     {
@@ -16,7 +17,7 @@
       "publishedAt": "2026-10-25T21:11:31Z",
       "summary": "",
       "category": "AI",
-      "score": 58.262
+      "score": 57.363
     },
     {
       "id": "mercury-3-diffusion-at-scale-1ou6uc",
@@ -37,16 +38,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.319
-    },
-    {
-      "id": "dolly-parton-s-imagination-library-3ifbox",
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T18:23:54Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.209
     },
     {
       "id": "publish-fake-stats-get-cited-in-llms-c9exuz",
@@ -79,16 +70,6 @@
       "score": 52.175
     },
     {
-      "id": "harness-engineering-101-the-llm-is-the-brain-the-harness-is--ti3e86",
-      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T12:07:41Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.129
-    },
-    {
       "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-opena-yv50ha",
       "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
       "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
@@ -97,16 +78,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.099
-    },
-    {
-      "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer--2k2jrz",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T17:15:38Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.091
     },
     {
       "id": "imagine-an-ai-future-where-being-banned-means-you-are-now-ec-k7uyj4",
@@ -169,16 +140,6 @@
       "score": 51.74
     },
     {
-      "id": "the-obscure-trust-looming-over-anthropic-s-ipo-cwfq4b",
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T12:06:03Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.573
-    },
-    {
       "id": "whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a--y89w77",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -187,6 +148,26 @@
       "summary": "",
       "category": "AI",
       "score": 51.414
+    },
+    {
+      "id": "dolly-parton-s-imagination-library-3ifbox",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-25T18:23:54Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.247
+    },
+    {
+      "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer--2k2jrz",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-25T17:15:38Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.125
     },
     {
       "id": "openai-s-latest-ai-models-are-coming-to-google-cloud-and-ant-5hns1k",
@@ -247,16 +228,6 @@
       "summary": "",
       "category": "AI",
       "score": 50.629
-    },
-    {
-      "id": "i-built-a-drone-with-only-one-motor-video-iu2bky",
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T09:05:07Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 50.396
     },
     {
       "id": "compromised-litellm-1-107-0-on-pypi-installs-a-credential-st-hv4cp1",
@@ -369,26 +340,6 @@
       "score": 47.712
     },
     {
-      "id": "ai-researchers-stranded-claude-on-a-virtual-desert-island-it-sf6bj1",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T09:08:05.000Z",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies ",
-      "category": "AI",
-      "score": 47.653
-    },
-    {
-      "id": "the-download-preserving-the-arctic-permafrost-and-playful-ai-d19bes",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-19T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James",
-      "category": "AI",
-      "score": 47.427
-    },
-    {
       "id": "review-carrie-is-a-triumphant-remix-with-one-major-flaw-arfrxj",
       "title": "Review: Carrie is a triumphant remix with one major flaw",
       "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
@@ -439,16 +390,6 @@
       "score": 45.771
     },
     {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 45.359
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -459,6 +400,16 @@
       "score": 45.182
     },
     {
+      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "category": "Robotics",
+      "score": 44.973
+    },
+    {
       "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
       "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
       "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
@@ -466,7 +417,7 @@
       "publishedAt": "2026-10-23T11:30:22.000Z",
       "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
       "category": "Robotics",
-      "score": 45.091
+      "score": 44.748
     },
     {
       "id": "comcast-loses-more-customers-claims-other-isps-cheap-prices--r08cx1",
@@ -476,7 +427,7 @@
       "publishedAt": "2026-10-22T21:07:09.000Z",
       "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
       "category": "AI",
-      "score": 44.549
+      "score": 44.295
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -756,7 +707,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.015
+      "score": 43.013
     },
     {
       "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
@@ -767,16 +718,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 42.535
-    },
-    {
-      "id": "timestral-mistral-s-time-series-foundation-models-qqg63",
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-19T09:59:32Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.917
     },
     {
       "id": "deepinfer-high-performance-inference-framework-for-deepseek--ug2037",
@@ -866,7 +807,7 @@
       "publishedAt": "2026-10-23T17:59:56.000Z",
       "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive langua",
       "category": "Research",
-      "score": 38.394
+      "score": 38.001
     },
     {
       "id": "scenebloom-agentic-indoor-environment-generation-with-realis-u0pqdy",
@@ -876,7 +817,7 @@
       "publishedAt": "2026-10-23T17:59:21.000Z",
       "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding rem",
       "category": "Research",
-      "score": 38.393
+      "score": 38.001
     },
     {
       "id": "uniaction-unified-action-conditioning-for-world-models-xv7lpk",
@@ -886,7 +827,7 @@
       "publishedAt": "2026-10-23T17:59:13.000Z",
       "summary": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-annotated data across se",
       "category": "Research",
-      "score": 38.393
+      "score": 38.001
     },
     {
       "id": "flexglue-sparse-to-dense-feature-matching-and-visual-disambi-h3gzfm",
@@ -896,7 +837,7 @@
       "publishedAt": "2026-10-23T17:59:00.000Z",
       "summary": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but expensive. Furthermore",
       "category": "Research",
-      "score": 38.393
+      "score": 38.001
     },
     {
       "id": "robustrllib-a-unified-library-and-benchmark-for-robust-reinf-1bculf",
@@ -906,7 +847,7 @@
       "publishedAt": "2026-10-23T17:57:22.000Z",
       "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles",
       "category": "Research",
-      "score": 38.391
+      "score": 37.999
     },
     {
       "id": "dexport-a-hand-held-skill-interface-for-dexterous-hand-data--u4jt49",
@@ -916,7 +857,7 @@
       "publishedAt": "2026-10-23T17:56:28.000Z",
       "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coo",
       "category": "Research",
-      "score": 38.391
+      "score": 37.999
     },
     {
       "id": "mid-vlm-detecting-and-grounding-global-semantic-misinformati-w57b6v",
@@ -926,7 +867,7 @@
       "publishedAt": "2026-10-23T17:55:02.000Z",
       "summary": "Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, methods designed to detect",
       "category": "Research",
-      "score": 38.39
+      "score": 37.998
     },
     {
       "id": "vit-h-generative-video-to-humanoid-control-with-motion-track-dswztq",
@@ -936,7 +877,7 @@
       "publishedAt": "2026-10-23T17:54:09.000Z",
       "summary": "Learning humanoid control from monocular human videos offers a scalable way to acquire diverse whole-body behaviors. Yet, existing reconstruction-retargeting-tracking pipelines are limited in system-level scalability by ",
       "category": "Research",
-      "score": 38.389
+      "score": 37.997
     },
     {
       "id": "rynnunify-towards-unified-embodied-brain-1oy871",
@@ -946,7 +887,7 @@
       "publishedAt": "2026-10-23T17:54:07.000Z",
       "summary": "We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities spanning spatial reasoni",
       "category": "Research",
-      "score": 38.389
+      "score": 37.997
     },
     {
       "id": "flownomaly-single-step-conditional-mean-recovery-for-few-sho-a0gwae",
@@ -956,7 +897,7 @@
       "publishedAt": "2026-10-23T17:53:30.000Z",
       "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk r",
       "category": "Research",
-      "score": 38.388
+      "score": 37.997
     },
     {
       "id": "robotic-optical-coherence-tomography-guided-geometric-modeli-c838jr",
@@ -966,7 +907,7 @@
       "publishedAt": "2026-10-23T17:52:30.000Z",
       "summary": "In medical robotics, data-driven soft-tissue shape control requires deforming tissue toward desired morphologies through sequential physical interactions. This challenge is particularly important in microscale manipulati",
       "category": "Research",
-      "score": 38.387
+      "score": 37.996
     },
     {
       "id": "measure-before-you-train-typed-decision-models-vs-a-classica-8uk682",
@@ -976,7 +917,7 @@
       "publishedAt": "2026-10-23T17:49:43.000Z",
       "summary": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system ",
       "category": "Research",
-      "score": 38.385
+      "score": 37.994
     },
     {
       "id": "where-rounding-happens-matters-rounding-location-alignment-s-r4h3ef",
@@ -986,7 +927,7 @@
       "publishedAt": "2026-10-23T17:45:03.000Z",
       "summary": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-",
       "category": "Research",
-      "score": 38.381
+      "score": 37.991
     },
     {
       "id": "beyond-discrete-tokens-preserving-numerical-continuity-in-me-okvnsg",
@@ -996,7 +937,7 @@
       "publishedAt": "2026-10-23T17:40:58.000Z",
       "summary": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical predi",
       "category": "Research",
-      "score": 38.378
+      "score": 37.988
     },
     {
       "id": "monetizing-intelligence-advertising-and-subscription-design--x1p0f3",
@@ -1006,7 +947,7 @@
       "publishedAt": "2026-10-23T17:39:42.000Z",
       "summary": "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly",
       "category": "Research",
-      "score": 38.377
+      "score": 37.987
     },
     {
       "id": "knowledge-distillation-across-item-and-code-spaces-for-paral-33318w",
@@ -1016,7 +957,7 @@
       "publishedAt": "2026-10-23T17:37:55.000Z",
       "summary": "Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID recomme",
       "category": "Research",
-      "score": 38.375
+      "score": 37.986
     },
     {
       "id": "if-at-first-you-don-t-succeed-backtrack-lightweight-recovery-ebboif",
@@ -1026,7 +967,7 @@
       "publishedAt": "2026-10-23T17:35:33.000Z",
       "summary": "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually requires",
       "category": "Research",
-      "score": 38.373
+      "score": 37.984
     },
     {
       "id": "learning-positive-linear-combinations-of-relus-in-fully-poly-a2gtuc",
@@ -1036,7 +977,7 @@
       "publishedAt": "2026-10-23T17:34:15.000Z",
       "summary": "We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss. We give the first fully-polynomi",
       "category": "Research",
-      "score": 38.372
+      "score": 37.983
     },
     {
       "id": "yalda-embedding-open-development-of-a-competitive-persian-re-zca90y",
@@ -1046,7 +987,7 @@
       "publishedAt": "2026-10-23T17:30:40.000Z",
       "summary": "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embedding models. We presen",
       "category": "Research",
-      "score": 38.369
+      "score": 37.981
     },
     {
       "id": "stroke-simple-sparse-structural-occlusions-for-black-box-adv-xhq0qi",
@@ -1056,7 +997,7 @@
       "publishedAt": "2026-10-23T17:29:00.000Z",
       "summary": "We introduce STROKE, a query-efficient score-based black-box adversarial attack that constructs perturbations from simple oriented rectangular occlusions. STROKE optimizes these perturbations through a lightweight greedy",
       "category": "Research",
-      "score": 38.368
+      "score": 37.98
     },
     {
       "id": "zeno-nonlinear-filtering-with-zakai-equation-neural-operator-1tch7u",
@@ -1066,7 +1007,7 @@
       "publishedAt": "2026-10-23T17:24:31.000Z",
       "summary": "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is gove",
       "category": "Research",
-      "score": 38.364
+      "score": 37.977
     },
     {
       "id": "adaptive-frequency-threshold-byte-pair-encoding-for-mixed-na-n2bcer",
@@ -1076,7 +1017,7 @@
       "publishedAt": "2026-10-23T17:21:18.000Z",
       "summary": "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic boundary. This desi",
       "category": "Research",
-      "score": 38.362
+      "score": 37.974
     },
     {
       "id": "semanteq-faithful-bidirectional-equivalence-of-formal-statem-ucfngc",
@@ -1086,7 +1027,7 @@
       "publishedAt": "2026-10-23T17:20:12.000Z",
       "summary": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to t",
       "category": "Research",
-      "score": 38.361
+      "score": 37.974
     },
     {
       "id": "a-tutorial-on-physics-constrained-machine-learning-for-hybri-ijxhfl",
@@ -1096,7 +1037,7 @@
       "publishedAt": "2026-10-23T17:17:11.000Z",
       "summary": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-Har",
       "category": "Research",
-      "score": 38.358
+      "score": 37.972
     },
     {
       "id": "recommender-regret-for-improving-regularised-rl-estimation-w-pascot",
@@ -1106,7 +1047,7 @@
       "publishedAt": "2026-10-23T17:14:15.000Z",
       "summary": "Regularised reinforcement learning (RL) algorithms rely on estimators, like Monte Carlo tree search or one-step look-ahead, to provide policy, value, or Q-value estimates in training and inference. However, existing band",
       "category": "Research",
-      "score": 38.356
+      "score": 37.97
     },
     {
       "id": "holoboxing-a-simple-recipe-for-humanoid-boxing-with-7-minute-3bai07",
@@ -1116,7 +1057,7 @@
       "publishedAt": "2026-10-23T17:11:28.000Z",
       "summary": "HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner requests future body-p",
       "category": "Research",
-      "score": 38.354
+      "score": 37.968
     },
     {
       "id": "loca-enabling-multi-modality-in-geospatial-location-encoders-8lrkgu",
@@ -1126,7 +1067,7 @@
       "publishedAt": "2026-10-23T17:01:04.000Z",
       "summary": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz loc",
       "category": "Research",
-      "score": 38.345
+      "score": 37.961
     },
     {
       "id": "green-code-or-costly-code-evaluating-the-energy-costs-of-ite-3p6dme",
@@ -1136,7 +1077,7 @@
       "publishedAt": "2026-10-23T16:58:01.000Z",
       "summary": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challeng",
       "category": "Research",
-      "score": 38.343
+      "score": 37.959
     },
     {
       "id": "closing-the-modality-gap-via-simplex-constrained-representat-4rrcgc",
@@ -1146,7 +1087,7 @@
       "publishedAt": "2026-10-23T16:57:48.000Z",
       "summary": "While multimodal contrastive models like CLIP and CLAP successfully learn shared representations, their embeddings typically exhibit a persistent \\emph{modality gap}. We propose addressing this separation through a purel",
       "category": "Research",
-      "score": 38.343
+      "score": 37.958
     },
     {
       "id": "when-human-corrections-travel-safety-in-federated-vla-adapta-bwpb05",
@@ -1156,7 +1097,7 @@
       "publishedAt": "2026-10-23T16:56:03.000Z",
       "summary": "Vision-language-action (VLA) policies can adapt to local human intervention, while federated learning can combine distributed robot experience without pooling raw records. We examine their prospective intersection: shari",
       "category": "Research",
-      "score": 38.341
+      "score": 37.957
     },
     {
       "id": "a-unified-framework-for-image-to-3d-part-generation-via-vari-45oies",
@@ -1207,6 +1148,66 @@
       "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations.",
       "category": "Research",
       "score": 37.691
+    },
+    {
+      "id": "ai-s-hidden-storage-bill-what-inference-leaves-behind-teu71h",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-22T08:41:18.000Z",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
+      "category": "Machine Learning",
+      "score": 34
+    },
+    {
+      "id": "switzerland-block-by-block-at-1-1-scale-pdxh4z",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T08:46:09Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.742
+    },
+    {
+      "id": "websites-should-be-printable-5gse33",
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T10:32:14Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.124
+    },
+    {
+      "id": "show-hn-titleart-make-text-like-it-s-1997-u3zx46",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T03:23:57Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.061
+    },
+    {
+      "id": "ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-pr-iurrp8",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T01:47:46Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 18.888
+    },
+    {
+      "id": "paperpilot-zero-cloud-pure-rust-pdf-engine-with-wasm-and-mcp-tx1dqt",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T03:29:05Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 18.854
     }
   ]
 }
