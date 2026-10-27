@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-27T11:48:58.455Z",
+  "updatedAt": "2026-10-27T17:43:20.347Z",
   "totalItems": 120,
   "categories": {
-    "AI": 50,
+    "AI": 53,
     "Robotics": 19,
-    "Machine Learning": 3,
-    "Research": 48
+    "Machine Learning": 2,
+    "Research": 46
   },
   "items": [
     {
@@ -19,14 +19,14 @@
       "score": 57.363
     },
     {
-      "id": "publish-fake-stats-get-cited-in-llms-c9exuz",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "id": "anthropic-trained-claude-on-illegally-obtained-stanford-prof-drbejb",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T13:06:22Z",
+      "publishedAt": "2026-10-27T15:28:26Z",
       "summary": "",
       "category": "AI",
-      "score": 52.201
+      "score": 52.702
     },
     {
       "id": "openai-cli-tigv76",
@@ -77,6 +77,26 @@
       "summary": "",
       "category": "AI",
       "score": 52.034
+    },
+    {
+      "id": "php2shell-litellm-gitlab-find-what-you-need-to-patch-q9f1f7",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-27T16:25:12Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.99
+    },
+    {
+      "id": "mossad-has-devices-like-the-exploding-pagers-in-every-countr-edvab7",
+      "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\"",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-27T17:31:20Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.921
     },
     {
       "id": "llm-agents-play-pokemon-showdown-8dx67b",
@@ -149,16 +169,6 @@
       "score": 51.727
     },
     {
-      "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-26T18:50:41.000Z",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "category": "Robotics",
-      "score": 51.617
-    },
-    {
       "id": "dolly-parton-s-imagination-library-3ifbox",
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
@@ -199,24 +209,14 @@
       "score": 51.058
     },
     {
-      "id": "benchmarking-bot-detection-systems-against-modern-ai-agents--sz23w4",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T17:10:31Z",
-      "summary": "",
-      "category": "AI",
-      "score": 50.943
-    },
-    {
-      "id": "the-new-economics-of-enterprise-ai-mh6lox",
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-20T15:20:25.000Z",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev",
-      "category": "AI",
-      "score": 50.798
+      "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-26T18:50:41.000Z",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "category": "Robotics",
+      "score": 50.967
     },
     {
       "id": "oai-math-revised-a-community-hub-for-revising-openai-s-math--hdq48s",
@@ -239,6 +239,16 @@
       "score": 50.629
     },
     {
+      "id": "some-iphone-duo-screens-are-already-failing-apple-says-only--zeift3",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-27T14:00:49.000Z",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "category": "AI",
+      "score": 50.405
+    },
+    {
       "id": "compromised-litellm-1-107-0-on-pypi-installs-a-credential-st-hv4cp1",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
@@ -249,14 +259,24 @@
       "score": 50.335
     },
     {
-      "id": "ai-adoption-by-industry-shows-what-other-sectors-can-learn-r6tdxk",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first ",
+      "id": "us-officials-want-section-702-renewed-before-damaging-court--7fx4v4",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-27T13:22:16.000Z",
+      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
       "category": "AI",
-      "score": 50.273
+      "score": 50.307
+    },
+    {
+      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+      "category": "AI",
+      "score": 50.126
     },
     {
       "id": "robotic-therapy-for-stroke-patients-wfbwvg",
@@ -279,16 +299,6 @@
       "score": 48.993
     },
     {
-      "id": "musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-tiwsuv",
-      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-      "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-26T18:09:08.000Z",
-      "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-      "category": "Robotics",
-      "score": 48.537
-    },
-    {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
@@ -299,16 +309,6 @@
       "score": 48.446
     },
     {
-      "id": "some-iphone-duo-screens-are-already-failing-h6l8u2",
-      "title": "Some iPhone Duo screens are already failing",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-26T16:51:49.000Z",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "category": "AI",
-      "score": 48.39
-    },
-    {
       "id": "ukraine-s-drone-rescue-of-wounded-soldier-puts-much-touted-i-h11sx3",
       "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
@@ -317,6 +317,26 @@
       "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
       "category": "Robotics",
       "score": 48.008
+    },
+    {
+      "id": "musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-tiwsuv",
+      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-26T18:09:08.000Z",
+      "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+      "category": "Robotics",
+      "score": 47.896
+    },
+    {
+      "id": "will-the-real-anthropic-please-stand-up-kg0czi",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-26T17:45:43.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
+      "category": "AI",
+      "score": 47.856
     },
     {
       "id": "this-emulator-reimagines-nintendo-s-virtual-boy-with-a-full--1gumhm",
@@ -339,16 +359,6 @@
       "score": 47.712
     },
     {
-      "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-26T09:01:00.000Z",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
-      "category": "AI",
-      "score": 47.577
-    },
-    {
       "id": "review-carrie-is-a-triumphant-remix-with-one-major-flaw-arfrxj",
       "title": "Review: Carrie is a triumphant remix with one major flaw",
       "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
@@ -357,6 +367,16 @@
       "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
       "category": "AI",
       "score": 47.323
+    },
+    {
+      "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-26T09:01:00.000Z",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
+      "category": "AI",
+      "score": 47.047
     },
     {
       "id": "meta-drops-the-word-train-from-its-commercial-tos-after-ai-b-wyijgf",
@@ -377,6 +397,16 @@
       "summary": "",
       "category": "AI",
       "score": 46.416
+    },
+    {
+      "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-06-10T16:42:00Z",
+      "summary": "",
+      "category": "AI",
+      "score": 45.771
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -696,7 +726,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.008
+      "score": 43.007
     },
     {
       "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
@@ -716,7 +746,7 @@
       "publishedAt": "2026-10-26T17:59:44.000Z",
       "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to fi",
       "category": "Research",
-      "score": 41.519
+      "score": 40.88
     },
     {
       "id": "center-of-mass-interpretation-of-evolution-strategies-n53w23",
@@ -726,7 +756,7 @@
       "publishedAt": "2026-10-26T17:59:33.000Z",
       "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate o",
       "category": "Research",
-      "score": 41.519
+      "score": 40.88
     },
     {
       "id": "auto-research-arena-benchmarking-and-advancing-auto-research-a8ktd8",
@@ -736,7 +766,7 @@
       "publishedAt": "2026-10-26T17:59:33.000Z",
       "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating auto",
       "category": "Research",
-      "score": 41.519
+      "score": 40.88
     },
     {
       "id": "vibevideobench-evaluating-multimodal-agents-on-code-driven-v-jshnh5",
@@ -746,7 +776,7 @@
       "publishedAt": "2026-10-26T17:59:32.000Z",
       "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multim",
       "category": "Research",
-      "score": 41.519
+      "score": 40.88
     },
     {
       "id": "learning-force-reactive-humanoid-loco-manipulation-yzmjid",
@@ -756,7 +786,7 @@
       "publishedAt": "2026-10-26T17:59:11.000Z",
       "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. ",
       "category": "Research",
-      "score": 41.518
+      "score": 40.879
     },
     {
       "id": "do-vision-models-know-that-three-is-three-8g7q8u",
@@ -766,7 +796,7 @@
       "publishedAt": "2026-10-26T17:58:17.000Z",
       "summary": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether",
       "category": "Research",
-      "score": 41.516
+      "score": 40.877
     },
     {
       "id": "on-the-stability-of-learning-iz8veo",
@@ -776,7 +806,7 @@
       "publishedAt": "2026-10-26T17:58:14.000Z",
       "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be spars",
       "category": "Research",
-      "score": 41.516
+      "score": 40.877
     },
     {
       "id": "fl4n-feed-forward-latent-model-for-4d-novel-view-synthesis-px3xv5",
@@ -786,7 +816,7 @@
       "publishedAt": "2026-10-26T17:58:03.000Z",
       "summary": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward methods often rely on exp",
       "category": "Research",
-      "score": 41.516
+      "score": 40.877
     },
     {
       "id": "differentiable-contact-dynamics-for-legged-locomotion-policy-6ff1h",
@@ -796,7 +826,7 @@
       "publishedAt": "2026-10-26T17:57:14.000Z",
       "summary": "This paper proposes a smooth analytic gradient for frictional contact and applies it to policy learning and contact-implicit trajectory optimization for legged locomotion. The exact contact sensitivity is available in cl",
       "category": "Research",
-      "score": 41.514
+      "score": 40.876
     },
     {
       "id": "nonprehensile-robotic-catching-using-virtual-constraints-vwsozm",
@@ -806,7 +836,7 @@
       "publishedAt": "2026-10-26T17:57:10.000Z",
       "summary": "The problem of nonprehensile robotic catching is addressed using virtual nonholonomic constraints (VNHCs); the motion of the robot end-effector is designed and controlled directly in terms of the states of the object bef",
       "category": "Research",
-      "score": 41.514
+      "score": 40.876
     },
     {
       "id": "oswam-an-effective-world-action-model-with-one-step-action-g-lznwyl",
@@ -816,7 +846,7 @@
       "publishedAt": "2026-10-26T17:57:09.000Z",
       "summary": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied control. However, t",
       "category": "Research",
-      "score": 41.514
+      "score": 40.876
     },
     {
       "id": "patient-specific-rubric-based-evaluation-of-large-language-m-niw5nr",
@@ -826,7 +856,7 @@
       "publishedAt": "2026-10-26T17:56:26.000Z",
       "summary": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care",
       "category": "Research",
-      "score": 41.513
+      "score": 40.874
     },
     {
       "id": "preserve-to-expand-source-aware-adaptation-and-model-merging-af2wa8",
@@ -836,7 +866,7 @@
       "publishedAt": "2026-10-26T17:56:22.000Z",
       "summary": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based Sp",
       "category": "Research",
-      "score": 41.512
+      "score": 40.874
     },
     {
       "id": "work-agents-systems-capabilities-and-optimization-hj2x8r",
@@ -846,7 +876,7 @@
       "publishedAt": "2026-10-26T17:56:21.000Z",
       "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a",
       "category": "Research",
-      "score": 41.512
+      "score": 40.874
     },
     {
       "id": "medvtok-a-general-purpose-medical-visual-tokenizer-y86vrc",
@@ -856,7 +886,7 @@
       "publishedAt": "2026-10-26T17:54:40.000Z",
       "summary": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a specific dimension and ",
       "category": "Research",
-      "score": 41.509
+      "score": 40.871
     },
     {
       "id": "i-hitl-inalienable-human-in-the-loop-hby2ht",
@@ -866,7 +896,7 @@
       "publishedAt": "2026-10-26T17:52:14.000Z",
       "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the que",
       "category": "Research",
-      "score": 41.505
+      "score": 40.867
     },
     {
       "id": "information-theoretic-secure-aggregation-with-heterogeneous--efwbh0",
@@ -876,7 +906,7 @@
       "publishedAt": "2026-10-26T17:51:08.000Z",
       "summary": "In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the server, beyond their sum.",
       "category": "Research",
-      "score": 41.502
+      "score": 40.865
     },
     {
       "id": "profiling-a-frontier-agent-with-ebench-from-direct-control-t-vviykx",
@@ -886,7 +916,7 @@
       "publishedAt": "2026-10-26T17:51:02.000Z",
       "summary": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model ",
       "category": "Research",
-      "score": 41.502
+      "score": 40.865
     },
     {
       "id": "reva-real-time-vulnerability-detection-through-contextual-pr-v48yxo",
@@ -896,7 +926,7 @@
       "publishedAt": "2026-10-26T17:50:09.000Z",
       "summary": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agen",
       "category": "Research",
-      "score": 41.501
+      "score": 40.864
     },
     {
       "id": "seeing-through-distractions-context-stable-attribution-via-t-j4u798",
@@ -906,7 +936,7 @@
       "publishedAt": "2026-10-26T17:49:16.000Z",
       "summary": "Shapley-value-based explanations are widely used for feature attribution in machine learning. However, in computer vision, a feature may reduce the target-class score when added to the complete genuine image, even when t",
       "category": "Research",
-      "score": 41.499
+      "score": 40.862
     },
     {
       "id": "understanding-jev-style-system-one-models-does-structure-red-6kxvri",
@@ -916,7 +946,7 @@
       "publishedAt": "2026-10-26T17:48:55.000Z",
       "summary": "Selection bias in large language models (LLMs) can persist despite instructions to ignore presentation order or prompts that elicit reasoning. Recent efforts to reproduce Jev-style System One behavior have produced a gro",
       "category": "Research",
-      "score": 41.498
+      "score": 40.862
     },
     {
       "id": "back-to-basics-a-skill-centric-approach-to-generalist-web-ag-67mzb1",
@@ -926,7 +956,7 @@
       "publishedAt": "2026-10-26T17:47:07.000Z",
       "summary": "Browser agents do not just need more practice. They need to practice the right things. We introduce MiniWeb, a realistic miniature of the web comprising 65 interconnected websites across 15 domains, where agents navigate",
       "category": "Research",
-      "score": 41.495
+      "score": 40.859
     },
     {
       "id": "pretraining-knows-what-simulation-teaches-how-compositional--jmxjo",
@@ -936,7 +966,7 @@
       "publishedAt": "2026-10-26T17:44:34.000Z",
       "summary": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a ",
       "category": "Research",
-      "score": 41.49
+      "score": 40.854
     },
     {
       "id": "multimodal-concert-video-editing-system-design-and-explorato-fzw5aw",
@@ -946,7 +976,7 @@
       "publishedAt": "2026-10-26T17:43:58.000Z",
       "summary": "Editing multi-camera concerts requires coordinated decisions about musical relevance, visual quality and cut timing. We present a modular framework that combines instrument activity from multitrack audio, visible instrum",
       "category": "Research",
-      "score": 41.489
+      "score": 40.853
     },
     {
       "id": "does-vggt-know-what-it-does-not-know-eanbg3",
@@ -956,7 +986,7 @@
       "publishedAt": "2026-10-26T17:37:39.000Z",
       "summary": "Feed-forward 3D reconstruction models such as VGGT regress cameras and geometry in a single forward pass, but they report no uncertainty for the camera poses they predict: an incorrect relative pose looks no different fr",
       "category": "Research",
-      "score": 41.477
+      "score": 40.843
     },
     {
       "id": "learning-when-to-commit-schedule-distillation-for-fast-diffu-vrr0ib",
@@ -966,7 +996,7 @@
       "publishedAt": "2026-10-26T17:35:58.000Z",
       "summary": "Diffusion large language models (dLLMs) can generate multiple tokens in parallel, but often require many decoding rounds to complete a response. Efficient generation depends not only on which tokens are easy to predict, ",
       "category": "Research",
-      "score": 41.474
+      "score": 40.84
     },
     {
       "id": "game-theory-of-academic-effort-and-hiring-in-the-age-of-ai-405o2d",
@@ -976,7 +1006,7 @@
       "publishedAt": "2026-10-26T17:35:30.000Z",
       "summary": "Many academic disciplines (in particular, mathematics and the theoretical sciences) face difficult questions about how to adapt their practices to the rise of highly capable artificial intelligence (AI). Before AI, a wel",
       "category": "Research",
-      "score": 41.473
+      "score": 40.839
     },
     {
       "id": "focus-active-critic-learning-for-long-horizon-language-model-e9ym8w",
@@ -986,7 +1016,7 @@
       "publishedAt": "2026-10-26T17:34:47.000Z",
       "summary": "Sparse outcome rewards make it difficult for long-horizon language-model agents to assign credit to earlier actions. Learned critics provide value estimates for intermediate states, but these estimates can be inaccurate,",
       "category": "Research",
-      "score": 41.471
+      "score": 40.838
     },
     {
       "id": "quantifying-claim-smoothing-by-llm-research-agents-w1t4gy",
@@ -996,7 +1026,7 @@
       "publishedAt": "2026-10-26T17:29:48.000Z",
       "summary": "Deep research, or any use of large language models (LLMs) to read a large document collection and produce insights, requires synthesizing information from different sources. In this work, we find that LLMs produce long-f",
       "category": "Research",
-      "score": 41.462
+      "score": 40.829
     },
     {
       "id": "selective-tie-learning-mitigating-spurious-correlations-in-p-j3y577",
@@ -1006,27 +1036,7 @@
       "publishedAt": "2026-10-26T17:26:32.000Z",
       "summary": "Preference optimization can learn spurious correlations, and augmenting the preference data with ties (equally preferred responses) can reduce spurious reliance. However, ties differ in their corrective effect, making th",
       "category": "Research",
-      "score": 41.456
-    },
-    {
-      "id": "google-open-sources-torchtpu-a-native-pytorch-back-end-for-t-kidr83",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-20T16:40:24Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 40.958
-    },
-    {
-      "id": "how-solid-state-transformers-could-help-power-the-ai-boom-t1to3m",
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T09:00:00.000Z",
-      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t chang",
-      "category": "Machine Learning",
-      "score": 40.544
+      "score": 40.824
     },
     {
       "id": "agentic-world-action-models-bvwn7p",
@@ -1087,6 +1097,16 @@
       "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an o",
       "category": "Research",
       "score": 40.523
+    },
+    {
+      "id": "how-solid-state-transformers-could-help-power-the-ai-boom-t1to3m",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t chang",
+      "category": "Machine Learning",
+      "score": 39.671
     },
     {
       "id": "a-unified-framework-for-image-to-3d-part-generation-via-vari-45oies",
@@ -1187,26 +1207,6 @@
       "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles",
       "category": "Research",
       "score": 37.626
-    },
-    {
-      "id": "dexport-a-hand-held-skill-interface-for-dexterous-hand-data--u4jt49",
-      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-      "url": "http://arxiv.org/abs/2610.32969v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-23T17:56:28.000Z",
-      "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coo",
-      "category": "Research",
-      "score": 37.625
-    },
-    {
-      "id": "mid-vlm-detecting-and-grounding-global-semantic-misinformati-w57b6v",
-      "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
-      "url": "http://arxiv.org/abs/2610.32967v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-23T17:55:02.000Z",
-      "summary": "Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, methods designed to detect",
-      "category": "Research",
-      "score": 37.625
     }
   ]
 }
