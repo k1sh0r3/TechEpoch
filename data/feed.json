@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:21:26.005Z",
+  "updatedAt": "2026-10-29T04:57:35.418Z",
   "totalItems": 120,
   "categories": {
     "AI": 51,
@@ -20,16 +20,6 @@
       "score": 57.363
     },
     {
-      "id": "gemini-4-carbon-q9g8f0",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T17:01:23Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.997
-    },
-    {
       "id": "anthropic-trained-claude-on-illegally-obtained-stanford-prof-drbejb",
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
@@ -38,16 +28,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.554
-    },
-    {
-      "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T15:46:30Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.203
     },
     {
       "id": "openai-cli-tigv76",
@@ -80,6 +60,16 @@
       "score": 52.175
     },
     {
+      "id": "gemini-4-carbon-q9g8f0",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-28T17:01:23Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.17
+    },
+    {
       "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-opena-yv50ha",
       "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
       "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
@@ -108,16 +98,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.921
-    },
-    {
-      "id": "llm-agents-play-pokemon-showdown-8dx67b",
-      "title": "LLM Agents Play Pokemon Showdown",
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-22T02:13:48Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.902
     },
     {
       "id": "show-hn-hob-open-source-on-device-alternative-to-claude-cowo-3uyyob",
@@ -168,6 +148,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.727
+    },
+    {
+      "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-28T15:46:30Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.417
     },
     {
       "id": "survival-llm-ai-assistant-and-emergency-library-that-runs-on-dy8e92",
@@ -260,16 +250,6 @@
       "score": 48.02
     },
     {
-      "id": "the-grid-a-factory-scale-robot-in-massachusetts-that-builds--70hh6g",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-26T13:13:31Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 48.008
-    },
-    {
       "id": "us-officials-want-section-702-renewed-before-damaging-court--7fx4v4",
       "title": "US officials want Section 702 renewed before damaging court ruling goes public",
       "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
@@ -280,14 +260,14 @@
       "score": 47.953
     },
     {
-      "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T21:50:04.000Z",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "category": "AI",
-      "score": 47.8
+      "id": "the-grid-a-factory-scale-robot-in-massachusetts-that-builds--70hh6g",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T13:13:31Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 47.792
     },
     {
       "id": "this-emulator-reimagines-nintendo-s-virtual-boy-with-a-full--1gumhm",
@@ -300,16 +280,6 @@
       "score": 47.779
     },
     {
-      "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T21:31:14.000Z",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-      "category": "AI",
-      "score": 47.768
-    },
-    {
       "id": "musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-tiwsuv",
       "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
       "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
@@ -320,6 +290,36 @@
       "score": 47.483
     },
     {
+      "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-27T21:50:04.000Z",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "category": "AI",
+      "score": 47.183
+    },
+    {
+      "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-27T21:31:14.000Z",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "category": "AI",
+      "score": 47.156
+    },
+    {
+      "id": "openai-s-agents-talked-to-each-other-through-the-cpu-cache-b58vkf",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-26T21:24:18Z",
+      "summary": "",
+      "category": "AI",
+      "score": 46.815
+    },
+    {
       "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
@@ -327,7 +327,7 @@
       "publishedAt": "2026-10-27T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
       "category": "AI",
-      "score": 46.924
+      "score": 46.42
     },
     {
       "id": "regent-s-ground-effect-vehicle-reimagines-coastal-travel-bgwc9d",
@@ -357,17 +357,7 @@
       "publishedAt": "2026-10-26T17:45:43.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
       "category": "AI",
-      "score": 45.674
-    },
-    {
-      "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-26T09:01:00.000Z",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
-      "category": "AI",
-      "score": 45.229
+      "score": 45.331
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -378,6 +368,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-26T09:01:00.000Z",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
+      "category": "AI",
+      "score": 44.942
     },
     {
       "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
@@ -687,7 +687,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
@@ -847,7 +847,7 @@
       "publishedAt": "2026-10-27T17:59:59.000Z",
       "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel",
       "category": "Research",
-      "score": 40.431
+      "score": 39.862
     },
     {
       "id": "thinkworld-world-imagination-reinforces-chain-of-dynamics-re-g2nnti",
@@ -857,7 +857,7 @@
       "publishedAt": "2026-10-27T17:59:52.000Z",
       "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos ",
       "category": "Research",
-      "score": 40.431
+      "score": 39.862
     },
     {
       "id": "can-discrete-tokens-serve-as-semantically-lossless-represent-4k8gs5",
@@ -867,7 +867,7 @@
       "publishedAt": "2026-10-27T17:59:22.000Z",
       "summary": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely ",
       "category": "Research",
-      "score": 40.43
+      "score": 39.861
     },
     {
       "id": "when-should-we-intervene-at-test-time-96rsqg",
@@ -877,7 +877,7 @@
       "publishedAt": "2026-10-27T17:58:53.000Z",
       "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet",
       "category": "Research",
-      "score": 40.429
+      "score": 39.86
     },
     {
       "id": "heads-of-security-learned-attention-gates-improve-prompt-inj-7256ks",
@@ -887,7 +887,7 @@
       "publishedAt": "2026-10-27T17:58:52.000Z",
       "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention betwe",
       "category": "Research",
-      "score": 40.429
+      "score": 39.86
     },
     {
       "id": "attention-as-lattice-gauge-theory-relations-interact-only-th-4sk4yr",
@@ -897,7 +897,7 @@
       "publishedAt": "2026-10-27T17:58:48.000Z",
       "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a co",
       "category": "Research",
-      "score": 40.429
+      "score": 39.86
     },
     {
       "id": "kppax-preprocess-differentiable-kinetic-ode-for-machine-lear-mnljop",
@@ -907,7 +907,7 @@
       "publishedAt": "2026-10-27T17:58:40.000Z",
       "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in w",
       "category": "Research",
-      "score": 40.429
+      "score": 39.86
     },
     {
       "id": "pushing-dexterity-and-safety-for-in-hand-object-pose-reachin-joqcw5",
@@ -917,7 +917,7 @@
       "publishedAt": "2026-10-27T17:58:20.000Z",
       "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more dem",
       "category": "Research",
-      "score": 40.429
+      "score": 39.859
     },
     {
       "id": "gepa-curator-curated-learning-for-self-improving-agents-wxelk0",
@@ -927,7 +927,7 @@
       "publishedAt": "2026-10-27T17:58:11.000Z",
       "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollou",
       "category": "Research",
-      "score": 40.428
+      "score": 39.859
     },
     {
       "id": "can-llms-uncover-hidden-physical-laws-through-free-explorati-y47yv9",
@@ -937,7 +937,7 @@
       "publishedAt": "2026-10-27T17:57:00.000Z",
       "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier o",
       "category": "Research",
-      "score": 40.427
+      "score": 39.858
     },
     {
       "id": "scaling-laws-for-tool-use-agents-via-controllable-environmen-nsuvo3",
@@ -947,7 +947,7 @@
       "publishedAt": "2026-10-27T17:56:46.000Z",
       "summary": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects ",
       "category": "Research",
-      "score": 40.426
+      "score": 39.857
     },
     {
       "id": "muongs-pretraining-llms-with-relaxed-weight-norm-control-mwkz4v",
@@ -957,7 +957,7 @@
       "publishedAt": "2026-10-27T17:56:40.000Z",
       "summary": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains incomplete. We analyze n",
       "category": "Research",
-      "score": 40.426
+      "score": 39.857
     },
     {
       "id": "multi-state-linear-attention-with-generalized-second-order-r-7126jh",
@@ -967,7 +967,7 @@
       "publishedAt": "2026-10-27T17:55:49.000Z",
       "summary": "Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) mechanisms have been p",
       "category": "Research",
-      "score": 40.425
+      "score": 39.856
     },
     {
       "id": "metacognitive-decoding-efficient-inference-for-diffusion-lan-zdscda",
@@ -977,7 +977,7 @@
       "publishedAt": "2026-10-27T17:55:24.000Z",
       "summary": "Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much text is generated. We ",
       "category": "Research",
-      "score": 40.424
+      "score": 39.856
     },
     {
       "id": "repurposing-video-diffusion-transformers-for-cross-view-temp-njwahm",
@@ -987,7 +987,7 @@
       "publishedAt": "2026-10-27T17:53:34.000Z",
       "summary": "Cross-view object correspondence identifies the same object across views. However, existing methods often rely on frame-wise matching or sequential tracking, which can propagate correspondence errors under appearance cha",
       "category": "Research",
-      "score": 40.421
+      "score": 39.853
     },
     {
       "id": "what-improves-during-pretraining-tracking-knowledge-acquisit-m7g7x2",
@@ -997,7 +997,7 @@
       "publishedAt": "2026-10-27T17:52:38.000Z",
       "summary": "Language models pretrained on web corpora collected over multiple years learn both general and domain-specific knowledge. How these different kinds of knowledge are learned as pretraining progresses remains unclear. Rece",
       "category": "Research",
-      "score": 40.42
+      "score": 39.852
     },
     {
       "id": "know-then-draw-a-new-learning-paradigm-for-visual-generation-g7d9gf",
@@ -1007,7 +1007,7 @@
       "publishedAt": "2026-10-27T17:50:20.000Z",
       "summary": "Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning paradigm that assigns these roles to autoregressive pretraining for knowledge acquisition and diffusion ",
       "category": "Research",
-      "score": 40.416
+      "score": 39.849
     },
     {
       "id": "rare-relevant-and-still-wrong-how-memory-fails-llm-group-dec-t5e20k",
@@ -1017,7 +1017,7 @@
       "publishedAt": "2026-10-27T17:49:39.000Z",
       "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On ",
       "category": "Research",
-      "score": 40.415
+      "score": 39.848
     },
     {
       "id": "perceiving-and-predicting-dynamic-sports-spatiotemporal-inte-sd0oya",
@@ -1027,7 +1027,7 @@
       "publishedAt": "2026-10-27T17:47:14.000Z",
       "summary": "Agile robots require spatiotemporal intelligence to interpret scenes, reason about interactions, and anticipate future events. Yet it remains unclear how well foundation vision models support these capabilities, particul",
       "category": "Research",
-      "score": 40.412
+      "score": 39.845
     },
     {
       "id": "videolvr-latent-visual-reasoning-over-grounded-video-evidenc-ah9n9",
@@ -1037,7 +1037,7 @@
       "publishedAt": "2026-10-27T17:41:56.000Z",
       "summary": "Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mechanism for models to revisit re",
       "category": "Research",
-      "score": 40.403
+      "score": 39.838
     },
     {
       "id": "envsched-environment-aware-scheduling-for-rollout-efficient--mp4tuu",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-10-27T17:38:52.000Z",
       "summary": "As executable environments for language agents scale, generating and verifying their rollouts becomes increasingly expensive. Under finite rollout budgets, this raises an important question: can data management at the en",
       "category": "Research",
-      "score": 40.399
+      "score": 39.833
     },
     {
       "id": "beyond-answer-changes-matched-same-class-controls-for-local--7bhwho",
@@ -1057,7 +1057,7 @@
       "publishedAt": "2026-10-27T17:36:06.000Z",
       "summary": "For audio-language models, an answer change after a local sound-event edit can reflect a response to the event's class, sensitivity to waveform rewriting, or both. We compare matched same-class and different-class replac",
       "category": "Research",
-      "score": 40.395
+      "score": 39.83
     },
     {
       "id": "resple2-inertial-informed-recursive-non-uniform-spline-estim-142156",
@@ -1067,7 +1067,7 @@
       "publishedAt": "2026-10-27T17:33:19.000Z",
       "summary": "We present RESPLE2, a recursive multi-sensor state estimation framework using non-uniform B-splines for 6-DoF motion representation. By exploiting the knot-clamping boundary property, we propose a theoretically grounded ",
       "category": "Research",
-      "score": 40.39
+      "score": 39.826
     },
     {
       "id": "moi-bench-a-benchmark-for-image-generation-and-editing-on-mo-5o98y3",
@@ -1077,7 +1077,7 @@
       "publishedAt": "2026-10-27T17:31:40.000Z",
       "summary": "Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide limited guidance on identifying capability gaps between on-dev",
       "category": "Research",
-      "score": 40.388
+      "score": 39.824
     },
     {
       "id": "gas-pfn-graph-aware-spatiotemporal-prior-data-fitted-network-7w74op",
@@ -1087,7 +1087,7 @@
       "publishedAt": "2026-10-27T17:31:26.000Z",
       "summary": "Traffic forecasting requires modeling complex temporal dynamics and the spatial dependencies imposed by road topology. Supervised graph-based models achieve strong performance, but are often trained for a particular data",
       "category": "Research",
-      "score": 40.387
+      "score": 39.824
     },
     {
       "id": "understanding-the-limits-of-latent-world-models-ip0xls",
@@ -1097,7 +1097,7 @@
       "publishedAt": "2026-10-27T17:25:50.000Z",
       "summary": "World models are widely proposed as core components for enabling agents to reason over long temporal and spatial horizons. Yet current evaluations often emphasize task performance while providing limited insight into whe",
       "category": "Research",
-      "score": 40.379
+      "score": 39.816
     },
     {
       "id": "timestral-y1xvm7",
@@ -1107,7 +1107,7 @@
       "publishedAt": "2026-10-27T17:25:43.000Z",
       "summary": "We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral sets a new state of the art on GIFT-Eval, TIME, and fev-bench, wher",
       "category": "Research",
-      "score": 40.379
+      "score": 39.816
     },
     {
       "id": "reger-modeling-inter-item-relations-with-semantic-ids-for-ge-re25oz",
@@ -1117,7 +1117,7 @@
       "publishedAt": "2026-10-27T17:25:12.000Z",
       "summary": "Personalized recommendation depends on learning semantic and collaborative relations among items from online content and user interactions. Generative recommendation (GR) offers a promising paradigm by autoregressively g",
       "category": "Research",
-      "score": 40.378
+      "score": 39.815
     },
     {
       "id": "zero-shot-multimodal-event-spotting-in-soccer-broadcasts-m4w843",
@@ -1127,7 +1127,7 @@
       "publishedAt": "2026-10-27T17:24:35.000Z",
       "summary": "Automatic soccer event spotting supports highlight generation, video indexing, and sports analytics, but existing methods depend on large annotated datasets and soccer-specific training. We present a zero-shot framework ",
       "category": "Research",
-      "score": 40.377
+      "score": 39.815
     },
     {
       "id": "egothumb-a-vision-driven-supernumerary-robotic-thumb-for-aut-dsu8kp",
@@ -1137,7 +1137,7 @@
       "publishedAt": "2026-10-27T17:22:25.000Z",
       "summary": "Supernumerary robotic fingers augment human dexterity by enabling a single hand to perform complex \"hold-and-manipulate\" tasks that typically require bimanual coordination. However, existing devices are often hindered by",
       "category": "Research",
-      "score": 40.374
+      "score": 39.812
     },
     {
       "id": "how-solid-state-transformers-could-help-power-the-ai-boom-t1to3m",
@@ -1147,17 +1147,7 @@
       "publishedAt": "2026-10-27T09:00:00.000Z",
       "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t chang",
       "category": "Machine Learning",
-      "score": 36.674
-    },
-    {
-      "id": "why-is-this-fingerprinting-script-creating-bioweapons-ew8nr4",
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T17:13:29Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.928
+      "score": 36.201
     },
     {
       "id": "leak-exposes-41-000-homeland-security-workers-including-unde-708og",
@@ -1170,44 +1160,54 @@
       "score": 19.893
     },
     {
-      "id": "macbook-pro-with-proled-xdr-display-and-touch-ipjzqd",
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "id": "claude-code-burns-15-20-of-your-tokens-on-a-3-word-status-li-39pzz9",
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T17:10:37Z",
+      "publishedAt": "2026-10-29T03:33:42Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.821
+      "score": 19.846
     },
     {
-      "id": "google-ai-gets-cagey-when-asked-who-won-the-2020-elections-9tt1py",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "id": "qwenputer-a-functioning-deterministic-risc-v-cpu-inside-qwen-81liwl",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T20:10:16Z",
+      "publishedAt": "2026-10-29T00:25:45Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.583
+      "score": 19.635
     },
     {
-      "id": "formlabs-studio-1-699-resin-printer-fyyics",
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "id": "stackoverflow-now-gets-fewer-than-1000-questions-a-month-fhmqk2",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T21:19:30Z",
+      "publishedAt": "2026-10-28T23:35:02Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.57
+      "score": 19.499
     },
     {
-      "id": "cnc-stone-carving-4y6b8j",
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "id": "the-milwaukee-brewers-win-the-first-world-series-title-in-fr-bfl89n",
+      "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+      "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T14:38:22Z",
+      "publishedAt": "2026-10-29T03:44:12Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.356
+      "score": 19.343
+    },
+    {
+      "id": "gitlab-security-incident-attempted-exploitation-of-cve-2026--u318fv",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-28T23:45:46Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.269
     }
   ]
 }
