@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T12:24:04.632Z",
+  "updatedAt": "2026-10-30T22:03:27.872Z",
   "totalItems": 120,
   "categories": {
-    "AI": 52,
+    "AI": 55,
     "Robotics": 17,
     "Machine Learning": 1,
-    "Research": 50
+    "Research": 47
   },
   "items": [
     {
@@ -27,6 +27,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.885
+    },
+    {
+      "id": "anthropic-may-not-secure-investment-grade-rating-after-ipo-b-9dtd6x",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-30T17:27:25Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.642
     },
     {
       "id": "anthropic-trained-claude-on-illegally-obtained-stanford-prof-drbejb",
@@ -107,6 +117,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.841
+    },
+    {
+      "id": "embraer-s-atech-aims-to-double-in-size-by-2030-with-drone-tr-37r8st",
+      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-30T20:18:18Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 51.827
     },
     {
       "id": "php2shell-litellm-gitlab-find-what-you-need-to-patch-q9f1f7",
@@ -229,14 +249,14 @@
       "score": 50.787
     },
     {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
       "category": "AI",
-      "score": 50.633
+      "score": 50.587
     },
     {
       "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
@@ -249,14 +269,14 @@
       "score": 50.548
     },
     {
-      "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
-      "title": "Trump declares robot imports a national security threat",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-29T19:07:53.000Z",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "category": "Robotics",
-      "score": 48.583
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "category": "AI",
+      "score": 49.789
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -289,14 +309,14 @@
       "score": 47.953
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 47.829
+      "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
+      "title": "Trump declares robot imports a national security threat",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-29T19:07:53.000Z",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "category": "Robotics",
+      "score": 47.565
     },
     {
       "id": "the-grid-a-factory-scale-robot-in-massachusetts-that-builds--70hh6g",
@@ -307,6 +327,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 47.524
+    },
+    {
+      "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co-3jfwow",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-28T12:24:25Z",
+      "summary": "",
+      "category": "AI",
+      "score": 47.511
     },
     {
       "id": "openai-s-agents-talked-to-each-other-through-the-cpu-cache-b58vkf",
@@ -337,6 +367,16 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
       "category": "AI",
       "score": 47.156
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 46.949
     },
     {
       "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
@@ -396,17 +436,7 @@
       "publishedAt": "2026-10-27T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
       "category": "AI",
-      "score": 44.776
-    },
-    {
-      "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T17:18:31.000Z",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "category": "Robotics",
-      "score": 44.604
+      "score": 44.453
     },
     {
       "id": "will-the-real-anthropic-please-stand-up-kg0czi",
@@ -696,7 +726,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.002
+      "score": 43.001
     },
     {
       "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
@@ -1016,7 +1046,7 @@
       "publishedAt": "2026-10-29T17:59:53.000Z",
       "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
       "category": "Research",
-      "score": 41.452
+      "score": 40.459
     },
     {
       "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
@@ -1026,7 +1056,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
       "category": "Research",
-      "score": 41.452
+      "score": 40.459
     },
     {
       "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
@@ -1036,7 +1066,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
       "category": "Research",
-      "score": 41.452
+      "score": 40.459
     },
     {
       "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
@@ -1046,7 +1076,7 @@
       "publishedAt": "2026-10-29T17:59:29.000Z",
       "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
       "category": "Research",
-      "score": 41.452
+      "score": 40.458
     },
     {
       "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
@@ -1056,7 +1086,7 @@
       "publishedAt": "2026-10-29T17:59:21.000Z",
       "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
       "category": "Research",
-      "score": 41.451
+      "score": 40.458
     },
     {
       "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
@@ -1066,7 +1096,7 @@
       "publishedAt": "2026-10-29T17:59:20.000Z",
       "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
       "category": "Research",
-      "score": 41.451
+      "score": 40.458
     },
     {
       "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
@@ -1076,7 +1106,7 @@
       "publishedAt": "2026-10-29T17:59:01.000Z",
       "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
       "category": "Research",
-      "score": 41.451
+      "score": 40.457
     },
     {
       "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
@@ -1086,7 +1116,7 @@
       "publishedAt": "2026-10-29T17:58:59.000Z",
       "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
       "category": "Research",
-      "score": 41.451
+      "score": 40.457
     },
     {
       "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
@@ -1096,7 +1126,7 @@
       "publishedAt": "2026-10-29T17:58:53.000Z",
       "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
       "category": "Research",
-      "score": 41.45
+      "score": 40.457
     },
     {
       "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
@@ -1106,7 +1136,7 @@
       "publishedAt": "2026-10-29T17:58:45.000Z",
       "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
       "category": "Research",
-      "score": 41.45
+      "score": 40.457
     },
     {
       "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
@@ -1116,7 +1146,7 @@
       "publishedAt": "2026-10-29T17:58:23.000Z",
       "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
       "category": "Research",
-      "score": 41.449
+      "score": 40.456
     },
     {
       "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
@@ -1126,7 +1156,7 @@
       "publishedAt": "2026-10-29T17:58:16.000Z",
       "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
       "category": "Research",
-      "score": 41.449
+      "score": 40.456
     },
     {
       "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
@@ -1136,7 +1166,7 @@
       "publishedAt": "2026-10-29T17:58:00.000Z",
       "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
       "category": "Research",
-      "score": 41.449
+      "score": 40.456
     },
     {
       "id": "shallowdefend-harnessing-shallow-safety-alignment-for-multi--108knu",
@@ -1146,7 +1176,7 @@
       "publishedAt": "2026-10-29T17:56:53.000Z",
       "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mech",
       "category": "Research",
-      "score": 41.447
+      "score": 40.454
     },
     {
       "id": "testimony-from-timelines-evidence-grounded-significance-test-t04gzx",
@@ -1156,7 +1186,7 @@
       "publishedAt": "2026-10-29T17:55:30.000Z",
       "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behin",
       "category": "Research",
-      "score": 41.444
+      "score": 40.452
     },
     {
       "id": "an-ode-based-sampler-for-discrete-diffusion-models-vwtxj4",
@@ -1166,7 +1196,7 @@
       "publishedAt": "2026-10-29T17:55:25.000Z",
       "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consist",
       "category": "Research",
-      "score": 41.444
+      "score": 40.452
     },
     {
       "id": "difficulty-calibration-across-time-for-membership-inference--4jr3t9",
@@ -1176,37 +1206,7 @@
       "publishedAt": "2026-10-29T17:54:54.000Z",
       "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. T",
       "category": "Research",
-      "score": 41.443
-    },
-    {
-      "id": "l3g-world-real-time-infinite-world-generation-with-latent-3d-6cp4vi",
-      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-      "url": "http://arxiv.org/abs/2610.40614v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:54:42.000Z",
-      "summary": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either tempora",
-      "category": "Research",
-      "score": 41.443
-    },
-    {
-      "id": "textseal2-distortion-free-llm-watermarking-with-copula-mixin-z3yc8u",
-      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-      "url": "http://arxiv.org/abs/2610.40613v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:54:12.000Z",
-      "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance ",
-      "category": "Research",
-      "score": 41.442
-    },
-    {
-      "id": "when-to-assist-and-what-to-suggest-joint-gating-and-memory-g-78ouva",
-      "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
-      "url": "http://arxiv.org/abs/2610.40611v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:54:07.000Z",
-      "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 2",
-      "category": "Research",
-      "score": 41.441
+      "score": 40.451
     }
   ]
 }
