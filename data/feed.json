@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T04:57:16.388Z",
+  "updatedAt": "2026-10-30T12:24:04.632Z",
   "totalItems": 120,
   "categories": {
-    "AI": 51,
-    "Robotics": 18,
-    "Machine Learning": 2,
-    "Research": 49
+    "AI": 52,
+    "Robotics": 17,
+    "Machine Learning": 1,
+    "Research": 50
   },
   "items": [
     {
@@ -17,6 +17,16 @@
       "summary": "",
       "category": "AI",
       "score": 57.363
+    },
+    {
+      "id": "anthropic-hacked-to-deliver-remote-access-trojan-x5qupw",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-30T10:22:51Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.885
     },
     {
       "id": "anthropic-trained-claude-on-illegally-obtained-stanford-prof-drbejb",
@@ -37,16 +47,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.451
-    },
-    {
-      "id": "we-ran-ai-agent-swarms-in-minecraft-and-mindustry-9xdgyv",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-29T21:40:28Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.226
     },
     {
       "id": "gpt-6-1-terra-ox5261",
@@ -129,26 +129,6 @@
       "score": 51.727
     },
     {
-      "id": "h-264-is-magic-2016-c8racx",
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-29T15:53:03Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.653
-    },
-    {
-      "id": "llm-voice-fabl",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-29T14:57:55Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.567
-    },
-    {
       "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -159,14 +139,14 @@
       "score": 51.417
     },
     {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "id": "we-ran-ai-agent-swarms-in-minecraft-and-mindustry-9xdgyv",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-29T21:40:28Z",
+      "summary": "",
       "category": "AI",
-      "score": 51.411
+      "score": 51.385
     },
     {
       "id": "gemini-4-carbon-q9g8f0",
@@ -219,6 +199,26 @@
       "score": 51.125
     },
     {
+      "id": "h-264-is-magic-2016-c8racx",
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-29T15:53:03Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.878
+    },
+    {
+      "id": "llm-voice-fabl",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-29T14:57:55Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.821
+    },
+    {
       "id": "oai-math-revised-a-community-hub-for-revising-openai-s-math--hdq48s",
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
@@ -227,6 +227,16 @@
       "summary": "",
       "category": "AI",
       "score": 50.787
+    },
+    {
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "category": "AI",
+      "score": 50.633
     },
     {
       "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
@@ -246,17 +256,7 @@
       "publishedAt": "2026-10-29T19:07:53.000Z",
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
       "category": "Robotics",
-      "score": 49.519
-    },
-    {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 48.639
+      "score": 48.583
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -287,6 +287,16 @@
       "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
       "category": "AI",
       "score": 47.953
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 47.829
     },
     {
       "id": "the-grid-a-factory-scale-robot-in-massachusetts-that-builds--70hh6g",
@@ -369,16 +379,6 @@
       "score": 45.182
     },
     {
-      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
-      "category": "AI",
-      "score": 45.074
-    },
-    {
       "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -389,14 +389,14 @@
       "score": 44.942
     },
     {
-      "id": "ukraine-learns-to-fight-without-starlink-as-musk-plays-polit-cp5kc9",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-23T11:30:22.000Z",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-      "category": "Robotics",
-      "score": 44.748
+      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+      "category": "AI",
+      "score": 44.776
     },
     {
       "id": "intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-ka0dk5",
@@ -709,16 +709,6 @@
       "score": 42.535
     },
     {
-      "id": "show-hn-i-turned-doom-into-a-transformer-bolir7",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-29T23:25:46Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.908
-    },
-    {
       "id": "hybrid-ai-patterns-thirteen-ways-to-couple-language-models-w-13aiqv",
       "title": "Hybrid AI Patterns: Thirteen Ways to Couple Language Models with Rules, and How to Choose Among Them",
       "url": "http://arxiv.org/abs/2610.40036v1",
@@ -1019,194 +1009,204 @@
       "score": 41.678
     },
     {
-      "id": "retriever-free-retrieval-navigating-documents-with-decision--26ilap",
-      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-      "url": "http://arxiv.org/abs/2610.35868v1",
+      "id": "elucidating-the-design-space-of-lm-data-attribution-m2evm3",
+      "title": "Elucidating the Design Space of LM Data Attribution",
+      "url": "http://arxiv.org/abs/2610.40655v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:59:44.000Z",
-      "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to fi",
+      "publishedAt": "2026-10-29T17:59:53.000Z",
+      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
       "category": "Research",
-      "score": 40.468
+      "score": 41.452
     },
     {
-      "id": "center-of-mass-interpretation-of-evolution-strategies-n53w23",
-      "title": "Center-of-Mass Interpretation of Evolution Strategies",
-      "url": "http://arxiv.org/abs/2610.35865v1",
+      "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
+      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "url": "http://arxiv.org/abs/2610.40654v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:59:33.000Z",
-      "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate o",
+      "publishedAt": "2026-10-29T17:59:49.000Z",
+      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
       "category": "Research",
-      "score": 40.468
+      "score": 41.452
     },
     {
-      "id": "auto-research-arena-benchmarking-and-advancing-auto-research-a8ktd8",
-      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-      "url": "http://arxiv.org/abs/2610.35866v1",
+      "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
+      "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+      "url": "http://arxiv.org/abs/2610.40653v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:59:33.000Z",
-      "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating auto",
+      "publishedAt": "2026-10-29T17:59:49.000Z",
+      "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
       "category": "Research",
-      "score": 40.468
+      "score": 41.452
     },
     {
-      "id": "vibevideobench-evaluating-multimodal-agents-on-code-driven-v-jshnh5",
-      "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-      "url": "http://arxiv.org/abs/2610.35864v1",
+      "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "url": "http://arxiv.org/abs/2610.40649v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:59:32.000Z",
-      "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multim",
+      "publishedAt": "2026-10-29T17:59:29.000Z",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
       "category": "Research",
-      "score": 40.468
+      "score": 41.452
     },
     {
-      "id": "learning-force-reactive-humanoid-loco-manipulation-yzmjid",
-      "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-      "url": "http://arxiv.org/abs/2610.35862v1",
+      "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "url": "http://arxiv.org/abs/2610.40647v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:59:11.000Z",
-      "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. ",
+      "publishedAt": "2026-10-29T17:59:21.000Z",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
       "category": "Research",
-      "score": 40.467
+      "score": 41.451
     },
     {
-      "id": "do-vision-models-know-that-three-is-three-8g7q8u",
-      "title": "Do vision models know that three is three?",
-      "url": "http://arxiv.org/abs/2610.35857v1",
+      "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
+      "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
+      "url": "http://arxiv.org/abs/2610.40646v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:58:17.000Z",
-      "summary": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether",
+      "publishedAt": "2026-10-29T17:59:20.000Z",
+      "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
       "category": "Research",
-      "score": 40.466
+      "score": 41.451
     },
     {
-      "id": "on-the-stability-of-learning-iz8veo",
-      "title": "On the stability of learning",
-      "url": "http://arxiv.org/abs/2610.35856v1",
+      "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
+      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "url": "http://arxiv.org/abs/2610.40644v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:58:14.000Z",
-      "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be spars",
+      "publishedAt": "2026-10-29T17:59:01.000Z",
+      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
       "category": "Research",
-      "score": 40.466
+      "score": 41.451
     },
     {
-      "id": "fl4n-feed-forward-latent-model-for-4d-novel-view-synthesis-px3xv5",
-      "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
-      "url": "http://arxiv.org/abs/2610.35854v1",
+      "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "url": "http://arxiv.org/abs/2610.40643v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:58:03.000Z",
-      "summary": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward methods often rely on exp",
+      "publishedAt": "2026-10-29T17:58:59.000Z",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
       "category": "Research",
-      "score": 40.466
+      "score": 41.451
     },
     {
-      "id": "differentiable-contact-dynamics-for-legged-locomotion-policy-6ff1h",
-      "title": "Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization",
-      "url": "http://arxiv.org/abs/2610.35852v1",
+      "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
+      "title": "From extreme weather to agricultural consequences with agentic AI",
+      "url": "http://arxiv.org/abs/2610.40641v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:57:14.000Z",
-      "summary": "This paper proposes a smooth analytic gradient for frictional contact and applies it to policy learning and contact-implicit trajectory optimization for legged locomotion. The exact contact sensitivity is available in cl",
+      "publishedAt": "2026-10-29T17:58:53.000Z",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
       "category": "Research",
-      "score": 40.464
+      "score": 41.45
     },
     {
-      "id": "nonprehensile-robotic-catching-using-virtual-constraints-vwsozm",
-      "title": "Nonprehensile Robotic Catching Using Virtual Constraints",
-      "url": "http://arxiv.org/abs/2610.35851v1",
+      "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
+      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+      "url": "http://arxiv.org/abs/2610.40640v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:57:10.000Z",
-      "summary": "The problem of nonprehensile robotic catching is addressed using virtual nonholonomic constraints (VNHCs); the motion of the robot end-effector is designed and controlled directly in terms of the states of the object bef",
+      "publishedAt": "2026-10-29T17:58:45.000Z",
+      "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
       "category": "Research",
-      "score": 40.464
+      "score": 41.45
     },
     {
-      "id": "oswam-an-effective-world-action-model-with-one-step-action-g-lznwyl",
-      "title": "OSWAM: An Effective World Action Model with One-Step Action Generation",
-      "url": "http://arxiv.org/abs/2610.35850v1",
+      "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
+      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "http://arxiv.org/abs/2610.40637v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:57:09.000Z",
-      "summary": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied control. However, t",
+      "publishedAt": "2026-10-29T17:58:23.000Z",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
       "category": "Research",
-      "score": 40.464
+      "score": 41.449
     },
     {
-      "id": "patient-specific-rubric-based-evaluation-of-large-language-m-niw5nr",
-      "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
-      "url": "http://arxiv.org/abs/2610.35847v1",
+      "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
+      "title": "Probing Spatial State Representations in Visual Foundation Models",
+      "url": "http://arxiv.org/abs/2610.40636v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:56:26.000Z",
-      "summary": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care",
+      "publishedAt": "2026-10-29T17:58:16.000Z",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
       "category": "Research",
-      "score": 40.463
+      "score": 41.449
     },
     {
-      "id": "preserve-to-expand-source-aware-adaptation-and-model-merging-af2wa8",
-      "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
-      "url": "http://arxiv.org/abs/2610.35846v1",
+      "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
+      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+      "url": "http://arxiv.org/abs/2610.40632v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:56:22.000Z",
-      "summary": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based Sp",
+      "publishedAt": "2026-10-29T17:58:00.000Z",
+      "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
       "category": "Research",
-      "score": 40.463
+      "score": 41.449
     },
     {
-      "id": "work-agents-systems-capabilities-and-optimization-hj2x8r",
-      "title": "Work Agents: Systems, Capabilities, and Optimization",
-      "url": "http://arxiv.org/abs/2610.35845v1",
+      "id": "shallowdefend-harnessing-shallow-safety-alignment-for-multi--108knu",
+      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "url": "http://arxiv.org/abs/2610.40627v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-26T17:56:21.000Z",
-      "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a",
+      "publishedAt": "2026-10-29T17:56:53.000Z",
+      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mech",
       "category": "Research",
-      "score": 40.463
+      "score": 41.447
     },
     {
-      "id": "honeycomb-surfels-compact-hexagonal-primitives-for-efficient-i1azj2",
-      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-      "url": "http://arxiv.org/abs/2610.37668v1",
+      "id": "testimony-from-timelines-evidence-grounded-significance-test-t04gzx",
+      "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+      "url": "http://arxiv.org/abs/2610.40619v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-27T17:59:59.000Z",
-      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel",
+      "publishedAt": "2026-10-29T17:55:30.000Z",
+      "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behin",
       "category": "Research",
-      "score": 38.675
+      "score": 41.444
     },
     {
-      "id": "thinkworld-world-imagination-reinforces-chain-of-dynamics-re-g2nnti",
-      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "url": "http://arxiv.org/abs/2610.37666v1",
+      "id": "an-ode-based-sampler-for-discrete-diffusion-models-vwtxj4",
+      "title": "An ODE-based Sampler for Discrete Diffusion Models",
+      "url": "http://arxiv.org/abs/2610.40618v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-27T17:59:52.000Z",
-      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos ",
+      "publishedAt": "2026-10-29T17:55:25.000Z",
+      "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consist",
       "category": "Research",
-      "score": 38.675
+      "score": 41.444
     },
     {
-      "id": "can-discrete-tokens-serve-as-semantically-lossless-represent-4k8gs5",
-      "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-      "url": "http://arxiv.org/abs/2610.37662v1",
+      "id": "difficulty-calibration-across-time-for-membership-inference--4jr3t9",
+      "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+      "url": "http://arxiv.org/abs/2610.40616v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-27T17:59:22.000Z",
-      "summary": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely ",
+      "publishedAt": "2026-10-29T17:54:54.000Z",
+      "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. T",
       "category": "Research",
-      "score": 38.675
+      "score": 41.443
     },
     {
-      "id": "when-should-we-intervene-at-test-time-96rsqg",
-      "title": "When Should We Intervene at Test Time?",
-      "url": "http://arxiv.org/abs/2610.37658v1",
+      "id": "l3g-world-real-time-infinite-world-generation-with-latent-3d-6cp4vi",
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+      "url": "http://arxiv.org/abs/2610.40614v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-27T17:58:53.000Z",
-      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet",
+      "publishedAt": "2026-10-29T17:54:42.000Z",
+      "summary": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either tempora",
       "category": "Research",
-      "score": 38.674
+      "score": 41.443
     },
     {
-      "id": "heads-of-security-learned-attention-gates-improve-prompt-inj-7256ks",
-      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-      "url": "http://arxiv.org/abs/2610.37657v1",
+      "id": "textseal2-distortion-free-llm-watermarking-with-copula-mixin-z3yc8u",
+      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+      "url": "http://arxiv.org/abs/2610.40613v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-27T17:58:52.000Z",
-      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention betwe",
+      "publishedAt": "2026-10-29T17:54:12.000Z",
+      "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance ",
       "category": "Research",
-      "score": 38.674
+      "score": 41.442
+    },
+    {
+      "id": "when-to-assist-and-what-to-suggest-joint-gating-and-memory-g-78ouva",
+      "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+      "url": "http://arxiv.org/abs/2610.40611v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-29T17:54:07.000Z",
+      "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 2",
+      "category": "Research",
+      "score": 41.441
     }
   ]
 }
