@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T22:03:27.872Z",
+  "updatedAt": "2026-10-31T04:44:19.772Z",
   "totalItems": 120,
   "categories": {
-    "AI": 55,
+    "AI": 57,
     "Robotics": 17,
     "Machine Learning": 1,
-    "Research": 47
+    "Research": 45
   },
   "items": [
     {
@@ -57,6 +57,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.451
+    },
+    {
+      "id": "openai-raises-less-than-half-of-30b-target-t80cfj",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T03:22:44Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.282
     },
     {
       "id": "gpt-6-1-terra-ox5261",
@@ -249,16 +259,6 @@
       "score": 50.787
     },
     {
-      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T19:30:52.000Z",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "category": "AI",
-      "score": 50.587
-    },
-    {
       "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
       "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
@@ -269,6 +269,26 @@
       "score": 50.548
     },
     {
+      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "category": "AI",
+      "score": 49.832
+    },
+    {
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "category": "AI",
+      "score": 49.601
+    },
+    {
       "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -276,7 +296,7 @@
       "publishedAt": "2026-10-29T10:11:12.000Z",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
       "category": "AI",
-      "score": 49.789
+      "score": 49.297
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -329,16 +349,6 @@
       "score": 47.524
     },
     {
-      "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co-3jfwow",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-28T12:24:25Z",
-      "summary": "",
-      "category": "AI",
-      "score": 47.511
-    },
-    {
       "id": "openai-s-agents-talked-to-each-other-through-the-cpu-cache-b58vkf",
       "title": "OpenAI's agents talked to each other through the CPU Cache",
       "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
@@ -359,6 +369,16 @@
       "score": 47.483
     },
     {
+      "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co-3jfwow",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-28T12:24:25Z",
+      "summary": "",
+      "category": "AI",
+      "score": 47.366
+    },
+    {
       "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
       "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
@@ -369,16 +389,6 @@
       "score": 47.156
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 46.949
-    },
-    {
       "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
       "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
@@ -387,6 +397,16 @@
       "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
       "category": "AI",
       "score": 46.571
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 46.436
     },
     {
       "id": "regent-s-ground-effect-vehicle-reimagines-coastal-travel-bgwc9d",
@@ -429,16 +449,6 @@
       "score": 44.942
     },
     {
-      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
-      "category": "AI",
-      "score": 44.453
-    },
-    {
       "id": "will-the-real-anthropic-please-stand-up-kg0czi",
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -447,6 +457,16 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
       "category": "AI",
       "score": 44.414
+    },
+    {
+      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+      "category": "AI",
+      "score": 44.264
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -1187,26 +1207,6 @@
       "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behin",
       "category": "Research",
       "score": 40.452
-    },
-    {
-      "id": "an-ode-based-sampler-for-discrete-diffusion-models-vwtxj4",
-      "title": "An ODE-based Sampler for Discrete Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.40618v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:55:25.000Z",
-      "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consist",
-      "category": "Research",
-      "score": 40.452
-    },
-    {
-      "id": "difficulty-calibration-across-time-for-membership-inference--4jr3t9",
-      "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.40616v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:54:54.000Z",
-      "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. T",
-      "category": "Research",
-      "score": 40.451
     }
   ]
 }
