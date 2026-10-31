@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T04:44:19.772Z",
+  "updatedAt": "2026-10-31T11:53:58.812Z",
   "totalItems": 120,
   "categories": {
     "AI": 57,
@@ -79,16 +79,6 @@
       "score": 52.195
     },
     {
-      "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-opena-yv50ha",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-24T05:49:57Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.099
-    },
-    {
       "id": "imagine-an-ai-future-where-being-banned-means-you-are-now-ec-k7uyj4",
       "title": "Imagine an AI future where being banned means you are now economically useless",
       "url": "https://twitter.com/boneGPT/status/2114035719853265264",
@@ -157,6 +147,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.727
+    },
+    {
+      "id": "we-took-over-chatgpt-accounts-kjlvyg",
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T10:30:11Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.674
     },
     {
       "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
@@ -276,17 +276,7 @@
       "publishedAt": "2026-10-30T21:09:54.000Z",
       "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
       "category": "AI",
-      "score": 49.832
-    },
-    {
-      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T19:30:52.000Z",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "category": "AI",
-      "score": 49.601
+      "score": 48.885
     },
     {
       "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
@@ -296,7 +286,17 @@
       "publishedAt": "2026-10-29T10:11:12.000Z",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
       "category": "AI",
-      "score": 49.297
+      "score": 48.84
+    },
+    {
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "category": "AI",
+      "score": 48.686
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -399,16 +399,6 @@
       "score": 46.571
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 46.436
-    },
-    {
       "id": "regent-s-ground-effect-vehicle-reimagines-coastal-travel-bgwc9d",
       "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
       "url": "https://spectrum.ieee.org/ground-effect-vehicle",
@@ -417,6 +407,16 @@
       "summary": "",
       "category": "AI",
       "score": 46.121
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 45.959
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -466,7 +466,7 @@
       "publishedAt": "2026-10-27T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
       "category": "AI",
-      "score": 44.264
+      "score": 44.089
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -1066,7 +1066,7 @@
       "publishedAt": "2026-10-29T17:59:53.000Z",
       "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
       "category": "Research",
-      "score": 40.459
+      "score": 39.342
     },
     {
       "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
       "category": "Research",
-      "score": 40.459
+      "score": 39.342
     },
     {
       "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
@@ -1086,7 +1086,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
       "category": "Research",
-      "score": 40.459
+      "score": 39.342
     },
     {
       "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
@@ -1096,7 +1096,7 @@
       "publishedAt": "2026-10-29T17:59:29.000Z",
       "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
       "category": "Research",
-      "score": 40.458
+      "score": 39.341
     },
     {
       "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
@@ -1106,7 +1106,7 @@
       "publishedAt": "2026-10-29T17:59:21.000Z",
       "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
       "category": "Research",
-      "score": 40.458
+      "score": 39.341
     },
     {
       "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
@@ -1116,7 +1116,7 @@
       "publishedAt": "2026-10-29T17:59:20.000Z",
       "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
       "category": "Research",
-      "score": 40.458
+      "score": 39.341
     },
     {
       "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
@@ -1126,7 +1126,7 @@
       "publishedAt": "2026-10-29T17:59:01.000Z",
       "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
       "category": "Research",
-      "score": 40.457
+      "score": 39.341
     },
     {
       "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
@@ -1136,7 +1136,7 @@
       "publishedAt": "2026-10-29T17:58:59.000Z",
       "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
       "category": "Research",
-      "score": 40.457
+      "score": 39.341
     },
     {
       "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
@@ -1146,7 +1146,7 @@
       "publishedAt": "2026-10-29T17:58:53.000Z",
       "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
       "category": "Research",
-      "score": 40.457
+      "score": 39.341
     },
     {
       "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
@@ -1156,7 +1156,7 @@
       "publishedAt": "2026-10-29T17:58:45.000Z",
       "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
       "category": "Research",
-      "score": 40.457
+      "score": 39.34
     },
     {
       "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
@@ -1166,7 +1166,7 @@
       "publishedAt": "2026-10-29T17:58:23.000Z",
       "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
       "category": "Research",
-      "score": 40.456
+      "score": 39.34
     },
     {
       "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
@@ -1176,7 +1176,7 @@
       "publishedAt": "2026-10-29T17:58:16.000Z",
       "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
       "category": "Research",
-      "score": 40.456
+      "score": 39.34
     },
     {
       "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
@@ -1186,7 +1186,7 @@
       "publishedAt": "2026-10-29T17:58:00.000Z",
       "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
       "category": "Research",
-      "score": 40.456
+      "score": 39.34
     },
     {
       "id": "shallowdefend-harnessing-shallow-safety-alignment-for-multi--108knu",
@@ -1196,7 +1196,7 @@
       "publishedAt": "2026-10-29T17:56:53.000Z",
       "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mech",
       "category": "Research",
-      "score": 40.454
+      "score": 39.338
     },
     {
       "id": "testimony-from-timelines-evidence-grounded-significance-test-t04gzx",
@@ -1206,7 +1206,7 @@
       "publishedAt": "2026-10-29T17:55:30.000Z",
       "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behin",
       "category": "Research",
-      "score": 40.452
+      "score": 39.337
     }
   ]
 }
