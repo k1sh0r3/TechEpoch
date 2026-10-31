@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-31T17:00:45.367Z",
+  "updatedAt": "2026-10-31T21:12:12.662Z",
   "totalItems": 120,
   "categories": {
-    "AI": 57,
+    "AI": 60,
     "Robotics": 18,
     "Machine Learning": 1,
-    "Research": 44
+    "Research": 41
   },
   "items": [
     {
@@ -29,6 +29,16 @@
       "score": 52.885
     },
     {
+      "id": "gpt-5-6-sol-can-beat-factorio-on-peaceful-mode-1lrwk9",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T18:50:34Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.657
+    },
+    {
       "id": "anthropic-may-not-secure-investment-grade-rating-after-ipo-b-9dtd6x",
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
       "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
@@ -49,16 +59,6 @@
       "score": 52.554
     },
     {
-      "id": "malware-uses-llms-to-rank-victims-by-how-much-they-re-worth-3m24a9",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T14:29:03Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.529
-    },
-    {
       "id": "an-urgent-message-on-artificial-intelligence-from-the-kogui--eyeffe",
       "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
       "url": "https://sonidoselva.com/perspectiva-kogui",
@@ -69,14 +69,24 @@
       "score": 52.451
     },
     {
-      "id": "we-took-over-chatgpt-accounts-kjlvyg",
-      "title": "We Took over ChatGPT Accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "id": "the-impact-of-generative-ai-on-critical-thinking-self-report-4f8o8w",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T10:30:11Z",
+      "publishedAt": "2026-10-31T18:02:29Z",
       "summary": "",
       "category": "AI",
-      "score": 52.291
+      "score": 52.322
+    },
+    {
+      "id": "malware-uses-llms-to-rank-victims-by-how-much-they-re-worth-3m24a9",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T14:29:03Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.287
     },
     {
       "id": "openai-raises-less-than-half-of-30b-target-t80cfj",
@@ -87,6 +97,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.282
+    },
+    {
+      "id": "anthropic-blocks-users-for-anything-touching-training-larger-x4948x",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T19:39:19Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.265
     },
     {
       "id": "gpt-6-1-terra-ox5261",
@@ -117,6 +137,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.921
+    },
+    {
+      "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T10:30:11Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.856
     },
     {
       "id": "show-hn-hob-open-source-on-device-alternative-to-claude-cowo-3uyyob",
@@ -276,17 +306,7 @@
       "publishedAt": "2026-10-31T11:02:34.000Z",
       "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
       "category": "Robotics",
-      "score": 50.064
-    },
-    {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
-      "category": "AI",
-      "score": 48.553
+      "score": 49.474
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -299,24 +319,14 @@
       "score": 48.446
     },
     {
-      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T21:09:54.000Z",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
       "category": "AI",
-      "score": 48.291
-    },
-    {
-      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T19:30:52.000Z",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "category": "AI",
-      "score": 48.112
+      "score": 48.339
     },
     {
       "id": "some-iphone-duo-screens-are-already-failing-apple-says-only--zeift3",
@@ -337,6 +347,26 @@
       "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
       "category": "AI",
       "score": 47.953
+    },
+    {
+      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "category": "AI",
+      "score": 47.848
+    },
+    {
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "category": "AI",
+      "score": 47.684
     },
     {
       "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
@@ -436,7 +466,7 @@
       "publishedAt": "2026-10-29T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
       "category": "AI",
-      "score": 45.66
+      "score": 45.438
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -476,7 +506,7 @@
       "publishedAt": "2026-10-27T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
       "category": "AI",
-      "score": 43.979
+      "score": 43.897
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -1076,7 +1106,7 @@
       "publishedAt": "2026-10-29T17:59:53.000Z",
       "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
       "category": "Research",
-      "score": 39.004
+      "score": 38.753
     },
     {
       "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
@@ -1086,7 +1116,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
       "category": "Research",
-      "score": 39.004
+      "score": 38.753
     },
     {
       "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
@@ -1096,7 +1126,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
       "category": "Research",
-      "score": 39.004
+      "score": 38.753
     },
     {
       "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
@@ -1106,7 +1136,7 @@
       "publishedAt": "2026-10-29T17:59:29.000Z",
       "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
       "category": "Research",
-      "score": 39.004
+      "score": 38.753
     },
     {
       "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
@@ -1116,7 +1146,7 @@
       "publishedAt": "2026-10-29T17:59:21.000Z",
       "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
       "category": "Research",
-      "score": 39.004
+      "score": 38.752
     },
     {
       "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
@@ -1126,7 +1156,7 @@
       "publishedAt": "2026-10-29T17:59:20.000Z",
       "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
       "category": "Research",
-      "score": 39.004
+      "score": 38.752
     },
     {
       "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
@@ -1136,7 +1166,7 @@
       "publishedAt": "2026-10-29T17:59:01.000Z",
       "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
       "category": "Research",
-      "score": 39.003
+      "score": 38.752
     },
     {
       "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
@@ -1146,7 +1176,7 @@
       "publishedAt": "2026-10-29T17:58:59.000Z",
       "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
       "category": "Research",
-      "score": 39.003
+      "score": 38.752
     },
     {
       "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
@@ -1156,7 +1186,7 @@
       "publishedAt": "2026-10-29T17:58:53.000Z",
       "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
       "category": "Research",
-      "score": 39.003
+      "score": 38.752
     },
     {
       "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
@@ -1166,7 +1196,7 @@
       "publishedAt": "2026-10-29T17:58:45.000Z",
       "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
       "category": "Research",
-      "score": 39.003
+      "score": 38.752
     },
     {
       "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
@@ -1176,37 +1206,7 @@
       "publishedAt": "2026-10-29T17:58:23.000Z",
       "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
       "category": "Research",
-      "score": 39.003
-    },
-    {
-      "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
-      "title": "Probing Spatial State Representations in Visual Foundation Models",
-      "url": "http://arxiv.org/abs/2610.40636v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:16.000Z",
-      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
-      "category": "Research",
-      "score": 39.002
-    },
-    {
-      "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
-      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
-      "url": "http://arxiv.org/abs/2610.40632v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:00.000Z",
-      "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
-      "category": "Research",
-      "score": 39.002
-    },
-    {
-      "id": "shallowdefend-harnessing-shallow-safety-alignment-for-multi--108knu",
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "url": "http://arxiv.org/abs/2610.40627v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:56:53.000Z",
-      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mech",
-      "category": "Research",
-      "score": 39.001
+      "score": 38.751
     }
   ]
 }
