@@ -1,11 +1,10 @@
 {
-  "updatedAt": "2026-11-01T05:05:41.589Z",
+  "updatedAt": "2026-11-01T12:53:53.574Z",
   "totalItems": 120,
   "categories": {
-    "AI": 61,
+    "AI": 59,
     "Robotics": 18,
-    "Machine Learning": 1,
-    "Research": 40
+    "Research": 43
   },
   "items": [
     {
@@ -109,16 +108,6 @@
       "score": 52.195
     },
     {
-      "id": "imagine-an-ai-future-where-being-banned-means-you-are-now-ec-k7uyj4",
-      "title": "Imagine an AI future where being banned means you are now economically useless",
-      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T12:47:20Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.034
-    },
-    {
       "id": "anthropic-blocks-users-for-anything-touching-training-larger-x4948x",
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
@@ -149,16 +138,6 @@
       "score": 51.852
     },
     {
-      "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-e-wpnidm",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T11:09:12Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.841
-    },
-    {
       "id": "embraer-s-atech-aims-to-double-in-size-by-2030-with-drone-tr-37r8st",
       "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
       "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
@@ -187,16 +166,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.727
-    },
-    {
-      "id": "chatgpt-and-codex-usage-limits-merging-vpz1lj",
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T21:49:07Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.477
     },
     {
       "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
@@ -269,14 +238,14 @@
       "score": 51.125
     },
     {
-      "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "id": "chatgpt-and-codex-usage-limits-merging-vpz1lj",
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T10:30:11Z",
+      "publishedAt": "2026-10-31T21:49:07Z",
       "summary": "",
       "category": "AI",
-      "score": 50.926
+      "score": 51.084
     },
     {
       "id": "h-264-is-magic-2016-c8racx",
@@ -309,14 +278,14 @@
       "score": 50.548
     },
     {
-      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-31T11:02:34.000Z",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "category": "Robotics",
-      "score": 48.492
+      "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-31T10:30:11Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.154
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -339,16 +308,6 @@
       "score": 48.02
     },
     {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
-      "category": "AI",
-      "score": 47.985
-    },
-    {
       "id": "us-officials-want-section-702-renewed-before-damaging-court--7fx4v4",
       "title": "US officials want Section 702 renewed before damaging court ruling goes public",
       "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
@@ -357,6 +316,26 @@
       "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
       "category": "AI",
       "score": 47.953
+    },
+    {
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "category": "AI",
+      "score": 47.687
+    },
+    {
+      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-31T11:02:34.000Z",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "category": "Robotics",
+      "score": 47.668
     },
     {
       "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
@@ -419,6 +398,16 @@
       "score": 47.156
     },
     {
+      "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-27T21:50:04.000Z",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "category": "AI",
+      "score": 46.571
+    },
+    {
       "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
@@ -426,7 +415,7 @@
       "publishedAt": "2026-10-30T21:09:54.000Z",
       "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
       "category": "AI",
-      "score": 47.113
+      "score": 46.496
     },
     {
       "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
@@ -436,17 +425,7 @@
       "publishedAt": "2026-10-30T19:30:52.000Z",
       "summary": "But it's still early days for the relatively new e-commerce use case.",
       "category": "AI",
-      "score": 46.974
-    },
-    {
-      "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T21:50:04.000Z",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "category": "AI",
-      "score": 46.571
+      "score": 46.378
     },
     {
       "id": "regent-s-ground-effect-vehicle-reimagines-coastal-travel-bgwc9d",
@@ -479,16 +458,6 @@
       "score": 45.182
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 45.068
-    },
-    {
       "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -497,6 +466,16 @@
       "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
       "category": "AI",
       "score": 44.942
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 44.758
     },
     {
       "id": "will-the-real-anthropic-please-stand-up-kg0czi",
@@ -517,16 +496,6 @@
       "summary": "",
       "category": "AI",
       "score": 43.778
-    },
-    {
-      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
-      "category": "AI",
-      "score": 43.761
     },
     {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
@@ -567,6 +536,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
+    },
+    {
+      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+      "category": "AI",
+      "score": 43.647
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -797,16 +776,6 @@
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
       "score": 43.001
-    },
-    {
-      "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to--cpmd2v",
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-25T10:42:01Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 42.535
     },
     {
       "id": "hybrid-ai-patterns-thirteen-ways-to-couple-language-models-w-13aiqv",
@@ -1116,7 +1085,7 @@
       "publishedAt": "2026-10-29T17:59:53.000Z",
       "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
       "category": "Research",
-      "score": 38.336
+      "score": 37.985
     },
     {
       "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
@@ -1126,7 +1095,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
       "category": "Research",
-      "score": 38.336
+      "score": 37.985
     },
     {
       "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
@@ -1136,7 +1105,7 @@
       "publishedAt": "2026-10-29T17:59:49.000Z",
       "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
       "category": "Research",
-      "score": 38.336
+      "score": 37.985
     },
     {
       "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
@@ -1146,7 +1115,7 @@
       "publishedAt": "2026-10-29T17:59:29.000Z",
       "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
       "category": "Research",
-      "score": 38.335
+      "score": 37.985
     },
     {
       "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
@@ -1156,7 +1125,7 @@
       "publishedAt": "2026-10-29T17:59:21.000Z",
       "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
       "category": "Research",
-      "score": 38.335
+      "score": 37.985
     },
     {
       "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
@@ -1166,7 +1135,7 @@
       "publishedAt": "2026-10-29T17:59:20.000Z",
       "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
       "category": "Research",
-      "score": 38.335
+      "score": 37.985
     },
     {
       "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
@@ -1176,7 +1145,7 @@
       "publishedAt": "2026-10-29T17:59:01.000Z",
       "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
       "category": "Research",
-      "score": 38.335
+      "score": 37.985
     },
     {
       "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
@@ -1186,7 +1155,7 @@
       "publishedAt": "2026-10-29T17:58:59.000Z",
       "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
       "category": "Research",
-      "score": 38.335
+      "score": 37.985
     },
     {
       "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
@@ -1196,7 +1165,7 @@
       "publishedAt": "2026-10-29T17:58:53.000Z",
       "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
       "category": "Research",
-      "score": 38.335
+      "score": 37.984
     },
     {
       "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
@@ -1206,7 +1175,37 @@
       "publishedAt": "2026-10-29T17:58:45.000Z",
       "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
       "category": "Research",
-      "score": 38.335
+      "score": 37.984
+    },
+    {
+      "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
+      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "http://arxiv.org/abs/2610.40637v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-29T17:58:23.000Z",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
+      "category": "Research",
+      "score": 37.984
+    },
+    {
+      "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
+      "title": "Probing Spatial State Representations in Visual Foundation Models",
+      "url": "http://arxiv.org/abs/2610.40636v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-29T17:58:16.000Z",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
+      "category": "Research",
+      "score": 37.984
+    },
+    {
+      "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
+      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+      "url": "http://arxiv.org/abs/2610.40632v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-29T17:58:00.000Z",
+      "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
+      "category": "Research",
+      "score": 37.984
     }
   ]
 }
