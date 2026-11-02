@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-02T05:06:32.663Z",
+  "updatedAt": "2026-11-02T15:06:50.560Z",
   "totalItems": 120,
   "categories": {
     "AI": 55,
-    "Robotics": 18,
-    "Research": 47
+    "Robotics": 17,
+    "Research": 48
   },
   "items": [
     {
@@ -148,16 +148,6 @@
       "score": 51.81
     },
     {
-      "id": "fixing-tool-call-accuracy-in-vllm-n0p9ez",
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-26T12:59:48Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.727
-    },
-    {
       "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -176,6 +166,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.385
+    },
+    {
+      "id": "bones-may-release-proteins-that-slow-aging-and-extend-life-s-kciysa",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-02T01:31:07Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.353
     },
     {
       "id": "gemini-4-carbon-q9g8f0",
@@ -238,6 +238,16 @@
       "score": 50.821
     },
     {
+      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-02T13:10:32.000Z",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
+      "category": "AI",
+      "score": 50.683
+    },
+    {
       "id": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-bo-xlavhi",
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
       "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
@@ -298,16 +308,6 @@
       "score": 47.565
     },
     {
-      "id": "the-grid-a-factory-scale-robot-in-massachusetts-that-builds--70hh6g",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-26T13:13:31Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 47.524
-    },
-    {
       "id": "openai-s-agents-talked-to-each-other-through-the-cpu-cache-b58vkf",
       "title": "OpenAI's agents talked to each other through the CPU Cache",
       "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
@@ -338,16 +338,6 @@
       "score": 47.366
     },
     {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
-      "category": "AI",
-      "score": 47.203
-    },
-    {
       "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
       "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
@@ -356,6 +346,16 @@
       "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
       "category": "AI",
       "score": 47.156
+    },
+    {
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "category": "AI",
+      "score": 46.977
     },
     {
       "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
@@ -368,16 +368,6 @@
       "score": 46.571
     },
     {
-      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-31T11:02:34.000Z",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "category": "Robotics",
-      "score": 46.33
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -388,24 +378,14 @@
       "score": 45.771
     },
     {
-      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T21:09:54.000Z",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "category": "AI",
-      "score": 45.494
-    },
-    {
-      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T19:30:52.000Z",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "category": "AI",
-      "score": 45.41
+      "publishedAt": "2026-10-31T11:02:34.000Z",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "category": "Robotics",
+      "score": 45.704
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -418,14 +398,24 @@
       "score": 45.182
     },
     {
-      "id": "the-focus-on-ai-safety-disasters-ignores-everyday-harms-87ymzx",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-26T09:01:00.000Z",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
+      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
       "category": "AI",
-      "score": 44.942
+      "score": 45.025
+    },
+    {
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "category": "AI",
+      "score": 44.956
     },
     {
       "id": "will-the-real-anthropic-please-stand-up-kg0czi",
@@ -445,7 +435,7 @@
       "publishedAt": "2026-10-29T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
       "category": "AI",
-      "score": 44.254
+      "score": 44.018
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -1045,7 +1035,7 @@
       "publishedAt": "2026-10-30T17:59:59.000Z",
       "summary": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unvi",
       "category": "Research",
-      "score": 38.335
+      "score": 37.896
     },
     {
       "id": "latent-reasoning-in-continuous-space-for-unified-multimodal--75uzx1",
@@ -1055,7 +1045,7 @@
       "publishedAt": "2026-10-30T17:59:43.000Z",
       "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image ge",
       "category": "Research",
-      "score": 38.335
+      "score": 37.895
     },
     {
       "id": "flide-accelerating-decision-inference-with-exact-state-forki-76eqmz",
@@ -1065,7 +1055,7 @@
       "publishedAt": "2026-10-30T17:59:38.000Z",
       "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriente",
       "category": "Research",
-      "score": 38.335
+      "score": 37.895
     },
     {
       "id": "latent-sparse-attention-towards-subquadratic-ultra-long-cont-xrsgzu",
@@ -1075,7 +1065,7 @@
       "publishedAt": "2026-10-30T17:59:34.000Z",
       "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention",
       "category": "Research",
-      "score": 38.335
+      "score": 37.895
     },
     {
       "id": "hierarchical-world-models-with-implicit-dynamics-aklm7u",
@@ -1085,7 +1075,7 @@
       "publishedAt": "2026-10-30T17:59:25.000Z",
       "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search compl",
       "category": "Research",
-      "score": 38.335
+      "score": 37.895
     },
     {
       "id": "semellipsoid-semantic-aware-shape-abstraction-with-ellipsoid-bdapqb",
@@ -1095,7 +1085,7 @@
       "publishedAt": "2026-10-30T17:59:14.000Z",
       "summary": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compa",
       "category": "Research",
-      "score": 38.334
+      "score": 37.895
     },
     {
       "id": "roboarchitect-automating-the-design-of-robotic-agents-with-p-7d2a3y",
@@ -1105,7 +1095,7 @@
       "publishedAt": "2026-10-30T17:58:48.000Z",
       "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses ",
       "category": "Research",
-      "score": 38.334
+      "score": 37.895
     },
     {
       "id": "counting-on-dummies-privacy-amplification-with-observable-co-pe2tby",
@@ -1115,7 +1105,7 @@
       "publishedAt": "2026-10-30T17:58:42.000Z",
       "summary": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplificati",
       "category": "Research",
-      "score": 38.334
+      "score": 37.895
     },
     {
       "id": "relift-dense-3d-tracking-as-lifted-trajectory-repair-kavf33",
@@ -1125,7 +1115,7 @@
       "publishedAt": "2026-10-30T17:58:33.000Z",
       "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically learn these tasks jointl",
       "category": "Research",
-      "score": 38.334
+      "score": 37.895
     },
     {
       "id": "a-better-critic-matters-for-distribution-matching-distillati-47wiwp",
@@ -1135,7 +1125,7 @@
       "publishedAt": "2026-10-30T17:58:26.000Z",
       "summary": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs,",
       "category": "Research",
-      "score": 38.334
+      "score": 37.895
     },
     {
       "id": "instance-dependent-sequential-limits-as-an-exact-information-fqidxf",
@@ -1145,7 +1135,7 @@
       "publishedAt": "2026-10-30T17:57:44.000Z",
       "summary": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statistic",
       "category": "Research",
-      "score": 38.333
+      "score": 37.894
     },
     {
       "id": "decisionrank-on-policy-distillation-for-decision-model-reran-rta92i",
@@ -1155,7 +1145,7 @@
       "publishedAt": "2026-10-30T17:56:58.000Z",
       "summary": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challengi",
       "category": "Research",
-      "score": 38.333
+      "score": 37.894
     },
     {
       "id": "physiological-trajectories-and-observation-patterns-in-icu-m-axkwmu",
@@ -1165,7 +1155,7 @@
       "publishedAt": "2026-10-30T17:56:10.000Z",
       "summary": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance indepe",
       "category": "Research",
-      "score": 38.332
+      "score": 37.893
     },
     {
       "id": "gradient-descent-on-two-relu-neurons-global-landscape-and-bi-p1k8uo",
@@ -1175,7 +1165,7 @@
       "publishedAt": "2026-10-30T17:51:35.000Z",
       "summary": "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics: a",
       "category": "Research",
-      "score": 38.328
+      "score": 37.89
     },
     {
       "id": "fast-privacy-loss-accounting-for-random-allocation-via-multi-xloed",
@@ -1185,7 +1175,7 @@
       "publishedAt": "2026-10-30T17:51:03.000Z",
       "summary": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and i",
       "category": "Research",
-      "score": 38.328
+      "score": 37.89
     },
     {
       "id": "acct-asymmetric-cross-llm-context-transfer-xne177",
@@ -1195,7 +1185,7 @@
       "publishedAt": "2026-10-30T17:50:49.000Z",
       "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When ",
       "category": "Research",
-      "score": 38.328
+      "score": 37.89
     },
     {
       "id": "subquadratic-attention-with-a-hierarchical-tree-structured-i-cpj36f",
@@ -1205,7 +1195,17 @@
       "publishedAt": "2026-10-30T17:48:37.000Z",
       "summary": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to ma",
       "category": "Research",
-      "score": 38.326
+      "score": 37.888
+    },
+    {
+      "id": "satfront-detecting-atmospheric-fronts-with-satellite-data-us-d2nzh",
+      "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+      "url": "http://arxiv.org/abs/2610.42111v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-10-30T17:48:20.000Z",
+      "summary": "Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning approaches rely primar",
+      "category": "Research",
+      "score": 37.888
     }
   ]
 }
