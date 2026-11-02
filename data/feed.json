@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:49:41.850Z",
+  "updatedAt": "2026-11-02T05:06:32.663Z",
   "totalItems": 120,
   "categories": {
     "AI": 55,
@@ -328,16 +328,6 @@
       "score": 47.483
     },
     {
-      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
-      "category": "AI",
-      "score": 47.401
-    },
-    {
       "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co-3jfwow",
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
@@ -346,6 +336,16 @@
       "summary": "",
       "category": "AI",
       "score": 47.366
+    },
+    {
+      "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "category": "AI",
+      "score": 47.203
     },
     {
       "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
@@ -358,16 +358,6 @@
       "score": 47.156
     },
     {
-      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-31T11:02:34.000Z",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "category": "Robotics",
-      "score": 46.876
-    },
-    {
       "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
       "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
@@ -378,24 +368,14 @@
       "score": 46.571
     },
     {
-      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T21:09:54.000Z",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "category": "AI",
-      "score": 45.903
-    },
-    {
-      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-30T19:30:52.000Z",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "category": "AI",
-      "score": 45.805
+      "publishedAt": "2026-10-31T11:02:34.000Z",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "category": "Robotics",
+      "score": 46.33
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -406,6 +386,26 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "category": "AI",
+      "score": 45.494
+    },
+    {
+      "id": "basically-no-one-is-using-ai-agents-for-their-doordash-order-bmkd0b",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-30T19:30:52.000Z",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "category": "AI",
+      "score": 45.41
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -428,16 +428,6 @@
       "score": 44.942
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 44.46
-    },
-    {
       "id": "will-the-real-anthropic-please-stand-up-kg0czi",
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -446,6 +436,16 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
       "category": "AI",
       "score": 44.414
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 44.254
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -528,16 +528,6 @@
       "score": 43.602
     },
     {
-      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
-      "category": "AI",
-      "score": 43.537
-    },
-    {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
       "title": "Which jobs will AI (Artificial Intelligence) kill?",
       "url": "http://www.datasciencecentral.com/profiles/blogs/which-jobs-will-ai-artificial-intelligence-kill?xg_source=activity",
@@ -606,6 +596,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.477
+    },
+    {
+      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+      "category": "AI",
+      "score": 43.461
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -735,7 +735,7 @@
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
-      "score": 43.001
+      "score": 43
     },
     {
       "id": "hybrid-ai-patterns-thirteen-ways-to-couple-language-models-w-13aiqv",
@@ -1038,174 +1038,174 @@
       "score": 41.678
     },
     {
-      "id": "elucidating-the-design-space-of-lm-data-attribution-m2evm3",
-      "title": "Elucidating the Design Space of LM Data Attribution",
-      "url": "http://arxiv.org/abs/2610.40655v1",
+      "id": "gazerib-systematic-evaluation-of-multi-reader-gaze-guided-ch-9mgdq4",
+      "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+      "url": "http://arxiv.org/abs/2610.42152v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:53.000Z",
-      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible t",
+      "publishedAt": "2026-10-30T17:59:59.000Z",
+      "summary": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unvi",
       "category": "Research",
-      "score": 37.648
+      "score": 38.335
     },
     {
-      "id": "propose-filter-release-scaling-noise-to-typical-sensitivity--y85xkb",
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "url": "http://arxiv.org/abs/2610.40654v1",
+      "id": "latent-reasoning-in-continuous-space-for-unified-multimodal--75uzx1",
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "url": "http://arxiv.org/abs/2610.42149v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:49.000Z",
-      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets th",
+      "publishedAt": "2026-10-30T17:59:43.000Z",
+      "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image ge",
       "category": "Research",
-      "score": 37.648
+      "score": 38.335
     },
     {
-      "id": "micro-edits-computational-support-for-fine-scale-edits-in-fi-hwswo5",
-      "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-      "url": "http://arxiv.org/abs/2610.40653v1",
+      "id": "flide-accelerating-decision-inference-with-exact-state-forki-76eqmz",
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "url": "http://arxiv.org/abs/2610.42148v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:49.000Z",
-      "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the pre",
+      "publishedAt": "2026-10-30T17:59:38.000Z",
+      "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriente",
       "category": "Research",
-      "score": 37.648
+      "score": 38.335
     },
     {
-      "id": "rethinking-neural-thickets-without-weight-perturbations-adr7gv",
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
-      "url": "http://arxiv.org/abs/2610.40649v1",
+      "id": "latent-sparse-attention-towards-subquadratic-ultra-long-cont-xrsgzu",
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "url": "http://arxiv.org/abs/2610.42147v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:29.000Z",
-      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains,",
+      "publishedAt": "2026-10-30T17:59:34.000Z",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention",
       "category": "Research",
-      "score": 37.648
+      "score": 38.335
     },
     {
-      "id": "read-allocate-route-role-coupled-tokenization-for-pixel-spac-5c4ofw",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "url": "http://arxiv.org/abs/2610.40647v1",
+      "id": "hierarchical-world-models-with-implicit-dynamics-aklm7u",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "url": "http://arxiv.org/abs/2610.42146v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:21.000Z",
-      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa",
+      "publishedAt": "2026-10-30T17:59:25.000Z",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search compl",
       "category": "Research",
-      "score": 37.648
+      "score": 38.335
     },
     {
-      "id": "swapbot-tool-centric-robot-manipulation-via-interchangeable--9ve7fz",
-      "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-      "url": "http://arxiv.org/abs/2610.40646v1",
+      "id": "semellipsoid-semantic-aware-shape-abstraction-with-ellipsoid-bdapqb",
+      "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+      "url": "http://arxiv.org/abs/2610.42145v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:20.000Z",
-      "summary": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement",
+      "publishedAt": "2026-10-30T17:59:14.000Z",
+      "summary": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compa",
       "category": "Research",
-      "score": 37.648
+      "score": 38.334
     },
     {
-      "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-den-blh4xg",
-      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-      "url": "http://arxiv.org/abs/2610.40644v1",
+      "id": "roboarchitect-automating-the-design-of-robotic-agents-with-p-7d2a3y",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "url": "http://arxiv.org/abs/2610.42141v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:59:01.000Z",
-      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizati",
+      "publishedAt": "2026-10-30T17:58:48.000Z",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses ",
       "category": "Research",
-      "score": 37.648
+      "score": 38.334
     },
     {
-      "id": "luggage-re-identification-a-study-of-strategies-towards-a-re-m4k83a",
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "url": "http://arxiv.org/abs/2610.40643v1",
+      "id": "counting-on-dummies-privacy-amplification-with-observable-co-pe2tby",
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+      "url": "http://arxiv.org/abs/2610.42139v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:59.000Z",
-      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery).",
+      "publishedAt": "2026-10-30T17:58:42.000Z",
+      "summary": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplificati",
       "category": "Research",
-      "score": 37.648
+      "score": 38.334
     },
     {
-      "id": "from-extreme-weather-to-agricultural-consequences-with-agent-3e6it",
-      "title": "From extreme weather to agricultural consequences with agentic AI",
-      "url": "http://arxiv.org/abs/2610.40641v1",
+      "id": "relift-dense-3d-tracking-as-lifted-trajectory-repair-kavf33",
+      "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+      "url": "http://arxiv.org/abs/2610.42136v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:53.000Z",
-      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that cou",
+      "publishedAt": "2026-10-30T17:58:33.000Z",
+      "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically learn these tasks jointl",
       "category": "Research",
-      "score": 37.648
+      "score": 38.334
     },
     {
-      "id": "sonoworld4d-from-one-video-to-a-4d-audio-visual-scene-via-di-ld91bo",
-      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-      "url": "http://arxiv.org/abs/2610.40640v1",
+      "id": "a-better-critic-matters-for-distribution-matching-distillati-47wiwp",
+      "title": "A Better Critic Matters for Distribution Matching Distillation",
+      "url": "http://arxiv.org/abs/2610.42135v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:45.000Z",
-      "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled ",
+      "publishedAt": "2026-10-30T17:58:26.000Z",
+      "summary": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs,",
       "category": "Research",
-      "score": 37.647
+      "score": 38.334
     },
     {
-      "id": "world2vec-mechanistic-world-models-through-latent-dynamics-l-q2snif",
-      "title": "world2vec: Mechanistic world models through latent dynamics learning",
-      "url": "http://arxiv.org/abs/2610.40637v1",
+      "id": "instance-dependent-sequential-limits-as-an-exact-information-fqidxf",
+      "title": "Instance-dependent sequential limits as an exact information ledger",
+      "url": "http://arxiv.org/abs/2610.42133v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:23.000Z",
-      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce w",
+      "publishedAt": "2026-10-30T17:57:44.000Z",
+      "summary": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statistic",
       "category": "Research",
-      "score": 37.647
+      "score": 38.333
     },
     {
-      "id": "probing-spatial-state-representations-in-visual-foundation-m-v8ztba",
-      "title": "Probing Spatial State Representations in Visual Foundation Models",
-      "url": "http://arxiv.org/abs/2610.40636v1",
+      "id": "decisionrank-on-policy-distillation-for-decision-model-reran-rta92i",
+      "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+      "url": "http://arxiv.org/abs/2610.42128v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:16.000Z",
-      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spat",
+      "publishedAt": "2026-10-30T17:56:58.000Z",
+      "summary": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challengi",
       "category": "Research",
-      "score": 37.647
+      "score": 38.333
     },
     {
-      "id": "symant-grounding-long-horizon-action-anticipation-with-adapt-yrovir",
-      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
-      "url": "http://arxiv.org/abs/2610.40632v1",
+      "id": "physiological-trajectories-and-observation-patterns-in-icu-m-axkwmu",
+      "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+      "url": "http://arxiv.org/abs/2610.42126v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:58:00.000Z",
-      "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations",
+      "publishedAt": "2026-10-30T17:56:10.000Z",
+      "summary": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance indepe",
       "category": "Research",
-      "score": 37.647
+      "score": 38.332
     },
     {
-      "id": "shallowdefend-harnessing-shallow-safety-alignment-for-multi--108knu",
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "url": "http://arxiv.org/abs/2610.40627v1",
+      "id": "gradient-descent-on-two-relu-neurons-global-landscape-and-bi-p1k8uo",
+      "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+      "url": "http://arxiv.org/abs/2610.42118v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:56:53.000Z",
-      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mech",
+      "publishedAt": "2026-10-30T17:51:35.000Z",
+      "summary": "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics: a",
       "category": "Research",
-      "score": 37.646
+      "score": 38.328
     },
     {
-      "id": "testimony-from-timelines-evidence-grounded-significance-test-t04gzx",
-      "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
-      "url": "http://arxiv.org/abs/2610.40619v1",
+      "id": "fast-privacy-loss-accounting-for-random-allocation-via-multi-xloed",
+      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+      "url": "http://arxiv.org/abs/2610.42117v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:55:30.000Z",
-      "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behin",
+      "publishedAt": "2026-10-30T17:51:03.000Z",
+      "summary": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and i",
       "category": "Research",
-      "score": 37.646
+      "score": 38.328
     },
     {
-      "id": "an-ode-based-sampler-for-discrete-diffusion-models-vwtxj4",
-      "title": "An ODE-based Sampler for Discrete Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.40618v1",
+      "id": "acct-asymmetric-cross-llm-context-transfer-xne177",
+      "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+      "url": "http://arxiv.org/abs/2610.42116v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:55:25.000Z",
-      "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consist",
+      "publishedAt": "2026-10-30T17:50:49.000Z",
+      "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When ",
       "category": "Research",
-      "score": 37.646
+      "score": 38.328
     },
     {
-      "id": "difficulty-calibration-across-time-for-membership-inference--4jr3t9",
-      "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
-      "url": "http://arxiv.org/abs/2610.40616v1",
+      "id": "subquadratic-attention-with-a-hierarchical-tree-structured-i-cpj36f",
+      "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+      "url": "http://arxiv.org/abs/2610.42112v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-29T17:54:54.000Z",
-      "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. T",
+      "publishedAt": "2026-10-30T17:48:37.000Z",
+      "summary": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to ma",
       "category": "Research",
-      "score": 37.645
+      "score": 38.326
     }
   ]
 }
