@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T13:51:15.704Z",
+  "updatedAt": "2026-11-03T23:00:44.794Z",
   "totalItems": 120,
   "categories": {
-    "AI": 56,
-    "Robotics": 16,
-    "Research": 48
+    "AI": 50,
+    "Robotics": 18,
+    "Research": 52
   },
   "items": [
     {
@@ -38,6 +38,16 @@
       "score": 52.782
     },
     {
+      "id": "the-little-book-of-generative-ai-foundations-an-intuitive-ma-cisxmg",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-03T21:40:53Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.759
+    },
+    {
       "id": "gpt-5-6-sol-can-beat-factorio-on-peaceful-mode-1lrwk9",
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
       "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
@@ -58,14 +68,14 @@
       "score": 52.642
     },
     {
-      "id": "anthropic-trained-claude-on-illegally-obtained-stanford-prof-drbejb",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "id": "stringman-an-800-open-source-room-scale-gripper-robot-nrt7da",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-10-27T15:28:26Z",
+      "publishedAt": "2026-11-03T16:47:29Z",
       "summary": "",
-      "category": "AI",
-      "score": 52.554
+      "category": "Robotics",
+      "score": 52.472
     },
     {
       "id": "an-urgent-message-on-artificial-intelligence-from-the-kogui--eyeffe",
@@ -128,16 +138,6 @@
       "score": 52.013
     },
     {
-      "id": "mossad-has-devices-like-the-exploding-pagers-in-every-countr-edvab7",
-      "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\"",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-27T17:31:20Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.921
-    },
-    {
       "id": "embraer-s-atech-aims-to-double-in-size-by-2030-with-drone-tr-37r8st",
       "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
       "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
@@ -146,16 +146,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 51.827
-    },
-    {
-      "id": "php2shell-litellm-gitlab-find-what-you-need-to-patch-q9f1f7",
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-27T16:25:12Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.81
     },
     {
       "id": "show-hn-bema-work-messaging-built-for-humans-b6juma",
@@ -208,16 +198,6 @@
       "score": 51.308
     },
     {
-      "id": "survival-llm-ai-assistant-and-emergency-library-that-runs-on-dy8e92",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-27T19:55:06Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.267
-    },
-    {
       "id": "chatgpt-and-codex-usage-limits-merging-vpz1lj",
       "title": "ChatGPT and Codex usage limits merging",
       "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
@@ -226,16 +206,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.084
-    },
-    {
-      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
-      "category": "AI",
-      "score": 50.886
     },
     {
       "id": "h-264-is-magic-2016-c8racx",
@@ -258,14 +228,14 @@
       "score": 50.821
     },
     {
-      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T10:43:41.000Z",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-      "category": "AI",
-      "score": 50.496
+      "id": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-undergr-gm1ts8",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-03T20:39:55.000Z",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "category": "Robotics",
+      "score": 50.618
     },
     {
       "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
@@ -276,6 +246,26 @@
       "summary": "",
       "category": "AI",
       "score": 50.154
+    },
+    {
+      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
+      "category": "AI",
+      "score": 49.516
+    },
+    {
+      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+      "category": "AI",
+      "score": 49.194
     },
     {
       "id": "when-modernization-breaks-working-code-a-study-of-llms-on-le-8eshri",
@@ -298,46 +288,6 @@
       "score": 48.446
     },
     {
-      "id": "coming-in-2027-apple-s-1-000-home-robot-for-facetime-and-swi-jbdr2b",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-02T18:32:21.000Z",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "category": "Robotics",
-      "score": 48.35
-    },
-    {
-      "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
-      "category": "AI",
-      "score": 48.181
-    },
-    {
-      "id": "some-iphone-duo-screens-are-already-failing-apple-says-only--zeift3",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T14:00:49.000Z",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "category": "AI",
-      "score": 48.02
-    },
-    {
-      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-02T13:10:32.000Z",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
-      "category": "AI",
-      "score": 47.784
-    },
-    {
       "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
       "title": "Trump declares robot imports a national security threat",
       "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
@@ -346,6 +296,16 @@
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
       "category": "Robotics",
       "score": 47.565
+    },
+    {
+      "id": "coming-in-2027-apple-s-1-000-home-robot-for-facetime-and-swi-jbdr2b",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-02T18:32:21.000Z",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "category": "Robotics",
+      "score": 47.42
     },
     {
       "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co-3jfwow",
@@ -358,14 +318,24 @@
       "score": 47.366
     },
     {
-      "id": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sen-agf9hc",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T21:31:14.000Z",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
       "category": "AI",
-      "score": 47.156
+      "score": 47.281
+    },
+    {
+      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-02T13:10:32.000Z",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
+      "category": "AI",
+      "score": 46.953
     },
     {
       "id": "we-urgently-need-to-monitor-ai-agents-actions-in-real-time-fc730j",
@@ -376,16 +346,6 @@
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
       "category": "AI",
       "score": 46.799
-    },
-    {
-      "id": "no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-e-l5xoye",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T21:50:04.000Z",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "category": "AI",
-      "score": 46.571
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -488,16 +448,6 @@
       "score": 43.699
     },
     {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 43.634
-    },
-    {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
       "title": "Quartz has acquired Intelligentsia.ai, an artificial intelligence research firm",
       "url": "https://qz.com/887545/quartz-has-acquired-intelligentsia-ai-an-artificial-intelligence-research-firm/",
@@ -526,6 +476,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.602
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 43.524
     },
     {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
@@ -1035,7 +995,7 @@
       "publishedAt": "2026-11-02T18:59:32.000Z",
       "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from",
       "category": "Research",
-      "score": 41.4
+      "score": 40.462
     },
     {
       "id": "pixel-a-co-designed-full-stack-robot-system-for-learning-gen-xzfdi3",
@@ -1045,7 +1005,7 @@
       "publishedAt": "2026-11-02T18:59:32.000Z",
       "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often develo",
       "category": "Research",
-      "score": 41.4
+      "score": 40.462
     },
     {
       "id": "egoactionbench-benchmarking-dense-action-captioning-for-egoc-nnc916",
@@ -1055,7 +1015,7 @@
       "publishedAt": "2026-11-02T18:59:29.000Z",
       "summary": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain l",
       "category": "Research",
-      "score": 41.4
+      "score": 40.462
     },
     {
       "id": "from-natural-language-to-exact-cover-a-neuro-symbolic-approa-513j19",
@@ -1065,7 +1025,7 @@
       "publishedAt": "2026-11-02T18:58:21.000Z",
       "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despit",
       "category": "Research",
-      "score": 41.398
+      "score": 40.461
     },
     {
       "id": "webharbor-docking-real-websites-for-evolving-gui-agent-envir-i58hwy",
@@ -1075,7 +1035,7 @@
       "publishedAt": "2026-11-02T18:57:36.000Z",
       "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of au",
       "category": "Research",
-      "score": 41.397
+      "score": 40.459
     },
     {
       "id": "pretraining-data-scale-reverses-the-muon-adamw-fine-tuning-g-9tz897",
@@ -1085,7 +1045,7 @@
       "publishedAt": "2026-11-02T18:56:43.000Z",
       "summary": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after ",
       "category": "Research",
-      "score": 41.395
+      "score": 40.458
     },
     {
       "id": "not-all-reasoning-generalizes-a-case-study-on-learning-gener-owr5et",
@@ -1095,7 +1055,7 @@
       "publishedAt": "2026-11-02T18:53:54.000Z",
       "summary": "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies. We ",
       "category": "Research",
-      "score": 41.39
+      "score": 40.454
     },
     {
       "id": "isekai3d-sdg-a-platform-for-diverse-synthetic-gameplay-visua-gn7uh1",
@@ -1105,7 +1065,7 @@
       "publishedAt": "2026-11-02T18:53:46.000Z",
       "summary": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The pl",
       "category": "Research",
-      "score": 41.39
+      "score": 40.453
     },
     {
       "id": "fade-factored-ability-difficulty-filtering-for-online-rlvr-s-nwah5j",
@@ -1115,7 +1075,7 @@
       "publishedAt": "2026-11-02T18:53:23.000Z",
       "summary": "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget witho",
       "category": "Research",
-      "score": 41.389
+      "score": 40.453
     },
     {
       "id": "thought-deciphering-via-hierarchical-eeg-to-text-alignment-mfta2z",
@@ -1125,7 +1085,7 @@
       "publishedAt": "2026-11-02T18:52:26.000Z",
       "summary": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) of",
       "category": "Research",
-      "score": 41.387
+      "score": 40.451
     },
     {
       "id": "d-a-decoupling-description-and-assessment-enables-vlms-as-ze-aleh3k",
@@ -1135,7 +1095,7 @@
       "publishedAt": "2026-11-02T18:52:11.000Z",
       "summary": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due",
       "category": "Research",
-      "score": 41.387
+      "score": 40.451
     },
     {
       "id": "strategist-evolving-reasoning-with-agents-5nq5na",
@@ -1145,7 +1105,7 @@
       "publishedAt": "2026-11-02T18:51:04.000Z",
       "summary": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of build",
       "category": "Research",
-      "score": 41.385
+      "score": 40.449
     },
     {
       "id": "tracing-the-scientific-discovery-capacity-of-llms-to-their-t-jat3z6",
@@ -1155,7 +1115,7 @@
       "publishedAt": "2026-11-02T18:50:54.000Z",
       "summary": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training d",
       "category": "Research",
-      "score": 41.384
+      "score": 40.449
     },
     {
       "id": "benchmark-prediction-with-sparse-and-unpaired-cached-respons-3xn87v",
@@ -1165,7 +1125,7 @@
       "publishedAt": "2026-11-02T18:49:33.000Z",
       "summary": "Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a giv",
       "category": "Research",
-      "score": 41.382
+      "score": 40.447
     },
     {
       "id": "efficient-closure-learning-in-dynamical-systems-a-comparison-opym4i",
@@ -1175,7 +1135,7 @@
       "publishedAt": "2026-11-02T18:47:40.000Z",
       "summary": "Increased computing power has transformed computational science and improved predictive capabilities for complex systems, but many phenomena still exceed current simulation capabilities or require rapid evaluations for f",
       "category": "Research",
-      "score": 41.378
+      "score": 40.444
     },
     {
       "id": "ufakzeka-kulak-building-and-evaluating-a-31-6m-parameter-tur-h5bo28",
@@ -1185,7 +1145,7 @@
       "publishedAt": "2026-11-02T18:42:32.000Z",
       "summary": "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under Apache-2.0. It writes",
       "category": "Research",
-      "score": 41.369
+      "score": 40.436
     },
     {
       "id": "reviso-not-all-visual-evidence-deserves-equal-attention-in-v-fmu2ls",
@@ -1195,7 +1155,7 @@
       "publishedAt": "2026-11-02T18:41:14.000Z",
       "summary": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual evidence deserves e",
       "category": "Research",
-      "score": 41.366
+      "score": 40.434
     },
     {
       "id": "diabagent-toward-agentic-physiological-control-a8inl5",
@@ -1205,7 +1165,47 @@
       "publishedAt": "2026-11-02T18:41:02.000Z",
       "summary": "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantita",
       "category": "Research",
-      "score": 41.366
+      "score": 40.434
+    },
+    {
+      "id": "four-bridges-measuring-deception-propensity-in-a-multi-agent-4dwgis",
+      "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+      "url": "http://arxiv.org/abs/2611.03600v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-02T18:40:47.000Z",
+      "summary": "AI agents are increasingly deployed in settings where they interact and coordinate with other agents, yet honesty is mostly measured in single-turn, single-agent benchmarks that pressure the model to deceive. We study de",
+      "category": "Research",
+      "score": 40.433
+    },
+    {
+      "id": "should-we-combine-our-data-algorithms-and-limits-for-private-k80six",
+      "title": "Should We Combine Our Data? Algorithms and Limits for Privately Assessing Data Sharing",
+      "url": "http://arxiv.org/abs/2611.03599v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-02T18:40:38.000Z",
+      "summary": "In this paper, we study when two parties should pool their data to train a machine learning model. Two agents, Alice and Bob, each hold a sensitive labeled dataset and want to train a classifier from a given hypothesis c",
+      "category": "Research",
+      "score": 40.433
+    },
+    {
+      "id": "structured-visual-landscape-generating-preferred-representat-e8yna4",
+      "title": "Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks",
+      "url": "http://arxiv.org/abs/2611.03597v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-02T18:39:55.000Z",
+      "summary": "Understanding how neurons respond to visual stimulus is an important question in both deep learning and neuroscience. It has significant implications for enhancing the interpretability of black-box artificial neural netw",
+      "category": "Research",
+      "score": 40.432
+    },
+    {
+      "id": "spacetime-emergence-in-the-memory-of-a-learning-agent-7pdydi",
+      "title": "Spacetime Emergence in the Memory of a Learning Agent",
+      "url": "http://arxiv.org/abs/2611.03596v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-02T18:39:52.000Z",
+      "summary": "We show that the causal structure of spacetime can emerge within the memory of a learning agent performing a quantum information task. We train a model-based reinforcement-learning agent to maximize the quantum mutual in",
+      "category": "Research",
+      "score": 40.432
     }
   ]
 }
