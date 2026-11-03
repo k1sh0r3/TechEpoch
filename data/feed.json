@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T00:44:46.476Z",
+  "updatedAt": "2026-11-03T13:51:15.704Z",
   "totalItems": 120,
   "categories": {
-    "AI": 54,
+    "AI": 56,
     "Robotics": 16,
-    "Research": 50
+    "Research": 48
   },
   "items": [
     {
@@ -88,6 +88,16 @@
       "score": 52.322
     },
     {
+      "id": "anthropic-ipo-filing-1-7b-quarterly-payroll-about-107k-per-e-oz18c3",
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-03T11:16:07Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.305
+    },
+    {
       "id": "malware-uses-llms-to-rank-victims-by-how-much-they-re-worth-3m24a9",
       "title": "Malware uses LLMs to rank victims by how much they're worth",
       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
@@ -146,6 +156,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.81
+    },
+    {
+      "id": "show-hn-bema-work-messaging-built-for-humans-b6juma",
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "url": "https://getbema.app/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-03T12:51:11Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.534
     },
     {
       "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig-3qtuyf",
@@ -208,6 +228,16 @@
       "score": 51.084
     },
     {
+      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
+      "category": "AI",
+      "score": 50.886
+    },
+    {
       "id": "h-264-is-magic-2016-c8racx",
       "title": "H.264 Is Magic (2016)",
       "url": "https://sidbala.com/h-264-is-magic/",
@@ -228,6 +258,16 @@
       "score": 50.821
     },
     {
+      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+      "category": "AI",
+      "score": 50.496
+    },
+    {
       "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
@@ -236,36 +276,6 @@
       "summary": "",
       "category": "AI",
       "score": 50.154
-    },
-    {
-      "id": "coming-in-2027-apple-s-1-000-home-robot-for-facetime-and-swi-jbdr2b",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-02T18:32:21.000Z",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "category": "Robotics",
-      "score": 50.03
-    },
-    {
-      "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
-      "category": "AI",
-      "score": 49.808
-    },
-    {
-      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-02T13:10:32.000Z",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
-      "category": "AI",
-      "score": 49.286
     },
     {
       "id": "when-modernization-breaks-working-code-a-study-of-llms-on-le-8eshri",
@@ -288,6 +298,26 @@
       "score": 48.446
     },
     {
+      "id": "coming-in-2027-apple-s-1-000-home-robot-for-facetime-and-swi-jbdr2b",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-02T18:32:21.000Z",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "category": "Robotics",
+      "score": 48.35
+    },
+    {
+      "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
+      "category": "AI",
+      "score": 48.181
+    },
+    {
       "id": "some-iphone-duo-screens-are-already-failing-apple-says-only--zeift3",
       "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
       "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
@@ -298,14 +328,14 @@
       "score": 48.02
     },
     {
-      "id": "us-officials-want-section-702-renewed-before-damaging-court--7fx4v4",
-      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-27T13:22:16.000Z",
-      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-02T13:10:32.000Z",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
       "category": "AI",
-      "score": 47.953
+      "score": 47.784
     },
     {
       "id": "trump-declares-robot-imports-a-national-security-threat-p3er8c",
@@ -368,16 +398,6 @@
       "score": 45.771
     },
     {
-      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-10-31T11:02:34.000Z",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "category": "Robotics",
-      "score": 45.212
-    },
-    {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
       "title": "AI•ON: Artificial Intelligence Open Network",
       "url": "http://ai-on.org/",
@@ -398,6 +418,16 @@
       "score": 44.956
     },
     {
+      "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-10-31T11:02:34.000Z",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "category": "Robotics",
+      "score": 44.683
+    },
+    {
       "id": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly--81ez5y",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
@@ -405,17 +435,7 @@
       "publishedAt": "2026-10-30T21:09:54.000Z",
       "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
       "category": "AI",
-      "score": 44.657
-    },
-    {
-      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
-      "category": "AI",
-      "score": 43.833
+      "score": 44.261
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -466,6 +486,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
+    },
+    {
+      "id": "the-download-ai-agent-tracking-and-climate-feedback-loops-7ucfcb",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Sr",
+      "category": "AI",
+      "score": 43.634
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -566,16 +596,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.477
-    },
-    {
-      "id": "the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-nla7ua",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
-      "category": "AI",
-      "score": 43.461
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -1008,204 +1028,184 @@
       "score": 41.678
     },
     {
-      "id": "gazerib-systematic-evaluation-of-multi-reader-gaze-guided-ch-9mgdq4",
-      "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
-      "url": "http://arxiv.org/abs/2610.42152v1",
+      "id": "pixel-umi-learning-environment-aware-whole-body-manipulation-y0yd5s",
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+      "url": "http://arxiv.org/abs/2611.03647v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:59.000Z",
-      "summary": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unvi",
+      "publishedAt": "2026-11-02T18:59:32.000Z",
+      "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from",
       "category": "Research",
-      "score": 37.551
+      "score": 41.4
     },
     {
-      "id": "latent-reasoning-in-continuous-space-for-unified-multimodal--75uzx1",
-      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-      "url": "http://arxiv.org/abs/2610.42149v1",
+      "id": "pixel-a-co-designed-full-stack-robot-system-for-learning-gen-xzfdi3",
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "url": "http://arxiv.org/abs/2611.03648v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:43.000Z",
-      "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image ge",
+      "publishedAt": "2026-11-02T18:59:32.000Z",
+      "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often develo",
       "category": "Research",
-      "score": 37.551
+      "score": 41.4
     },
     {
-      "id": "flide-accelerating-decision-inference-with-exact-state-forki-76eqmz",
-      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-      "url": "http://arxiv.org/abs/2610.42148v1",
+      "id": "egoactionbench-benchmarking-dense-action-captioning-for-egoc-nnc916",
+      "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+      "url": "http://arxiv.org/abs/2611.03646v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:38.000Z",
-      "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriente",
+      "publishedAt": "2026-11-02T18:59:29.000Z",
+      "summary": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain l",
       "category": "Research",
-      "score": 37.551
+      "score": 41.4
     },
     {
-      "id": "latent-sparse-attention-towards-subquadratic-ultra-long-cont-xrsgzu",
-      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-      "url": "http://arxiv.org/abs/2610.42147v1",
+      "id": "from-natural-language-to-exact-cover-a-neuro-symbolic-approa-513j19",
+      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+      "url": "http://arxiv.org/abs/2611.03641v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:34.000Z",
-      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention",
+      "publishedAt": "2026-11-02T18:58:21.000Z",
+      "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despit",
       "category": "Research",
-      "score": 37.551
+      "score": 41.398
     },
     {
-      "id": "hierarchical-world-models-with-implicit-dynamics-aklm7u",
-      "title": "Hierarchical World Models with Implicit Dynamics",
-      "url": "http://arxiv.org/abs/2610.42146v1",
+      "id": "webharbor-docking-real-websites-for-evolving-gui-agent-envir-i58hwy",
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "url": "http://arxiv.org/abs/2611.03634v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:25.000Z",
-      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search compl",
+      "publishedAt": "2026-11-02T18:57:36.000Z",
+      "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of au",
       "category": "Research",
-      "score": 37.551
+      "score": 41.397
     },
     {
-      "id": "semellipsoid-semantic-aware-shape-abstraction-with-ellipsoid-bdapqb",
-      "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
-      "url": "http://arxiv.org/abs/2610.42145v1",
+      "id": "pretraining-data-scale-reverses-the-muon-adamw-fine-tuning-g-9tz897",
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+      "url": "http://arxiv.org/abs/2611.03633v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:59:14.000Z",
-      "summary": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compa",
+      "publishedAt": "2026-11-02T18:56:43.000Z",
+      "summary": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after ",
       "category": "Research",
-      "score": 37.551
+      "score": 41.395
     },
     {
-      "id": "roboarchitect-automating-the-design-of-robotic-agents-with-p-7d2a3y",
-      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-      "url": "http://arxiv.org/abs/2610.42141v1",
+      "id": "not-all-reasoning-generalizes-a-case-study-on-learning-gener-owr5et",
+      "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
+      "url": "http://arxiv.org/abs/2611.03627v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:58:48.000Z",
-      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses ",
+      "publishedAt": "2026-11-02T18:53:54.000Z",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies. We ",
       "category": "Research",
-      "score": 37.55
+      "score": 41.39
     },
     {
-      "id": "counting-on-dummies-privacy-amplification-with-observable-co-pe2tby",
-      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
-      "url": "http://arxiv.org/abs/2610.42139v1",
+      "id": "isekai3d-sdg-a-platform-for-diverse-synthetic-gameplay-visua-gn7uh1",
+      "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+      "url": "http://arxiv.org/abs/2611.03626v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:58:42.000Z",
-      "summary": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplificati",
+      "publishedAt": "2026-11-02T18:53:46.000Z",
+      "summary": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The pl",
       "category": "Research",
-      "score": 37.55
+      "score": 41.39
     },
     {
-      "id": "relift-dense-3d-tracking-as-lifted-trajectory-repair-kavf33",
-      "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
-      "url": "http://arxiv.org/abs/2610.42136v1",
+      "id": "fade-factored-ability-difficulty-filtering-for-online-rlvr-s-nwah5j",
+      "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+      "url": "http://arxiv.org/abs/2611.03625v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:58:33.000Z",
-      "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically learn these tasks jointl",
+      "publishedAt": "2026-11-02T18:53:23.000Z",
+      "summary": "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget witho",
       "category": "Research",
-      "score": 37.55
+      "score": 41.389
     },
     {
-      "id": "a-better-critic-matters-for-distribution-matching-distillati-47wiwp",
-      "title": "A Better Critic Matters for Distribution Matching Distillation",
-      "url": "http://arxiv.org/abs/2610.42135v1",
+      "id": "thought-deciphering-via-hierarchical-eeg-to-text-alignment-mfta2z",
+      "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+      "url": "http://arxiv.org/abs/2611.03623v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:58:26.000Z",
-      "summary": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs,",
+      "publishedAt": "2026-11-02T18:52:26.000Z",
+      "summary": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) of",
       "category": "Research",
-      "score": 37.55
+      "score": 41.387
     },
     {
-      "id": "instance-dependent-sequential-limits-as-an-exact-information-fqidxf",
-      "title": "Instance-dependent sequential limits as an exact information ledger",
-      "url": "http://arxiv.org/abs/2610.42133v1",
+      "id": "d-a-decoupling-description-and-assessment-enables-vlms-as-ze-aleh3k",
+      "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+      "url": "http://arxiv.org/abs/2611.03622v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:57:44.000Z",
-      "summary": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statistic",
+      "publishedAt": "2026-11-02T18:52:11.000Z",
+      "summary": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due",
       "category": "Research",
-      "score": 37.55
+      "score": 41.387
     },
     {
-      "id": "decisionrank-on-policy-distillation-for-decision-model-reran-rta92i",
-      "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
-      "url": "http://arxiv.org/abs/2610.42128v1",
+      "id": "strategist-evolving-reasoning-with-agents-5nq5na",
+      "title": "Strategist: Evolving Reasoning with Agents",
+      "url": "http://arxiv.org/abs/2611.03618v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:56:58.000Z",
-      "summary": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challengi",
+      "publishedAt": "2026-11-02T18:51:04.000Z",
+      "summary": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of build",
       "category": "Research",
-      "score": 37.549
+      "score": 41.385
     },
     {
-      "id": "physiological-trajectories-and-observation-patterns-in-icu-m-axkwmu",
-      "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
-      "url": "http://arxiv.org/abs/2610.42126v1",
+      "id": "tracing-the-scientific-discovery-capacity-of-llms-to-their-t-jat3z6",
+      "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+      "url": "http://arxiv.org/abs/2611.03617v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:56:10.000Z",
-      "summary": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance indepe",
+      "publishedAt": "2026-11-02T18:50:54.000Z",
+      "summary": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training d",
       "category": "Research",
-      "score": 37.549
+      "score": 41.384
     },
     {
-      "id": "gradient-descent-on-two-relu-neurons-global-landscape-and-bi-p1k8uo",
-      "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
-      "url": "http://arxiv.org/abs/2610.42118v1",
+      "id": "benchmark-prediction-with-sparse-and-unpaired-cached-respons-3xn87v",
+      "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+      "url": "http://arxiv.org/abs/2611.03614v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:51:35.000Z",
-      "summary": "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics: a",
+      "publishedAt": "2026-11-02T18:49:33.000Z",
+      "summary": "Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a giv",
       "category": "Research",
-      "score": 37.546
+      "score": 41.382
     },
     {
-      "id": "fast-privacy-loss-accounting-for-random-allocation-via-multi-xloed",
-      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
-      "url": "http://arxiv.org/abs/2610.42117v1",
+      "id": "efficient-closure-learning-in-dynamical-systems-a-comparison-opym4i",
+      "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+      "url": "http://arxiv.org/abs/2611.03612v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:51:03.000Z",
-      "summary": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and i",
+      "publishedAt": "2026-11-02T18:47:40.000Z",
+      "summary": "Increased computing power has transformed computational science and improved predictive capabilities for complex systems, but many phenomena still exceed current simulation capabilities or require rapid evaluations for f",
       "category": "Research",
-      "score": 37.546
+      "score": 41.378
     },
     {
-      "id": "acct-asymmetric-cross-llm-context-transfer-xne177",
-      "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
-      "url": "http://arxiv.org/abs/2610.42116v1",
+      "id": "ufakzeka-kulak-building-and-evaluating-a-31-6m-parameter-tur-h5bo28",
+      "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
+      "url": "http://arxiv.org/abs/2611.03605v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:50:49.000Z",
-      "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When ",
+      "publishedAt": "2026-11-02T18:42:32.000Z",
+      "summary": "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under Apache-2.0. It writes",
       "category": "Research",
-      "score": 37.546
+      "score": 41.369
     },
     {
-      "id": "subquadratic-attention-with-a-hierarchical-tree-structured-i-cpj36f",
-      "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
-      "url": "http://arxiv.org/abs/2610.42112v1",
+      "id": "reviso-not-all-visual-evidence-deserves-equal-attention-in-v-fmu2ls",
+      "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+      "url": "http://arxiv.org/abs/2611.03602v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:48:37.000Z",
-      "summary": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to ma",
+      "publishedAt": "2026-11-02T18:41:14.000Z",
+      "summary": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual evidence deserves e",
       "category": "Research",
-      "score": 37.545
+      "score": 41.366
     },
     {
-      "id": "satfront-detecting-atmospheric-fronts-with-satellite-data-us-d2nzh",
-      "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
-      "url": "http://arxiv.org/abs/2610.42111v1",
+      "id": "diabagent-toward-agentic-physiological-control-a8inl5",
+      "title": "DiabAgent: Toward Agentic Physiological Control",
+      "url": "http://arxiv.org/abs/2611.03601v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:48:20.000Z",
-      "summary": "Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning approaches rely primar",
+      "publishedAt": "2026-11-02T18:41:02.000Z",
+      "summary": "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantita",
       "category": "Research",
-      "score": 37.545
-    },
-    {
-      "id": "regret-optimal-wasserstein-robust-linear-regression-flbesa",
-      "title": "Regret-Optimal Wasserstein-Robust Linear Regression",
-      "url": "http://arxiv.org/abs/2610.42109v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:47:58.000Z",
-      "summary": "Distributionally robust optimization (DRO) minimizes worst-case risk under distributional uncertainty, but its decisions can be suboptimal in terms of their excess risk, or regret. We study this gap for multivariate leas",
-      "category": "Research",
-      "score": 37.545
-    },
-    {
-      "id": "hard-constraint-projection-in-a-physics-informed-neural-netw-fuhw2g",
-      "title": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
-      "url": "http://arxiv.org/abs/2610.42106v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-10-30T17:47:01.000Z",
-      "summary": "Physics informed machine learning provides a framework to study and simulate fluid dynamics, potentially at a fraction of the computational cost of traditional numerical methods, with the goal of improving the explainabi",
-      "category": "Research",
-      "score": 37.544
+      "score": 41.366
     }
   ]
 }
