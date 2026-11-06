@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:26:33.817Z",
+  "updatedAt": "2026-11-06T05:44:54.934Z",
   "totalItems": 120,
   "categories": {
     "AI": 52,
@@ -67,16 +67,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.322
-    },
-    {
-      "id": "agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-r-mxvdtm",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-05T12:00:41.000Z",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "category": "Robotics",
-      "score": 52.305
     },
     {
       "id": "anthropic-ipo-filing-1-7b-quarterly-payroll-about-107k-per-e-oz18c3",
@@ -159,6 +149,16 @@
       "score": 51.534
     },
     {
+      "id": "agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-r-mxvdtm",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-05T12:00:41.000Z",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "category": "Robotics",
+      "score": 51.529
+    },
+    {
       "id": "altera-announces-agilex-2x-a-complete-fpga-and-soc-portfolio-nzk1z5",
       "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
       "url": "https://www.altera.com/newsroom/agilex-2x",
@@ -219,26 +219,6 @@
       "score": 50.972
     },
     {
-      "id": "google-schools-can-keep-search-while-skipping-gemini-but-ai--kyitiv",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-05T21:40:36.000Z",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "category": "AI",
-      "score": 50.711
-    },
-    {
-      "id": "lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-pl-52s804",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-05T21:39:40.000Z",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "category": "AI",
-      "score": 50.709
-    },
-    {
       "id": "show-hn-uncracked-city-detective-game-where-you-question-llm-mi55zf",
       "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
       "url": "https://uncracked.city",
@@ -247,16 +227,6 @@
       "summary": "",
       "category": "AI",
       "score": 50.615
-    },
-    {
-      "id": "software-squeezes-more-data-out-of-webb-telescope-for-imagin-2h132o",
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-05T19:59:22.000Z",
-      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-      "category": "AI",
-      "score": 50.445
     },
     {
       "id": "do-the-math-how-we-took-over-chatgpt-accounts-r6il0m",
@@ -269,6 +239,36 @@
       "score": 50.154
     },
     {
+      "id": "google-schools-can-keep-search-while-skipping-gemini-but-ai--kyitiv",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-05T21:40:36.000Z",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "category": "AI",
+      "score": 49.762
+    },
+    {
+      "id": "lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-pl-52s804",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-05T21:39:40.000Z",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "category": "AI",
+      "score": 49.76
+    },
+    {
+      "id": "software-squeezes-more-data-out-of-webb-telescope-for-imagin-2h132o",
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-05T19:59:22.000Z",
+      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+      "category": "AI",
+      "score": 49.528
+    },
+    {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -276,17 +276,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 49.995
-    },
-    {
-      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-      "category": "AI",
-      "score": 49.458
+      "score": 49.134
     },
     {
       "id": "when-modernization-breaks-working-code-a-study-of-llms-on-le-8eshri",
@@ -297,6 +287,16 @@
       "summary": "",
       "category": "AI",
       "score": 48.754
+    },
+    {
+      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-05T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+      "category": "AI",
+      "score": 48.663
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -326,7 +326,7 @@
       "publishedAt": "2026-11-04T13:00:00.000Z",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
       "category": "AI",
-      "score": 46.904
+      "score": 46.423
     },
     {
       "id": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-undergr-gm1ts8",
@@ -359,26 +359,6 @@
       "score": 45.771
     },
     {
-      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
-      "category": "AI",
-      "score": 45.376
-    },
-    {
-      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T10:43:41.000Z",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-      "category": "AI",
-      "score": 45.258
-    },
-    {
       "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
       "title": "Raising the quality of insights in agentic analytics",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -399,6 +379,16 @@
       "score": 45.182
     },
     {
+      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
+      "category": "AI",
+      "score": 45.083
+    },
+    {
       "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
       "title": "Stop counting tokens, start counting what ships",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -407,6 +397,16 @@
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
       "category": "AI",
       "score": 45.081
+    },
+    {
+      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+      "category": "AI",
+      "score": 44.98
     },
     {
       "id": "the-fda-wants-to-pull-its-approval-of-a-drug-it-s-not-so-eas-rntpx8",
@@ -1016,47 +1016,7 @@
       "publishedAt": "2026-11-05T22:17:15Z",
       "summary": "",
       "category": "Tech",
-      "score": 20.045
-    },
-    {
-      "id": "search-for-everyone-u47ikm",
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T20:03:34Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.03
-    },
-    {
-      "id": "goodbye-from-salon-se4rzq",
-      "title": "Goodbye from Salon",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T20:03:29Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.967
-    },
-    {
-      "id": "ms-paint-remote-code-execution-vulnerability-md9d1d",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T20:43:42Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.91
-    },
-    {
-      "id": "sshole-ersesg",
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T12:19:02Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.688
+      "score": 19.748
     },
     {
       "id": "awesome-repositories-are-no-longer-awesome-31e8tg",
@@ -1067,26 +1027,6 @@
       "summary": "",
       "category": "Tech",
       "score": 19.568
-    },
-    {
-      "id": "the-hackintosh-reborn-glbaa1",
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T19:08:22Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.518
-    },
-    {
-      "id": "motorola-signature-27-with-grapheneos-support-k3io6f",
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T16:01:34Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.424
     },
     {
       "id": "alpine-linux-security-advisory-openssh-server-password-authe-qtdxx",
@@ -1129,14 +1069,34 @@
       "score": 19.34
     },
     {
-      "id": "window-sweaters-jzatuq",
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
+      "id": "search-for-everyone-u47ikm",
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T16:50:14Z",
+      "publishedAt": "2026-11-05T20:03:34Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.3
+      "score": 19.325
+    },
+    {
+      "id": "pwn-college-mqfepc",
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T03:27:14Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.317
+    },
+    {
+      "id": "cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say--4rok9i",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-05T23:09:57Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.313
     },
     {
       "id": "tencent-launches-hy4-one-of-the-leading-open-source-ai-model-4zpyn9",
@@ -1147,6 +1107,56 @@
       "summary": "",
       "category": "Tech",
       "score": 19.288
+    },
+    {
+      "id": "goodbye-from-salon-se4rzq",
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-05T20:03:29Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.262
+    },
+    {
+      "id": "ms-paint-remote-code-execution-vulnerability-md9d1d",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-05T20:43:42Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.252
+    },
+    {
+      "id": "inkling-2-small-ak05ij",
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T00:00:24Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.235
+    },
+    {
+      "id": "nvidia-kubernetes-engine-nvke-9jjtl4",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T03:16:26Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.2
+    },
+    {
+      "id": "closed-ai-models-dominate-the-price-performance-frontier-czs3wt",
+      "title": "Closed AI models dominate the price-performance frontier",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T02:49:56Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.141
     },
     {
       "id": "my-psychophysics-as-a-bilateral-cochlear-implant-user-l59rrn",
@@ -1179,34 +1189,24 @@
       "score": 19.018
     },
     {
-      "id": "i-wish-tech-companies-knew-more-about-me-psf0uw",
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "id": "sshole-ersesg",
+      "title": "sshole",
+      "url": "https://sshhole.com",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T13:40:52Z",
+      "publishedAt": "2026-11-05T12:19:02Z",
       "summary": "",
       "category": "Tech",
-      "score": 18.954
+      "score": 18.961
     },
     {
-      "id": "mcp-explained-pjyvtc",
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
+      "id": "the-hackintosh-reborn-glbaa1",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T14:08:35Z",
+      "publishedAt": "2026-11-05T19:08:22Z",
       "summary": "",
       "category": "Tech",
-      "score": 18.937
-    },
-    {
-      "id": "introducing-pangram-image-1-0-gzag66",
-      "title": "Introducing Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T19:27:52Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 18.932
+      "score": 18.832
     }
   ]
 }
