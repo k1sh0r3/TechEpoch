@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T12:41:05.026Z",
+  "updatedAt": "2026-11-07T21:36:16.316Z",
   "totalItems": 120,
   "categories": {
-    "AI": 52,
+    "AI": 50,
     "Robotics": 19,
     "Research": 46,
-    "Tech": 3
+    "Tech": 5
   },
   "items": [
     {
@@ -29,26 +29,6 @@
       "score": 52.782
     },
     {
-      "id": "gpt-5-6-sol-can-beat-factorio-on-peaceful-mode-1lrwk9",
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T18:50:34Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.657
-    },
-    {
-      "id": "the-impact-of-generative-ai-on-critical-thinking-self-report-4f8o8w",
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T18:02:29Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.322
-    },
-    {
       "id": "anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-8jevbk",
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
@@ -69,16 +49,6 @@
       "score": 52.305
     },
     {
-      "id": "malware-uses-llms-to-rank-victims-by-how-much-they-re-worth-3m24a9",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T14:29:03Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.287
-    },
-    {
       "id": "the-little-book-of-generative-ai-foundations-an-intuitive-ma-cisxmg",
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
@@ -87,16 +57,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.259
-    },
-    {
-      "id": "anthropic-blocks-users-for-anything-touching-training-larger-x4948x",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T19:39:19Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.013
     },
     {
       "id": "openai-finds-948-local-privilege-escalation-bugs-in-the-linu-58qi3i",
@@ -117,6 +77,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.972
+    },
+    {
+      "id": "show-hn-we-compressed-a-31b-video-audio-diffusion-model-to-1-kz45yh",
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-07T15:16:01Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.644
     },
     {
       "id": "lippitt-knoster-in-practice-field-notes-for-managing-complex-wqv5gs",
@@ -209,16 +179,6 @@
       "score": 50.972
     },
     {
-      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-06T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "category": "Robotics",
-      "score": 50.901
-    },
-    {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
       "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
@@ -249,6 +209,16 @@
       "score": 50.615
     },
     {
+      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-06T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "category": "Robotics",
+      "score": 50.07
+    },
+    {
       "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -256,27 +226,7 @@
       "publishedAt": "2026-11-06T10:00:00.000Z",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
       "category": "Robotics",
-      "score": 50.588
-    },
-    {
-      "id": "gemini-omni-1-2-flash-i7ild5",
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-06T13:35:27Z",
-      "summary": "",
-      "category": "AI",
-      "score": 50.481
-    },
-    {
-      "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "category": "AI",
-      "score": 48.763
+      "score": 49.81
     },
     {
       "id": "when-modernization-breaks-working-code-a-study-of-llms-on-le-8eshri",
@@ -309,6 +259,16 @@
       "score": 48.446
     },
     {
+      "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "category": "AI",
+      "score": 47.786
+    },
+    {
       "id": "google-schools-can-keep-search-while-skipping-gemini-but-ai--kyitiv",
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
       "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
@@ -339,6 +299,16 @@
       "score": 47.228
     },
     {
+      "id": "the-typo-generation-is-damaging-literature-s9egyy",
+      "title": "The typo generation is damaging literature",
+      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-04T20:05:56Z",
+      "summary": "",
+      "category": "AI",
+      "score": 46.383
+    },
+    {
       "id": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-undergr-gm1ts8",
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
       "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
@@ -359,16 +329,6 @@
       "score": 46.237
     },
     {
-      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-      "category": "AI",
-      "score": 45.973
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -377,6 +337,26 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "category": "AI",
+      "score": 45.674
+    },
+    {
+      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-05T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+      "category": "AI",
+      "score": 45.469
     },
     {
       "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
@@ -426,7 +406,7 @@
       "publishedAt": "2026-11-04T13:00:00.000Z",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
       "category": "AI",
-      "score": 44.797
+      "score": 44.492
     },
     {
       "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
@@ -436,7 +416,7 @@
       "publishedAt": "2026-11-03T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
       "category": "AI",
-      "score": 44.094
+      "score": 43.908
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -886,7 +866,7 @@
       "publishedAt": "2026-11-05T18:59:42.000Z",
       "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and o",
       "category": "Research",
-      "score": 39.357
+      "score": 38.787
     },
     {
       "id": "do-you-miss-the-nights-we-spent-crafting-figures-rethinking--lbs5vp",
@@ -896,7 +876,7 @@
       "publishedAt": "2026-11-05T18:59:33.000Z",
       "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purp",
       "category": "Research",
-      "score": 39.356
+      "score": 38.787
     },
     {
       "id": "where-and-why-is-grounded-reasoning-useful-7vebtj",
@@ -906,7 +886,7 @@
       "publishedAt": "2026-11-05T18:59:32.000Z",
       "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of",
       "category": "Research",
-      "score": 39.356
+      "score": 38.787
     },
     {
       "id": "swarmevolve-latent-agent-swarms-for-evolutionary-discovery-a-8ih2hb",
@@ -916,7 +896,7 @@
       "publishedAt": "2026-11-05T18:59:29.000Z",
       "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow becau",
       "category": "Research",
-      "score": 39.356
+      "score": 38.787
     },
     {
       "id": "scientist-world-grow-a-research-world-for-ai-scientists-padytu",
@@ -926,7 +906,7 @@
       "publishedAt": "2026-11-05T18:58:17.000Z",
       "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world",
       "category": "Research",
-      "score": 39.355
+      "score": 38.786
     },
     {
       "id": "egogeneralist-unifying-egocentric-action-video-tasks-through-lb2e0s",
@@ -936,7 +916,7 @@
       "publishedAt": "2026-11-05T18:58:13.000Z",
       "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric v",
       "category": "Research",
-      "score": 39.355
+      "score": 38.786
     },
     {
       "id": "xstack-a-benchmark-for-ml-repo-migration-ponpv2",
@@ -946,7 +926,7 @@
       "publishedAt": "2026-11-05T18:55:54.000Z",
       "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them",
       "category": "Research",
-      "score": 39.352
+      "score": 38.784
     },
     {
       "id": "same-behavior-different-mechanism-what-finite-experiments-ca-khusjj",
@@ -956,7 +936,7 @@
       "publishedAt": "2026-11-05T18:55:31.000Z",
       "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. ",
       "category": "Research",
-      "score": 39.352
+      "score": 38.783
     },
     {
       "id": "towards-interpreting-any-residual-stream-direction-by-scalin-e2eqju",
@@ -966,7 +946,7 @@
       "publishedAt": "2026-11-05T18:54:40.000Z",
       "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Ma",
       "category": "Research",
-      "score": 39.351
+      "score": 38.782
     },
     {
       "id": "oopsierecover-learning-transferable-vla-corrections-from-sem-ytdpis",
@@ -976,7 +956,7 @@
       "publishedAt": "2026-11-05T18:53:16.000Z",
       "summary": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing ap",
       "category": "Research",
-      "score": 39.349
+      "score": 38.781
     },
     {
       "id": "latent-rl-priors-for-data-efficient-dexterous-manipulation-8drkg0",
@@ -986,7 +966,7 @@
       "publishedAt": "2026-11-05T18:50:06.000Z",
       "summary": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire r",
       "category": "Research",
-      "score": 39.345
+      "score": 38.778
     },
     {
       "id": "adversarial-training-with-large-step-sizes-implicit-bias-opt-c5p3vo",
@@ -996,7 +976,7 @@
       "publishedAt": "2026-11-05T18:48:50.000Z",
       "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing s",
       "category": "Research",
-      "score": 39.344
+      "score": 38.777
     },
     {
       "id": "unpacking-the-compute-efficiency-of-strong-to-weak-opd-again-fhril4",
@@ -1006,7 +986,7 @@
       "publishedAt": "2026-11-05T18:47:05.000Z",
       "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforce",
       "category": "Research",
-      "score": 39.342
+      "score": 38.775
     },
     {
       "id": "reprobridge-building-reproducibility-into-ml-research-artifa-nkgirq",
@@ -1016,7 +996,7 @@
       "publishedAt": "2026-11-05T18:45:36.000Z",
       "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend ",
       "category": "Research",
-      "score": 39.34
+      "score": 38.774
     },
     {
       "id": "vflash-fast-accurate-visual-planning-via-flash-primitive-dec-vbjjhh",
@@ -1026,7 +1006,7 @@
       "publishedAt": "2026-11-05T18:44:43.000Z",
       "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate mo",
       "category": "Research",
-      "score": 39.339
+      "score": 38.773
     },
     {
       "id": "a-hidden-markov-preference-model-for-online-prediction-of-ad-lig6b9",
@@ -1036,7 +1016,7 @@
       "publishedAt": "2026-11-05T18:37:07.000Z",
       "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime ",
       "category": "Research",
-      "score": 39.33
+      "score": 38.766
     },
     {
       "id": "edge-assisted-crowdsensing-for-explainable-cyclist-safety-pe-upoag2",
@@ -1046,7 +1026,7 @@
       "publishedAt": "2026-11-05T18:33:58.000Z",
       "summary": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monit",
       "category": "Research",
-      "score": 39.327
+      "score": 38.763
     },
     {
       "id": "label-wording-augmentation-in-a-typed-decision-encoder-gains-kentx4",
@@ -1056,7 +1036,7 @@
       "publishedAt": "2026-11-05T18:31:24.000Z",
       "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingu",
       "category": "Research",
-      "score": 39.324
+      "score": 38.76
     },
     {
       "id": "understanding-ai-from-the-inside-the-state-of-mechanistic-in-tzq1h2",
@@ -1066,7 +1046,7 @@
       "publishedAt": "2026-11-05T18:30:54.000Z",
       "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of th",
       "category": "Research",
-      "score": 39.323
+      "score": 38.76
     },
     {
       "id": "sm4rt-cascaded-feed-forward-model-for-4d-reconstruction-7hl2sq",
@@ -1076,7 +1056,7 @@
       "publishedAt": "2026-11-05T18:28:38.000Z",
       "summary": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separat",
       "category": "Research",
-      "score": 39.321
+      "score": 38.757
     },
     {
       "id": "medgraph-maintaining-patient-state-with-graph-memory-for-lon-unhvbl",
@@ -1086,7 +1066,7 @@
       "publishedAt": "2026-11-05T18:27:20.000Z",
       "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue ",
       "category": "Research",
-      "score": 39.319
+      "score": 38.756
     },
     {
       "id": "the-power-of-meta-access-in-the-software-of-the-future-demon-vx30wh",
@@ -1096,7 +1076,7 @@
       "publishedAt": "2026-11-05T18:22:24.000Z",
       "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. ",
       "category": "Research",
-      "score": 39.313
+      "score": 38.751
     },
     {
       "id": "failure-prediction-and-classification-in-vision-language-act-u6zfav",
@@ -1106,7 +1086,7 @@
       "publishedAt": "2026-11-05T18:21:07.000Z",
       "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deployin",
       "category": "Research",
-      "score": 39.312
+      "score": 38.75
     },
     {
       "id": "data-driven-discovery-of-intrinsic-lie-point-symmetries-of-d-2al9sf",
@@ -1116,7 +1096,7 @@
       "publishedAt": "2026-11-05T18:19:28.000Z",
       "summary": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form repres",
       "category": "Research",
-      "score": 39.31
+      "score": 38.749
     },
     {
       "id": "on-the-limitations-of-molecular-representations-3e2k78",
@@ -1126,7 +1106,7 @@
       "publishedAt": "2026-11-05T18:19:19.000Z",
       "summary": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including cl",
       "category": "Research",
-      "score": 39.31
+      "score": 38.748
     },
     {
       "id": "benchmarks-as-software-terminal-bench-and-the-case-for-conti-mu6s8",
@@ -1136,7 +1116,7 @@
       "publishedAt": "2026-11-05T18:18:39.000Z",
       "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As",
       "category": "Research",
-      "score": 39.309
+      "score": 38.748
     },
     {
       "id": "spectral-and-subspace-dynamics-of-lora-in-supervised-fine-tu-1hhg2d",
@@ -1146,7 +1126,7 @@
       "publishedAt": "2026-11-05T18:17:39.000Z",
       "summary": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the ",
       "category": "Research",
-      "score": 39.308
+      "score": 38.747
     },
     {
       "id": "t3r-training-free-two-stage-token-refinement-towards-efficie-me3fyp",
@@ -1156,7 +1136,7 @@
       "publishedAt": "2026-11-05T18:17:29.000Z",
       "summary": "Vision-Language-Action (VLA) models enable end-to-end robot control, but inference is increasingly expensive. Each decision processes hundreds of visual tokens, often across multiple cameras, leading to substantial compu",
       "category": "Research",
-      "score": 39.308
+      "score": 38.747
     },
     {
       "id": "the-gold-rush-in-ai4math-ii-what-are-signatures-of-ai-assist-u3kfbv",
@@ -1166,7 +1146,7 @@
       "publishedAt": "2026-11-05T18:17:18.000Z",
       "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manusc",
       "category": "Research",
-      "score": 39.307
+      "score": 38.747
     },
     {
       "id": "conformal-prediction-for-time-dependent-pdes-9ffpy",
@@ -1176,17 +1156,17 @@
       "publishedAt": "2026-11-05T18:15:42.000Z",
       "summary": "Uncertainty quantification is crucial in scientific machine learning, where models inform safety-critical tasks such as flood forecasting, financial risk management, and thermal control in machines. Conformal prediction ",
       "category": "Research",
-      "score": 39.306
+      "score": 38.745
     },
     {
-      "id": "every-mac-comes-with-an-undocumented-family-member-classifie-re2ckj",
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "id": "the-end-of-microsoft-research-s-ai-frontiers-group-gol6ld",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-07T09:46:03Z",
+      "publishedAt": "2026-11-07T18:02:17Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.746
+      "score": 19.802
     },
     {
       "id": "upload-your-ram-bboy7k",
@@ -1199,14 +1179,34 @@
       "score": 19.729
     },
     {
-      "id": "need-for-speed-underground-2-online-in-the-browser-exl9zy",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
+      "id": "what-i-run-on-my-10-usd-openstick-homelab-5cm8ri",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-07T09:36:36Z",
+      "publishedAt": "2026-11-07T18:12:12Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.443
+      "score": 19.686
+    },
+    {
+      "id": "apple-s-grey-list-words-and-phrases-your-iphone-won-t-help-y-4rbhng",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-07T17:06:36Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.625
+    },
+    {
+      "id": "show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri-a04kf",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-07T17:27:30Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.468
     }
   ]
 }
