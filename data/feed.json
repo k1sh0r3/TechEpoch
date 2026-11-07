@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-11-06T22:52:03.010Z",
+  "updatedAt": "2026-11-07T05:15:11.929Z",
   "totalItems": 120,
   "categories": {
-    "AI": 54,
+    "AI": 53,
     "Robotics": 20,
-    "Research": 46
+    "Research": 46,
+    "Tech": 1
   },
   "items": [
     {
@@ -36,16 +37,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.657
-    },
-    {
-      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-06T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "category": "Robotics",
-      "score": 52.536
     },
     {
       "id": "the-impact-of-generative-ai-on-critical-thinking-self-report-4f8o8w",
@@ -88,16 +79,6 @@
       "score": 52.287
     },
     {
-      "id": "openai-raises-less-than-half-of-30b-target-t80cfj",
-      "title": "OpenAI raises less than half of $30B target",
-      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-10-31T03:22:44Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.282
-    },
-    {
       "id": "the-little-book-of-generative-ai-foundations-an-intuitive-ma-cisxmg",
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
@@ -106,36 +87,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.259
-    },
-    {
-      "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-06T10:00:00.000Z",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
-      "category": "Robotics",
-      "score": 52.119
-    },
-    {
-      "id": "memorilla-latent-semantic-memory-for-llms-aujko0",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-06T18:03:33Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.083
-    },
-    {
-      "id": "gemini-omni-1-2-flash-i7ild5",
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-06T13:35:27Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.038
     },
     {
       "id": "anthropic-blocks-users-for-anything-touching-training-larger-x4948x",
@@ -168,6 +119,16 @@
       "score": 51.972
     },
     {
+      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-06T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "category": "Robotics",
+      "score": 51.722
+    },
+    {
       "id": "lippitt-knoster-in-practice-field-notes-for-managing-complex-wqv5gs",
       "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
       "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
@@ -198,6 +159,16 @@
       "score": 51.367
     },
     {
+      "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
+      "category": "Robotics",
+      "score": 51.357
+    },
+    {
       "id": "bones-may-release-proteins-that-slow-aging-and-extend-life-s-kciysa",
       "title": "Bones may release proteins that slow aging and extend life span",
       "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
@@ -206,6 +177,26 @@
       "summary": "",
       "category": "AI",
       "score": 51.353
+    },
+    {
+      "id": "memorilla-latent-semantic-memory-for-llms-aujko0",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T18:03:33Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.34
+    },
+    {
+      "id": "gemini-omni-1-2-flash-i7ild5",
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T13:35:27Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.263
     },
     {
       "id": "openai-to-acquire-pierre-computer-company-u9ca76",
@@ -248,16 +239,6 @@
       "score": 50.972
     },
     {
-      "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "category": "AI",
-      "score": 50.686
-    },
-    {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
       "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
@@ -296,6 +277,16 @@
       "summary": "",
       "category": "AI",
       "score": 50.154
+    },
+    {
+      "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "category": "AI",
+      "score": 49.728
     },
     {
       "id": "when-modernization-breaks-working-code-a-study-of-llms-on-le-8eshri",
@@ -365,7 +356,7 @@
       "publishedAt": "2026-11-05T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
       "category": "AI",
-      "score": 46.964
+      "score": 46.471
     },
     {
       "id": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-undergr-gm1ts8",
@@ -398,16 +389,6 @@
       "score": 45.771
     },
     {
-      "id": "securing-the-agentic-enterprise-with-data-lineage-edlpzo",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-04T13:00:00.000Z",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
-      "category": "AI",
-      "score": 45.396
-    },
-    {
       "id": "raising-the-quality-of-insights-in-agentic-analytics-21j09f",
       "title": "Raising the quality of insights in agentic analytics",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -426,6 +407,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "securing-the-agentic-enterprise-with-data-lineage-edlpzo",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-04T13:00:00.000Z",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
+      "category": "AI",
+      "score": 45.098
     },
     {
       "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
@@ -465,7 +456,7 @@
       "publishedAt": "2026-11-03T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
       "category": "AI",
-      "score": 44.458
+      "score": 44.277
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -748,216 +739,6 @@
       "score": 43
     },
     {
-      "id": "user-embeddings-are-superpositions-of-interpretable-behavior-8hkljt",
-      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-      "url": "http://arxiv.org/abs/2611.08487v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:59:42.000Z",
-      "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and o",
-      "category": "Research",
-      "score": 40.476
-    },
-    {
-      "id": "do-you-miss-the-nights-we-spent-crafting-figures-rethinking--lbs5vp",
-      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
-      "url": "http://arxiv.org/abs/2611.08486v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:59:33.000Z",
-      "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purp",
-      "category": "Research",
-      "score": 40.476
-    },
-    {
-      "id": "where-and-why-is-grounded-reasoning-useful-7vebtj",
-      "title": "Where and Why is Grounded Reasoning Useful?",
-      "url": "http://arxiv.org/abs/2611.08485v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:59:32.000Z",
-      "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of",
-      "category": "Research",
-      "score": 40.476
-    },
-    {
-      "id": "swarmevolve-latent-agent-swarms-for-evolutionary-discovery-a-8ih2hb",
-      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "url": "http://arxiv.org/abs/2611.08483v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:59:29.000Z",
-      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow becau",
-      "category": "Research",
-      "score": 40.476
-    },
-    {
-      "id": "scientist-world-grow-a-research-world-for-ai-scientists-padytu",
-      "title": "Scientist World: Grow a Research World for AI-Scientists",
-      "url": "http://arxiv.org/abs/2611.08478v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:58:17.000Z",
-      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world",
-      "category": "Research",
-      "score": 40.474
-    },
-    {
-      "id": "egogeneralist-unifying-egocentric-action-video-tasks-through-lb2e0s",
-      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
-      "url": "http://arxiv.org/abs/2611.08477v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:58:13.000Z",
-      "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric v",
-      "category": "Research",
-      "score": 40.474
-    },
-    {
-      "id": "xstack-a-benchmark-for-ml-repo-migration-ponpv2",
-      "title": "XStack: A Benchmark for ML Repo Migration",
-      "url": "http://arxiv.org/abs/2611.08472v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:55:54.000Z",
-      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them",
-      "category": "Research",
-      "score": 40.47
-    },
-    {
-      "id": "same-behavior-different-mechanism-what-finite-experiments-ca-khusjj",
-      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-      "url": "http://arxiv.org/abs/2611.08469v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:55:31.000Z",
-      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. ",
-      "category": "Research",
-      "score": 40.47
-    },
-    {
-      "id": "towards-interpreting-any-residual-stream-direction-by-scalin-e2eqju",
-      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-      "url": "http://arxiv.org/abs/2611.08465v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:54:40.000Z",
-      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Ma",
-      "category": "Research",
-      "score": 40.468
-    },
-    {
-      "id": "oopsierecover-learning-transferable-vla-corrections-from-sem-ytdpis",
-      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
-      "url": "http://arxiv.org/abs/2611.08462v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:53:16.000Z",
-      "summary": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing ap",
-      "category": "Research",
-      "score": 40.466
-    },
-    {
-      "id": "latent-rl-priors-for-data-efficient-dexterous-manipulation-8drkg0",
-      "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
-      "url": "http://arxiv.org/abs/2611.08458v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:50:06.000Z",
-      "summary": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire r",
-      "category": "Research",
-      "score": 40.461
-    },
-    {
-      "id": "adversarial-training-with-large-step-sizes-implicit-bias-opt-c5p3vo",
-      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
-      "url": "http://arxiv.org/abs/2611.08457v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:48:50.000Z",
-      "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing s",
-      "category": "Research",
-      "score": 40.459
-    },
-    {
-      "id": "unpacking-the-compute-efficiency-of-strong-to-weak-opd-again-fhril4",
-      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-      "url": "http://arxiv.org/abs/2611.08453v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:47:05.000Z",
-      "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforce",
-      "category": "Research",
-      "score": 40.457
-    },
-    {
-      "id": "reprobridge-building-reproducibility-into-ml-research-artifa-nkgirq",
-      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-      "url": "http://arxiv.org/abs/2611.08452v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:45:36.000Z",
-      "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend ",
-      "category": "Research",
-      "score": 40.454
-    },
-    {
-      "id": "vflash-fast-accurate-visual-planning-via-flash-primitive-dec-vbjjhh",
-      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "url": "http://arxiv.org/abs/2611.08449v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:44:43.000Z",
-      "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate mo",
-      "category": "Research",
-      "score": 40.453
-    },
-    {
-      "id": "a-hidden-markov-preference-model-for-online-prediction-of-ad-lig6b9",
-      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
-      "url": "http://arxiv.org/abs/2611.08445v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:37:07.000Z",
-      "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime ",
-      "category": "Research",
-      "score": 40.441
-    },
-    {
-      "id": "edge-assisted-crowdsensing-for-explainable-cyclist-safety-pe-upoag2",
-      "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
-      "url": "http://arxiv.org/abs/2611.08441v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:33:58.000Z",
-      "summary": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monit",
-      "category": "Research",
-      "score": 40.436
-    },
-    {
-      "id": "label-wording-augmentation-in-a-typed-decision-encoder-gains-kentx4",
-      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
-      "url": "http://arxiv.org/abs/2611.08439v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:31:24.000Z",
-      "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingu",
-      "category": "Research",
-      "score": 40.432
-    },
-    {
-      "id": "understanding-ai-from-the-inside-the-state-of-mechanistic-in-tzq1h2",
-      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-      "url": "http://arxiv.org/abs/2611.08438v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:30:54.000Z",
-      "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of th",
-      "category": "Research",
-      "score": 40.432
-    },
-    {
-      "id": "sm4rt-cascaded-feed-forward-model-for-4d-reconstruction-7hl2sq",
-      "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
-      "url": "http://arxiv.org/abs/2611.08436v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:28:38.000Z",
-      "summary": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separat",
-      "category": "Research",
-      "score": 40.428
-    },
-    {
-      "id": "medgraph-maintaining-patient-state-with-graph-memory-for-lon-unhvbl",
-      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-      "url": "http://arxiv.org/abs/2611.08433v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:27:20.000Z",
-      "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue ",
-      "category": "Research",
-      "score": 40.426
-    },
-    {
       "id": "from-pixels-to-actions-towards-native-vision-language-action-er0klf",
       "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
       "url": "http://arxiv.org/abs/2611.06918v1",
@@ -998,16 +779,6 @@
       "score": 40.42
     },
     {
-      "id": "the-power-of-meta-access-in-the-software-of-the-future-demon-vx30wh",
-      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-      "url": "http://arxiv.org/abs/2611.08428v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:22:24.000Z",
-      "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. ",
-      "category": "Research",
-      "score": 40.419
-    },
-    {
       "id": "beaker-an-expert-curated-benchmark-for-embodied-brains-in-se-alxhmc",
       "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
       "url": "http://arxiv.org/abs/2611.06911v1",
@@ -1028,16 +799,6 @@
       "score": 40.418
     },
     {
-      "id": "failure-prediction-and-classification-in-vision-language-act-u6zfav",
-      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-      "url": "http://arxiv.org/abs/2611.08425v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:21:07.000Z",
-      "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deployin",
-      "category": "Research",
-      "score": 40.417
-    },
-    {
       "id": "perceptive-humanoid-motion-from-simulation-tk9u39",
       "title": "Perceptive Humanoid Motion from Simulation",
       "url": "http://arxiv.org/abs/2611.06908v1",
@@ -1048,36 +809,6 @@
       "score": 40.416
     },
     {
-      "id": "data-driven-discovery-of-intrinsic-lie-point-symmetries-of-d-2al9sf",
-      "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
-      "url": "http://arxiv.org/abs/2611.08421v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:19:28.000Z",
-      "summary": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form repres",
-      "category": "Research",
-      "score": 40.414
-    },
-    {
-      "id": "on-the-limitations-of-molecular-representations-3e2k78",
-      "title": "On the limitations of molecular representations",
-      "url": "http://arxiv.org/abs/2611.08420v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:19:19.000Z",
-      "summary": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including cl",
-      "category": "Research",
-      "score": 40.414
-    },
-    {
-      "id": "benchmarks-as-software-terminal-bench-and-the-case-for-conti-mu6s8",
-      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
-      "url": "http://arxiv.org/abs/2611.08417v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:18:39.000Z",
-      "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As",
-      "category": "Research",
-      "score": 40.413
-    },
-    {
       "id": "reinforcement-learning-enables-scaling-generalist-robot-poli-9zmz40",
       "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
       "url": "http://arxiv.org/abs/2611.06905v1",
@@ -1086,46 +817,6 @@
       "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization c",
       "category": "Research",
       "score": 40.412
-    },
-    {
-      "id": "spectral-and-subspace-dynamics-of-lora-in-supervised-fine-tu-1hhg2d",
-      "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2611.08414v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:17:39.000Z",
-      "summary": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the ",
-      "category": "Research",
-      "score": 40.411
-    },
-    {
-      "id": "t3r-training-free-two-stage-token-refinement-towards-efficie-me3fyp",
-      "title": "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
-      "url": "http://arxiv.org/abs/2611.08413v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:17:29.000Z",
-      "summary": "Vision-Language-Action (VLA) models enable end-to-end robot control, but inference is increasingly expensive. Each decision processes hundreds of visual tokens, often across multiple cameras, leading to substantial compu",
-      "category": "Research",
-      "score": 40.411
-    },
-    {
-      "id": "the-gold-rush-in-ai4math-ii-what-are-signatures-of-ai-assist-u3kfbv",
-      "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
-      "url": "http://arxiv.org/abs/2611.08412v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:17:18.000Z",
-      "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manusc",
-      "category": "Research",
-      "score": 40.411
-    },
-    {
-      "id": "conformal-prediction-for-time-dependent-pdes-9ffpy",
-      "title": "Conformal Prediction for Time-Dependent PDEs",
-      "url": "http://arxiv.org/abs/2611.08409v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-05T18:15:42.000Z",
-      "summary": "Uncertainty quantification is crucial in scientific machine learning, where models inform safety-critical tasks such as flood forecasting, financial risk management, and thermal control in machines. Conformal prediction ",
-      "category": "Research",
-      "score": 40.408
     },
     {
       "id": "motion-guided-contrastive-regularization-for-latent-world-mo-cr1ryg",
@@ -1206,6 +897,316 @@
       "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical i",
       "category": "Research",
       "score": 40.377
+    },
+    {
+      "id": "user-embeddings-are-superpositions-of-interpretable-behavior-8hkljt",
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "url": "http://arxiv.org/abs/2611.08487v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:59:42.000Z",
+      "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and o",
+      "category": "Research",
+      "score": 39.919
+    },
+    {
+      "id": "do-you-miss-the-nights-we-spent-crafting-figures-rethinking--lbs5vp",
+      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "url": "http://arxiv.org/abs/2611.08486v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:59:33.000Z",
+      "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purp",
+      "category": "Research",
+      "score": 39.918
+    },
+    {
+      "id": "where-and-why-is-grounded-reasoning-useful-7vebtj",
+      "title": "Where and Why is Grounded Reasoning Useful?",
+      "url": "http://arxiv.org/abs/2611.08485v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:59:32.000Z",
+      "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of",
+      "category": "Research",
+      "score": 39.918
+    },
+    {
+      "id": "swarmevolve-latent-agent-swarms-for-evolutionary-discovery-a-8ih2hb",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:59:29.000Z",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow becau",
+      "category": "Research",
+      "score": 39.918
+    },
+    {
+      "id": "scientist-world-grow-a-research-world-for-ai-scientists-padytu",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:58:17.000Z",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world",
+      "category": "Research",
+      "score": 39.917
+    },
+    {
+      "id": "egogeneralist-unifying-egocentric-action-video-tasks-through-lb2e0s",
+      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+      "url": "http://arxiv.org/abs/2611.08477v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:58:13.000Z",
+      "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric v",
+      "category": "Research",
+      "score": 39.917
+    },
+    {
+      "id": "xstack-a-benchmark-for-ml-repo-migration-ponpv2",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:55:54.000Z",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them",
+      "category": "Research",
+      "score": 39.913
+    },
+    {
+      "id": "same-behavior-different-mechanism-what-finite-experiments-ca-khusjj",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "url": "http://arxiv.org/abs/2611.08469v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:55:31.000Z",
+      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. ",
+      "category": "Research",
+      "score": 39.913
+    },
+    {
+      "id": "towards-interpreting-any-residual-stream-direction-by-scalin-e2eqju",
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "url": "http://arxiv.org/abs/2611.08465v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:54:40.000Z",
+      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Ma",
+      "category": "Research",
+      "score": 39.912
+    },
+    {
+      "id": "oopsierecover-learning-transferable-vla-corrections-from-sem-ytdpis",
+      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+      "url": "http://arxiv.org/abs/2611.08462v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:53:16.000Z",
+      "summary": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing ap",
+      "category": "Research",
+      "score": 39.91
+    },
+    {
+      "id": "latent-rl-priors-for-data-efficient-dexterous-manipulation-8drkg0",
+      "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+      "url": "http://arxiv.org/abs/2611.08458v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:50:06.000Z",
+      "summary": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire r",
+      "category": "Research",
+      "score": 39.906
+    },
+    {
+      "id": "adversarial-training-with-large-step-sizes-implicit-bias-opt-c5p3vo",
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+      "url": "http://arxiv.org/abs/2611.08457v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:48:50.000Z",
+      "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing s",
+      "category": "Research",
+      "score": 39.904
+    },
+    {
+      "id": "unpacking-the-compute-efficiency-of-strong-to-weak-opd-again-fhril4",
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "url": "http://arxiv.org/abs/2611.08453v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:47:05.000Z",
+      "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforce",
+      "category": "Research",
+      "score": 39.901
+    },
+    {
+      "id": "reprobridge-building-reproducibility-into-ml-research-artifa-nkgirq",
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "url": "http://arxiv.org/abs/2611.08452v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:45:36.000Z",
+      "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend ",
+      "category": "Research",
+      "score": 39.899
+    },
+    {
+      "id": "vflash-fast-accurate-visual-planning-via-flash-primitive-dec-vbjjhh",
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "url": "http://arxiv.org/abs/2611.08449v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:44:43.000Z",
+      "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate mo",
+      "category": "Research",
+      "score": 39.898
+    },
+    {
+      "id": "a-hidden-markov-preference-model-for-online-prediction-of-ad-lig6b9",
+      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+      "url": "http://arxiv.org/abs/2611.08445v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:37:07.000Z",
+      "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime ",
+      "category": "Research",
+      "score": 39.888
+    },
+    {
+      "id": "edge-assisted-crowdsensing-for-explainable-cyclist-safety-pe-upoag2",
+      "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+      "url": "http://arxiv.org/abs/2611.08441v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:33:58.000Z",
+      "summary": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monit",
+      "category": "Research",
+      "score": 39.884
+    },
+    {
+      "id": "label-wording-augmentation-in-a-typed-decision-encoder-gains-kentx4",
+      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+      "url": "http://arxiv.org/abs/2611.08439v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:31:24.000Z",
+      "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingu",
+      "category": "Research",
+      "score": 39.88
+    },
+    {
+      "id": "understanding-ai-from-the-inside-the-state-of-mechanistic-in-tzq1h2",
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "http://arxiv.org/abs/2611.08438v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:30:54.000Z",
+      "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of th",
+      "category": "Research",
+      "score": 39.88
+    },
+    {
+      "id": "sm4rt-cascaded-feed-forward-model-for-4d-reconstruction-7hl2sq",
+      "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+      "url": "http://arxiv.org/abs/2611.08436v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:28:38.000Z",
+      "summary": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separat",
+      "category": "Research",
+      "score": 39.877
+    },
+    {
+      "id": "medgraph-maintaining-patient-state-with-graph-memory-for-lon-unhvbl",
+      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "url": "http://arxiv.org/abs/2611.08433v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:27:20.000Z",
+      "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue ",
+      "category": "Research",
+      "score": 39.875
+    },
+    {
+      "id": "the-power-of-meta-access-in-the-software-of-the-future-demon-vx30wh",
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "url": "http://arxiv.org/abs/2611.08428v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:22:24.000Z",
+      "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. ",
+      "category": "Research",
+      "score": 39.868
+    },
+    {
+      "id": "failure-prediction-and-classification-in-vision-language-act-u6zfav",
+      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "url": "http://arxiv.org/abs/2611.08425v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:21:07.000Z",
+      "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deployin",
+      "category": "Research",
+      "score": 39.866
+    },
+    {
+      "id": "data-driven-discovery-of-intrinsic-lie-point-symmetries-of-d-2al9sf",
+      "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+      "url": "http://arxiv.org/abs/2611.08421v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:19:28.000Z",
+      "summary": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form repres",
+      "category": "Research",
+      "score": 39.864
+    },
+    {
+      "id": "on-the-limitations-of-molecular-representations-3e2k78",
+      "title": "On the limitations of molecular representations",
+      "url": "http://arxiv.org/abs/2611.08420v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:19:19.000Z",
+      "summary": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including cl",
+      "category": "Research",
+      "score": 39.864
+    },
+    {
+      "id": "benchmarks-as-software-terminal-bench-and-the-case-for-conti-mu6s8",
+      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "url": "http://arxiv.org/abs/2611.08417v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:18:39.000Z",
+      "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As",
+      "category": "Research",
+      "score": 39.863
+    },
+    {
+      "id": "spectral-and-subspace-dynamics-of-lora-in-supervised-fine-tu-1hhg2d",
+      "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.08414v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:17:39.000Z",
+      "summary": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the ",
+      "category": "Research",
+      "score": 39.862
+    },
+    {
+      "id": "t3r-training-free-two-stage-token-refinement-towards-efficie-me3fyp",
+      "title": "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
+      "url": "http://arxiv.org/abs/2611.08413v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:17:29.000Z",
+      "summary": "Vision-Language-Action (VLA) models enable end-to-end robot control, but inference is increasingly expensive. Each decision processes hundreds of visual tokens, often across multiple cameras, leading to substantial compu",
+      "category": "Research",
+      "score": 39.862
+    },
+    {
+      "id": "the-gold-rush-in-ai4math-ii-what-are-signatures-of-ai-assist-u3kfbv",
+      "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+      "url": "http://arxiv.org/abs/2611.08412v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:17:18.000Z",
+      "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manusc",
+      "category": "Research",
+      "score": 39.861
+    },
+    {
+      "id": "conformal-prediction-for-time-dependent-pdes-9ffpy",
+      "title": "Conformal Prediction for Time-Dependent PDEs",
+      "url": "http://arxiv.org/abs/2611.08409v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-05T18:15:42.000Z",
+      "summary": "Uncertainty quantification is crucial in scientific machine learning, where models inform safety-critical tasks such as flood forecasting, financial risk management, and thermal control in machines. Conformal prediction ",
+      "category": "Research",
+      "score": 39.859
+    },
+    {
+      "id": "libghostty-1-0-lkkgwu",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T23:30:52Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.708
     }
   ]
 }
