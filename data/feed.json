@@ -1,10 +1,12 @@
 {
-  "updatedAt": "2026-11-09T05:23:26.213Z",
+  "updatedAt": "2026-11-09T15:38:26.186Z",
   "totalItems": 120,
   "categories": {
-    "AI": 47,
+    "AI": 45,
     "Robotics": 19,
-    "Research": 54
+    "Research": 54,
+    "Machine Learning": 1,
+    "Tech": 1
   },
   "items": [
     {
@@ -328,16 +330,6 @@
       "score": 45.182
     },
     {
-      "id": "stop-counting-tokens-start-counting-what-ships-4pyep9",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-02T13:10:32.000Z",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th",
-      "category": "AI",
-      "score": 45.081
-    },
-    {
       "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
       "title": "How “reverse game theory” could keep AI agents in check",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -658,16 +650,6 @@
       "score": 43.301
     },
     {
-      "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "category": "AI",
-      "score": 43
-    },
-    {
       "id": "from-pixels-to-actions-towards-native-vision-language-action-er0klf",
       "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
       "url": "http://arxiv.org/abs/2611.06918v1",
@@ -835,7 +817,7 @@
       "publishedAt": "2026-11-06T18:59:57.000Z",
       "summary": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllab",
       "category": "Research",
-      "score": 38.37
+      "score": 37.914
     },
     {
       "id": "on-agentic-manipulation-policies-ysprbj",
@@ -845,7 +827,7 @@
       "publishedAt": "2026-11-06T18:59:34.000Z",
       "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-ac",
       "category": "Research",
-      "score": 38.37
+      "score": 37.914
     },
     {
       "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse-4ubla2",
@@ -855,7 +837,7 @@
       "publishedAt": "2026-11-06T18:58:50.000Z",
       "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned thr",
       "category": "Research",
-      "score": 38.369
+      "score": 37.914
     },
     {
       "id": "scenario-orchestration-for-closed-loop-policy-evaluation-of--9q35m1",
@@ -865,7 +847,7 @@
       "publishedAt": "2026-11-06T18:58:27.000Z",
       "summary": "Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its intended interaction",
       "category": "Research",
-      "score": 38.369
+      "score": 37.913
     },
     {
       "id": "on-the-non-closedness-of-the-set-of-relu-networks-w9a6dy",
@@ -875,7 +857,7 @@
       "publishedAt": "2026-11-06T18:58:06.000Z",
       "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, eve",
       "category": "Research",
-      "score": 38.369
+      "score": 37.913
     },
     {
       "id": "flowmop-stochastic-multi-person-motion-prediction-3qm3sd",
@@ -885,7 +867,7 @@
       "publishedAt": "2026-11-06T18:56:41.000Z",
       "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in ",
       "category": "Research",
-      "score": 38.367
+      "score": 37.912
     },
     {
       "id": "zeobench-a-benchmark-for-self-supervised-learning-on-3d-zeol-ss7whe",
@@ -895,7 +877,7 @@
       "publishedAt": "2026-11-06T18:55:34.000Z",
       "summary": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite struc",
       "category": "Research",
-      "score": 38.367
+      "score": 37.912
     },
     {
       "id": "graded-convolutional-networks-scale-invariance-without-the-s-glk8c7",
@@ -905,7 +887,7 @@
       "publishedAt": "2026-11-06T18:54:03.000Z",
       "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is d",
       "category": "Research",
-      "score": 38.365
+      "score": 37.91
     },
     {
       "id": "locating-contact-on-tendon-driven-continuum-robots-from-tend-pl7so4",
@@ -915,7 +897,7 @@
       "publishedAt": "2026-11-06T18:53:10.000Z",
       "summary": "Tendon-driven continuum robots can reach through constrained spaces, but contact along their bodies is invisible to the sensors at their motors. We show that this is a structural limitation rather than a tuning problem: ",
       "category": "Research",
-      "score": 38.365
+      "score": 37.91
     },
     {
       "id": "on-the-reliability-of-majority-vote-pseudo-labels-in-test-ti-b6s47x",
@@ -925,7 +907,7 @@
       "publishedAt": "2026-11-06T18:49:02.000Z",
       "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervis",
       "category": "Research",
-      "score": 38.361
+      "score": 37.907
     },
     {
       "id": "codequant2-enhanced-outlier-mitigation-and-adaptive-clusteri-jyzfae",
@@ -935,7 +917,7 @@
       "publishedAt": "2026-11-06T18:48:04.000Z",
       "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increasingly important. How",
       "category": "Research",
-      "score": 38.36
+      "score": 37.907
     },
     {
       "id": "grac-graph-based-retrieval-augmented-captioning-for-surgical-e26289",
@@ -945,7 +927,7 @@
       "publishedAt": "2026-11-06T18:47:23.000Z",
       "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensive manual review and ",
       "category": "Research",
-      "score": 38.36
+      "score": 37.906
     },
     {
       "id": "grasp-tags-task-aware-grasp-selection-via-critic-distillatio-cg788b",
@@ -955,7 +937,7 @@
       "publishedAt": "2026-11-06T18:44:33.000Z",
       "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service robotics and warehous",
       "category": "Research",
-      "score": 38.358
+      "score": 37.904
     },
     {
       "id": "flow-guided-target-space-alignment-via-path-consistency-19t1u1",
@@ -965,7 +947,7 @@
       "publishedAt": "2026-11-06T18:44:08.000Z",
       "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used directly for downstream ana",
       "category": "Research",
-      "score": 38.357
+      "score": 37.904
     },
     {
       "id": "super-resolved-digital-terrain-models-for-gedi-geolocation-c-p6ulsb",
@@ -975,7 +957,7 @@
       "publishedAt": "2026-11-06T18:36:50.000Z",
       "summary": "The Global Ecosystem Dynamics Investigation (GEDI) mission measures three-dimensional forest structure with a LiDAR aboard the International Space Station. GEDI observations have geolocation errors of about 10 m, which c",
       "category": "Research",
-      "score": 38.351
+      "score": 37.899
     },
     {
       "id": "health-system-wide-mapping-of-demographic-information-in-rou-t5df2",
@@ -985,7 +967,7 @@
       "publishedAt": "2026-11-06T18:34:51.000Z",
       "summary": "The extent to which demographic-associated information is detectable across organs and disease states in routine clinical histopathology remains unclear. Here, we analyzed 1.3 million hematoxylin and eosin whole-slide im",
       "category": "Research",
-      "score": 38.35
+      "score": 37.898
     },
     {
       "id": "how-far-does-a-hash-only-sender-go-a-pre-registered-map-of-s-1g4yh2",
@@ -995,7 +977,7 @@
       "publishedAt": "2026-11-06T18:31:24.000Z",
       "summary": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-registered run on 1,00",
       "category": "Research",
-      "score": 38.347
+      "score": 37.896
     },
     {
       "id": "computer-use-agents-are-embodied-generalists-gh8vx9",
@@ -1005,7 +987,7 @@
       "publishedAt": "2026-11-06T18:31:17.000Z",
       "summary": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that embodied tasks can ",
       "category": "Research",
-      "score": 38.347
+      "score": 37.895
     },
     {
       "id": "ensemble-methodology-for-reference-free-confidence-estimatio-xrdvkw",
@@ -1015,7 +997,7 @@
       "publishedAt": "2026-11-06T18:29:48.000Z",
       "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreement on semantics is inf",
       "category": "Research",
-      "score": 38.345
+      "score": 37.894
     },
     {
       "id": "adaptivepnp-fast-auto-tuned-plug-and-play-for-deconvolution-bxzlhj",
@@ -1025,7 +1007,7 @@
       "publishedAt": "2026-11-06T18:29:09.000Z",
       "summary": "Plug-and-play (PnP) methods reconstruct images by alternating a data-fitting step with an image denoiser. Their performance depends on two parameters: the step size $γ$ and the measurement noise level $σ$. In practice, $",
       "category": "Research",
-      "score": 38.345
+      "score": 37.894
     },
     {
       "id": "fifty-two-shades-of-pig-what-the-ucr-archive-really-asks-cla-s5vr60",
@@ -1035,7 +1017,7 @@
       "publishedAt": "2026-11-06T18:28:12.000Z",
       "summary": "The pigs were bleeding. That was the point of the experiment: could airway pressure reveal hemorrhage before it became critical? In the UCR Time Series Classification Archive, the de facto benchmark for Time Series Class",
       "category": "Research",
-      "score": 38.344
+      "score": 37.893
     },
     {
       "id": "can-agentic-systems-close-the-gap-in-radiology-with-producti-rcnpo2",
@@ -1045,7 +1027,7 @@
       "publishedAt": "2026-11-06T18:23:14.000Z",
       "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but remain prone to hallucinat",
       "category": "Research",
-      "score": 38.34
+      "score": 37.89
     },
     {
       "id": "designing-effective-monitor-based-interventions-for-mitigati-an61vk",
@@ -1055,7 +1037,7 @@
       "publishedAt": "2026-11-06T18:14:52.000Z",
       "summary": "Reinforcement learning (RL) rewards are notoriously difficult to design and control, often leading to the model learning unintended behaviors such as reward hacking. One potential solution is to monitor for reward hackin",
       "category": "Research",
-      "score": 38.333
+      "score": 37.885
     },
     {
       "id": "bitdecoding-fp4-native-fp4-kv-cache-decoding-via-algorithm-s-c1o5wc",
@@ -1065,7 +1047,7 @@
       "publishedAt": "2026-11-06T18:13:54.000Z",
       "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a fundamental gap rema",
       "category": "Research",
-      "score": 38.333
+      "score": 37.884
     },
     {
       "id": "discovering-formally-verified-quantum-programs-with-ai-oheki7",
@@ -1075,7 +1057,7 @@
       "publishedAt": "2026-11-06T18:08:06.000Z",
       "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years",
       "category": "Research",
-      "score": 38.328
+      "score": 37.88
     },
     {
       "id": "generative-latent-priors-for-interpreting-and-steering-prote-n8nfco",
@@ -1085,7 +1067,7 @@
       "publishedAt": "2026-11-06T18:06:39.000Z",
       "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activat",
       "category": "Research",
-      "score": 38.327
+      "score": 37.879
     },
     {
       "id": "machine-learning-for-lattice-qcd-ngc9h4",
@@ -1095,7 +1077,7 @@
       "publishedAt": "2026-11-06T18:05:06.000Z",
       "summary": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to the use of ML metho",
       "category": "Research",
-      "score": 38.325
+      "score": 37.878
     },
     {
       "id": "bev3sr-evidence-aware-3d-spatial-reasoning-from-video-htochr",
@@ -1105,7 +1087,7 @@
       "publishedAt": "2026-11-06T18:02:49.000Z",
       "summary": "3D spatial reasoning from video remains challenging for VLMs because videos provide sequential, view-local observations rather than persistent metric scene records. Many questions must be answered in a query-specified pe",
       "category": "Research",
-      "score": 38.324
+      "score": 37.877
     },
     {
       "id": "the-cost-of-coverage-conformalising-native-forecast-uncertai-1eth5z",
@@ -1115,7 +1097,7 @@
       "publishedAt": "2026-11-06T18:02:38.000Z",
       "summary": "Uncertainty bands on wind forecasts help inform reserve sizing and commitments, but often fail to deliver their stated coverage. We apply conformal prediction to native bands to see what it adds and what it costs, compar",
       "category": "Research",
-      "score": 38.323
+      "score": 37.877
     },
     {
       "id": "compaction-decay-and-reinforcement-in-a-two-tier-conversatio-lidsjp",
@@ -1125,7 +1107,7 @@
       "publishedAt": "2026-11-06T17:56:37.000Z",
       "summary": "A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and search those. We compar",
       "category": "Research",
-      "score": 38.319
+      "score": 37.873
     },
     {
       "id": "user-embeddings-are-superpositions-of-interpretable-behavior-8hkljt",
@@ -1206,6 +1188,26 @@
       "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. ",
       "category": "Research",
       "score": 37.68
+    },
+    {
+      "id": "active-benchmarking-5k7icf",
+      "title": "Active Benchmarking",
+      "url": "https://www.brendangregg.com/activebenchmarking.html",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-06T07:03:16Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 35.271
+    },
+    {
+      "id": "humans-will-never-again-create-a-project-like-wikipedia-jlgv2o",
+      "title": "Humans will never again create a project like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-09T12:30:20Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.987
     }
   ]
 }
