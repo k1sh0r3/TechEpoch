@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-11-10T14:33:47.763Z",
+  "updatedAt": "2026-11-10T22:58:27.668Z",
   "totalItems": 120,
   "categories": {
-    "AI": 45,
-    "Robotics": 19,
-    "Research": 56
+    "AI": 46,
+    "Robotics": 17,
+    "Machine Learning": 2,
+    "Research": 55
   },
   "items": [
     {
@@ -38,16 +39,6 @@
       "score": 52.309
     },
     {
-      "id": "the-little-book-of-generative-ai-foundations-an-intuitive-ma-cisxmg",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-03T21:40:53Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.259
-    },
-    {
       "id": "openai-finds-948-local-privilege-escalation-bugs-in-the-linu-58qi3i",
       "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
       "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
@@ -66,6 +57,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.972
+    },
+    {
+      "id": "ai-usage-generates-a-fragile-codebase-4a0a06",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-10T10:25:58Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.666
     },
     {
       "id": "show-hn-we-compressed-a-31b-video-audio-diffusion-model-to-1-kz45yh",
@@ -128,36 +129,6 @@
       "score": 51.206
     },
     {
-      "id": "stringman-an-800-open-source-room-scale-gripper-robot-nrt7da",
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-03T16:47:29Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 50.972
-    },
-    {
-      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "category": "AI",
-      "score": 50.907
-    },
-    {
-      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "category": "AI",
-      "score": 50.744
-    },
-    {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
       "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
@@ -178,6 +149,46 @@
       "score": 50.661
     },
     {
+      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "category": "AI",
+      "score": 50.364
+    },
+    {
+      "id": "deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchma-l05q20",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-10T15:00:39.000Z",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "category": "AI",
+      "score": 49.777
+    },
+    {
+      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "category": "AI",
+      "score": 49.636
+    },
+    {
+      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "AI",
+      "score": 49.499
+    },
+    {
       "id": "ukraine-s-fiber-optic-drones-get-squeezed-by-ai-data-center--npub37",
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
@@ -185,27 +196,7 @@
       "publishedAt": "2026-11-10T12:15:32.000Z",
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "category": "Robotics",
-      "score": 50.625
-    },
-    {
-      "id": "show-hn-uncracked-city-detective-game-where-you-question-llm-mi55zf",
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-03T21:20:03Z",
-      "summary": "",
-      "category": "AI",
-      "score": 50.615
-    },
-    {
-      "id": "a-sam-altman-parody-offers-an-amusing-lesson-in-memory-manag-ywoyj3",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-09T20:49:09.000Z",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "category": "AI",
-      "score": 48.528
+      "score": 49.399
     },
     {
       "id": "software-squeezes-more-data-out-of-webb-telescope-for-imagin-2h132o",
@@ -248,6 +239,16 @@
       "score": 47.732
     },
     {
+      "id": "a-sam-altman-parody-offers-an-amusing-lesson-in-memory-manag-ywoyj3",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-09T20:49:09.000Z",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "category": "AI",
+      "score": 47.639
+    },
+    {
       "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
       "title": "Innovating with AI in the special chemicals industry",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -255,17 +256,7 @@
       "publishedAt": "2026-11-09T13:00:00.000Z",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
       "category": "AI",
-      "score": 47.697
-    },
-    {
-      "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-09T10:00:00.000Z",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-      "category": "AI",
-      "score": 47.412
+      "score": 46.942
     },
     {
       "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
@@ -275,7 +266,7 @@
       "publishedAt": "2026-11-06T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "category": "Robotics",
-      "score": 47.052
+      "score": 46.883
     },
     {
       "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
@@ -285,7 +276,17 @@
       "publishedAt": "2026-11-06T10:00:00.000Z",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
       "category": "Robotics",
-      "score": 46.984
+      "score": 46.826
+    },
+    {
+      "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
+      "category": "AI",
+      "score": 46.703
     },
     {
       "id": "the-typo-generation-is-damaging-literature-s9egyy",
@@ -296,16 +297,6 @@
       "summary": "",
       "category": "AI",
       "score": 46.383
-    },
-    {
-      "id": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-undergr-gm1ts8",
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-03T20:39:55.000Z",
-      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "category": "Robotics",
-      "score": 46.358
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -398,26 +389,6 @@
       "score": 43.699
     },
     {
-      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "category": "AI",
-      "score": 43.691
-    },
-    {
-      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-      "category": "AI",
-      "score": 43.638
-    },
-    {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
       "title": "Quartz has acquired Intelligentsia.ai, an artificial intelligence research firm",
       "url": "https://qz.com/887545/quartz-has-acquired-intelligentsia-ai-an-artificial-intelligence-research-firm/",
@@ -446,6 +417,26 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.602
+    },
+    {
+      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "category": "AI",
+      "score": 43.58
+    },
+    {
+      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-05T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+      "category": "AI",
+      "score": 43.535
     },
     {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
@@ -648,6 +639,16 @@
       "score": 43
     },
     {
+      "id": "an-open-field-guide-to-inference-engineering-7lmuk",
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-10T17:55:07Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 41.941
+    },
+    {
       "id": "reframe-observation-aligned-multi-teacher-on-policy-distilla-r55s9h",
       "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
       "url": "http://arxiv.org/abs/2611.12886v1",
@@ -655,7 +656,7 @@
       "publishedAt": "2026-11-09T18:59:54.000Z",
       "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook u",
       "category": "Research",
-      "score": 41.322
+      "score": 40.467
     },
     {
       "id": "world-in-context-learning-for-agentic-robot-manipulation-ybcav6",
@@ -665,7 +666,7 @@
       "publishedAt": "2026-11-09T18:59:45.000Z",
       "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, be",
       "category": "Research",
-      "score": 41.322
+      "score": 40.466
     },
     {
       "id": "guiding-data-allocation-for-robust-subpopulation-generalizat-r4yci2",
@@ -675,7 +676,7 @@
       "publishedAt": "2026-11-09T18:59:40.000Z",
       "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions",
       "category": "Research",
-      "score": 41.322
+      "score": 40.466
     },
     {
       "id": "beyond-modality-preference-controlling-multimodal-arbitratio-399aps",
@@ -685,7 +686,7 @@
       "publishedAt": "2026-11-09T18:59:36.000Z",
       "summary": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable ",
       "category": "Research",
-      "score": 41.321
+      "score": 40.466
     },
     {
       "id": "kolmogorov-chapman-maps-trajectory-free-learning-for-simulat-mkd1th",
@@ -695,7 +696,7 @@
       "publishedAt": "2026-11-09T18:59:13.000Z",
       "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, ",
       "category": "Research",
-      "score": 41.321
+      "score": 40.465
     },
     {
       "id": "grasping-the-future-joint-3d-hand-object-forecasting-from-in-kue243",
@@ -705,7 +706,7 @@
       "publishedAt": "2026-11-09T18:59:01.000Z",
       "summary": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning t",
       "category": "Research",
-      "score": 41.32
+      "score": 40.465
     },
     {
       "id": "adaptive-quantization-preserves-fast-rates-for-td-learning-o-5c6l4t",
@@ -715,7 +716,7 @@
       "publishedAt": "2026-11-09T18:58:41.000Z",
       "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an un",
       "category": "Research",
-      "score": 41.32
+      "score": 40.465
     },
     {
       "id": "click3r-interactive-stereo-3d-reconstruction-with-sparse-cor-u6oew1",
@@ -725,7 +726,7 @@
       "publishedAt": "2026-11-09T18:58:02.000Z",
       "summary": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitat",
       "category": "Research",
-      "score": 41.318
+      "score": 40.464
     },
     {
       "id": "hive-mem-interleaving-horizontal-memory-expansion-and-vertic-re0qt3",
@@ -735,7 +736,7 @@
       "publishedAt": "2026-11-09T18:57:00.000Z",
       "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semanti",
       "category": "Research",
-      "score": 41.317
+      "score": 40.462
     },
     {
       "id": "vendi-anomaly-scores-for-efficient-and-accurate-anomaly-dete-42g90h",
@@ -745,7 +746,7 @@
       "publishedAt": "2026-11-09T18:56:15.000Z",
       "summary": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribut",
       "category": "Research",
-      "score": 41.315
+      "score": 40.461
     },
     {
       "id": "swam-scaling-world-action-models-with-cross-modal-alignment-mb3moe",
@@ -755,7 +756,7 @@
       "publishedAt": "2026-11-09T18:55:04.000Z",
       "summary": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment acquired through video",
       "category": "Research",
-      "score": 41.313
+      "score": 40.459
     },
     {
       "id": "where-does-alignment-emerge-and-what-does-it-mean-a-closer-l-o6nk8k",
@@ -765,7 +766,7 @@
       "publishedAt": "2026-11-09T18:53:57.000Z",
       "summary": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vis",
       "category": "Research",
-      "score": 41.311
+      "score": 40.457
     },
     {
       "id": "shortcuts-and-boundaries-verifiable-rl-misalignment-and-cont-p7gqyv",
@@ -775,7 +776,7 @@
       "publishedAt": "2026-11-09T18:52:20.000Z",
       "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through v",
       "category": "Research",
-      "score": 41.308
+      "score": 40.455
     },
     {
       "id": "is-persona-generalization-predictable-9c6oiu",
@@ -785,7 +786,7 @@
       "publishedAt": "2026-11-09T18:51:03.000Z",
       "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"",
       "category": "Research",
-      "score": 41.306
+      "score": 40.453
     },
     {
       "id": "workflowarena-benchmarking-executable-workflow-orchestration-909pes",
@@ -795,7 +796,7 @@
       "publishedAt": "2026-11-09T18:45:28.000Z",
       "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to",
       "category": "Research",
-      "score": 41.295
+      "score": 40.444
     },
     {
       "id": "ai-based-characterization-of-lymphoid-structures-and-the-tum-791ii7",
@@ -805,7 +806,7 @@
       "publishedAt": "2026-11-09T18:45:06.000Z",
       "summary": "Mature, germinal centre-bearing tertiary lymphoid structures (TLS) and mature lymph node follicles (secondary lymphoid structures, SLS) sustain the plasma cell response that shapes outcome and immunotherapy benefit in lu",
       "category": "Research",
-      "score": 41.295
+      "score": 40.444
     },
     {
       "id": "what-kills-v-prediction-a-patch-wise-pca-perspective-on-pixe-n4cisp",
@@ -815,7 +816,7 @@
       "publishedAt": "2026-11-09T18:44:37.000Z",
       "summary": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end alt",
       "category": "Research",
-      "score": 41.294
+      "score": 40.443
     },
     {
       "id": "mitigating-agentic-deception-via-evaluation-side-partially-o-8uxuft",
@@ -825,7 +826,7 @@
       "publishedAt": "2026-11-09T18:33:13.000Z",
       "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, wh",
       "category": "Research",
-      "score": 41.273
+      "score": 40.425
     },
     {
       "id": "programming-prescience-issues-in-human-construction-of-forec-ubcsc5",
@@ -835,107 +836,7 @@
       "publishedAt": "2026-11-09T18:33:13.000Z",
       "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopt",
       "category": "Research",
-      "score": 41.273
-    },
-    {
-      "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisi-e274ve",
-      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
-      "url": "http://arxiv.org/abs/2611.12832v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:30:41.000Z",
-      "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on",
-      "category": "Research",
-      "score": 41.268
-    },
-    {
-      "id": "maxim-maximally-informative-incremental-summarization-via-re-tzhn0m",
-      "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2611.12825v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:25:42.000Z",
-      "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learni",
-      "category": "Research",
-      "score": 41.259
-    },
-    {
-      "id": "dreamlander-a-6-dof-world-model-based-reinforcement-learning-x7h2p9",
-      "title": "DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander",
-      "url": "http://arxiv.org/abs/2611.12824v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:25:19.000Z",
-      "summary": "Soft powered descent landings are becoming evermore important in the field of space exploration and scientific advancement, because of their ability to deliver mission critical payloads, both highly accurately and safely",
-      "category": "Research",
-      "score": 41.258
-    },
-    {
-      "id": "simulating-vein-compressibility-for-ultrasound-guided-femora-xhwo43",
-      "title": "Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation",
-      "url": "http://arxiv.org/abs/2611.12818v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:21:35.000Z",
-      "summary": "In ultrasound-guided femoral access, probe pressure deforms the tissue and changes the vascular anatomy a robot observes. A simulator must reproduce these mechanics fast enough for robotic interaction, yet the computatio",
-      "category": "Research",
-      "score": 41.252
-    },
-    {
-      "id": "lucque-a-lung-cancer-screening-dataset-from-qu-bec-for-relia-n35c9w",
-      "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
-      "url": "http://arxiv.org/abs/2611.12817v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:21:18.000Z",
-      "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of cl",
-      "category": "Research",
-      "score": 41.251
-    },
-    {
-      "id": "automated-knowledge-acquisition-pipeline-for-disassembly-ins-gnkx98",
-      "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
-      "url": "http://arxiv.org/abs/2611.12816v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:19:57.000Z",
-      "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two",
-      "category": "Research",
-      "score": 41.249
-    },
-    {
-      "id": "inversion-free-high-dimensional-counterfactual-inference-no7a4v",
-      "title": "Inversion-Free High-Dimensional Counterfactual Inference",
-      "url": "http://arxiv.org/abs/2611.12815v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:19:40.000Z",
-      "summary": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reason about hypothetical",
-      "category": "Research",
-      "score": 41.248
-    },
-    {
-      "id": "curbside-chatbots-auditing-the-mental-health-interventions-l-1e0qi5",
-      "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
-      "url": "http://arxiv.org/abs/2611.12814v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:19:30.000Z",
-      "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician d",
-      "category": "Research",
-      "score": 41.248
-    },
-    {
-      "id": "learning-heterogeneous-tactile-representation-for-general-de-1ej3ij",
-      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "url": "http://arxiv.org/abs/2611.12806v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:12:00.000Z",
-      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still ",
-      "category": "Research",
-      "score": 41.234
-    },
-    {
-      "id": "2d-gum-net-unsupervised-dense-elastic-image-registration-via-xfmg3e",
-      "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
-      "url": "http://arxiv.org/abs/2611.12805v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:11:45.000Z",
-      "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estim",
-      "category": "Research",
-      "score": 41.234
+      "score": 40.425
     },
     {
       "id": "from-pixels-to-actions-towards-native-vision-language-action-er0klf",
@@ -946,6 +847,16 @@
       "summary": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual",
       "category": "Research",
       "score": 40.423
+    },
+    {
+      "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisi-e274ve",
+      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+      "url": "http://arxiv.org/abs/2611.12832v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:30:41.000Z",
+      "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on",
+      "category": "Research",
+      "score": 40.421
     },
     {
       "id": "a-framework-for-context-enrichment-and-selective-robustness--pa9na",
@@ -1008,6 +919,26 @@
       "score": 40.416
     },
     {
+      "id": "maxim-maximally-informative-incremental-summarization-via-re-tzhn0m",
+      "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.12825v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:25:42.000Z",
+      "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learni",
+      "category": "Research",
+      "score": 40.414
+    },
+    {
+      "id": "dreamlander-a-6-dof-world-model-based-reinforcement-learning-x7h2p9",
+      "title": "DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander",
+      "url": "http://arxiv.org/abs/2611.12824v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:25:19.000Z",
+      "summary": "Soft powered descent landings are becoming evermore important in the field of space exploration and scientific advancement, because of their ability to deliver mission critical payloads, both highly accurately and safely",
+      "category": "Research",
+      "score": 40.413
+    },
+    {
       "id": "reinforcement-learning-enables-scaling-generalist-robot-poli-9zmz40",
       "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
       "url": "http://arxiv.org/abs/2611.06905v1",
@@ -1016,6 +947,26 @@
       "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization c",
       "category": "Research",
       "score": 40.412
+    },
+    {
+      "id": "simulating-vein-compressibility-for-ultrasound-guided-femora-xhwo43",
+      "title": "Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation",
+      "url": "http://arxiv.org/abs/2611.12818v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:21:35.000Z",
+      "summary": "In ultrasound-guided femoral access, probe pressure deforms the tissue and changes the vascular anatomy a robot observes. A simulator must reproduce these mechanics fast enough for robotic interaction, yet the computatio",
+      "category": "Research",
+      "score": 40.407
+    },
+    {
+      "id": "lucque-a-lung-cancer-screening-dataset-from-qu-bec-for-relia-n35c9w",
+      "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+      "url": "http://arxiv.org/abs/2611.12817v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:21:18.000Z",
+      "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of cl",
+      "category": "Research",
+      "score": 40.407
     },
     {
       "id": "motion-guided-contrastive-regularization-for-latent-world-mo-cr1ryg",
@@ -1038,6 +989,36 @@
       "score": 40.407
     },
     {
+      "id": "automated-knowledge-acquisition-pipeline-for-disassembly-ins-gnkx98",
+      "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+      "url": "http://arxiv.org/abs/2611.12816v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:57.000Z",
+      "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two",
+      "category": "Research",
+      "score": 40.405
+    },
+    {
+      "id": "inversion-free-high-dimensional-counterfactual-inference-no7a4v",
+      "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+      "url": "http://arxiv.org/abs/2611.12815v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:40.000Z",
+      "summary": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reason about hypothetical",
+      "category": "Research",
+      "score": 40.405
+    },
+    {
+      "id": "curbside-chatbots-auditing-the-mental-health-interventions-l-1e0qi5",
+      "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+      "url": "http://arxiv.org/abs/2611.12814v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:30.000Z",
+      "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician d",
+      "category": "Research",
+      "score": 40.404
+    },
+    {
       "id": "procedural-adversarial-learning-1kbq8h",
       "title": "Procedural Adversarial Learning",
       "url": "http://arxiv.org/abs/2611.06890v1",
@@ -1056,6 +1037,26 @@
       "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associate",
       "category": "Research",
       "score": 40.395
+    },
+    {
+      "id": "learning-heterogeneous-tactile-representation-for-general-de-1ej3ij",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "http://arxiv.org/abs/2611.12806v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:12:00.000Z",
+      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still ",
+      "category": "Research",
+      "score": 40.393
+    },
+    {
+      "id": "2d-gum-net-unsupervised-dense-elastic-image-registration-via-xfmg3e",
+      "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+      "url": "http://arxiv.org/abs/2611.12805v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:11:45.000Z",
+      "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estim",
+      "category": "Research",
+      "score": 40.392
     },
     {
       "id": "vabar-a-variational-automation-benchmark-for-agentic-robotic-mgmxh8",
@@ -1096,6 +1097,16 @@
       "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical i",
       "category": "Research",
       "score": 40.377
+    },
+    {
+      "id": "steam-deck-performance-gets-a-reality-check-with-valve-s-new-lifvas",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-10T17:26:44.000Z",
+      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "category": "Machine Learning",
+      "score": 40.13
     },
     {
       "id": "user-embeddings-are-superpositions-of-interpretable-behavior-8hkljt",
@@ -1194,16 +1205,6 @@
       "sourceName": "arXiv",
       "publishedAt": "2026-11-06T18:59:34.000Z",
       "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-ac",
-      "category": "Research",
-      "score": 37.565
-    },
-    {
-      "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse-4ubla2",
-      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-      "url": "http://arxiv.org/abs/2611.09891v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:58:50.000Z",
-      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned thr",
       "category": "Research",
       "score": 37.565
     }
