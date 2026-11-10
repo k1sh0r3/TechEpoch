@@ -1,12 +1,10 @@
 {
-  "updatedAt": "2026-11-10T01:18:20.543Z",
+  "updatedAt": "2026-11-10T14:33:47.763Z",
   "totalItems": 120,
   "categories": {
-    "AI": 46,
-    "Robotics": 18,
-    "Research": 54,
-    "Machine Learning": 1,
-    "Tech": 1
+    "AI": 45,
+    "Robotics": 19,
+    "Research": 56
   },
   "items": [
     {
@@ -20,6 +18,16 @@
       "score": 52.507
     },
     {
+      "id": "compress-any-llm-3x-in-one-click-near-lossless-in-under-50-m-8rsk4j",
+      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+      "url": "https://neuracryption.com/research",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-10T13:51:51Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.376
+    },
+    {
       "id": "anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-8jevbk",
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
@@ -28,16 +36,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.309
-    },
-    {
-      "id": "anthropic-ipo-filing-1-7b-quarterly-payroll-about-107k-per-e-oz18c3",
-      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
-      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-03T11:16:07Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.305
     },
     {
       "id": "the-little-book-of-generative-ai-foundations-an-intuitive-ma-cisxmg",
@@ -90,16 +88,6 @@
       "score": 51.548
     },
     {
-      "id": "show-hn-bema-work-messaging-built-for-humans-b6juma",
-      "title": "Show HN: Bema: Work messaging built for humans",
-      "url": "https://getbema.app/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-03T12:51:11Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.534
-    },
-    {
       "id": "altera-announces-agilex-2x-a-complete-fpga-and-soc-portfolio-nzk1z5",
       "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
       "url": "https://www.altera.com/newsroom/agilex-2x",
@@ -150,6 +138,26 @@
       "score": 50.972
     },
     {
+      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "category": "AI",
+      "score": 50.907
+    },
+    {
+      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "AI",
+      "score": 50.744
+    },
+    {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
       "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
@@ -170,6 +178,16 @@
       "score": 50.661
     },
     {
+      "id": "ukraine-s-fiber-optic-drones-get-squeezed-by-ai-data-center--npub37",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-10T12:15:32.000Z",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "category": "Robotics",
+      "score": 50.625
+    },
+    {
       "id": "show-hn-uncracked-city-detective-game-where-you-question-llm-mi55zf",
       "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
       "url": "https://uncracked.city",
@@ -187,27 +205,7 @@
       "publishedAt": "2026-11-09T20:49:09.000Z",
       "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
       "category": "AI",
-      "score": 50.286
-    },
-    {
-      "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
-      "category": "AI",
-      "score": 49.191
-    },
-    {
-      "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-09T10:00:00.000Z",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-      "category": "AI",
-      "score": 48.816
+      "score": 48.528
     },
     {
       "id": "software-squeezes-more-data-out-of-webb-telescope-for-imagin-2h132o",
@@ -250,6 +248,26 @@
       "score": 47.732
     },
     {
+      "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
+      "category": "AI",
+      "score": 47.697
+    },
+    {
+      "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
+      "category": "AI",
+      "score": 47.412
+    },
+    {
       "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
@@ -257,7 +275,7 @@
       "publishedAt": "2026-11-06T13:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "category": "Robotics",
-      "score": 47.386
+      "score": 47.052
     },
     {
       "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
@@ -267,7 +285,7 @@
       "publishedAt": "2026-11-06T10:00:00.000Z",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
       "category": "Robotics",
-      "score": 47.298
+      "score": 46.984
     },
     {
       "id": "the-typo-generation-is-damaging-literature-s9egyy",
@@ -310,16 +328,6 @@
       "score": 45.182
     },
     {
-      "id": "how-reverse-game-theory-could-keep-ai-agents-in-check-y5igzb",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T10:43:41.000Z",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-      "category": "AI",
-      "score": 44.98
-    },
-    {
       "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
@@ -327,27 +335,7 @@
       "publishedAt": "2026-11-06T20:56:41.000Z",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
       "category": "AI",
-      "score": 44.63
-    },
-    {
-      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "category": "AI",
-      "score": 43.911
-    },
-    {
-      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-      "category": "AI",
-      "score": 43.841
+      "score": 44.237
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -408,6 +396,26 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.699
+    },
+    {
+      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "category": "AI",
+      "score": 43.691
+    },
+    {
+      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-05T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+      "category": "AI",
+      "score": 43.638
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -508,16 +516,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.477
-    },
-    {
-      "id": "the-download-controlling-ai-agents-and-super-intelligence-lo-lokamp",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-03T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
-      "category": "AI",
-      "score": 43.468
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -648,6 +646,296 @@
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
       "score": 43
+    },
+    {
+      "id": "reframe-observation-aligned-multi-teacher-on-policy-distilla-r55s9h",
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "url": "http://arxiv.org/abs/2611.12886v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:54.000Z",
+      "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook u",
+      "category": "Research",
+      "score": 41.322
+    },
+    {
+      "id": "world-in-context-learning-for-agentic-robot-manipulation-ybcav6",
+      "title": "World In-Context Learning for Agentic Robot Manipulation",
+      "url": "http://arxiv.org/abs/2611.12885v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:45.000Z",
+      "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, be",
+      "category": "Research",
+      "score": 41.322
+    },
+    {
+      "id": "guiding-data-allocation-for-robust-subpopulation-generalizat-r4yci2",
+      "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+      "url": "http://arxiv.org/abs/2611.12884v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:40.000Z",
+      "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions",
+      "category": "Research",
+      "score": 41.322
+    },
+    {
+      "id": "beyond-modality-preference-controlling-multimodal-arbitratio-399aps",
+      "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+      "url": "http://arxiv.org/abs/2611.12883v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:36.000Z",
+      "summary": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable ",
+      "category": "Research",
+      "score": 41.321
+    },
+    {
+      "id": "kolmogorov-chapman-maps-trajectory-free-learning-for-simulat-mkd1th",
+      "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2611.12880v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:13.000Z",
+      "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, ",
+      "category": "Research",
+      "score": 41.321
+    },
+    {
+      "id": "grasping-the-future-joint-3d-hand-object-forecasting-from-in-kue243",
+      "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+      "url": "http://arxiv.org/abs/2611.12879v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:59:01.000Z",
+      "summary": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning t",
+      "category": "Research",
+      "score": 41.32
+    },
+    {
+      "id": "adaptive-quantization-preserves-fast-rates-for-td-learning-o-5c6l4t",
+      "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+      "url": "http://arxiv.org/abs/2611.12878v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:58:41.000Z",
+      "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an un",
+      "category": "Research",
+      "score": 41.32
+    },
+    {
+      "id": "click3r-interactive-stereo-3d-reconstruction-with-sparse-cor-u6oew1",
+      "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+      "url": "http://arxiv.org/abs/2611.12875v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:58:02.000Z",
+      "summary": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitat",
+      "category": "Research",
+      "score": 41.318
+    },
+    {
+      "id": "hive-mem-interleaving-horizontal-memory-expansion-and-vertic-re0qt3",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "http://arxiv.org/abs/2611.12872v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:57:00.000Z",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semanti",
+      "category": "Research",
+      "score": 41.317
+    },
+    {
+      "id": "vendi-anomaly-scores-for-efficient-and-accurate-anomaly-dete-42g90h",
+      "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+      "url": "http://arxiv.org/abs/2611.12871v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:56:15.000Z",
+      "summary": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribut",
+      "category": "Research",
+      "score": 41.315
+    },
+    {
+      "id": "swam-scaling-world-action-models-with-cross-modal-alignment-mb3moe",
+      "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+      "url": "http://arxiv.org/abs/2611.12870v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:55:04.000Z",
+      "summary": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment acquired through video",
+      "category": "Research",
+      "score": 41.313
+    },
+    {
+      "id": "where-does-alignment-emerge-and-what-does-it-mean-a-closer-l-o6nk8k",
+      "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+      "url": "http://arxiv.org/abs/2611.12869v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:53:57.000Z",
+      "summary": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vis",
+      "category": "Research",
+      "score": 41.311
+    },
+    {
+      "id": "shortcuts-and-boundaries-verifiable-rl-misalignment-and-cont-p7gqyv",
+      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "url": "http://arxiv.org/abs/2611.12865v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:52:20.000Z",
+      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through v",
+      "category": "Research",
+      "score": 41.308
+    },
+    {
+      "id": "is-persona-generalization-predictable-9c6oiu",
+      "title": "Is Persona Generalization Predictable?",
+      "url": "http://arxiv.org/abs/2611.12864v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:51:03.000Z",
+      "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"",
+      "category": "Research",
+      "score": 41.306
+    },
+    {
+      "id": "workflowarena-benchmarking-executable-workflow-orchestration-909pes",
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2611.12856v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:45:28.000Z",
+      "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to",
+      "category": "Research",
+      "score": 41.295
+    },
+    {
+      "id": "ai-based-characterization-of-lymphoid-structures-and-the-tum-791ii7",
+      "title": "AI-based characterization of lymphoid structures and the tumor microenvironment reveals lower mature tertiary lymphoid structures, lymph-node follicles, and plasma cells after neoadjuvant therapy in lung squamous cell carcinoma",
+      "url": "http://arxiv.org/abs/2611.12855v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:45:06.000Z",
+      "summary": "Mature, germinal centre-bearing tertiary lymphoid structures (TLS) and mature lymph node follicles (secondary lymphoid structures, SLS) sustain the plasma cell response that shapes outcome and immunotherapy benefit in lu",
+      "category": "Research",
+      "score": 41.295
+    },
+    {
+      "id": "what-kills-v-prediction-a-patch-wise-pca-perspective-on-pixe-n4cisp",
+      "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+      "url": "http://arxiv.org/abs/2611.12852v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:44:37.000Z",
+      "summary": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end alt",
+      "category": "Research",
+      "score": 41.294
+    },
+    {
+      "id": "mitigating-agentic-deception-via-evaluation-side-partially-o-8uxuft",
+      "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+      "url": "http://arxiv.org/abs/2611.12835v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:33:13.000Z",
+      "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, wh",
+      "category": "Research",
+      "score": 41.273
+    },
+    {
+      "id": "programming-prescience-issues-in-human-construction-of-forec-ubcsc5",
+      "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+      "url": "http://arxiv.org/abs/2611.12834v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:33:13.000Z",
+      "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopt",
+      "category": "Research",
+      "score": 41.273
+    },
+    {
+      "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisi-e274ve",
+      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+      "url": "http://arxiv.org/abs/2611.12832v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:30:41.000Z",
+      "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on",
+      "category": "Research",
+      "score": 41.268
+    },
+    {
+      "id": "maxim-maximally-informative-incremental-summarization-via-re-tzhn0m",
+      "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.12825v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:25:42.000Z",
+      "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learni",
+      "category": "Research",
+      "score": 41.259
+    },
+    {
+      "id": "dreamlander-a-6-dof-world-model-based-reinforcement-learning-x7h2p9",
+      "title": "DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander",
+      "url": "http://arxiv.org/abs/2611.12824v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:25:19.000Z",
+      "summary": "Soft powered descent landings are becoming evermore important in the field of space exploration and scientific advancement, because of their ability to deliver mission critical payloads, both highly accurately and safely",
+      "category": "Research",
+      "score": 41.258
+    },
+    {
+      "id": "simulating-vein-compressibility-for-ultrasound-guided-femora-xhwo43",
+      "title": "Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation",
+      "url": "http://arxiv.org/abs/2611.12818v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:21:35.000Z",
+      "summary": "In ultrasound-guided femoral access, probe pressure deforms the tissue and changes the vascular anatomy a robot observes. A simulator must reproduce these mechanics fast enough for robotic interaction, yet the computatio",
+      "category": "Research",
+      "score": 41.252
+    },
+    {
+      "id": "lucque-a-lung-cancer-screening-dataset-from-qu-bec-for-relia-n35c9w",
+      "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+      "url": "http://arxiv.org/abs/2611.12817v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:21:18.000Z",
+      "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of cl",
+      "category": "Research",
+      "score": 41.251
+    },
+    {
+      "id": "automated-knowledge-acquisition-pipeline-for-disassembly-ins-gnkx98",
+      "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+      "url": "http://arxiv.org/abs/2611.12816v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:57.000Z",
+      "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two",
+      "category": "Research",
+      "score": 41.249
+    },
+    {
+      "id": "inversion-free-high-dimensional-counterfactual-inference-no7a4v",
+      "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+      "url": "http://arxiv.org/abs/2611.12815v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:40.000Z",
+      "summary": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reason about hypothetical",
+      "category": "Research",
+      "score": 41.248
+    },
+    {
+      "id": "curbside-chatbots-auditing-the-mental-health-interventions-l-1e0qi5",
+      "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+      "url": "http://arxiv.org/abs/2611.12814v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:19:30.000Z",
+      "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician d",
+      "category": "Research",
+      "score": 41.248
+    },
+    {
+      "id": "learning-heterogeneous-tactile-representation-for-general-de-1ej3ij",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "http://arxiv.org/abs/2611.12806v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:12:00.000Z",
+      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still ",
+      "category": "Research",
+      "score": 41.234
+    },
+    {
+      "id": "2d-gum-net-unsupervised-dense-elastic-image-registration-via-xfmg3e",
+      "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+      "url": "http://arxiv.org/abs/2611.12805v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-09T18:11:45.000Z",
+      "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estim",
+      "category": "Research",
+      "score": 41.234
     },
     {
       "id": "from-pixels-to-actions-towards-native-vision-language-action-er0klf",
@@ -918,296 +1206,6 @@
       "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned thr",
       "category": "Research",
       "score": 37.565
-    },
-    {
-      "id": "scenario-orchestration-for-closed-loop-policy-evaluation-of--9q35m1",
-      "title": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
-      "url": "http://arxiv.org/abs/2611.09888v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:58:27.000Z",
-      "summary": "Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its intended interaction",
-      "category": "Research",
-      "score": 37.564
-    },
-    {
-      "id": "on-the-non-closedness-of-the-set-of-relu-networks-w9a6dy",
-      "title": "On the (non-)closedness of the set of ReLU networks",
-      "url": "http://arxiv.org/abs/2611.09887v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:58:06.000Z",
-      "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, eve",
-      "category": "Research",
-      "score": 37.564
-    },
-    {
-      "id": "flowmop-stochastic-multi-person-motion-prediction-3qm3sd",
-      "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
-      "url": "http://arxiv.org/abs/2611.09882v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:56:41.000Z",
-      "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in ",
-      "category": "Research",
-      "score": 37.563
-    },
-    {
-      "id": "zeobench-a-benchmark-for-self-supervised-learning-on-3d-zeol-ss7whe",
-      "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
-      "url": "http://arxiv.org/abs/2611.09880v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:55:34.000Z",
-      "summary": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite struc",
-      "category": "Research",
-      "score": 37.563
-    },
-    {
-      "id": "graded-convolutional-networks-scale-invariance-without-the-s-glk8c7",
-      "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
-      "url": "http://arxiv.org/abs/2611.09878v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:54:03.000Z",
-      "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is d",
-      "category": "Research",
-      "score": 37.562
-    },
-    {
-      "id": "locating-contact-on-tendon-driven-continuum-robots-from-tend-pl7so4",
-      "title": "Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation",
-      "url": "http://arxiv.org/abs/2611.09877v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:53:10.000Z",
-      "summary": "Tendon-driven continuum robots can reach through constrained spaces, but contact along their bodies is invisible to the sensors at their motors. We show that this is a structural limitation rather than a tuning problem: ",
-      "category": "Research",
-      "score": 37.562
-    },
-    {
-      "id": "on-the-reliability-of-majority-vote-pseudo-labels-in-test-ti-b6s47x",
-      "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2611.09872v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:49:02.000Z",
-      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervis",
-      "category": "Research",
-      "score": 37.559
-    },
-    {
-      "id": "codequant2-enhanced-outlier-mitigation-and-adaptive-clusteri-jyzfae",
-      "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
-      "url": "http://arxiv.org/abs/2611.09868v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:48:04.000Z",
-      "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increasingly important. How",
-      "category": "Research",
-      "score": 37.559
-    },
-    {
-      "id": "grac-graph-based-retrieval-augmented-captioning-for-surgical-e26289",
-      "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
-      "url": "http://arxiv.org/abs/2611.09866v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:47:23.000Z",
-      "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensive manual review and ",
-      "category": "Research",
-      "score": 37.558
-    },
-    {
-      "id": "grasp-tags-task-aware-grasp-selection-via-critic-distillatio-cg788b",
-      "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
-      "url": "http://arxiv.org/abs/2611.09864v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:44:33.000Z",
-      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service robotics and warehous",
-      "category": "Research",
-      "score": 37.557
-    },
-    {
-      "id": "flow-guided-target-space-alignment-via-path-consistency-19t1u1",
-      "title": "Flow-Guided Target-Space Alignment via Path Consistency",
-      "url": "http://arxiv.org/abs/2611.09863v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:44:08.000Z",
-      "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used directly for downstream ana",
-      "category": "Research",
-      "score": 37.557
-    },
-    {
-      "id": "super-resolved-digital-terrain-models-for-gedi-geolocation-c-p6ulsb",
-      "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
-      "url": "http://arxiv.org/abs/2611.09854v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:36:50.000Z",
-      "summary": "The Global Ecosystem Dynamics Investigation (GEDI) mission measures three-dimensional forest structure with a LiDAR aboard the International Space Station. GEDI observations have geolocation errors of about 10 m, which c",
-      "category": "Research",
-      "score": 37.553
-    },
-    {
-      "id": "health-system-wide-mapping-of-demographic-information-in-rou-t5df2",
-      "title": "Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
-      "url": "http://arxiv.org/abs/2611.09851v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:34:51.000Z",
-      "summary": "The extent to which demographic-associated information is detectable across organs and disease states in routine clinical histopathology remains unclear. Here, we analyzed 1.3 million hematoxylin and eosin whole-slide im",
-      "category": "Research",
-      "score": 37.552
-    },
-    {
-      "id": "how-far-does-a-hash-only-sender-go-a-pre-registered-map-of-s-1g4yh2",
-      "title": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
-      "url": "http://arxiv.org/abs/2611.09848v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:31:24.000Z",
-      "summary": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-registered run on 1,00",
-      "category": "Research",
-      "score": 37.55
-    },
-    {
-      "id": "computer-use-agents-are-embodied-generalists-gh8vx9",
-      "title": "Computer-Use Agents Are Embodied Generalists",
-      "url": "http://arxiv.org/abs/2611.09847v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:31:17.000Z",
-      "summary": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that embodied tasks can ",
-      "category": "Research",
-      "score": 37.55
-    },
-    {
-      "id": "ensemble-methodology-for-reference-free-confidence-estimatio-xrdvkw",
-      "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
-      "url": "http://arxiv.org/abs/2611.09846v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:29:48.000Z",
-      "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreement on semantics is inf",
-      "category": "Research",
-      "score": 37.549
-    },
-    {
-      "id": "adaptivepnp-fast-auto-tuned-plug-and-play-for-deconvolution-bxzlhj",
-      "title": "AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution",
-      "url": "http://arxiv.org/abs/2611.09845v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:29:09.000Z",
-      "summary": "Plug-and-play (PnP) methods reconstruct images by alternating a data-fitting step with an image denoiser. Their performance depends on two parameters: the step size $γ$ and the measurement noise level $σ$. In practice, $",
-      "category": "Research",
-      "score": 37.549
-    },
-    {
-      "id": "fifty-two-shades-of-pig-what-the-ucr-archive-really-asks-cla-s5vr60",
-      "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
-      "url": "http://arxiv.org/abs/2611.09843v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:28:12.000Z",
-      "summary": "The pigs were bleeding. That was the point of the experiment: could airway pressure reveal hemorrhage before it became critical? In the UCR Time Series Classification Archive, the de facto benchmark for Time Series Class",
-      "category": "Research",
-      "score": 37.548
-    },
-    {
-      "id": "can-agentic-systems-close-the-gap-in-radiology-with-producti-rcnpo2",
-      "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
-      "url": "http://arxiv.org/abs/2611.09836v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:23:14.000Z",
-      "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but remain prone to hallucinat",
-      "category": "Research",
-      "score": 37.545
-    },
-    {
-      "id": "designing-effective-monitor-based-interventions-for-mitigati-an61vk",
-      "title": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
-      "url": "http://arxiv.org/abs/2611.09828v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:14:52.000Z",
-      "summary": "Reinforcement learning (RL) rewards are notoriously difficult to design and control, often leading to the model learning unintended behaviors such as reward hacking. One potential solution is to monitor for reward hackin",
-      "category": "Research",
-      "score": 37.541
-    },
-    {
-      "id": "bitdecoding-fp4-native-fp4-kv-cache-decoding-via-algorithm-s-c1o5wc",
-      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
-      "url": "http://arxiv.org/abs/2611.09825v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:13:54.000Z",
-      "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a fundamental gap rema",
-      "category": "Research",
-      "score": 37.54
-    },
-    {
-      "id": "discovering-formally-verified-quantum-programs-with-ai-oheki7",
-      "title": "Discovering formally verified quantum programs with AI",
-      "url": "http://arxiv.org/abs/2611.09822v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:08:06.000Z",
-      "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years",
-      "category": "Research",
-      "score": 37.537
-    },
-    {
-      "id": "generative-latent-priors-for-interpreting-and-steering-prote-n8nfco",
-      "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
-      "url": "http://arxiv.org/abs/2611.09818v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:06:39.000Z",
-      "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activat",
-      "category": "Research",
-      "score": 37.537
-    },
-    {
-      "id": "machine-learning-for-lattice-qcd-ngc9h4",
-      "title": "Machine learning for lattice QCD",
-      "url": "http://arxiv.org/abs/2611.09817v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:05:06.000Z",
-      "summary": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to the use of ML metho",
-      "category": "Research",
-      "score": 37.536
-    },
-    {
-      "id": "bev3sr-evidence-aware-3d-spatial-reasoning-from-video-htochr",
-      "title": "BEV3SR: Evidence-Aware 3D Spatial Reasoning from Video",
-      "url": "http://arxiv.org/abs/2611.09816v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:02:49.000Z",
-      "summary": "3D spatial reasoning from video remains challenging for VLMs because videos provide sequential, view-local observations rather than persistent metric scene records. Many questions must be answered in a query-specified pe",
-      "category": "Research",
-      "score": 37.535
-    },
-    {
-      "id": "the-cost-of-coverage-conformalising-native-forecast-uncertai-1eth5z",
-      "title": "The Cost of Coverage: Conformalising Native Forecast Uncertainty for GB Wind Power",
-      "url": "http://arxiv.org/abs/2611.09815v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T18:02:38.000Z",
-      "summary": "Uncertainty bands on wind forecasts help inform reserve sizing and commitments, but often fail to deliver their stated coverage. We apply conformal prediction to native bands to see what it adds and what it costs, compar",
-      "category": "Research",
-      "score": 37.534
-    },
-    {
-      "id": "compaction-decay-and-reinforcement-in-a-two-tier-conversatio-lidsjp",
-      "title": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
-      "url": "http://arxiv.org/abs/2611.09807v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-06T17:56:37.000Z",
-      "summary": "A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and search those. We compar",
-      "category": "Research",
-      "score": 37.531
-    },
-    {
-      "id": "active-benchmarking-5k7icf",
-      "title": "Active Benchmarking",
-      "url": "https://www.brendangregg.com/activebenchmarking.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-06T07:03:16Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 35.271
-    },
-    {
-      "id": "humans-will-never-again-create-a-project-like-wikipedia-jlgv2o",
-      "title": "Humans will never again create a project like Wikipedia",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-09T12:30:20Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.987
     }
   ]
 }
