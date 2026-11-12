@@ -1,13 +1,33 @@
 {
-  "updatedAt": "2026-11-11T13:48:37.913Z",
+  "updatedAt": "2026-11-12T00:15:38.615Z",
   "totalItems": 120,
   "categories": {
-    "AI": 47,
-    "Robotics": 18,
-    "Machine Learning": 2,
-    "Research": 53
+    "AI": 50,
+    "Robotics": 19,
+    "Machine Learning": 3,
+    "Research": 48
   },
   "items": [
+    {
+      "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-ope-v1ar5f",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-11T18:16:40.000Z",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "category": "AI",
+      "score": 53.062
+    },
+    {
+      "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behal-ifi6hq",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T21:24:35Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.997
+    },
     {
       "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped--hvwcqb",
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
@@ -27,6 +47,26 @@
       "summary": "",
       "category": "AI",
       "score": 52.507
+    },
+    {
+      "id": "emacs-in-the-age-of-magic-o5vxo8",
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T20:26:32Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.492
+    },
+    {
+      "id": "gemini-decisions-api-hoxvwm",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T18:32:42Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.454
     },
     {
       "id": "compress-any-llm-3x-in-one-click-near-lossless-in-under-50-m-8rsk4j",
@@ -49,6 +89,16 @@
       "score": 52.309
     },
     {
+      "id": "my-ai-agents-found-an-unmapped-maya-site-6cymam",
+      "title": "My AI agents found an unmapped Maya site",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T12:05:22Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.169
+    },
+    {
       "id": "openai-finds-948-local-privilege-escalation-bugs-in-the-linu-58qi3i",
       "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
       "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
@@ -57,16 +107,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.989
-    },
-    {
-      "id": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security--ue80hp",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-10T22:35:01.000Z",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "category": "Robotics",
-      "score": 51.825
     },
     {
       "id": "llms-play-zachtronics-tis-100-xliorv",
@@ -129,16 +169,6 @@
       "score": 51.34
     },
     {
-      "id": "openai-to-acquire-pierre-computer-company-u9ca76",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-04T15:21:21Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.256
-    },
-    {
       "id": "gpt-6-astra-covertly-underperforms-on-safety-research-zgxzy1",
       "title": "GPT-6 Astra covertly underperforms on safety research",
       "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
@@ -157,6 +187,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.043
+    },
+    {
+      "id": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security--ue80hp",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "category": "Robotics",
+      "score": 50.686
     },
     {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
@@ -199,16 +239,6 @@
       "score": 48.446
     },
     {
-      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "category": "AI",
-      "score": 48.406
-    },
-    {
       "id": "deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchma-l05q20",
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
@@ -217,26 +247,6 @@
       "summary": "The new model is up to twice as successful at some tasks.",
       "category": "AI",
       "score": 47.975
-    },
-    {
-      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "category": "AI",
-      "score": 47.871
-    },
-    {
-      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "category": "AI",
-      "score": 47.771
     },
     {
       "id": "google-schools-can-keep-search-while-skipping-gemini-but-ai--kyitiv",
@@ -279,14 +289,44 @@
       "score": 47.639
     },
     {
-      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-06T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "id": "flying-on-green-why-farmers-are-turning-to-drones-for-cover--eq8ckp",
+      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-09T22:15:13Z",
+      "summary": "",
       "category": "Robotics",
-      "score": 46.648
+      "score": 47.354
+    },
+    {
+      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "category": "AI",
+      "score": 47.349
+    },
+    {
+      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "category": "AI",
+      "score": 46.918
+    },
+    {
+      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "AI",
+      "score": 46.838
     },
     {
       "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
@@ -299,24 +339,14 @@
       "score": 46.607
     },
     {
-      "id": "the-typo-generation-is-damaging-literature-s9egyy",
-      "title": "The typo generation is damaging literature",
-      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-04T20:05:56Z",
-      "summary": "",
-      "category": "AI",
-      "score": 46.383
-    },
-    {
-      "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "id": "the-download-a-humanoid-cleans-house-and-samsung-builds-for--cy3og0",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
       "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
-      "category": "AI",
-      "score": 45.894
+      "publishedAt": "2026-11-06T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "category": "Robotics",
+      "score": 46.521
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -329,6 +359,16 @@
       "score": 45.771
     },
     {
+      "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
+      "category": "AI",
+      "score": 45.328
+    },
+    {
       "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
       "title": "The climate case for AI has not been made",
       "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
@@ -336,7 +376,7 @@
       "publishedAt": "2026-11-09T10:00:00.000Z",
       "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
       "category": "AI",
-      "score": 45.718
+      "score": 45.187
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -526,7 +566,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.426
+      "score": 43.342
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -657,6 +697,16 @@
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
       "score": 43
+    },
+    {
+      "id": "huawei-releases-macaq-its-internal-quantizer-for-local-infer-lvf16j",
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T20:23:57Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 42.063
     },
     {
       "id": "next-level-benchmarking-overfitting-thomas-neumann-d65pst",
@@ -1157,56 +1207,6 @@
       "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, wh",
       "category": "Research",
       "score": 40.425
-    },
-    {
-      "id": "programming-prescience-issues-in-human-construction-of-forec-ubcsc5",
-      "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
-      "url": "http://arxiv.org/abs/2611.12834v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:33:13.000Z",
-      "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopt",
-      "category": "Research",
-      "score": 40.425
-    },
-    {
-      "id": "from-pixels-to-actions-towards-native-vision-language-action-er0klf",
-      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
-      "url": "http://arxiv.org/abs/2611.06918v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-04T18:59:58.000Z",
-      "summary": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual",
-      "category": "Research",
-      "score": 40.423
-    },
-    {
-      "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisi-e274ve",
-      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
-      "url": "http://arxiv.org/abs/2611.12832v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-09T18:30:41.000Z",
-      "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on",
-      "category": "Research",
-      "score": 40.421
-    },
-    {
-      "id": "a-framework-for-context-enrichment-and-selective-robustness--pa9na",
-      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-      "url": "http://arxiv.org/abs/2611.06914v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-04T18:58:23.000Z",
-      "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantial",
-      "category": "Research",
-      "score": 40.421
-    },
-    {
-      "id": "curobov2-fast-fast-torque-limited-collision-free-motion-plan-e6pf9y",
-      "title": "cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning",
-      "url": "http://arxiv.org/abs/2611.06913v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-04T18:58:20.000Z",
-      "summary": "We present cuRoboV2-Fast, a GPU-accelerated planner that reduces both planning latency and execution time for collision-free, payload-aware, torque-limited motions. B-spline trajectory optimization reduces the required i",
-      "category": "Research",
-      "score": 40.421
     }
   ]
 }
