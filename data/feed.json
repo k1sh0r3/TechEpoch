@@ -1,33 +1,14 @@
 {
-  "updatedAt": "2026-11-12T00:15:38.615Z",
+  "updatedAt": "2026-11-12T14:51:21.520Z",
   "totalItems": 120,
   "categories": {
-    "AI": 50,
-    "Robotics": 19,
+    "AI": 48,
+    "Robotics": 18,
     "Machine Learning": 3,
-    "Research": 48
+    "Research": 48,
+    "Tech": 3
   },
   "items": [
-    {
-      "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-ope-v1ar5f",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-11T18:16:40.000Z",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "category": "AI",
-      "score": 53.062
-    },
-    {
-      "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behal-ifi6hq",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T21:24:35Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.997
-    },
     {
       "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped--hvwcqb",
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
@@ -37,6 +18,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.985
+    },
+    {
+      "id": "anthropic-ipo-z2pn0s",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-12T11:46:41Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.933
     },
     {
       "id": "google-gemini-routes-personal-drive-files-and-emails-to-huma-5gxnus",
@@ -49,26 +40,6 @@
       "score": 52.507
     },
     {
-      "id": "emacs-in-the-age-of-magic-o5vxo8",
-      "title": "Emacs in the Age of Magic",
-      "url": "https://commandlinesystems.com/magic.txt",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T20:26:32Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.492
-    },
-    {
-      "id": "gemini-decisions-api-hoxvwm",
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T18:32:42Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.454
-    },
-    {
       "id": "compress-any-llm-3x-in-one-click-near-lossless-in-under-50-m-8rsk4j",
       "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
       "url": "https://neuracryption.com/research",
@@ -77,16 +48,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.376
-    },
-    {
-      "id": "anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-8jevbk",
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-06T16:54:36Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.309
     },
     {
       "id": "my-ai-agents-found-an-unmapped-maya-site-6cymam",
@@ -107,6 +68,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.989
+    },
+    {
+      "id": "libreagi-save-oss-models-hsi58c",
+      "title": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-12T14:11:58Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.846
     },
     {
       "id": "llms-play-zachtronics-tis-100-xliorv",
@@ -149,14 +120,14 @@
       "score": 51.424
     },
     {
-      "id": "altera-announces-agilex-2x-a-complete-fpga-and-soc-portfolio-nzk1z5",
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behal-ifi6hq",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T05:47:14Z",
+      "publishedAt": "2026-11-11T21:24:35Z",
       "summary": "",
       "category": "AI",
-      "score": 51.367
+      "score": 51.35
     },
     {
       "id": "memorilla-latent-semantic-memory-for-llms-aujko0",
@@ -169,14 +140,14 @@
       "score": 51.34
     },
     {
-      "id": "gpt-6-astra-covertly-underperforms-on-safety-research-zgxzy1",
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-05T07:44:30Z",
-      "summary": "",
+      "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-ope-v1ar5f",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-11T18:16:40.000Z",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
       "category": "AI",
-      "score": 51.206
+      "score": 51.211
     },
     {
       "id": "ai-usage-generates-a-fragile-codebase-4a0a06",
@@ -189,14 +160,24 @@
       "score": 51.043
     },
     {
-      "id": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security--ue80hp",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-10T22:35:01.000Z",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "category": "Robotics",
-      "score": 50.686
+      "id": "gemini-decisions-api-hoxvwm",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T18:32:42Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.941
+    },
+    {
+      "id": "emacs-in-the-age-of-magic-o5vxo8",
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-11T20:26:32Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.895
     },
     {
       "id": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers-givp9k",
@@ -209,14 +190,14 @@
       "score": 50.684
     },
     {
-      "id": "agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-r-mxvdtm",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "id": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security--ue80hp",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-05T12:00:41.000Z",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
       "category": "Robotics",
-      "score": 50.661
+      "score": 49.457
     },
     {
       "id": "software-squeezes-more-data-out-of-webb-telescope-for-imagin-2h132o",
@@ -299,36 +280,6 @@
       "score": 47.354
     },
     {
-      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "category": "AI",
-      "score": 47.349
-    },
-    {
-      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "category": "AI",
-      "score": 46.918
-    },
-    {
-      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "category": "AI",
-      "score": 46.838
-    },
-    {
       "id": "i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-viklvs",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -349,6 +300,36 @@
       "score": 46.521
     },
     {
+      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "category": "AI",
+      "score": 46.208
+    },
+    {
+      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "category": "AI",
+      "score": 45.891
+    },
+    {
+      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "AI",
+      "score": 45.831
+    },
+    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -359,6 +340,16 @@
       "score": 45.771
     },
     {
+      "id": "ai-on-artificial-intelligence-open-network-35szny",
+      "title": "AI•ON: Artificial Intelligence Open Network",
+      "url": "http://ai-on.org/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2016-10-18T19:33:54Z",
+      "summary": "",
+      "category": "AI",
+      "score": 45.182
+    },
+    {
       "id": "innovating-with-ai-in-the-special-chemicals-industry-2wtrv3",
       "title": "Innovating with AI in the special chemicals industry",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -366,7 +357,7 @@
       "publishedAt": "2026-11-09T13:00:00.000Z",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
       "category": "AI",
-      "score": 45.328
+      "score": 44.717
     },
     {
       "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
@@ -376,17 +367,7 @@
       "publishedAt": "2026-11-09T10:00:00.000Z",
       "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
       "category": "AI",
-      "score": 45.187
-    },
-    {
-      "id": "ai-on-artificial-intelligence-open-network-35szny",
-      "title": "AI•ON: Artificial Intelligence Open Network",
-      "url": "http://ai-on.org/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2016-10-18T19:33:54Z",
-      "summary": "",
-      "category": "AI",
-      "score": 45.182
+      "score": 44.613
     },
     {
       "id": "chainalysis-says-hackers-stole-credentials-and-tokens-for-al-h98v53",
@@ -549,26 +530,6 @@
       "score": 43.477
     },
     {
-      "id": "the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-fp7gxz",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-      "category": "AI",
-      "score": 43.469
-    },
-    {
-      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "category": "AI",
-      "score": 43.342
-    },
-    {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
       "title": "The AI Daily Brief(Formerly the AI Breakdown): Artificial Intelligence News",
       "url": "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614",
@@ -689,6 +650,16 @@
       "score": 43.301
     },
     {
+      "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "category": "AI",
+      "score": 43.253
+    },
+    {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -727,306 +698,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 41.941
-    },
-    {
-      "id": "medical-image-segmentation-foundation-model-adaptation-versu-yma6y5",
-      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-      "url": "http://arxiv.org/abs/2611.14519v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:59:54.000Z",
-      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, ",
-      "category": "Research",
-      "score": 41.406
-    },
-    {
-      "id": "toward-foundation-detection-models-via-example-based-groundi-yqgfeh",
-      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-      "url": "http://arxiv.org/abs/2611.14518v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:59:17.000Z",
-      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical l",
-      "category": "Research",
-      "score": 41.405
-    },
-    {
-      "id": "torchcurves-differentiable-parametric-curves-r9u2cc",
-      "title": "TorchCurves: Differentiable Parametric Curves",
-      "url": "http://arxiv.org/abs/2611.14516v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:58:52.000Z",
-      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre p",
-      "category": "Research",
-      "score": 41.404
-    },
-    {
-      "id": "autoscaffold-ai-guided-scaffolding-for-reinforcement-learnin-qjw9hv",
-      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-      "url": "http://arxiv.org/abs/2611.14515v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:58:46.000Z",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such",
-      "category": "Research",
-      "score": 41.404
-    },
-    {
-      "id": "contrastive-discovery-open-ended-scientific-discovery-over-c-de3nbs",
-      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-      "url": "http://arxiv.org/abs/2611.14514v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:58:43.000Z",
-      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence reject",
-      "category": "Research",
-      "score": 41.404
-    },
-    {
-      "id": "pyrite-building-and-benchmarking-protein-ligand-pose-ranking-ki00hx",
-      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
-      "url": "http://arxiv.org/abs/2611.14511v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:56:32.000Z",
-      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introdu",
-      "category": "Research",
-      "score": 41.4
-    },
-    {
-      "id": "when-does-the-real-wiring-win-testing-connectome-structure-f-r2jfma",
-      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-      "url": "http://arxiv.org/abs/2611.14508v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:55:48.000Z",
-      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the mod",
-      "category": "Research",
-      "score": 41.398
-    },
-    {
-      "id": "continual-arc-measuring-skill-acquisition-over-a-working-lif-yc9zmw",
-      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-      "url": "http://arxiv.org/abs/2611.14505v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:55:01.000Z",
-      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied do",
-      "category": "Research",
-      "score": 41.397
-    },
-    {
-      "id": "emergent-biological-capabilities-in-a-foundation-model-for-m-x4lokk",
-      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
-      "url": "http://arxiv.org/abs/2611.14504v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:53:01.000Z",
-      "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular",
-      "category": "Research",
-      "score": 41.393
-    },
-    {
-      "id": "measuring-robustness-and-efficiency-in-a-connectome-constrai-aarj0n",
-      "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
-      "url": "http://arxiv.org/abs/2611.14498v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:51:31.000Z",
-      "summary": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with ",
-      "category": "Research",
-      "score": 41.39
-    },
-    {
-      "id": "rs-jepa-remote-sensing-joint-embedding-predictive-architectu-m9pnb9",
-      "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
-      "url": "http://arxiv.org/abs/2611.14496v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:51:05.000Z",
-      "summary": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, without manual labels. Exi",
-      "category": "Research",
-      "score": 41.39
-    },
-    {
-      "id": "comparative-analysis-of-agent-evaluation-frameworks-stabilit-yjvpx7",
-      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-      "url": "http://arxiv.org/abs/2611.14493v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:50:06.000Z",
-      "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evalu",
-      "category": "Research",
-      "score": 41.388
-    },
-    {
-      "id": "retrace-distilling-tool-using-agents-into-planner-free-workf-w1t1lb",
-      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-      "url": "http://arxiv.org/abs/2611.14492v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:49:47.000Z",
-      "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose ",
-      "category": "Research",
-      "score": 41.387
-    },
-    {
-      "id": "timeseek-multi-task-and-multi-domain-pretraining-for-general-u9cxe3",
-      "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
-      "url": "http://arxiv.org/abs/2611.14491v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:49:26.000Z",
-      "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly r",
-      "category": "Research",
-      "score": 41.386
-    },
-    {
-      "id": "is-your-robot-s-memory-just-a-clock-temporal-shortcuts-in-me-293l2b",
-      "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-      "url": "http://arxiv.org/abs/2611.14488v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:47:57.000Z",
-      "summary": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each frame with its time s",
-      "category": "Research",
-      "score": 41.384
-    },
-    {
-      "id": "re-search-dissecting-llm-ideation-through-a-two-player-quest-4uo3up",
-      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-      "url": "http://arxiv.org/abs/2611.14487v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:47:22.000Z",
-      "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of researc",
-      "category": "Research",
-      "score": 41.383
-    },
-    {
-      "id": "mechanistic-interpretability-needs-a-logic-of-inference-cy3nyp",
-      "title": "Mechanistic Interpretability Needs a Logic of Inference",
-      "url": "http://arxiv.org/abs/2611.14483v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:45:07.000Z",
-      "summary": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability ",
-      "category": "Research",
-      "score": 41.378
-    },
-    {
-      "id": "pterodactyl-pushing-the-limits-of-efficient-automated-transl-a40a2v",
-      "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
-      "url": "http://arxiv.org/abs/2611.14480v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:41:37.000Z",
-      "summary": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score ",
-      "category": "Research",
-      "score": 41.372
-    },
-    {
-      "id": "fern-cross-benchmark-table-retrieval-for-text-to-sql-with-fr-xakr43",
-      "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
-      "url": "http://arxiv.org/abs/2611.14477v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:39:49.000Z",
-      "summary": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, o",
-      "category": "Research",
-      "score": 41.368
-    },
-    {
-      "id": "bovishift-a-six-year-multi-attribute-audit-of-visual-cattle--tjlkap",
-      "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
-      "url": "http://arxiv.org/abs/2611.14476v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:38:23.000Z",
-      "summary": "Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video frames make reliable evaluation difficult. Image-random splitting can place views of the same animal in",
-      "category": "Research",
-      "score": 41.366
-    },
-    {
-      "id": "tancraft-context-reasoned-anticipatory-feedback-for-assembly-wx8rcr",
-      "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
-      "url": "http://arxiv.org/abs/2611.14470v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:33:53.000Z",
-      "summary": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the construction order ",
-      "category": "Research",
-      "score": 41.357
-    },
-    {
-      "id": "c-2-routing-complementary-cropping-and-compression-for-effic-mmdxbp",
-      "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
-      "url": "http://arxiv.org/abs/2611.14469v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:32:28.000Z",
-      "summary": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in",
-      "category": "Research",
-      "score": 41.355
-    },
-    {
-      "id": "bayesian-inverse-problems-and-epidemic-threshold-uncertainty-6lx80f",
-      "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
-      "url": "http://arxiv.org/abs/2611.14468v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:32:19.000Z",
-      "summary": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leading prevalence dynami",
-      "category": "Research",
-      "score": 41.355
-    },
-    {
-      "id": "a-theory-of-policy-optimization-in-post-training-coverage-co-rty94x",
-      "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-      "url": "http://arxiv.org/abs/2611.14467v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:31:36.000Z",
-      "summary": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples ",
-      "category": "Research",
-      "score": 41.353
-    },
-    {
-      "id": "a-theory-of-cross-validation-variance-m0pqn6",
-      "title": "A Theory of Cross-Validation Variance",
-      "url": "http://arxiv.org/abs/2611.14463v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:29:42.000Z",
-      "summary": "Cross-validation estimates predictive performance by repeatedly splitting the data into training and validation sets, fitting the model on the first and evaluating it on the second. Every observation influences the estim",
-      "category": "Research",
-      "score": 41.35
-    },
-    {
-      "id": "accurate-predictions-of-properties-of-energetic-materials-wi-u3wkq7",
-      "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
-      "url": "http://arxiv.org/abs/2611.14462v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:29:37.000Z",
-      "summary": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabP",
-      "category": "Research",
-      "score": 41.35
-    },
-    {
-      "id": "when-does-text-encoding-matter-for-language-modeling-4w1m6x",
-      "title": "When does text encoding matter for language modeling?",
-      "url": "http://arxiv.org/abs/2611.14459v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:27:26.000Z",
-      "summary": "UTF-8's role as the de facto encoding standard in language models introduces cross-lingual inequities due to its variable-length design. However, the effect that this encoding choice has on model performance remains larg",
-      "category": "Research",
-      "score": 41.345
-    },
-    {
-      "id": "a-lightweight-differentiable-method-for-real-time-skin-rende-n9kcxu",
-      "title": "A Lightweight Differentiable Method for Real-Time Skin Rendering and Digitization",
-      "url": "http://arxiv.org/abs/2611.14451v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:20:11.000Z",
-      "summary": "Inverse rendering for skin typically relies on offline path tracing to estimate physical properties, which fail to map directly to the approximate shaders utilized in interactive applications, such as game engines. We br",
-      "category": "Research",
-      "score": 41.332
-    },
-    {
-      "id": "ugg-unified-generative-geometry-model-beynbq",
-      "title": "UGG: Unified Generative Geometry Model",
-      "url": "http://arxiv.org/abs/2611.14440v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:11:40.000Z",
-      "summary": "Understanding 4D scenes is a core challenge in visual intelligence, requiring models to jointly capture scene geometry, appearance, and dynamics from partial observations. However, existing approaches are subdivided into",
-      "category": "Research",
-      "score": 41.316
-    },
-    {
-      "id": "metric-aligned-group-relative-policy-optimization-for-explai-fgjgut",
-      "title": "Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection",
-      "url": "http://arxiv.org/abs/2611.14436v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-10T18:08:35.000Z",
-      "summary": "Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language models struggle with auth",
-      "category": "Research",
-      "score": 41.311
     },
     {
       "id": "reframe-observation-aligned-multi-teacher-on-policy-distilla-r55s9h",
@@ -1207,6 +878,336 @@
       "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, wh",
       "category": "Research",
       "score": 40.425
+    },
+    {
+      "id": "medical-image-segmentation-foundation-model-adaptation-versu-yma6y5",
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:59:54.000Z",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, ",
+      "category": "Research",
+      "score": 39.208
+    },
+    {
+      "id": "toward-foundation-detection-models-via-example-based-groundi-yqgfeh",
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:59:17.000Z",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical l",
+      "category": "Research",
+      "score": 39.208
+    },
+    {
+      "id": "torchcurves-differentiable-parametric-curves-r9u2cc",
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:58:52.000Z",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre p",
+      "category": "Research",
+      "score": 39.207
+    },
+    {
+      "id": "autoscaffold-ai-guided-scaffolding-for-reinforcement-learnin-qjw9hv",
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:58:46.000Z",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such",
+      "category": "Research",
+      "score": 39.207
+    },
+    {
+      "id": "contrastive-discovery-open-ended-scientific-discovery-over-c-de3nbs",
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:58:43.000Z",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence reject",
+      "category": "Research",
+      "score": 39.207
+    },
+    {
+      "id": "pyrite-building-and-benchmarking-protein-ligand-pose-ranking-ki00hx",
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:56:32.000Z",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introdu",
+      "category": "Research",
+      "score": 39.205
+    },
+    {
+      "id": "when-does-the-real-wiring-win-testing-connectome-structure-f-r2jfma",
+      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:55:48.000Z",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the mod",
+      "category": "Research",
+      "score": 39.204
+    },
+    {
+      "id": "continual-arc-measuring-skill-acquisition-over-a-working-lif-yc9zmw",
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:55:01.000Z",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied do",
+      "category": "Research",
+      "score": 39.203
+    },
+    {
+      "id": "emergent-biological-capabilities-in-a-foundation-model-for-m-x4lokk",
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "url": "http://arxiv.org/abs/2611.14504v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:53:01.000Z",
+      "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular",
+      "category": "Research",
+      "score": 39.201
+    },
+    {
+      "id": "measuring-robustness-and-efficiency-in-a-connectome-constrai-aarj0n",
+      "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+      "url": "http://arxiv.org/abs/2611.14498v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:51:31.000Z",
+      "summary": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with ",
+      "category": "Research",
+      "score": 39.199
+    },
+    {
+      "id": "rs-jepa-remote-sensing-joint-embedding-predictive-architectu-m9pnb9",
+      "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
+      "url": "http://arxiv.org/abs/2611.14496v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:51:05.000Z",
+      "summary": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, without manual labels. Exi",
+      "category": "Research",
+      "score": 39.198
+    },
+    {
+      "id": "comparative-analysis-of-agent-evaluation-frameworks-stabilit-yjvpx7",
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "url": "http://arxiv.org/abs/2611.14493v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:50:06.000Z",
+      "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evalu",
+      "category": "Research",
+      "score": 39.197
+    },
+    {
+      "id": "retrace-distilling-tool-using-agents-into-planner-free-workf-w1t1lb",
+      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+      "url": "http://arxiv.org/abs/2611.14492v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:49:47.000Z",
+      "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose ",
+      "category": "Research",
+      "score": 39.197
+    },
+    {
+      "id": "timeseek-multi-task-and-multi-domain-pretraining-for-general-u9cxe3",
+      "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+      "url": "http://arxiv.org/abs/2611.14491v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:49:26.000Z",
+      "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly r",
+      "category": "Research",
+      "score": 39.197
+    },
+    {
+      "id": "is-your-robot-s-memory-just-a-clock-temporal-shortcuts-in-me-293l2b",
+      "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+      "url": "http://arxiv.org/abs/2611.14488v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:47:57.000Z",
+      "summary": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each frame with its time s",
+      "category": "Research",
+      "score": 39.195
+    },
+    {
+      "id": "re-search-dissecting-llm-ideation-through-a-two-player-quest-4uo3up",
+      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+      "url": "http://arxiv.org/abs/2611.14487v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:47:22.000Z",
+      "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of researc",
+      "category": "Research",
+      "score": 39.194
+    },
+    {
+      "id": "mechanistic-interpretability-needs-a-logic-of-inference-cy3nyp",
+      "title": "Mechanistic Interpretability Needs a Logic of Inference",
+      "url": "http://arxiv.org/abs/2611.14483v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:45:07.000Z",
+      "summary": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability ",
+      "category": "Research",
+      "score": 39.192
+    },
+    {
+      "id": "pterodactyl-pushing-the-limits-of-efficient-automated-transl-a40a2v",
+      "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+      "url": "http://arxiv.org/abs/2611.14480v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:41:37.000Z",
+      "summary": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score ",
+      "category": "Research",
+      "score": 39.188
+    },
+    {
+      "id": "fern-cross-benchmark-table-retrieval-for-text-to-sql-with-fr-xakr43",
+      "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+      "url": "http://arxiv.org/abs/2611.14477v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:39:49.000Z",
+      "summary": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, o",
+      "category": "Research",
+      "score": 39.186
+    },
+    {
+      "id": "bovishift-a-six-year-multi-attribute-audit-of-visual-cattle--tjlkap",
+      "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
+      "url": "http://arxiv.org/abs/2611.14476v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:38:23.000Z",
+      "summary": "Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video frames make reliable evaluation difficult. Image-random splitting can place views of the same animal in",
+      "category": "Research",
+      "score": 39.184
+    },
+    {
+      "id": "tancraft-context-reasoned-anticipatory-feedback-for-assembly-wx8rcr",
+      "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+      "url": "http://arxiv.org/abs/2611.14470v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:33:53.000Z",
+      "summary": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the construction order ",
+      "category": "Research",
+      "score": 39.179
+    },
+    {
+      "id": "c-2-routing-complementary-cropping-and-compression-for-effic-mmdxbp",
+      "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
+      "url": "http://arxiv.org/abs/2611.14469v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:32:28.000Z",
+      "summary": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in",
+      "category": "Research",
+      "score": 39.178
+    },
+    {
+      "id": "bayesian-inverse-problems-and-epidemic-threshold-uncertainty-6lx80f",
+      "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
+      "url": "http://arxiv.org/abs/2611.14468v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:32:19.000Z",
+      "summary": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leading prevalence dynami",
+      "category": "Research",
+      "score": 39.178
+    },
+    {
+      "id": "a-theory-of-policy-optimization-in-post-training-coverage-co-rty94x",
+      "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "url": "http://arxiv.org/abs/2611.14467v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:31:36.000Z",
+      "summary": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples ",
+      "category": "Research",
+      "score": 39.177
+    },
+    {
+      "id": "a-theory-of-cross-validation-variance-m0pqn6",
+      "title": "A Theory of Cross-Validation Variance",
+      "url": "http://arxiv.org/abs/2611.14463v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:29:42.000Z",
+      "summary": "Cross-validation estimates predictive performance by repeatedly splitting the data into training and validation sets, fitting the model on the first and evaluating it on the second. Every observation influences the estim",
+      "category": "Research",
+      "score": 39.175
+    },
+    {
+      "id": "accurate-predictions-of-properties-of-energetic-materials-wi-u3wkq7",
+      "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+      "url": "http://arxiv.org/abs/2611.14462v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:29:37.000Z",
+      "summary": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabP",
+      "category": "Research",
+      "score": 39.175
+    },
+    {
+      "id": "when-does-text-encoding-matter-for-language-modeling-4w1m6x",
+      "title": "When does text encoding matter for language modeling?",
+      "url": "http://arxiv.org/abs/2611.14459v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:27:26.000Z",
+      "summary": "UTF-8's role as the de facto encoding standard in language models introduces cross-lingual inequities due to its variable-length design. However, the effect that this encoding choice has on model performance remains larg",
+      "category": "Research",
+      "score": 39.172
+    },
+    {
+      "id": "a-lightweight-differentiable-method-for-real-time-skin-rende-n9kcxu",
+      "title": "A Lightweight Differentiable Method for Real-Time Skin Rendering and Digitization",
+      "url": "http://arxiv.org/abs/2611.14451v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:20:11.000Z",
+      "summary": "Inverse rendering for skin typically relies on offline path tracing to estimate physical properties, which fail to map directly to the approximate shaders utilized in interactive applications, such as game engines. We br",
+      "category": "Research",
+      "score": 39.164
+    },
+    {
+      "id": "ugg-unified-generative-geometry-model-beynbq",
+      "title": "UGG: Unified Generative Geometry Model",
+      "url": "http://arxiv.org/abs/2611.14440v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:11:40.000Z",
+      "summary": "Understanding 4D scenes is a core challenge in visual intelligence, requiring models to jointly capture scene geometry, appearance, and dynamics from partial observations. However, existing approaches are subdivided into",
+      "category": "Research",
+      "score": 39.155
+    },
+    {
+      "id": "metric-aligned-group-relative-policy-optimization-for-explai-fgjgut",
+      "title": "Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection",
+      "url": "http://arxiv.org/abs/2611.14436v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-10T18:08:35.000Z",
+      "summary": "Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language models struggle with auth",
+      "category": "Research",
+      "score": 39.152
+    },
+    {
+      "id": "nvidia-announces-ceo-transition-7390v1",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-12T13:52:29Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 20.645
+    },
+    {
+      "id": "jensen-huang-resigns-as-nvidia-ceo-immediately-bvruzx",
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-12T13:56:11Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 20.089
+    },
+    {
+      "id": "why-writing-correct-software-is-hard-bgxwe2",
+      "title": "Why Writing Correct Software Is Hard",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-12T10:28:26Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.581
     }
   ]
 }
