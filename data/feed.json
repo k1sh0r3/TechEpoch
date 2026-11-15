@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T13:40:14.982Z",
+  "updatedAt": "2026-11-15T22:37:12.811Z",
   "totalItems": 120,
   "categories": {
-    "AI": 49,
+    "AI": 50,
     "Robotics": 17,
     "Machine Learning": 3,
-    "Research": 51
+    "Research": 50
   },
   "items": [
     {
@@ -77,6 +77,16 @@
       "summary": "",
       "category": "AI",
       "score": 51.71
+    },
+    {
+      "id": "understanding-positional-embeddings-in-modern-llms-p0xo74",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-15T12:14:06Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.704
     },
     {
       "id": "libreagi-save-oss-models-hsi58c",
@@ -249,16 +259,6 @@
       "score": 46.888
     },
     {
-      "id": "openai-board-member-worries-an-ai-takeover-of-society-could--62mtyf",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-13T17:25:45.000Z",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "category": "AI",
-      "score": 46.183
-    },
-    {
       "id": "generative-ai-uses-more-energy-on-non-english-text-5rdzcz",
       "title": "Generative AI uses more energy on non-English text",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
@@ -279,6 +279,16 @@
       "score": 45.771
     },
     {
+      "id": "openai-board-member-worries-an-ai-takeover-of-society-could--62mtyf",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-13T17:25:45.000Z",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "category": "AI",
+      "score": 45.641
+    },
+    {
       "id": "more-autonomy-fewer-ndas-volunteers-have-new-requests-for-br-l1ly8e",
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
@@ -286,7 +296,7 @@
       "publishedAt": "2026-11-13T10:00:00.000Z",
       "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for tr",
       "category": "Robotics",
-      "score": 45.726
+      "score": 45.263
     },
     {
       "id": "silicon-valley-claims-to-know-the-future-so-why-did-it-get-t-19erjn",
@@ -296,7 +306,7 @@
       "publishedAt": "2026-11-13T10:00:00.000Z",
       "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg",
       "category": "AI",
-      "score": 45.726
+      "score": 45.263
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -316,7 +326,7 @@
       "publishedAt": "2026-11-12T19:59:59.000Z",
       "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "category": "Robotics",
-      "score": 45.037
+      "score": 44.69
     },
     {
       "id": "the-climate-case-for-ai-has-not-been-made-6gr6qt",
@@ -346,7 +356,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 44.185
+      "score": 43.983
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -357,16 +367,6 @@
       "summary": "",
       "category": "AI",
       "score": 43.778
-    },
-    {
-      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "category": "AI",
-      "score": 43.734
     },
     {
       "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
@@ -409,24 +409,14 @@
       "score": 43.699
     },
     {
-      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.661
-    },
-    {
-      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "category": "AI",
-      "score": 43.648
+      "score": 43.609
     },
     {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
@@ -457,6 +447,26 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.602
+    },
+    {
+      "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "category": "AI",
+      "score": 43.549
+    },
+    {
+      "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "AI",
+      "score": 43.537
     },
     {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
@@ -656,7 +666,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.058
+      "score": 43.048
     },
     {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
@@ -996,7 +1006,7 @@
       "publishedAt": "2026-11-12T18:59:55.000Z",
       "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation",
       "category": "Research",
-      "score": 37.995
+      "score": 37.655
     },
     {
       "id": "unbundling-multimodal-vision-encoding-y9hykn",
@@ -1006,7 +1016,7 @@
       "publishedAt": "2026-11-12T18:59:54.000Z",
       "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it ",
       "category": "Research",
-      "score": 37.995
+      "score": 37.655
     },
     {
       "id": "ttb-test-time-baking-for-efficient-rendering-of-decoder-only-694rf",
@@ -1016,7 +1026,7 @@
       "publishedAt": "2026-11-12T18:59:52.000Z",
       "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (",
       "category": "Research",
-      "score": 37.995
+      "score": 37.655
     },
     {
       "id": "archspace-recording-reviewing-and-referencing-llm-architectu-q86611",
@@ -1026,7 +1036,7 @@
       "publishedAt": "2026-11-12T18:59:52.000Z",
       "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi r",
       "category": "Research",
-      "score": 37.995
+      "score": 37.655
     },
     {
       "id": "protovis-nav-prototypical-visual-imagination-for-visual-spat-hmq3we",
@@ -1036,7 +1046,7 @@
       "publishedAt": "2026-11-12T18:59:49.000Z",
       "summary": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execution outcomes in 3D ",
       "category": "Research",
-      "score": 37.995
+      "score": 37.655
     },
     {
       "id": "internalizing-investment-mandates-a-neurosymbolic-rl-approac-4mpb21",
@@ -1046,7 +1056,7 @@
       "publishedAt": "2026-11-12T18:59:37.000Z",
       "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financ",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "k2v-generative-keyframing-for-physically-plausible-video-gen-z2eixx",
@@ -1056,7 +1066,7 @@
       "publishedAt": "2026-11-12T18:59:09.000Z",
       "summary": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a c",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "agentssl-can-mle-agents-leverage-unlabeled-data-p47t8f",
@@ -1066,7 +1076,7 @@
       "publishedAt": "2026-11-12T18:59:06.000Z",
       "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "brickflow-connectivity-guided-brick-reconstruction-nkgjk6",
@@ -1076,7 +1086,7 @@
       "publishedAt": "2026-11-12T18:58:51.000Z",
       "summary": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete phys",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "learning-when-diffusion-language-models-should-regenerate-kbk74o",
@@ -1086,7 +1096,7 @@
       "publishedAt": "2026-11-12T18:58:50.000Z",
       "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information t",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "spatial-foundry-a-multimodal-dataset-for-spatial-intelligenc-e7mbn8",
@@ -1096,7 +1106,7 @@
       "publishedAt": "2026-11-12T18:58:36.000Z",
       "summary": "Spatial intelligence requires connecting visual observations to the geometry, objects, and persistent state of an environment. Images alone leave these relationships implicit, while disconnected annotations make it diffi",
       "category": "Research",
-      "score": 37.994
+      "score": 37.655
     },
     {
       "id": "coremem-cost-internalizing-memory-for-successive-coding-task-o4833e",
@@ -1106,7 +1116,7 @@
       "publishedAt": "2026-11-12T18:58:22.000Z",
       "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness again",
       "category": "Research",
-      "score": 37.994
+      "score": 37.654
     },
     {
       "id": "linking-rapid-learning-to-compositional-structure-in-neural--i7y47a",
@@ -1116,7 +1126,7 @@
       "publishedAt": "2026-11-12T18:57:49.000Z",
       "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neur",
       "category": "Research",
-      "score": 37.993
+      "score": 37.654
     },
     {
       "id": "sketching-language-models-for-context-attribution-yisdmn",
@@ -1126,7 +1136,7 @@
       "publishedAt": "2026-11-12T18:57:48.000Z",
       "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values di",
       "category": "Research",
-      "score": 37.993
+      "score": 37.654
     },
     {
       "id": "classical-energies-learn-to-reason-1-000x-faster-than-looped-362kyc",
@@ -1136,7 +1146,7 @@
       "publishedAt": "2026-11-12T18:56:56.000Z",
       "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many para",
       "category": "Research",
-      "score": 37.993
+      "score": 37.654
     },
     {
       "id": "quantifying-structural-stability-of-transparent-models-for-g-3wcvgx",
@@ -1146,7 +1156,7 @@
       "publishedAt": "2026-11-12T18:56:54.000Z",
       "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-upda",
       "category": "Research",
-      "score": 37.992
+      "score": 37.654
     },
     {
       "id": "towards-a-theory-of-learnability-via-debate-c18z1w",
@@ -1156,7 +1166,7 @@
       "publishedAt": "2026-11-12T18:55:58.000Z",
       "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, ",
       "category": "Research",
-      "score": 37.992
+      "score": 37.653
     },
     {
       "id": "flex-lbp-learning-local-binary-patterns-with-exact-binary-in-t4gsy2",
@@ -1166,7 +1176,7 @@
       "publishedAt": "2026-11-12T18:55:56.000Z",
       "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for ea",
       "category": "Research",
-      "score": 37.992
+      "score": 37.653
     },
     {
       "id": "consistent-video-to-video-translation-via-explicit-correspon-3hxait",
@@ -1176,7 +1186,7 @@
       "publishedAt": "2026-11-12T18:55:09.000Z",
       "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This",
       "category": "Research",
-      "score": 37.991
+      "score": 37.653
     },
     {
       "id": "goal-encoding-in-llms-b9c1s1",
@@ -1186,7 +1196,7 @@
       "publishedAt": "2026-11-12T18:55:06.000Z",
       "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding s",
       "category": "Research",
-      "score": 37.991
+      "score": 37.653
     },
     {
       "id": "metal-sandbox-isolated-execution-and-command-scheduling-for--8ho0ta",
@@ -1196,17 +1206,7 @@
       "publishedAt": "2026-11-12T18:54:42.000Z",
       "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessi",
       "category": "Research",
-      "score": 37.991
-    },
-    {
-      "id": "negative-only-policy-optimization-for-one-sided-verifiable-r-5xxhuv",
-      "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
-      "url": "http://arxiv.org/abs/2611.17287v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-12T18:52:33.000Z",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally ",
-      "category": "Research",
-      "score": 37.989
+      "score": 37.652
     }
   ]
 }
