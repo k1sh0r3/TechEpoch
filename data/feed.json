@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T15:12:57.940Z",
+  "updatedAt": "2026-11-17T01:44:13.867Z",
   "totalItems": 120,
   "categories": {
-    "AI": 50,
+    "AI": 49,
     "Robotics": 19,
     "Machine Learning": 3,
-    "Research": 48
+    "Research": 49
   },
   "items": [
     {
@@ -19,14 +19,14 @@
       "score": 52.985
     },
     {
-      "id": "google-gemini-routes-personal-drive-files-and-emails-to-huma-5gxnus",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-09T18:24:38Z",
-      "summary": "",
+      "id": "building-trustworthy-ai-by-fencing-it-in-not-predicting-it-t1c025",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-16T16:04:28.000Z",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
       "category": "AI",
-      "score": 52.507
+      "score": 52.541
     },
     {
       "id": "compress-any-llm-3x-in-one-click-near-lossless-in-under-50-m-8rsk4j",
@@ -149,16 +149,6 @@
       "score": 50.895
     },
     {
-      "id": "building-ai-that-can-work-across-the-enterprise-qmttk1",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro",
-      "category": "AI",
-      "score": 50.639
-    },
-    {
       "id": "anthropic-ipo-z2pn0s",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
@@ -179,14 +169,14 @@
       "score": 50.585
     },
     {
-      "id": "delivery-drones-are-coming-for-some-with-ptsd-that-s-a-terri-adoubj",
-      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "id": "robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-fn8lxz",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-16T12:00:57.000Z",
-      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "publishedAt": "2026-11-16T22:58:27.000Z",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
       "category": "Robotics",
-      "score": 50.484
+      "score": 50.553
     },
     {
       "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-ope-v1ar5f",
@@ -217,6 +207,26 @@
       "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
       "category": "Robotics",
       "score": 49.457
+    },
+    {
+      "id": "building-ai-that-can-work-across-the-enterprise-qmttk1",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro",
+      "category": "AI",
+      "score": 49.135
+    },
+    {
+      "id": "delivery-drones-are-coming-for-some-with-ptsd-that-s-a-terri-adoubj",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-16T12:00:57.000Z",
+      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "category": "Robotics",
+      "score": 49.011
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -257,26 +267,6 @@
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "category": "Robotics",
       "score": 47.698
-    },
-    {
-      "id": "a-sam-altman-parody-offers-an-amusing-lesson-in-memory-manag-ywoyj3",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-09T20:49:09.000Z",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "category": "AI",
-      "score": 47.639
-    },
-    {
-      "id": "flying-on-green-why-farmers-are-turning-to-drones-for-cover--eq8ckp",
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-09T22:15:13Z",
-      "summary": "",
-      "category": "Robotics",
-      "score": 47.354
     },
     {
       "id": "google-faces-calls-for-ai-moratoriums-in-schools-after-gemin-d4g6xb",
@@ -356,7 +346,7 @@
       "publishedAt": "2026-11-13T10:00:00.000Z",
       "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for tr",
       "category": "Robotics",
-      "score": 44.601
+      "score": 44.286
     },
     {
       "id": "silicon-valley-claims-to-know-the-future-so-why-did-it-get-t-19erjn",
@@ -366,7 +356,7 @@
       "publishedAt": "2026-11-13T10:00:00.000Z",
       "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg",
       "category": "AI",
-      "score": 44.601
+      "score": 44.286
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -419,16 +409,6 @@
       "score": 43.699
     },
     {
-      "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-11T18:00:00.000Z",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "category": "AI",
-      "score": 43.696
-    },
-    {
       "id": "quartz-has-acquired-intelligentsia-ai-an-artificial-intellig-gfmk84",
       "title": "Quartz has acquired Intelligentsia.ai, an artificial intelligence research firm",
       "url": "https://qz.com/887545/quartz-has-acquired-intelligentsia-ai-an-artificial-intelligence-research-firm/",
@@ -457,6 +437,16 @@
       "summary": "",
       "category": "Robotics",
       "score": 43.602
+    },
+    {
+      "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "category": "AI",
+      "score": 43.559
     },
     {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
@@ -536,7 +526,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.431
+      "score": 43.346
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -546,7 +536,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.388
+      "score": 43.312
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -556,7 +546,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.38
+      "score": 43.305
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -686,7 +676,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.034
+      "score": 43.027
     },
     {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
@@ -1026,7 +1016,7 @@
       "publishedAt": "2026-11-13T18:59:43.000Z",
       "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identificat",
       "category": "Research",
-      "score": 37.931
+      "score": 37.551
     },
     {
       "id": "fettuccine-fast-and-efficient-brain-to-text-decoding-on-mobi-jdiazl",
@@ -1036,7 +1026,7 @@
       "publishedAt": "2026-11-13T18:59:02.000Z",
       "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attemp",
       "category": "Research",
-      "score": 37.931
+      "score": 37.551
     },
     {
       "id": "training-reasoning-models-in-simulation-to-natively-use-real-2i4rpr",
@@ -1046,7 +1036,7 @@
       "publishedAt": "2026-11-13T18:59:02.000Z",
       "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable",
       "category": "Research",
-      "score": 37.931
+      "score": 37.551
     },
     {
       "id": "bal-bidirectional-autoregression-in-latent-space-for-learnin-714ds0",
@@ -1056,7 +1046,7 @@
       "publishedAt": "2026-11-13T18:58:54.000Z",
       "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., inva",
       "category": "Research",
-      "score": 37.931
+      "score": 37.551
     },
     {
       "id": "weightbench-evaluating-language-models-as-weight-space-progr-futzeq",
@@ -1066,7 +1056,7 @@
       "publishedAt": "2026-11-13T18:58:08.000Z",
       "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks fr",
       "category": "Research",
-      "score": 37.93
+      "score": 37.55
     },
     {
       "id": "restoring-diversity-in-distilled-image-and-video-generators--cse5an",
@@ -1076,7 +1066,7 @@
       "publishedAt": "2026-11-13T18:55:59.000Z",
       "summary": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, ",
       "category": "Research",
-      "score": 37.929
+      "score": 37.549
     },
     {
       "id": "jvt-just-video-transformer-makes-pixel-space-video-diffusion-45gakg",
@@ -1086,7 +1076,7 @@
       "publishedAt": "2026-11-13T18:55:25.000Z",
       "summary": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-s",
       "category": "Research",
-      "score": 37.928
+      "score": 37.549
     },
     {
       "id": "modeling-the-frictional-contact-of-continuum-robots-with-env-f06okb",
@@ -1096,7 +1086,7 @@
       "publishedAt": "2026-11-13T18:51:17.000Z",
       "summary": "Accurate friction modeling in continuum robots is essential for precise motion control and path planning. However, current approaches make predictions only for the mechanism's internal friction that is limited by the bou",
       "category": "Research",
-      "score": 37.926
+      "score": 37.547
     },
     {
       "id": "imitation-bootstrapped-multi-agent-reinforcement-learning-ch4by9",
@@ -1106,7 +1096,7 @@
       "publishedAt": "2026-11-13T18:50:05.000Z",
       "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for ",
       "category": "Research",
-      "score": 37.925
+      "score": 37.546
     },
     {
       "id": "elliptic-sampling-optimal-interpolant-schedules-for-gaussian-r50zri",
@@ -1116,7 +1106,7 @@
       "publishedAt": "2026-11-13T18:49:36.000Z",
       "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probabilit",
       "category": "Research",
-      "score": 37.924
+      "score": 37.546
     },
     {
       "id": "why-finite-intelligence-works-in-an-infinite-world-a-mathema-w5ud0",
@@ -1126,7 +1116,7 @@
       "publishedAt": "2026-11-13T18:47:24.000Z",
       "summary": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather tha",
       "category": "Research",
-      "score": 37.923
+      "score": 37.545
     },
     {
       "id": "modharness-rl-recasting-harnesses-as-learnable-and-evolving--2l37qd",
@@ -1136,7 +1126,7 @@
       "publishedAt": "2026-11-13T18:45:49.000Z",
       "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a h",
       "category": "Research",
-      "score": 37.922
+      "score": 37.544
     },
     {
       "id": "alignment-by-socialization-learning-tradeoffs-under-selectio-ogz3jv",
@@ -1146,7 +1136,7 @@
       "publishedAt": "2026-11-13T18:43:24.000Z",
       "summary": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whet",
       "category": "Research",
-      "score": 37.92
+      "score": 37.542
     },
     {
       "id": "understanding-contextual-bias-in-agricultural-cnns-through-h-t6ycmm",
@@ -1156,7 +1146,7 @@
       "publishedAt": "2026-11-13T18:43:15.000Z",
       "summary": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected th",
       "category": "Research",
-      "score": 37.92
+      "score": 37.542
     },
     {
       "id": "wafertetris-efficient-freeform-mapping-on-wafer-scale-accele-8gfd8o",
@@ -1166,7 +1156,7 @@
       "publishedAt": "2026-11-13T18:41:44.000Z",
       "summary": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application mapping",
       "category": "Research",
-      "score": 37.919
+      "score": 37.541
     },
     {
       "id": "eventspikeseg-memory-aware-mixed-signal-architecture-for-eve-ccvsom",
@@ -1176,7 +1166,7 @@
       "publishedAt": "2026-11-13T18:40:12.000Z",
       "summary": "Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint on embedded implementation. We present EventSpikeSeg, a mixed-signal architecture co",
       "category": "Research",
-      "score": 37.918
+      "score": 37.541
     },
     {
       "id": "box-conditional-hypothesis-testing-for-out-of-distribution-o-mb70y0",
@@ -1186,7 +1176,7 @@
       "publishedAt": "2026-11-13T18:36:23.000Z",
       "summary": "Detecting out-of-distribution (OOD) objects is essential for ensuring the reliability and safety of object detectors in real-world deployment. We treat the decision on a detected box as a hypothesis test with the null hy",
       "category": "Research",
-      "score": 37.916
+      "score": 37.539
     },
     {
       "id": "streamembed-real-time-indexing-from-pixels-for-screenshot-re-ewtkg5",
@@ -1196,7 +1186,7 @@
       "publishedAt": "2026-11-13T18:35:17.000Z",
       "summary": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information",
       "category": "Research",
-      "score": 37.915
+      "score": 37.538
     },
     {
       "id": "can-mechanistic-interpretability-help-explain-llm-agent-fail-9p2d8t",
@@ -1206,7 +1196,17 @@
       "publishedAt": "2026-11-13T18:30:58.000Z",
       "summary": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining th",
       "category": "Research",
-      "score": 37.912
+      "score": 37.536
+    },
+    {
+      "id": "mereader-an-offline-privacy-preserving-progress-aware-ai-ass-4ahkm",
+      "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+      "url": "http://arxiv.org/abs/2611.18513v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-13T18:29:51.000Z",
+      "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language ",
+      "category": "Research",
+      "score": 37.535
     }
   ]
 }
