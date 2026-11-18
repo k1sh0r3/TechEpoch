@@ -1,33 +1,13 @@
 {
-  "updatedAt": "2026-11-18T00:44:38.862Z",
+  "updatedAt": "2026-11-18T15:20:47.181Z",
   "totalItems": 120,
   "categories": {
-    "AI": 50,
+    "AI": 49,
     "Robotics": 17,
     "Machine Learning": 2,
-    "Research": 51
+    "Research": 52
   },
   "items": [
-    {
-      "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped--hvwcqb",
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T12:05:22Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.985
-    },
-    {
-      "id": "gpt-6-2-astra-and-sol-f41irw",
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-17T17:46:43Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.944
-    },
     {
       "id": "openai-disbands-its-robotics-team-as-its-general-models-star-oh9ur8",
       "title": "OpenAI disbands its robotics team as its general models start running robots",
@@ -37,16 +17,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.266
-    },
-    {
-      "id": "my-ai-agents-found-an-unmapped-maya-site-6cymam",
-      "title": "My AI agents found an unmapped Maya site",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T12:05:22Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.169
     },
     {
       "id": "gemini-4-hydrogen-tjch2h",
@@ -89,6 +59,16 @@
       "score": 51.68
     },
     {
+      "id": "why-is-gemini-4-carbon-taking-so-long-14r4o1",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-18T04:14:04Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.661
+    },
+    {
       "id": "skydio-s-asymmetrical-f10-lightrunner-solves-a-problem-with--krsbmo",
       "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
       "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
@@ -109,14 +89,14 @@
       "score": 51.35
     },
     {
-      "id": "copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-bwl46s",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-18T00:27:29.000Z",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "id": "gpt-6-2-astra-and-sol-f41irw",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-17T17:46:43Z",
+      "summary": "",
       "category": "AI",
-      "score": 50.952
+      "score": 51.226
     },
     {
       "id": "emacs-in-the-age-of-magic-o5vxo8",
@@ -149,26 +129,6 @@
       "score": 50.585
     },
     {
-      "id": "building-trustworthy-ai-by-fencing-it-in-not-predicting-it-t1c025",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-16T16:04:28.000Z",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
-      "category": "AI",
-      "score": 50.05
-    },
-    {
-      "id": "openai-sued-by-california-after-admitting-to-80-loss-of-cont-osr8bm",
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-17T18:13:34.000Z",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "category": "AI",
-      "score": 49.984
-    },
-    {
       "id": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-ope-v1ar5f",
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
@@ -177,26 +137,6 @@
       "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
       "category": "AI",
       "score": 49.82
-    },
-    {
-      "id": "put-gemini-to-work-for-you-pfe3ek",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "category": "AI",
-      "score": 49.808
-    },
-    {
-      "id": "google-makes-it-easier-to-use-gemini-without-training-ai-on--s1wp4r",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-17T16:50:10.000Z",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "category": "AI",
-      "score": 49.785
     },
     {
       "id": "autonomous-yc-f25-is-hiring-mts-to-build-ai-agents-that-mana-rtul12",
@@ -209,24 +149,24 @@
       "score": 49.69
     },
     {
-      "id": "ars-live-what-do-drone-strikes-on-data-centers-mean-for-the--7ax4dm",
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-17T15:28:59.000Z",
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "category": "Robotics",
-      "score": 49.596
+      "id": "building-trustworthy-ai-by-fencing-it-in-not-predicting-it-t1c025",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-16T16:04:28.000Z",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
+      "category": "AI",
+      "score": 48.988
     },
     {
-      "id": "grok-bot-took-unapproved-actions-ignored-orders-to-stop-and--40gvq4",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "id": "copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-bwl46s",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-17T14:00:29.000Z",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "publishedAt": "2026-11-18T00:27:29.000Z",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "category": "AI",
-      "score": 49.397
+      "score": 48.867
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -239,6 +179,36 @@
       "score": 48.446
     },
     {
+      "id": "openai-sued-by-california-after-admitting-to-80-loss-of-cont-osr8bm",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-17T18:13:34.000Z",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "category": "AI",
+      "score": 48.152
+    },
+    {
+      "id": "put-gemini-to-work-for-you-pfe3ek",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "category": "AI",
+      "score": 48.022
+    },
+    {
+      "id": "google-makes-it-easier-to-use-gemini-without-training-ai-on--s1wp4r",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-17T16:50:10.000Z",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "category": "AI",
+      "score": 48.005
+    },
+    {
       "id": "google-pushes-privacy-angle-as-gemini-powered-smartglasses-d-k3q22t",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
@@ -249,14 +219,24 @@
       "score": 47.915
     },
     {
-      "id": "robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-fn8lxz",
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "id": "ars-live-what-do-drone-strikes-on-data-centers-mean-for-the--7ax4dm",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-16T22:58:27.000Z",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "publishedAt": "2026-11-17T15:28:59.000Z",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
       "category": "Robotics",
-      "score": 47.677
+      "score": 47.866
+    },
+    {
+      "id": "grok-bot-took-unapproved-actions-ignored-orders-to-stop-and--40gvq4",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-17T14:00:29.000Z",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "category": "AI",
+      "score": 47.719
     },
     {
       "id": "delivery-drones-are-coming-for-some-with-ptsd-that-s-a-terri-adoubj",
@@ -287,6 +267,16 @@
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro",
       "category": "AI",
       "score": 46.799
+    },
+    {
+      "id": "robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-fn8lxz",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-16T22:58:27.000Z",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "category": "Robotics",
+      "score": 46.45
     },
     {
       "id": "artificial-intelligence-for-the-z80-fue2jz",
@@ -499,16 +489,6 @@
       "score": 43.477
     },
     {
-      "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-11T18:00:00.000Z",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "category": "AI",
-      "score": 43.346
-    },
-    {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
       "title": "The AI Daily Brief(Formerly the AI Breakdown): Artificial Intelligence News",
       "url": "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614",
@@ -629,6 +609,16 @@
       "score": 43.301
     },
     {
+      "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "category": "AI",
+      "score": 43.255
+    },
+    {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
       "title": "Gemini Intelligence: New features, on more devices",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
@@ -636,7 +626,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.214
+      "score": 43.158
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -646,7 +636,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.193
+      "score": 43.142
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -656,7 +646,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.189
+      "score": 43.14
     },
     {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
@@ -666,7 +656,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.017
+      "score": 43.012
     },
     {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
@@ -679,6 +669,16 @@
       "score": 43
     },
     {
+      "id": "energy-based-reasoners-385x-more-efficient-inference-2mbdn3",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-18T09:29:32Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 42.393
+    },
+    {
       "id": "huawei-releases-macaq-its-internal-quantizer-for-local-infer-lvf16j",
       "title": "Huawei releases MACaQ, its internal quantizer for local inference",
       "url": "https://github.com/huawei-csl/MACaQ",
@@ -687,16 +687,6 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 42.063
-    },
-    {
-      "id": "next-level-benchmarking-overfitting-thomas-neumann-d65pst",
-      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
-      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-11T12:09:49Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 41.985
     },
     {
       "id": "when-expert-disagreement-hurts-prestige-and-selectivity-in-l-t93yt8",
@@ -989,6 +979,186 @@
       "score": 41.388
     },
     {
+      "id": "ambient-llms-data-efficient-supervised-fine-tuning-via-tempe-2x9vdr",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:59:37.000Z",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smalle",
+      "category": "Research",
+      "score": 41.235
+    },
+    {
+      "id": "spool-low-latency-streaming-inference-for-hybrid-vision-lang-1n8nuj",
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "url": "http://arxiv.org/abs/2611.23228v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:59:27.000Z",
+      "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language mod",
+      "category": "Research",
+      "score": 41.235
+    },
+    {
+      "id": "fastframes-video-generation-at-interactive-latency-moqgsu",
+      "title": "FastFrames: Video Generation at Interactive Latency",
+      "url": "http://arxiv.org/abs/2611.23226v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:59:13.000Z",
+      "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for",
+      "category": "Research",
+      "score": 41.235
+    },
+    {
+      "id": "stringqft-a-multiuse-textbook-resource-for-ai-assisted-theor-ca5742",
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:58:40.000Z",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages,",
+      "category": "Research",
+      "score": 41.234
+    },
+    {
+      "id": "an-inexact-stochastic-variance-reduced-gradient-method-for-c-rxtvkn",
+      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "url": "http://arxiv.org/abs/2611.23221v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:57:16.000Z",
+      "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Conseque",
+      "category": "Research",
+      "score": 41.231
+    },
+    {
+      "id": "do-llm-agents-still-need-to-be-told-how-to-self-improve-6b47i8",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:57:10.000Z",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do th",
+      "category": "Research",
+      "score": 41.231
+    },
+    {
+      "id": "what-does-a-bias-head-measure-non-identifiability-in-head-le-v2xv90",
+      "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+      "url": "http://arxiv.org/abs/2611.23218v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:57:08.000Z",
+      "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the he",
+      "category": "Research",
+      "score": 41.231
+    },
+    {
+      "id": "higher-scoring-coding-models-did-not-get-more-work-done-r9zt6b",
+      "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+      "url": "http://arxiv.org/abs/2611.23216v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:56:42.000Z",
+      "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export contr",
+      "category": "Research",
+      "score": 41.23
+    },
+    {
+      "id": "feedback-linearised-trajectory-tracking-via-model-informed-r-7jymrd",
+      "title": "Feedback-Linearised Trajectory Tracking via Model-Informed Robust Geometric DDPC",
+      "url": "http://arxiv.org/abs/2611.23215v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:56:09.000Z",
+      "summary": "Data-driven predictive control (DDPC) predicts system responses from recorded trajectories, but nonlinear dynamics can limit the accuracy of fixed linear predictors. This paper studies geometric robust DDPC for trajector",
+      "category": "Research",
+      "score": 41.229
+    },
+    {
+      "id": "evislide-mil-multi-query-pooling-and-shared-prediction-for-c-n3y15",
+      "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+      "url": "http://arxiv.org/abs/2611.23212v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:50:42.000Z",
+      "summary": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As new tumor subtypes are",
+      "category": "Research",
+      "score": 41.219
+    },
+    {
+      "id": "multimodal-masked-diffusion-autoencoder-for-modeling-impaire-lpl4e5",
+      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+      "url": "http://arxiv.org/abs/2611.23211v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:50:22.000Z",
+      "summary": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels are",
+      "category": "Research",
+      "score": 41.219
+    },
+    {
+      "id": "learning-grounded-reasoning-from-human-gaze-ucs1g",
+      "title": "Learning Grounded Reasoning from Human Gaze",
+      "url": "http://arxiv.org/abs/2611.23209v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:49:33.000Z",
+      "summary": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for visually-grounded re",
+      "category": "Research",
+      "score": 41.217
+    },
+    {
+      "id": "distortion-free-semantic-watermarks-for-black-box-generative-qczec3",
+      "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+      "url": "http://arxiv.org/abs/2611.23208v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:49:17.000Z",
+      "summary": "We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is called distortion-free",
+      "category": "Research",
+      "score": 41.217
+    },
+    {
+      "id": "reading-scene-states-uncovering-safety-failures-in-vision-la-ejcwtv",
+      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+      "url": "http://arxiv.org/abs/2611.23206v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:48:02.000Z",
+      "summary": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability",
+      "category": "Research",
+      "score": 41.214
+    },
+    {
+      "id": "fine-tuning-gemma-4-edge-models-for-matlab-signal-processing-z2cdzv",
+      "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+      "url": "http://arxiv.org/abs/2611.23205v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:47:37.000Z",
+      "summary": "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) ",
+      "category": "Research",
+      "score": 41.214
+    },
+    {
+      "id": "agent-trust-infrastructure-ati-a-federated-identity-trust-at-lqpujk",
+      "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+      "url": "http://arxiv.org/abs/2611.23202v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:44:25.000Z",
+      "summary": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they",
+      "category": "Research",
+      "score": 41.208
+    },
+    {
+      "id": "learned-versus-kinematic-trajectory-prediction-under-reduced-49f16y",
+      "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+      "url": "http://arxiv.org/abs/2611.23198v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:38:28.000Z",
+      "summary": "Trajectory prediction models for automated driving are usually trained on data with a fixed sampling frequency, while positions received via vehicle-to-everything (V2X) communication arrive at 1-10 Hz. We study whether a",
+      "category": "Research",
+      "score": 41.197
+    },
+    {
+      "id": "structure-residual-inductive-biases-for-language-model-pretr-evguuh",
+      "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
+      "url": "http://arxiv.org/abs/2611.23197v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-17T18:38:27.000Z",
+      "summary": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by the two-part coding v",
+      "category": "Research",
+      "score": 41.197
+    },
+    {
       "id": "latent-lattice-language-models-5e0gpg",
       "title": "Latent Lattice Language Models",
       "url": "http://arxiv.org/abs/2611.21608v1",
@@ -999,214 +1169,44 @@
       "score": 41.197
     },
     {
-      "id": "scalevla-scaling-vision-language-action-models-to-552-billio-3oyr9c",
-      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-      "url": "http://arxiv.org/abs/2611.21607v1",
+      "id": "word-diffusion-based-posterior-inference-for-online-goal-rec-bwomy5",
+      "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+      "url": "http://arxiv.org/abs/2611.23192v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:59:37.000Z",
-      "summary": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-La",
+      "publishedAt": "2026-11-17T18:35:53.000Z",
+      "summary": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents re",
       "category": "Research",
-      "score": 40.304
+      "score": 41.192
     },
     {
-      "id": "vira-toward-ultra-high-resolution-visual-agents-via-cross-in-ohztnr",
-      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-      "url": "http://arxiv.org/abs/2611.21605v1",
+      "id": "retrieval-augmented-correction-for-generalist-medical-image--geryos",
+      "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+      "url": "http://arxiv.org/abs/2611.23189v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:59:04.000Z",
-      "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL)",
+      "publishedAt": "2026-11-17T18:33:42.000Z",
+      "summary": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the res",
       "category": "Research",
-      "score": 40.304
+      "score": 41.188
     },
     {
-      "id": "facejev-direct-visual-decisions-for-face-forgery-detection-uf3n37",
-      "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
-      "url": "http://arxiv.org/abs/2611.21604v1",
+      "id": "any2building-unifying-point-clouds-and-images-for-building-r-4jzsju",
+      "title": "Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries",
+      "url": "http://arxiv.org/abs/2611.23187v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:59:04.000Z",
-      "summary": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Exis",
+      "publishedAt": "2026-11-17T18:32:04.000Z",
+      "summary": "Abstracting structured buildings from limited observations is essential for 3D urban modeling and digital twins. Partial point clouds and overhead images of the same building provide incomplete 3D surface measurements an",
       "category": "Research",
-      "score": 40.304
+      "score": 41.185
     },
     {
-      "id": "quantifying-the-added-value-of-human-forecaster-discussions--q8kznw",
-      "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-      "url": "http://arxiv.org/abs/2611.21602v1",
+      "id": "polarity-composition-hypothesis-causal-evidence-from-negatio-de4u9f",
+      "title": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
+      "url": "http://arxiv.org/abs/2611.23185v1",
       "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:55.000Z",
-      "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting be",
+      "publishedAt": "2026-11-17T18:30:35.000Z",
+      "summary": "We investigate how language models process negation in natural language inference (NLI). We propose the \\textit{Polarity Composition Hypothesis}, a high-level causal model of this computation. Behavioral evaluations show",
       "category": "Research",
-      "score": 40.303
-    },
-    {
-      "id": "how-vlms-plan-what-s-next-oo2q2o",
-      "title": "How VLMs Plan What's Next",
-      "url": "http://arxiv.org/abs/2611.21600v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:30.000Z",
-      "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide wher",
-      "category": "Research",
-      "score": 40.303
-    },
-    {
-      "id": "hyperlyve-parallelized-enumeration-and-exact-lyapunov-stabil-pi07v3",
-      "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
-      "url": "http://arxiv.org/abs/2611.21599v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:29.000Z",
-      "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyp",
-      "category": "Research",
-      "score": 40.303
-    },
-    {
-      "id": "mitigating-catastrophic-forgetting-with-physics-indexed-spec-75bojk",
-      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-      "url": "http://arxiv.org/abs/2611.21598v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:20.000Z",
-      "summary": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can",
-      "category": "Research",
-      "score": 40.302
-    },
-    {
-      "id": "optimal-autoregressive-chain-of-thought-learning-via-bagging-9op59a",
-      "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
-      "url": "http://arxiv.org/abs/2611.21597v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:07.000Z",
-      "summary": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm base",
-      "category": "Research",
-      "score": 40.302
-    },
-    {
-      "id": "sadl-on-the-demand-supply-geometry-of-representation-collaps-bxgp5u",
-      "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
-      "url": "http://arxiv.org/abs/2611.21596v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:58:03.000Z",
-      "summary": "In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representation is dominated by a",
-      "category": "Research",
-      "score": 40.302
-    },
-    {
-      "id": "surrogate-assisted-compact-model-extraction-for-sky130-cmos--3gvyx9",
-      "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
-      "url": "http://arxiv.org/abs/2611.21594v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:57:06.000Z",
-      "summary": "Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm (SKY1",
-      "category": "Research",
-      "score": 40.301
-    },
-    {
-      "id": "beyond-job-titles-interpreting-early-career-job-advertisemen-ujdkaa",
-      "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
-      "url": "http://arxiv.org/abs/2611.21586v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:54:40.000Z",
-      "summary": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we design and compare two m",
-      "category": "Research",
-      "score": 40.297
-    },
-    {
-      "id": "certisum-bitwise-identical-mxfp4-training-across-platforms-a-fwttqr",
-      "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
-      "url": "http://arxiv.org/abs/2611.21584v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:54:07.000Z",
-      "summary": "Training with MXFP4, a 4-bit microscaling format, is non-deterministic: identical inputs can produce different results across parallelism layouts and GPU vendors. These differences complicate debugging and training audit",
-      "category": "Research",
-      "score": 40.296
-    },
-    {
-      "id": "scenarioforge-resource-grounded-generation-and-execution-val-l5xbfz",
-      "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-      "url": "http://arxiv.org/abs/2611.21579v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:49:56.000Z",
-      "summary": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detail",
-      "category": "Research",
-      "score": 40.29
-    },
-    {
-      "id": "when-tool-names-are-not-identities-measuring-provider-misbin-tnxg14",
-      "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
-      "url": "http://arxiv.org/abs/2611.21577v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:49:37.000Z",
-      "summary": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose tools advertised by ",
-      "category": "Research",
-      "score": 40.289
-    },
-    {
-      "id": "dynsurvx-time-resolved-explanations-for-dynamic-survival-pre-v2iohz",
-      "title": "DynSurvX: Time-Resolved Explanations for Dynamic Survival Predictions",
-      "url": "http://arxiv.org/abs/2611.21571v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:43:35.000Z",
-      "summary": "Recent survival models integrating longitudinal data achieve strong predictive performance, but their predictions are often difficult to interpret, limiting their clinical use. We propose DynSurvX, a model-agnostic expla",
-      "category": "Research",
-      "score": 40.281
-    },
-    {
-      "id": "when-do-histology-foundation-models-need-geometric-test-time-w81o0",
-      "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
-      "url": "http://arxiv.org/abs/2611.21565v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:41:01.000Z",
-      "summary": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations ",
-      "category": "Research",
-      "score": 40.277
-    },
-    {
-      "id": "wildfire-ssr-geolocation-aware-multimodal-fusion-for-structu-5o9a10",
-      "title": "Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment",
-      "url": "http://arxiv.org/abs/2611.21563v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:40:49.000Z",
-      "summary": "Structure-level wildfire vulnerability assessment is critical for reducing losses in wildland-urban interface communities, yet existing methods often fail to combine parcel-scale ignition pathways with community-scale ge",
-      "category": "Research",
-      "score": 40.276
-    },
-    {
-      "id": "severe-but-harmless-stress-testing-shift-severity-for-frozen-mdhtdf",
-      "title": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
-      "url": "http://arxiv.org/abs/2611.21562v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:40:35.000Z",
-      "summary": "Zero-shot time-series foundation models (TSFMs) have become attractive alternatives to task-specific models because they handle diverse downstream tasks, including anomaly detection and forecasting, without per-series tr",
-      "category": "Research",
-      "score": 40.276
-    },
-    {
-      "id": "reference-forcing-long-video-generation-with-region-guided-d-2ld82y",
-      "title": "Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
-      "url": "http://arxiv.org/abs/2611.21559v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:39:47.000Z",
-      "summary": "Long video generation should keep the subject and background consistent while supporting rich, natural motion. However, autoregressive models are often distilled with distribution matching distillation (DMD) over short w",
-      "category": "Research",
-      "score": 40.275
-    },
-    {
-      "id": "reading-or-remembering-measuring-temporal-contamination-in-l-eokibz",
-      "title": "Reading or Remembering? Measuring Temporal Contamination in Language Models",
-      "url": "http://arxiv.org/abs/2611.21554v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:34:08.000Z",
-      "summary": "Language models are now used to read central-bank text for economic forecasting, but most were trained on text written after the documents they read. A model reading a 2021 FOMC statement may already know that inflation ",
-      "category": "Research",
-      "score": 40.266
-    },
-    {
-      "id": "blip-live-balancing-timeliness-firing-precision-in-proactive-7lnnte",
-      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
-      "url": "http://arxiv.org/abs/2611.21553v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-16T18:33:47.000Z",
-      "summary": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evid",
-      "category": "Research",
-      "score": 40.266
+      "score": 41.183
     }
   ]
 }
