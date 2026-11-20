@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-11-19T15:27:30.774Z",
+  "updatedAt": "2026-11-20T00:24:51.723Z",
   "totalItems": 120,
   "categories": {
-    "AI": 51,
+    "AI": 53,
     "Robotics": 21,
     "Machine Learning": 1,
-    "Research": 47
+    "Research": 45
   },
   "items": [
+    {
+      "id": "anthropic-s-nasdaq-debut-twd59q",
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-19T17:02:40Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.789
+    },
     {
       "id": "openai-disbands-its-robotics-team-as-its-general-models-star-oh9ur8",
       "title": "OpenAI disbands its robotics team as its general models start running robots",
@@ -59,16 +69,6 @@
       "score": 52.059
     },
     {
-      "id": "gemini-4-hydrogen-tjch2h",
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-12T18:01:48Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.962
-    },
-    {
       "id": "not-everything-needs-an-llm-zlzoj",
       "title": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
@@ -89,6 +89,16 @@
       "score": 51.891
     },
     {
+      "id": "gemini-4-neon-is-the-new-1-on-the-models-engineering-index-a2c9r3",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-19T23:35:35Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.709
+    },
+    {
       "id": "understanding-positional-embeddings-in-modern-llms-p0xo74",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
@@ -107,16 +117,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.661
-    },
-    {
-      "id": "gemini-4-neon-46vtsd",
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-18T21:34:07Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.478
     },
     {
       "id": "skydio-s-asymmetrical-f10-lightrunner-solves-a-problem-with--krsbmo",
@@ -149,6 +149,26 @@
       "score": 51.226
     },
     {
+      "id": "you-re-right-llms-will-get-climate-info-wrong-if-you-ask-mx1s64",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-19T18:44:39.000Z",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "category": "AI",
+      "score": 50.109
+    },
+    {
+      "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "category": "AI",
+      "score": 49.999
+    },
+    {
       "id": "we-taught-robots-to-carve-marble-sculptures-2n31v9",
       "title": "We taught robots to carve marble sculptures",
       "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
@@ -179,16 +199,6 @@
       "score": 49.342
     },
     {
-      "id": "ukraine-blew-up-putin-s-bridge-using-relay-drones-to-bypass--ebyppe",
-      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-18T23:10:39.000Z",
-      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "category": "Robotics",
-      "score": 48.699
-    },
-    {
       "id": "building-trustworthy-ai-by-fencing-it-in-not-predicting-it-t1c025",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
@@ -209,16 +219,6 @@
       "score": 48.446
     },
     {
-      "id": "trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-nwv9zg",
-      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-18T18:46:08.000Z",
-      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-      "category": "Robotics",
-      "score": 48.199
-    },
-    {
       "id": "openai-sued-by-california-after-admitting-to-80-loss-of-cont-osr8bm",
       "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
       "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
@@ -227,16 +227,6 @@
       "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
       "category": "AI",
       "score": 48.152
-    },
-    {
-      "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-18T17:00:00.000Z",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "category": "AI",
-      "score": 48.011
     },
     {
       "id": "google-makes-it-easier-to-use-gemini-without-training-ai-on--s1wp4r",
@@ -269,6 +259,16 @@
       "score": 47.866
     },
     {
+      "id": "ukraine-blew-up-putin-s-bridge-using-relay-drones-to-bypass--ebyppe",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-18T23:10:39.000Z",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "category": "Robotics",
+      "score": 47.729
+    },
+    {
       "id": "grok-bot-took-unapproved-actions-ignored-orders-to-stop-and--40gvq4",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
@@ -289,14 +289,24 @@
       "score": 47.494
     },
     {
-      "id": "google-faces-calls-for-ai-moratoriums-in-schools-after-gemin-d4g6xb",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "id": "trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-nwv9zg",
+      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-12T18:57:45.000Z",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "publishedAt": "2026-11-18T18:46:08.000Z",
+      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+      "category": "Robotics",
+      "score": 47.314
+    },
+    {
+      "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 46.888
+      "score": 47.158
     },
     {
       "id": "building-ai-that-can-work-across-the-enterprise-qmttk1",
@@ -339,16 +349,6 @@
       "score": 46.416
     },
     {
-      "id": "put-gemini-to-work-for-you-pfe3ek",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "category": "AI",
-      "score": 46.039
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -357,6 +357,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "put-gemini-to-work-for-you-pfe3ek",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "category": "AI",
+      "score": 45.522
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -669,6 +679,16 @@
       "score": 43.301
     },
     {
+      "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-2papnd",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "category": "AI",
+      "score": 43.211
+    },
+    {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -676,7 +696,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.154
+      "score": 43.128
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -686,7 +706,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.096
+      "score": 43.079
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -696,7 +716,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.086
+      "score": 43.072
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -706,7 +726,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.084
+      "score": 43.07
     },
     {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
@@ -716,7 +736,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.008
+      "score": 43.006
     },
     {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
@@ -739,116 +759,6 @@
       "score": 41.382
     },
     {
-      "id": "ultratex-aligning-physical-knowledge-for-high-fidelity-pbr-t-xs3618",
-      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
-      "url": "http://arxiv.org/abs/2611.24941v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:59:57.000Z",
-      "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. Whi",
-      "category": "Research",
-      "score": 41.224
-    },
-    {
-      "id": "z-sight-unifying-vision-language-action-and-latent-world-mod-l6v6az",
-      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
-      "url": "http://arxiv.org/abs/2611.24940v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:59:38.000Z",
-      "summary": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action ge",
-      "category": "Research",
-      "score": 41.223
-    },
-    {
-      "id": "phoenix-learning-scene-structure-representations-for-general-af9fg3",
-      "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
-      "url": "http://arxiv.org/abs/2611.24938v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:59:04.000Z",
-      "summary": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulati",
-      "category": "Research",
-      "score": 41.222
-    },
-    {
-      "id": "jailbreak-detection-on-large-language-models-via-contrastive-om6w7c",
-      "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-      "url": "http://arxiv.org/abs/2611.24936v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:56:12.000Z",
-      "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an addition",
-      "category": "Research",
-      "score": 41.217
-    },
-    {
-      "id": "knowing-what-you-know-a-trait-theory-of-reviewer-value-in-hu-1gaj",
-      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-      "url": "http://arxiv.org/abs/2611.24932v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:55:07.000Z",
-      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a revie",
-      "category": "Research",
-      "score": 41.215
-    },
-    {
-      "id": "mapping-the-ai-supply-chain-dependencies-vulnerabilities-and-3rwldk",
-      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-      "url": "http://arxiv.org/abs/2611.24927v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:53:58.000Z",
-      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors a",
-      "category": "Research",
-      "score": 41.213
-    },
-    {
-      "id": "grana-compositional-reward-modeling-for-long-horizon-robot-m-lpk7su",
-      "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
-      "url": "http://arxiv.org/abs/2611.24926v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:53:53.000Z",
-      "summary": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-",
-      "category": "Research",
-      "score": 41.213
-    },
-    {
-      "id": "render-the-robot-generate-the-world-one-video-world-model-ac-4riald",
-      "title": "Render the Robot, Generate the World: One Video World Model Across Embodiments",
-      "url": "http://arxiv.org/abs/2611.24925v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:52:28.000Z",
-      "summary": "Predicting the consequences of an agent's actions requires modeling both the body's motion and the environment's response. Most video world models attempt to learn both from numerical actions, even though geometry and ki",
-      "category": "Research",
-      "score": 41.21
-    },
-    {
-      "id": "agentic-harness-engineering-beta-requirement-centered-evolut-bqjqst",
-      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-      "url": "http://arxiv.org/abs/2611.24924v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:52:13.000Z",
-      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interactio",
-      "category": "Research",
-      "score": 41.21
-    },
-    {
-      "id": "unified-law-for-visual-tasks-the-four-laws-of-computer-visio-cvel0o",
-      "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
-      "url": "http://arxiv.org/abs/2611.24917v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:48:38.000Z",
-      "summary": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly ",
-      "category": "Research",
-      "score": 41.203
-    },
-    {
-      "id": "prismrestore-a-compact-restoration-toolbox-for-agentic-image-ls562r",
-      "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
-      "url": "http://arxiv.org/abs/2611.24915v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:48:01.000Z",
-      "summary": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable resto",
-      "category": "Research",
-      "score": 41.202
-    },
-    {
       "id": "latent-lattice-language-models-5e0gpg",
       "title": "Latent Lattice Language Models",
       "url": "http://arxiv.org/abs/2611.21608v1",
@@ -857,196 +767,6 @@
       "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computati",
       "category": "Research",
       "score": 41.197
-    },
-    {
-      "id": "decomposing-sgd-dynamics-in-neural-networks-teacher-induced--3zhw4j",
-      "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
-      "url": "http://arxiv.org/abs/2611.24908v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:43:40.000Z",
-      "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompos",
-      "category": "Research",
-      "score": 41.194
-    },
-    {
-      "id": "shadowtransfer-a-geographic-transfer-benchmark-for-overhead--zi0jh7",
-      "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
-      "url": "http://arxiv.org/abs/2611.24904v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:41:54.000Z",
-      "summary": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer across regions. Existin",
-      "category": "Research",
-      "score": 41.191
-    },
-    {
-      "id": "equivariant-modeling-with-polynomial-features-via-minimal-ho-vizafb",
-      "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
-      "url": "http://arxiv.org/abs/2611.24896v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:37:02.000Z",
-      "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model i",
-      "category": "Research",
-      "score": 41.182
-    },
-    {
-      "id": "on-evaluating-user-simulators-for-interactive-agents-5z9aq0",
-      "title": "On Evaluating User Simulators for Interactive Agents",
-      "url": "http://arxiv.org/abs/2611.24892v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:34:23.000Z",
-      "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably dete",
-      "category": "Research",
-      "score": 41.178
-    },
-    {
-      "id": "cap-and-track-optimizing-llm-inference-request-dispatch-acro-v8ywpe",
-      "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
-      "url": "http://arxiv.org/abs/2611.24891v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:34:10.000Z",
-      "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-T",
-      "category": "Research",
-      "score": 41.177
-    },
-    {
-      "id": "who-are-you-the-personal-imitation-game-27l8d1",
-      "title": "Who are you? The Personal Imitation Game",
-      "url": "http://arxiv.org/abs/2611.24888v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:32:14.000Z",
-      "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in c",
-      "category": "Research",
-      "score": 41.174
-    },
-    {
-      "id": "ground-iterate-trace-decomposing-ai-research-ideation-kb2noi",
-      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
-      "url": "http://arxiv.org/abs/2611.24887v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:31:37.000Z",
-      "summary": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work. We intr",
-      "category": "Research",
-      "score": 41.173
-    },
-    {
-      "id": "teleoperated-haircutting-with-delay-compensation-and-passivi-6jkaol",
-      "title": "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties",
-      "url": "http://arxiv.org/abs/2611.24883v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:28:34.000Z",
-      "summary": "Robotic haircutting requires accurate motion execution and reliable communication to safely reproduce the operator's commands. Internet-based teleoperation is a key enabling technology to remotely perform precise manipul",
-      "category": "Research",
-      "score": 41.167
-    },
-    {
-      "id": "monoculture-robust-learning-9syevs",
-      "title": "Monoculture Robust Learning",
-      "url": "http://arxiv.org/abs/2611.24881v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:27:52.000Z",
-      "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing",
-      "category": "Research",
-      "score": 41.166
-    },
-    {
-      "id": "local-ai-agents-in-power-electronics-simulation-deployment-m-gwx8ay",
-      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
-      "url": "http://arxiv.org/abs/2611.24880v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:27:40.000Z",
-      "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it conn",
-      "category": "Research",
-      "score": 41.165
-    },
-    {
-      "id": "auditing-black-box-clinical-prediction-models-with-a-large-l-2g7w7f",
-      "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
-      "url": "http://arxiv.org/abs/2611.24877v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:24:54.000Z",
-      "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where",
-      "category": "Research",
-      "score": 41.161
-    },
-    {
-      "id": "learning-to-interact-in-multi-agent-self-play-for-controllab-3nf5ov",
-      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
-      "url": "http://arxiv.org/abs/2611.24876v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:23:29.000Z",
-      "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditione",
-      "category": "Research",
-      "score": 41.158
-    },
-    {
-      "id": "tangentpde-learning-local-operator-responses-with-sparse-fin-d9rwer",
-      "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
-      "url": "http://arxiv.org/abs/2611.24873v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:23:20.000Z",
-      "summary": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful",
-      "category": "Research",
-      "score": 41.158
-    },
-    {
-      "id": "worldruler-interactive-world-modeling-under-configurable-rul-p7ljp3",
-      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
-      "url": "http://arxiv.org/abs/2611.24869v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:20:39.000Z",
-      "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user",
-      "category": "Research",
-      "score": 41.153
-    },
-    {
-      "id": "choosing-what-to-observe-budget-paired-counterfactual-audits-9nb83w",
-      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
-      "url": "http://arxiv.org/abs/2611.24867v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:20:12.000Z",
-      "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers on",
-      "category": "Research",
-      "score": 41.152
-    },
-    {
-      "id": "nereidvla-learning-to-understand-and-navigate-the-underwater-mmwnbh",
-      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
-      "url": "http://arxiv.org/abs/2611.24864v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:19:00.000Z",
-      "summary": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfer",
-      "category": "Research",
-      "score": 41.15
-    },
-    {
-      "id": "gaspard-expressive-unified-speech-and-gesture-synthesis-with-404h0z",
-      "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
-      "url": "http://arxiv.org/abs/2611.24862v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:18:44.000Z",
-      "summary": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures. Existing approaches for generating both modalities commonly follow a cascaded pipeline, where speech is generated ",
-      "category": "Research",
-      "score": 41.149
-    },
-    {
-      "id": "communications-free-collective-intelligence-via-allocentric--tqw9xs",
-      "title": "Communications-free Collective Intelligence Via Allocentric Belief",
-      "url": "http://arxiv.org/abs/2611.24858v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:17:30.000Z",
-      "summary": "A team of skilled card players share no information amongst each other, and yet still are able to coordinate their play by watching the same players and reading the same tells. Autonomous systems have failed to exploit t",
-      "category": "Research",
-      "score": 41.147
-    },
-    {
-      "id": "can-programs-replace-llm-judges-executable-program-judges-fo-r5p7s2",
-      "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
-      "url": "http://arxiv.org/abs/2611.24849v1",
-      "sourceName": "arXiv",
-      "publishedAt": "2026-11-18T18:09:16.000Z",
-      "summary": "Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontier model, and the jud",
-      "category": "Research",
-      "score": 41.133
     },
     {
       "id": "ambient-llms-data-efficient-supervised-fine-tuning-via-tempe-2x9vdr",
@@ -1207,6 +927,286 @@
       "summary": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they",
       "category": "Research",
       "score": 40.345
+    },
+    {
+      "id": "ultratex-aligning-physical-knowledge-for-high-fidelity-pbr-t-xs3618",
+      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "url": "http://arxiv.org/abs/2611.24941v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:59:57.000Z",
+      "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. Whi",
+      "category": "Research",
+      "score": 40.335
+    },
+    {
+      "id": "z-sight-unifying-vision-language-action-and-latent-world-mod-l6v6az",
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "url": "http://arxiv.org/abs/2611.24940v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:59:38.000Z",
+      "summary": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action ge",
+      "category": "Research",
+      "score": 40.334
+    },
+    {
+      "id": "phoenix-learning-scene-structure-representations-for-general-af9fg3",
+      "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "url": "http://arxiv.org/abs/2611.24938v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:59:04.000Z",
+      "summary": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulati",
+      "category": "Research",
+      "score": 40.333
+    },
+    {
+      "id": "jailbreak-detection-on-large-language-models-via-contrastive-om6w7c",
+      "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "url": "http://arxiv.org/abs/2611.24936v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:56:12.000Z",
+      "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an addition",
+      "category": "Research",
+      "score": 40.329
+    },
+    {
+      "id": "knowing-what-you-know-a-trait-theory-of-reviewer-value-in-hu-1gaj",
+      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:55:07.000Z",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a revie",
+      "category": "Research",
+      "score": 40.327
+    },
+    {
+      "id": "mapping-the-ai-supply-chain-dependencies-vulnerabilities-and-3rwldk",
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:53:58.000Z",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors a",
+      "category": "Research",
+      "score": 40.326
+    },
+    {
+      "id": "grana-compositional-reward-modeling-for-long-horizon-robot-m-lpk7su",
+      "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+      "url": "http://arxiv.org/abs/2611.24926v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:53:53.000Z",
+      "summary": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-",
+      "category": "Research",
+      "score": 40.325
+    },
+    {
+      "id": "render-the-robot-generate-the-world-one-video-world-model-ac-4riald",
+      "title": "Render the Robot, Generate the World: One Video World Model Across Embodiments",
+      "url": "http://arxiv.org/abs/2611.24925v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:52:28.000Z",
+      "summary": "Predicting the consequences of an agent's actions requires modeling both the body's motion and the environment's response. Most video world models attempt to learn both from numerical actions, even though geometry and ki",
+      "category": "Research",
+      "score": 40.323
+    },
+    {
+      "id": "agentic-harness-engineering-beta-requirement-centered-evolut-bqjqst",
+      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:52:13.000Z",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interactio",
+      "category": "Research",
+      "score": 40.323
+    },
+    {
+      "id": "unified-law-for-visual-tasks-the-four-laws-of-computer-visio-cvel0o",
+      "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+      "url": "http://arxiv.org/abs/2611.24917v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:48:38.000Z",
+      "summary": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly ",
+      "category": "Research",
+      "score": 40.318
+    },
+    {
+      "id": "prismrestore-a-compact-restoration-toolbox-for-agentic-image-ls562r",
+      "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+      "url": "http://arxiv.org/abs/2611.24915v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:48:01.000Z",
+      "summary": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable resto",
+      "category": "Research",
+      "score": 40.317
+    },
+    {
+      "id": "decomposing-sgd-dynamics-in-neural-networks-teacher-induced--3zhw4j",
+      "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+      "url": "http://arxiv.org/abs/2611.24908v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:43:40.000Z",
+      "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompos",
+      "category": "Research",
+      "score": 40.31
+    },
+    {
+      "id": "shadowtransfer-a-geographic-transfer-benchmark-for-overhead--zi0jh7",
+      "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+      "url": "http://arxiv.org/abs/2611.24904v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:41:54.000Z",
+      "summary": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer across regions. Existin",
+      "category": "Research",
+      "score": 40.308
+    },
+    {
+      "id": "equivariant-modeling-with-polynomial-features-via-minimal-ho-vizafb",
+      "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+      "url": "http://arxiv.org/abs/2611.24896v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:37:02.000Z",
+      "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model i",
+      "category": "Research",
+      "score": 40.3
+    },
+    {
+      "id": "on-evaluating-user-simulators-for-interactive-agents-5z9aq0",
+      "title": "On Evaluating User Simulators for Interactive Agents",
+      "url": "http://arxiv.org/abs/2611.24892v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:34:23.000Z",
+      "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably dete",
+      "category": "Research",
+      "score": 40.296
+    },
+    {
+      "id": "cap-and-track-optimizing-llm-inference-request-dispatch-acro-v8ywpe",
+      "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+      "url": "http://arxiv.org/abs/2611.24891v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:34:10.000Z",
+      "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-T",
+      "category": "Research",
+      "score": 40.296
+    },
+    {
+      "id": "who-are-you-the-personal-imitation-game-27l8d1",
+      "title": "Who are you? The Personal Imitation Game",
+      "url": "http://arxiv.org/abs/2611.24888v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:32:14.000Z",
+      "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in c",
+      "category": "Research",
+      "score": 40.293
+    },
+    {
+      "id": "ground-iterate-trace-decomposing-ai-research-ideation-kb2noi",
+      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+      "url": "http://arxiv.org/abs/2611.24887v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:31:37.000Z",
+      "summary": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work. We intr",
+      "category": "Research",
+      "score": 40.292
+    },
+    {
+      "id": "teleoperated-haircutting-with-delay-compensation-and-passivi-6jkaol",
+      "title": "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties",
+      "url": "http://arxiv.org/abs/2611.24883v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:28:34.000Z",
+      "summary": "Robotic haircutting requires accurate motion execution and reliable communication to safely reproduce the operator's commands. Internet-based teleoperation is a key enabling technology to remotely perform precise manipul",
+      "category": "Research",
+      "score": 40.288
+    },
+    {
+      "id": "monoculture-robust-learning-9syevs",
+      "title": "Monoculture Robust Learning",
+      "url": "http://arxiv.org/abs/2611.24881v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:27:52.000Z",
+      "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing",
+      "category": "Research",
+      "score": 40.287
+    },
+    {
+      "id": "local-ai-agents-in-power-electronics-simulation-deployment-m-gwx8ay",
+      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+      "url": "http://arxiv.org/abs/2611.24880v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:27:40.000Z",
+      "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it conn",
+      "category": "Research",
+      "score": 40.286
+    },
+    {
+      "id": "auditing-black-box-clinical-prediction-models-with-a-large-l-2g7w7f",
+      "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+      "url": "http://arxiv.org/abs/2611.24877v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:24:54.000Z",
+      "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where",
+      "category": "Research",
+      "score": 40.282
+    },
+    {
+      "id": "learning-to-interact-in-multi-agent-self-play-for-controllab-3nf5ov",
+      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+      "url": "http://arxiv.org/abs/2611.24876v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:23:29.000Z",
+      "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditione",
+      "category": "Research",
+      "score": 40.28
+    },
+    {
+      "id": "tangentpde-learning-local-operator-responses-with-sparse-fin-d9rwer",
+      "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+      "url": "http://arxiv.org/abs/2611.24873v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:23:20.000Z",
+      "summary": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful",
+      "category": "Research",
+      "score": 40.28
+    },
+    {
+      "id": "worldruler-interactive-world-modeling-under-configurable-rul-p7ljp3",
+      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+      "url": "http://arxiv.org/abs/2611.24869v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:20:39.000Z",
+      "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user",
+      "category": "Research",
+      "score": 40.276
+    },
+    {
+      "id": "choosing-what-to-observe-budget-paired-counterfactual-audits-9nb83w",
+      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+      "url": "http://arxiv.org/abs/2611.24867v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:20:12.000Z",
+      "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers on",
+      "category": "Research",
+      "score": 40.275
+    },
+    {
+      "id": "nereidvla-learning-to-understand-and-navigate-the-underwater-mmwnbh",
+      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+      "url": "http://arxiv.org/abs/2611.24864v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:19:00.000Z",
+      "summary": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfer",
+      "category": "Research",
+      "score": 40.273
+    },
+    {
+      "id": "gaspard-expressive-unified-speech-and-gesture-synthesis-with-404h0z",
+      "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
+      "url": "http://arxiv.org/abs/2611.24862v1",
+      "sourceName": "arXiv",
+      "publishedAt": "2026-11-18T18:18:44.000Z",
+      "summary": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures. Existing approaches for generating both modalities commonly follow a cascaded pipeline, where speech is generated ",
+      "category": "Research",
+      "score": 40.273
     }
   ]
 }
