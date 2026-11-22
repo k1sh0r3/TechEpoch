@@ -1,12 +1,11 @@
 {
-  "updatedAt": "2026-11-21T18:52:28.962Z",
+  "updatedAt": "2026-11-22T05:47:29.317Z",
   "totalItems": 120,
   "categories": {
-    "AI": 53,
+    "AI": 54,
     "Robotics": 21,
-    "Machine Learning": 2,
-    "Research": 42,
-    "Tech": 2
+    "Machine Learning": 3,
+    "Research": 42
   },
   "items": [
     {
@@ -130,6 +129,16 @@
       "score": 51.457
     },
     {
+      "id": "pandex-official-european-law-for-ai-agents-over-mcp-sf71k4",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-21T20:47:41Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.389
+    },
+    {
       "id": "the-hungry-butler-effect-concealed-commercial-incentives-in--p4kzci",
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
       "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
@@ -188,16 +197,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 49.881
-    },
-    {
-      "id": "exponential-behavior-in-magic-the-gathering-2vkf2l",
-      "title": "Exponential Behavior in Magic: The Gathering",
-      "url": "https://levineuwirth.org/essays/exponential-magic/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-18T14:07:09Z",
-      "summary": "",
-      "category": "AI",
-      "score": 49.342
     },
     {
       "id": "building-trustworthy-ai-by-fencing-it-in-not-predicting-it-t1c025",
@@ -290,16 +289,6 @@
       "score": 47.494
     },
     {
-      "id": "rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-en-i6hexg",
-      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-20T13:35:45.000Z",
-      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
-      "category": "Robotics",
-      "score": 47.347
-    },
-    {
       "id": "trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-nwv9zg",
       "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
@@ -327,7 +316,7 @@
       "publishedAt": "2026-11-18T14:15:58Z",
       "summary": "",
       "category": "AI",
-      "score": 46.671
+      "score": 46.64
     },
     {
       "id": "copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-bwl46s",
@@ -350,6 +339,16 @@
       "score": 46.485
     },
     {
+      "id": "rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-en-i6hexg",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-20T13:35:45.000Z",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "category": "Robotics",
+      "score": 46.463
+    },
+    {
       "id": "robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-fn8lxz",
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
@@ -360,14 +359,14 @@
       "score": 46.45
     },
     {
-      "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "id": "exponential-behavior-in-magic-the-gathering-2vkf2l",
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-18T14:07:09Z",
+      "summary": "",
       "category": "AI",
-      "score": 45.89
+      "score": 46.313
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -378,6 +377,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.771
+    },
+    {
+      "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "category": "AI",
+      "score": 45.302
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -397,7 +406,7 @@
       "publishedAt": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 44.717
+      "score": 44.367
     },
     {
       "id": "put-gemini-to-work-for-you-pfe3ek",
@@ -407,7 +416,7 @@
       "publishedAt": "2026-11-17T17:00:00.000Z",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "category": "AI",
-      "score": 44.041
+      "score": 43.829
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -687,7 +696,7 @@
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "score": 43.087
+      "score": 43.07
     },
     {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
@@ -697,7 +706,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.053
+      "score": 43.042
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -707,7 +716,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.033
+      "score": 43.026
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -717,7 +726,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.03
+      "score": 43.024
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -727,7 +736,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.029
+      "score": 43.023
     },
     {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
@@ -737,7 +746,7 @@
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "category": "AI",
-      "score": 43.003
+      "score": 43.002
     },
     {
       "id": "gemini-4-argon-built-to-solve-your-hardest-problems-x23xmu",
@@ -748,6 +757,16 @@
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
       "score": 43
+    },
+    {
+      "id": "data-processing-incidents-on-inference-providers-xkvwc0",
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-22T02:14:14Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 42.28
     },
     {
       "id": "energy-based-reasoners-385x-more-efficient-inference-2mbdn3",
@@ -897,7 +916,7 @@
       "publishedAt": "2026-11-19T18:59:57.000Z",
       "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the stude",
       "category": "Research",
-      "score": 38.951
+      "score": 38.35
     },
     {
       "id": "rl-post-training-in-diffusion-transformers-is-activation-ste-66rigk",
@@ -907,7 +926,7 @@
       "publishedAt": "2026-11-19T18:59:53.000Z",
       "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composin",
       "category": "Research",
-      "score": 38.951
+      "score": 38.35
     },
     {
       "id": "playcraft-designing-engaging-games-from-agent-play-experienc-r9c2ko",
@@ -917,7 +936,7 @@
       "publishedAt": "2026-11-19T18:59:34.000Z",
       "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an a",
       "category": "Research",
-      "score": 38.95
+      "score": 38.35
     },
     {
       "id": "tidecache-efficient-hybrid-llm-serving-with-transparent-cach-pln4h0",
@@ -927,7 +946,7 @@
       "publishedAt": "2026-11-19T18:58:31.000Z",
       "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We pres",
       "category": "Research",
-      "score": 38.949
+      "score": 38.349
     },
     {
       "id": "one-prior-two-dynamics-repurposing-video-diffusion-transform-g2xbky",
@@ -937,7 +956,7 @@
       "publishedAt": "2026-11-19T18:58:14.000Z",
       "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratc",
       "category": "Research",
-      "score": 38.949
+      "score": 38.349
     },
     {
       "id": "scaleworld-high-resolution-world-generation-through-shared-p-ouh2oo",
@@ -947,7 +966,7 @@
       "publishedAt": "2026-11-19T18:58:04.000Z",
       "summary": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present Scal",
       "category": "Research",
-      "score": 38.949
+      "score": 38.349
     },
     {
       "id": "agentrobocritic-understanding-the-capability-of-frontier-age-eefw1v",
@@ -957,7 +976,7 @@
       "publishedAt": "2026-11-19T18:57:25.000Z",
       "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks rep",
       "category": "Research",
-      "score": 38.948
+      "score": 38.348
     },
     {
       "id": "bio-pm-guided-synthetic-imu-generation-zfdu8h",
@@ -967,7 +986,7 @@
       "publishedAt": "2026-11-19T18:56:25.000Z",
       "summary": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanc",
       "category": "Research",
-      "score": 38.947
+      "score": 38.348
     },
     {
       "id": "depth-pro-2-sharp-and-temporally-consistent-metric-monocular-rzipcx",
@@ -977,7 +996,7 @@
       "publishedAt": "2026-11-19T18:55:41.000Z",
       "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consi",
       "category": "Research",
-      "score": 38.946
+      "score": 38.347
     },
     {
       "id": "sok-assessing-the-evolution-of-llm-capability-in-software-vu-whnk1g",
@@ -987,7 +1006,7 @@
       "publishedAt": "2026-11-19T18:54:19.000Z",
       "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found ",
       "category": "Research",
-      "score": 38.945
+      "score": 38.346
     },
     {
       "id": "a-tutorial-on-complementarity-based-contact-models-for-robot-3qbegr",
@@ -997,7 +1016,7 @@
       "publishedAt": "2026-11-19T18:54:07.000Z",
       "summary": "Simulating rigid-body dynamics with contact is fundamental to robotics, from motion synthesis and control to mechanism design. Many widely used simulators rely on cone complementarity formulations, whose physical assumpt",
       "category": "Research",
-      "score": 38.945
+      "score": 38.346
     },
     {
       "id": "active-feature-acquisition-by-distilling-an-oracle-teacher-i7rlxg",
@@ -1007,7 +1026,7 @@
       "publishedAt": "2026-11-19T18:52:57.000Z",
       "summary": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per in",
       "category": "Research",
-      "score": 38.944
+      "score": 38.345
     },
     {
       "id": "pgx-physically-grounded-execution-for-long-horizon-humanoid--i6pqk6",
@@ -1017,7 +1036,7 @@
       "publishedAt": "2026-11-19T18:52:18.000Z",
       "summary": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tight",
       "category": "Research",
-      "score": 38.943
+      "score": 38.344
     },
     {
       "id": "coda-davinci-reimagining-video-generation-with-code2video-xknpgt",
@@ -1027,7 +1046,7 @@
       "publishedAt": "2026-11-19T18:51:58.000Z",
       "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplor",
       "category": "Research",
-      "score": 38.943
+      "score": 38.344
     },
     {
       "id": "realized-versus-population-reliability-anytime-valid-self-co-9kp5e3",
@@ -1037,7 +1056,7 @@
       "publishedAt": "2026-11-19T18:47:51.000Z",
       "summary": "Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process crosses a threshold, guaranteeing finite-sample Type I error con",
       "category": "Research",
-      "score": 38.938
+      "score": 38.341
     },
     {
       "id": "probing-the-conscious-mind-selective-access-and-global-works-q3ehvv",
@@ -1047,7 +1066,7 @@
       "publishedAt": "2026-11-19T18:46:50.000Z",
       "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel ",
       "category": "Research",
-      "score": 38.937
+      "score": 38.34
     },
     {
       "id": "verify-the-verifier-specification-grounded-llm-cross-checkin-57ynj7",
@@ -1057,7 +1076,7 @@
       "publishedAt": "2026-11-19T18:45:54.000Z",
       "summary": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard esc",
       "category": "Research",
-      "score": 38.936
+      "score": 38.339
     },
     {
       "id": "protodiffusion-token-per-layer-generative-modeling-of-multi--j7tdtt",
@@ -1067,7 +1086,7 @@
       "publishedAt": "2026-11-19T18:45:31.000Z",
       "summary": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existing layered models represent each layer with a full-canvas or region-sized spatial latent grid, so rep",
       "category": "Research",
-      "score": 38.936
+      "score": 38.339
     },
     {
       "id": "represented-but-misread-post-training-changes-how-language-m-qmajkv",
@@ -1077,7 +1096,7 @@
       "publishedAt": "2026-11-19T18:43:56.000Z",
       "summary": "Does post-training change what a language model represents, or how this representation is read out into an answer? We compared linear probes with the models' own answers, analyzed with signal detection theory, in six ope",
       "category": "Research",
-      "score": 38.934
+      "score": 38.337
     },
     {
       "id": "text-aware-vision-blind-how-multimodal-image-editing-systems-hh7tq0",
@@ -1087,7 +1106,7 @@
       "publishedAt": "2026-11-19T18:36:19.000Z",
       "summary": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual conte",
       "category": "Research",
-      "score": 38.927
+      "score": 38.331
     },
     {
       "id": "phydex-a-benchmark-for-physical-reasoning-in-vision-language-w5fkiv",
@@ -1097,7 +1116,7 @@
       "publishedAt": "2026-11-19T18:33:43.000Z",
       "summary": "Vision-Language-Action (VLA) models have advanced rapidly in language-conditioned robotic manipulation, yet existing benchmarks mainly evaluate gripper--object contact and largely ignore how objects interact with the env",
       "category": "Research",
-      "score": 38.924
+      "score": 38.329
     },
     {
       "id": "geohunter-mapping-a-generative-engine-optimization-network-i-7sohnh",
@@ -1107,7 +1126,7 @@
       "publishedAt": "2026-11-19T18:33:42.000Z",
       "summary": "Generative engines synthesize retrieved web pages into answers, recommendations, and rankings. Generative engine optimization (GEO) services sell visibility in these answers by publishing promotional articles on user-gen",
       "category": "Research",
-      "score": 38.924
+      "score": 38.329
     },
     {
       "id": "multi-institutional-grading-of-barrett-s-esophagus-dysplasia-w1lepx",
@@ -1117,7 +1136,7 @@
       "publishedAt": "2026-11-19T18:27:59.000Z",
       "summary": "Barrett's esophagus dysplasia grading suffers substantial inter-observer variability, particularly for low-grade dysplasia, complicating clinical decision-making. We conducted a retrospective multi-institutional diagnost",
       "category": "Research",
-      "score": 38.918
+      "score": 38.324
     },
     {
       "id": "mm-systemonebias-evaluating-bias-in-multimodal-jev-style-sys-mr4so5",
@@ -1127,7 +1146,7 @@
       "publishedAt": "2026-11-19T18:25:41.000Z",
       "summary": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrelevant additions, and dis",
       "category": "Research",
-      "score": 38.916
+      "score": 38.323
     },
     {
       "id": "replication-of-agentic-security-events-audit-and-investigati-klv7c5",
@@ -1137,7 +1156,7 @@
       "publishedAt": "2026-11-19T18:23:35.000Z",
       "summary": "Agents based on large language models (LLMs) can now delete files and send payments on behalf of their users. News media reports routinely describe failures of these agents (e.g., Replit's coding agent deleting a product",
       "category": "Research",
-      "score": 38.914
+      "score": 38.321
     },
     {
       "id": "the-geometry-of-lies-knowledge-and-persona-directions-for-de-l5ccqt",
@@ -1147,7 +1166,7 @@
       "publishedAt": "2026-11-19T18:20:01.000Z",
       "summary": "Linear probes are the cheapest LLM lie detectors but often fail to transfer across kinds of lie. Label-free directions from honest and deceptive role-play are untested at 70B scale and on lies about knowledge, where a li",
       "category": "Research",
-      "score": 38.91
+      "score": 38.318
     },
     {
       "id": "aura-audio-driven-streaming-avatar-bv477x",
@@ -1157,7 +1176,7 @@
       "publishedAt": "2026-11-19T18:17:38.000Z",
       "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming appl",
       "category": "Research",
-      "score": 38.908
+      "score": 38.316
     },
     {
       "id": "llm-gerrymandering-separating-interactions-from-additive-eff-2g1rby",
@@ -1167,7 +1186,7 @@
       "publishedAt": "2026-11-19T18:16:40.000Z",
       "summary": "Intersectional bias arises when a model treats people who hold several marginalised identities at once differently from what their separate identities would predict. Auditing such intersectional subgroups remains a chall",
       "category": "Research",
-      "score": 38.907
+      "score": 38.315
     },
     {
       "id": "cost-aware-agentic-feature-optimization-system-for-fleet-sca-vgfqs5",
@@ -1177,7 +1196,7 @@
       "publishedAt": "2026-11-19T18:12:04.000Z",
       "summary": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource",
       "category": "Research",
-      "score": 38.902
+      "score": 38.312
     },
     {
       "id": "backtracking-agent-applications-security-incidents-ofywgx",
@@ -1187,27 +1206,7 @@
       "publishedAt": "2026-11-19T18:01:28.000Z",
       "summary": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, an",
       "category": "Research",
-      "score": 38.891
-    },
-    {
-      "id": "lean-verification-of-the-riemann-hypothesis-7wqntl",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-21T14:36:45Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.002
-    },
-    {
-      "id": "detonating-a-pile-of-lead-azide-v5bqay",
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-21T13:23:14Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 19.697
+      "score": 38.303
     }
   ]
 }
