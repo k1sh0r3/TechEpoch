@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T23:35:45.042Z",
+  "updatedAt": "2026-11-24T09:02:18.338Z",
   "totalItems": 120,
   "categories": {
-    "AI": 57,
-    "Robotics": 18,
+    "AI": 56,
+    "Robotics": 19,
     "Machine Learning": 4,
     "Research": 41
   },
@@ -27,16 +27,6 @@
       "summary": "",
       "category": "AI",
       "score": 52.624
-    },
-    {
-      "id": "kagi-mail-public-beta-8138ev",
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-23T17:17:01Z",
-      "summary": "",
-      "category": "AI",
-      "score": 52.513
     },
     {
       "id": "ai-agents-ask-better-questions-than-kpmg-accountants-in-audi-bheli7",
@@ -77,6 +67,16 @@
       "summary": "",
       "category": "AI",
       "score": 52.177
+    },
+    {
+      "id": "drone-maps-of-salvage-yards-grevbs",
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-24T04:00:28Z",
+      "summary": "",
+      "category": "Robotics",
+      "score": 52.079
     },
     {
       "id": "the-magic-of-partial-evaluation-mcmq0u",
@@ -129,6 +129,16 @@
       "score": 51.661
     },
     {
+      "id": "kagi-mail-public-beta-8138ev",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-23T17:17:01Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.383
+    },
+    {
       "id": "the-hungry-butler-effect-concealed-commercial-incentives-in--p4kzci",
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
       "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
@@ -169,6 +179,16 @@
       "score": 51.226
     },
     {
+      "id": "latent-introspection-llms-can-detect-prior-concept-injection-2m2616",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-23T22:29:48Z",
+      "summary": "",
+      "category": "AI",
+      "score": 51.186
+    },
+    {
       "id": "show-hn-i-built-a-game-where-you-are-an-llm-s-subagent-elp55a",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
@@ -189,16 +209,6 @@
       "score": 50.62
     },
     {
-      "id": "a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-31ct2a",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "sourceName": "MIT Tech Review",
-      "publishedAt": "2026-11-23T17:36:08.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
-      "category": "AI",
-      "score": 50.061
-    },
-    {
       "id": "nasdaq-erases-all-2026-gains-as-ai-sell-off-dampens-anthropi-be3mou",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
@@ -207,16 +217,6 @@
       "summary": "",
       "category": "AI",
       "score": 50.005
-    },
-    {
-      "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-23T17:00:00.000Z",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "category": "AI",
-      "score": 49.973
     },
     {
       "id": "we-taught-robots-to-carve-marble-sculptures-2n31v9",
@@ -229,14 +229,24 @@
       "score": 49.881
     },
     {
-      "id": "review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powe-k8elqg",
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-23T12:00:00.000Z",
-      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "id": "a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-31ct2a",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "2026-11-23T17:36:08.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
       "category": "AI",
-      "score": 49.283
+      "score": 48.8
+    },
+    {
+      "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "category": "AI",
+      "score": 48.728
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -257,6 +267,16 @@
       "summary": "Some models fare better, but all fail in similar ways.",
       "category": "AI",
       "score": 48.238
+    },
+    {
+      "id": "review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powe-k8elqg",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "category": "AI",
+      "score": 48.161
     },
     {
       "id": "openai-sued-by-california-after-admitting-to-80-loss-of-cont-osr8bm",
@@ -297,6 +317,16 @@
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
       "category": "Robotics",
       "score": 47.866
+    },
+    {
+      "id": "becoming-a-magician-guvxdo",
+      "title": "Becoming a Magician",
+      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-23T02:04:25Z",
+      "summary": "",
+      "category": "AI",
+      "score": 47.799
     },
     {
       "id": "grok-bot-took-unapproved-actions-ignored-orders-to-stop-and--40gvq4",
@@ -389,6 +419,16 @@
       "score": 45.067
     },
     {
+      "id": "one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-brea-fmtzdf",
+      "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
+      "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-10-19T13:16:59Z",
+      "summary": "",
+      "category": "AI",
+      "score": 43.903
+    },
+    {
       "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
@@ -396,7 +436,7 @@
       "publishedAt": "2026-11-19T18:00:00.000Z",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "category": "AI",
-      "score": 43.964
+      "score": 43.791
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -407,16 +447,6 @@
       "summary": "",
       "category": "AI",
       "score": 43.778
-    },
-    {
-      "id": "what-is-ai-your-artificial-intelligence-questions-answered-v-dtnsyv",
-      "title": "What is AI? Your artificial intelligence questions, answered. – Vox",
-      "url": "https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment",
-      "sourceName": "Hacker News",
-      "publishedAt": "2018-12-21T16:35:01Z",
-      "summary": "",
-      "category": "AI",
-      "score": 43.699
     },
     {
       "id": "ai-show-artificial-intelligence-news-in-a-podcast-izvsvy",
@@ -479,41 +509,11 @@
       "score": 43.602
     },
     {
-      "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-18T17:00:00.000Z",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "category": "AI",
-      "score": 43.572
-    },
-    {
       "id": "which-jobs-will-ai-artificial-intelligence-kill-f8du5g",
       "title": "Which jobs will AI (Artificial Intelligence) kill?",
       "url": "http://www.datasciencecentral.com/profiles/blogs/which-jobs-will-ai-artificial-intelligence-kill?xg_source=activity",
       "sourceName": "Hacker News",
       "publishedAt": "2016-02-17T16:49:18Z",
-      "summary": "",
-      "category": "AI",
-      "score": 43.477
-    },
-    {
-      "id": "gen-ai-artificial-intelligence-and-the-future-of-work-imf-j4ne8a",
-      "title": "Gen-AI: Artificial Intelligence and the Future of Work (IMF)",
-      "url": "https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379",
-      "sourceName": "Hacker News",
-      "publishedAt": "2024-01-28T08:40:06Z",
-      "summary": "",
-      "category": "AI",
-      "score": 43.477
-    },
-    {
-      "id": "workplace-ai-how-artificial-intelligence-will-transform-the--wq3dz7",
-      "title": "Workplace AI: How artificial intelligence will transform the workday",
-      "url": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
-      "sourceName": "Hacker News",
-      "publishedAt": "2023-05-19T17:32:18Z",
       "summary": "",
       "category": "AI",
       "score": 43.477
@@ -559,14 +559,14 @@
       "score": 43.477
     },
     {
-      "id": "put-gemini-to-work-for-you-pfe3ek",
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 43.347
+      "score": 43.47
     },
     {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
@@ -579,21 +579,11 @@
       "score": 43.301
     },
     {
-      "id": "lyrebird-ai-using-artificial-intelligence-to-enable-creative-8qmll1",
-      "title": "Lyrebird AI: Using artificial intelligence to enable creative expression",
-      "url": "https://www.descript.com/lyrebird",
+      "id": "workplace-ai-how-artificial-intelligence-will-transform-the--wq3dz7",
+      "title": "Workplace AI: How artificial intelligence will transform the workday",
+      "url": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
       "sourceName": "Hacker News",
-      "publishedAt": "2022-05-06T05:56:51Z",
-      "summary": "",
-      "category": "AI",
-      "score": 43.301
-    },
-    {
-      "id": "forbes-ai-artificial-intelligence-lessons-from-the-world-ser-eq8so6",
-      "title": "Forbes: AI (Artificial Intelligence) Lessons from the World Series",
-      "url": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2020-11-02T15:14:17Z",
+      "publishedAt": "2023-05-18T17:13:08Z",
       "summary": "",
       "category": "AI",
       "score": 43.301
@@ -689,6 +679,16 @@
       "score": 43.301
     },
     {
+      "id": "put-gemini-to-work-for-you-pfe3ek",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "category": "AI",
+      "score": 43.285
+    },
+    {
       "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-2papnd",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -696,7 +696,7 @@
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "score": 43.029
+      "score": 43.024
     },
     {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
@@ -706,7 +706,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.018
+      "score": 43.014
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -716,7 +716,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.011
+      "score": 43.009
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -726,7 +726,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.01
+      "score": 43.008
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -736,7 +736,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.01
+      "score": 43.008
     },
     {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
@@ -757,16 +757,6 @@
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "category": "AI",
       "score": 43
-    },
-    {
-      "id": "glm-5-4-toward-generalized-coding-with-our-first-loop-transf-njcadi",
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-23T10:06:43Z",
-      "summary": "",
-      "category": "Machine Learning",
-      "score": 42.048
     },
     {
       "id": "data-processing-incidents-on-inference-providers-xkvwc0",
@@ -797,6 +787,16 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 41.357
+    },
+    {
+      "id": "glm-5-4-toward-generalized-coding-with-our-first-loop-transf-njcadi",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-23T10:06:43Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 41.01
     },
     {
       "id": "ambient-llms-data-efficient-supervised-fine-tuning-via-tempe-2x9vdr",
