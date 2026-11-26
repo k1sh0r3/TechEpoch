@@ -1,14 +1,24 @@
 {
-  "updatedAt": "2026-11-25T21:20:47.920Z",
+  "updatedAt": "2026-11-26T07:30:24.079Z",
   "totalItems": 120,
   "categories": {
     "AI": 61,
-    "Robotics": 16,
+    "Robotics": 15,
     "Machine Learning": 6,
     "Research": 33,
-    "Tech": 4
+    "Tech": 5
   },
   "items": [
+    {
+      "id": "openai-cuts-gpt-6-2-usage-astra-hits-limits-40-faster-sol-25-luggzk",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-26T03:36:58Z",
+      "summary": "",
+      "category": "AI",
+      "score": 55.602
+    },
     {
       "id": "anthropic-s-nasdaq-debut-twd59q",
       "title": "Anthropic’s Nasdaq debut",
@@ -80,6 +90,16 @@
       "score": 52.177
     },
     {
+      "id": "much-shorter-version-of-grh-lean-verification-from-anthropic-8vt82t",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-25T21:48:10Z",
+      "summary": "",
+      "category": "AI",
+      "score": 52.159
+    },
+    {
       "id": "anthropic-breaks-below-83-ipo-price-ugn453",
       "title": "Anthropic breaks below $83 IPO price",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
@@ -98,16 +118,6 @@
       "summary": "",
       "category": "Robotics",
       "score": 52.079
-    },
-    {
-      "id": "llm-assisted-reverse-engineering-otj0vk",
-      "title": "LLM Assisted Reverse Engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-18T22:29:13Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.891
     },
     {
       "id": "top-open-problems-in-mathematics-ranked-by-llm-assessed-impo-8x3lmv",
@@ -160,16 +170,6 @@
       "score": 51.273
     },
     {
-      "id": "anthropic-prices-initial-public-offering-fk6cfz",
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-18T23:30:09Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.27
-    },
-    {
       "id": "what-comes-after-agi-ruebhv",
       "title": "What Comes After AGI?",
       "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
@@ -200,16 +200,6 @@
       "score": 51.141
     },
     {
-      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T20:57:09.000Z",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-      "category": "AI",
-      "score": 50.935
-    },
-    {
       "id": "pandex-official-european-law-for-ai-agents-over-mcp-sf71k4",
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "url": "https://www.pandex.io",
@@ -230,14 +220,14 @@
       "score": 50.005
     },
     {
-      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
-      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T14:29:43.000Z",
-      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "publishedAt": "2026-11-25T20:57:09.000Z",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
       "category": "AI",
-      "score": 49.936
+      "score": 49.421
     },
     {
       "id": "porting-rockbox-to-an-undocumented-9-aliexpress-yp3-mp3-play-bafmc8",
@@ -258,6 +248,16 @@
       "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
       "category": "AI",
       "score": 48.682
+    },
+    {
+      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-25T14:29:43.000Z",
+      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "category": "AI",
+      "score": 48.613
     },
     {
       "id": "openai-begins-rolling-out-gpt-6-astra-c7v0s0",
@@ -300,16 +300,6 @@
       "score": 48.161
     },
     {
-      "id": "half-of-nasa-s-aging-mars-fleet-knocked-offline-by-technical-m26vra",
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-24T22:50:11.000Z",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-      "category": "AI",
-      "score": 48.005
-    },
-    {
       "id": "becoming-a-magician-guvxdo",
       "title": "Becoming a Magician",
       "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
@@ -320,34 +310,14 @@
       "score": 47.799
     },
     {
-      "id": "amazon-drone-crashes-on-garage-after-delivering-shampoo-draw-n4eiyi",
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "id": "half-of-nasa-s-aging-mars-fleet-knocked-offline-by-technical-m26vra",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-24T18:47:57.000Z",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "category": "Robotics",
-      "score": 47.601
-    },
-    {
-      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "publishedAt": "2026-11-24T22:50:11.000Z",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "category": "AI",
-      "score": 47.341
-    },
-    {
-      "id": "ukraine-blew-up-putin-s-bridge-using-relay-drones-to-bypass--ebyppe",
-      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-18T23:10:39.000Z",
-      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "category": "Robotics",
-      "score": 46.485
+      "score": 47.05
     },
     {
       "id": "gpt-6-2-astra-is-the-first-model-to-beat-googlers-code-golf--rvwqqy",
@@ -357,7 +327,27 @@
       "publishedAt": "2026-11-22T16:44:48Z",
       "summary": "",
       "category": "AI",
-      "score": 46.19
+      "score": 46.862
+    },
+    {
+      "id": "amazon-drone-crashes-on-garage-after-delivering-shampoo-draw-n4eiyi",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-24T18:47:57.000Z",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "category": "Robotics",
+      "score": 46.724
+    },
+    {
+      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "category": "AI",
+      "score": 46.513
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -377,17 +367,7 @@
       "publishedAt": "2026-11-23T17:36:08.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
       "category": "AI",
-      "score": 45.722
-    },
-    {
-      "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-23T17:00:00.000Z",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "category": "AI",
-      "score": 45.688
+      "score": 45.203
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -398,6 +378,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "category": "AI",
+      "score": 45.175
     },
     {
       "id": "rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-en-i6hexg",
@@ -560,16 +550,6 @@
       "score": 43.477
     },
     {
-      "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "category": "AI",
-      "score": 43.371
-    },
-    {
       "id": "the-ai-daily-brief-formerly-the-ai-breakdown-artificial-inte-7k9v29",
       "title": "The AI Daily Brief(Formerly the AI Breakdown): Artificial Intelligence News",
       "url": "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-formerly-the-ai-breakdown/id1680633614",
@@ -690,6 +670,16 @@
       "score": 43.301
     },
     {
+      "id": "introducing-tool-retrieval-in-the-gemini-api-7u9jnb",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "category": "AI",
+      "score": 43.301
+    },
+    {
       "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -697,7 +687,7 @@
       "publishedAt": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 43.221
+      "score": 43.179
     },
     {
       "id": "put-gemini-to-work-for-you-pfe3ek",
@@ -707,7 +697,7 @@
       "publishedAt": "2026-11-17T17:00:00.000Z",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "category": "AI",
-      "score": 43.134
+      "score": 43.108
     },
     {
       "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-2papnd",
@@ -717,7 +707,7 @@
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "score": 43.011
+      "score": 43.009
     },
     {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
@@ -727,7 +717,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.007
+      "score": 43.006
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -737,7 +727,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -747,7 +737,7 @@
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "google-cloud-launches-gemini-for-healthcare-cu21dg",
@@ -757,7 +747,7 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-jsey39",
@@ -1170,26 +1160,6 @@
       "score": 39.922
     },
     {
-      "id": "holy-shit-holy-shit-holy-shit-holy-shit-the-magnitude-of-wha-wlra60",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-25T19:11:27Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.302
-    },
-    {
-      "id": "1password-security-incident-f9ro8u",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-25T17:18:26Z",
-      "summary": "",
-      "category": "Tech",
-      "score": 20.236
-    },
-    {
       "id": "rumors-swirling-that-labs-might-have-cracked-factoring-in-p-dapygc",
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
@@ -1200,14 +1170,44 @@
       "score": 19.628
     },
     {
-      "id": "a-few-questions-for-the-guy-who-went-snorkeling-in-a-home-de-e4g7mh",
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "id": "lions-commentary-on-unix-why-it-was-secretly-copied-for-20-y-qsy5ww",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
       "sourceName": "Hacker News",
-      "publishedAt": "2026-11-25T15:14:32Z",
+      "publishedAt": "2026-11-26T05:12:59Z",
       "summary": "",
       "category": "Tech",
-      "score": 19.62
+      "score": 19.326
+    },
+    {
+      "id": "holy-shit-holy-shit-holy-shit-holy-shit-the-magnitude-of-wha-wlra60",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-25T19:11:27Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.318
+    },
+    {
+      "id": "minipg-postgresql-as-a-single-executable-exg2tv",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-26T03:00:48Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.172
+    },
+    {
+      "id": "1password-security-incident-f9ro8u",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-25T17:18:26Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.083
     }
   ]
 }
