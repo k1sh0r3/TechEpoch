@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-26T21:07:45.129Z",
+  "updatedAt": "2026-11-27T07:28:18.036Z",
   "totalItems": 120,
   "categories": {
-    "AI": 61,
+    "AI": 59,
     "Robotics": 15,
-    "Machine Learning": 5,
-    "Research": 39
+    "Machine Learning": 6,
+    "Research": 39,
+    "Tech": 1
   },
   "items": [
     {
@@ -119,26 +120,6 @@
       "score": 51.801
     },
     {
-      "id": "gemini-4-neon-is-the-new-1-on-the-models-engineering-index-a2c9r3",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-19T23:35:35Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.709
-    },
-    {
-      "id": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-u8kpd4",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-26T09:44:23Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.465
-    },
-    {
       "id": "kagi-mail-public-beta-8138ev",
       "title": "Kagi Mail (public beta)",
       "url": "https://blog.kagi.com/kagi-mail-public-beta",
@@ -157,16 +138,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.273
-    },
-    {
-      "id": "what-comes-after-agi-ruebhv",
-      "title": "What Comes After AGI?",
-      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-20T02:44:13Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.252
     },
     {
       "id": "latent-introspection-llms-can-detect-prior-concept-injection-2m2616",
@@ -217,6 +188,16 @@
       "summary": "",
       "category": "AI",
       "score": 50.62
+    },
+    {
+      "id": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-u8kpd4",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-26T09:44:23Z",
+      "summary": "",
+      "category": "AI",
+      "score": 50.588
     },
     {
       "id": "nasdaq-erases-all-2026-gains-as-ai-sell-off-dampens-anthropi-be3mou",
@@ -279,16 +260,6 @@
       "score": 48.161
     },
     {
-      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T20:57:09.000Z",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-      "category": "AI",
-      "score": 47.834
-    },
-    {
       "id": "becoming-a-magician-guvxdo",
       "title": "Becoming a Magician",
       "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
@@ -299,14 +270,14 @@
       "score": 47.799
     },
     {
-      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
-      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T14:29:43.000Z",
-      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "publishedAt": "2026-11-25T20:57:09.000Z",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
       "category": "AI",
-      "score": 47.226
+      "score": 46.897
     },
     {
       "id": "gpt-6-2-astra-is-the-first-model-to-beat-googlers-code-golf--rvwqqy",
@@ -319,24 +290,14 @@
       "score": 46.862
     },
     {
-      "id": "half-of-nasa-s-aging-mars-fleet-knocked-offline-by-technical-m26vra",
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-24T22:50:11.000Z",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "publishedAt": "2026-11-25T14:29:43.000Z",
+      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
       "category": "AI",
-      "score": 46.05
-    },
-    {
-      "id": "amazon-drone-crashes-on-garage-after-delivering-shampoo-draw-n4eiyi",
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-24T18:47:57.000Z",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "category": "Robotics",
-      "score": 45.804
+      "score": 46.407
     },
     {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
@@ -349,14 +310,24 @@
       "score": 45.771
     },
     {
-      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "id": "half-of-nasa-s-aging-mars-fleet-knocked-offline-by-technical-m26vra",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-24T22:50:11.000Z",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "category": "AI",
-      "score": 45.645
+      "score": 45.458
+    },
+    {
+      "id": "amazon-drone-crashes-on-garage-after-delivering-shampoo-draw-n4eiyi",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-24T18:47:57.000Z",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "category": "Robotics",
+      "score": 45.26
     },
     {
       "id": "ai-on-artificial-intelligence-open-network-35szny",
@@ -367,6 +338,16 @@
       "summary": "",
       "category": "AI",
       "score": 45.182
+    },
+    {
+      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "category": "AI",
+      "score": 45.132
     },
     {
       "id": "rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-en-i6hexg",
@@ -386,7 +367,7 @@
       "publishedAt": "2026-11-23T17:36:08.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
       "category": "AI",
-      "score": 44.659
+      "score": 44.337
     },
     {
       "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
@@ -396,7 +377,7 @@
       "publishedAt": "2026-11-23T17:00:00.000Z",
       "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
       "category": "AI",
-      "score": 44.638
+      "score": 44.32
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -676,7 +657,7 @@
       "publishedAt": "2026-11-19T18:00:00.000Z",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "category": "AI",
-      "score": 43.226
+      "score": 43.182
     },
     {
       "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
@@ -686,7 +667,7 @@
       "publishedAt": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 43.134
+      "score": 43.108
     },
     {
       "id": "put-gemini-to-work-for-you-pfe3ek",
@@ -696,7 +677,7 @@
       "publishedAt": "2026-11-17T17:00:00.000Z",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "category": "AI",
-      "score": 43.082
+      "score": 43.066
     },
     {
       "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-2papnd",
@@ -706,7 +687,7 @@
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "score": 43.007
+      "score": 43.006
     },
     {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
@@ -716,7 +697,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -726,7 +707,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.003
+      "score": 43.002
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -817,6 +798,16 @@
       "summary": "",
       "category": "Machine Learning",
       "score": 41.01
+    },
+    {
+      "id": "an-introduction-to-uncertainty-in-machine-learning-1tgxqm",
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-26T19:04:50Z",
+      "summary": "",
+      "category": "Machine Learning",
+      "score": 40.951
     },
     {
       "id": "anycam-anything-can-represent-camera-for-video-generation-81e36",
@@ -1207,6 +1198,16 @@
       "summary": "Dexterity is, at its core, finger-level control, yet existing dexterous manipulation and human-object interaction (HOI) generation methods rarely let one specify how an interaction is performed: five-fingered hands are o",
       "category": "Research",
       "score": 40.611
+    },
+    {
+      "id": "the-need-for-a-formally-verifiable-mainstream-programming-la-x3a3q4",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-27T05:22:06Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.586
     }
   ]
 }
