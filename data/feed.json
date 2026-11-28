@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-27T20:52:26.902Z",
+  "updatedAt": "2026-11-28T06:57:33.846Z",
   "totalItems": 120,
   "categories": {
-    "AI": 59,
+    "AI": 58,
     "Robotics": 14,
     "Machine Learning": 5,
-    "Research": 42
+    "Research": 42,
+    "Tech": 1
   },
   "items": [
     {
@@ -127,16 +128,6 @@
       "summary": "",
       "category": "AI",
       "score": 51.383
-    },
-    {
-      "id": "the-hungry-butler-effect-concealed-commercial-incentives-in--p4kzci",
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "sourceName": "Hacker News",
-      "publishedAt": "2026-11-20T22:18:20Z",
-      "summary": "",
-      "category": "AI",
-      "score": 51.273
     },
     {
       "id": "latent-introspection-llms-can-detect-prior-concept-injection-2m2616",
@@ -266,7 +257,7 @@
       "publishedAt": "2026-11-25T15:16:53Z",
       "summary": "",
       "category": "AI",
-      "score": 47.31
+      "score": 47.729
     },
     {
       "id": "gpt-6-2-astra-is-the-first-model-to-beat-googlers-code-golf--rvwqqy",
@@ -279,16 +270,6 @@
       "score": 46.862
     },
     {
-      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T20:57:09.000Z",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-      "category": "AI",
-      "score": 45.948
-    },
-    {
       "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails--1efk70",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
@@ -299,14 +280,14 @@
       "score": 45.771
     },
     {
-      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
-      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "id": "google-search-alternative-kagi-launches-gmail-rival-58ssgj",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "sourceName": "Ars Technica",
-      "publishedAt": "2026-11-25T14:29:43.000Z",
-      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "publishedAt": "2026-11-25T20:57:09.000Z",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
       "category": "AI",
-      "score": 45.577
+      "score": 45.389
     },
     {
       "id": "amazon-drone-crashes-on-garage-after-delivering-shampoo-draw-n4eiyi",
@@ -329,6 +310,16 @@
       "score": 45.182
     },
     {
+      "id": "a-familiar-iranian-hacking-group-has-found-a-new-way-to-caus-dvt0ac",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "sourceName": "Ars Technica",
+      "publishedAt": "2026-11-25T14:29:43.000Z",
+      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "category": "AI",
+      "score": 45.088
+    },
+    {
       "id": "half-of-nasa-s-aging-mars-fleet-knocked-offline-by-technical-m26vra",
       "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
       "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
@@ -336,17 +327,7 @@
       "publishedAt": "2026-11-24T22:50:11.000Z",
       "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "category": "AI",
-      "score": 44.86
-    },
-    {
-      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "sourceName": "Google AI Blog",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "category": "AI",
-      "score": 44.613
+      "score": 44.507
     },
     {
       "id": "a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-31ct2a",
@@ -359,6 +340,16 @@
       "score": 44.337
     },
     {
+      "id": "how-gemini-is-changing-the-game-for-golden-state-s-organizat-yymaj8",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "sourceName": "Google AI Blog",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "category": "AI",
+      "score": 44.307
+    },
+    {
       "id": "a-more-tailored-google-search-that-s-uniquely-yours-4chx1m",
       "title": "A more tailored Google Search that’s uniquely yours",
       "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -366,7 +357,7 @@
       "publishedAt": "2026-11-23T17:00:00.000Z",
       "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
       "category": "AI",
-      "score": 43.999
+      "score": 43.809
     },
     {
       "id": "if-you-are-still-calling-ai-artificial-intelligence-you-are--isxrjv",
@@ -646,7 +637,7 @@
       "publishedAt": "2026-11-19T18:00:00.000Z",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "category": "AI",
-      "score": 43.138
+      "score": 43.112
     },
     {
       "id": "the-gemini-app-is-now-available-on-lower-memory-android-devi-f4q034",
@@ -656,7 +647,7 @@
       "publishedAt": "2026-11-18T17:00:00.000Z",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "score": 43.082
+      "score": 43.066
     },
     {
       "id": "put-gemini-to-work-for-you-pfe3ek",
@@ -666,7 +657,7 @@
       "publishedAt": "2026-11-17T17:00:00.000Z",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "category": "AI",
-      "score": 43.05
+      "score": 43.04
     },
     {
       "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-2papnd",
@@ -676,7 +667,7 @@
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "score": 43.004
+      "score": 43.003
     },
     {
       "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-cxwlce",
@@ -686,7 +677,7 @@
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "category": "AI",
-      "score": 43.003
+      "score": 43.002
     },
     {
       "id": "gemini-intelligence-new-features-on-more-devices-bmkdf2",
@@ -696,7 +687,7 @@
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "category": "AI",
-      "score": 43.002
+      "score": 43.001
     },
     {
       "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-close-y3yf8",
@@ -1207,6 +1198,16 @@
       "summary": "Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribut",
       "category": "Research",
       "score": 38.808
+    },
+    {
+      "id": "unkernel-real-linux-kernel-compiled-to-webassembly-3735wh",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "sourceName": "Hacker News",
+      "publishedAt": "2026-11-28T03:19:20Z",
+      "summary": "",
+      "category": "Tech",
+      "score": 19.586
     }
   ]
 }
